@@ -1,0 +1,16 @@
+/home/dorian/Desktop/Team-27-Game/bin/Debug/net5.0/Team-27-Game
+/home/dorian/Desktop/Team-27-Game/bin/Debug/net5.0/Team-27-Game.deps.json
+/home/dorian/Desktop/Team-27-Game/bin/Debug/net5.0/Team-27-Game.runtimeconfig.json
+/home/dorian/Desktop/Team-27-Game/bin/Debug/net5.0/Team-27-Game.runtimeconfig.dev.json
+/home/dorian/Desktop/Team-27-Game/bin/Debug/net5.0/Team-27-Game.dll
+/home/dorian/Desktop/Team-27-Game/bin/Debug/net5.0/ref/Team-27-Game.dll
+/home/dorian/Desktop/Team-27-Game/bin/Debug/net5.0/Team-27-Game.pdb
+/home/dorian/Desktop/Team-27-Game/obj/Debug/net5.0/Team-27-Game.csproj.AssemblyReference.cache
+/home/dorian/Desktop/Team-27-Game/obj/Debug/net5.0/Team-27-Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/dorian/Desktop/Team-27-Game/obj/Debug/net5.0/Team-27-Game.AssemblyInfoInputs.cache
+/home/dorian/Desktop/Team-27-Game/obj/Debug/net5.0/Team-27-Game.AssemblyInfo.cs
+/home/dorian/Desktop/Team-27-Game/obj/Debug/net5.0/Team-27-Game.csproj.CoreCompileInputs.cache
+/home/dorian/Desktop/Team-27-Game/obj/Debug/net5.0/Team-27-Game.dll
+/home/dorian/Desktop/Team-27-Game/obj/Debug/net5.0/ref/Team-27-Game.dll
+/home/dorian/Desktop/Team-27-Game/obj/Debug/net5.0/Team-27-Game.pdb
+/home/dorian/Desktop/Team-27-Game/obj/Debug/net5.0/Team-27-Game.genruntimeconfig.cache
