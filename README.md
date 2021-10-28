@@ -27,3 +27,16 @@ In order to use this repository, you need to be part of the collaborators (get i
  - create a pull request
 
  The scrum master will take care of merging your changes into the master branch
+
+# C# project
+
+    A c# project has been created in order to build our software. 
+    In order to perform some test of your code, make sure you have dotnet installed in your system.
+
+# Installation Link
+
+ - https://dotnet.microsoft.com/download
+
+# Testing your code
+
+ - dotnet run
