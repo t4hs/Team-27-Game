@@ -6,7 +6,9 @@ namespace Team_27_Game
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Server.start(300,8000);
+            Console.Title = "Blood lust Server";
+            Console.ReadKey();
         }
     }
 }
