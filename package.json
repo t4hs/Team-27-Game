@@ -1,0 +1,24 @@
+{
+  "name": "team-27-game",
+  "version": "1.0.0",
+  "description": "This Repository is based on a 2d fighting game, this game will",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t4hs/Team-27-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t4hs/Team-27-Game/issues"
+  },
+  "homepage": "https://github.com/t4hs/Team-27-Game#readme",
+  "dependencies": {
+    "edge-multiplay": "^1.2.1",
+    "nodemon": "^2.0.15"
+  }
+}
