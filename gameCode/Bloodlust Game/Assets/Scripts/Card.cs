@@ -10,6 +10,7 @@ public class Card : ScriptableObject
     public int damage;
     public Sprite artwork;
 
+    //convert card data to a string
     public string cardToString()
     {
         return type+"$"+damageType+"$"+damage.ToString();

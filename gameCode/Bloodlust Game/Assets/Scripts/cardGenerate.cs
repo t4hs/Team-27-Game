@@ -15,18 +15,14 @@ public class cardGenerate : MonoBehaviour
     void Start()
     {
         createCardStats();
+        //get cards onto the UI
         damageText.text = card.damage.ToString();
         damageTypeText.text = card.damageType;
         typeText.text = card.type;
         artworkImage.sprite = card.artwork;
-        Debug.Log(card.cardToString());
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    //generate a completely random card
     void createCardStats()
     {
         int rndDamage = Random.Range(500, 900);
