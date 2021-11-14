@@ -26,13 +26,17 @@ public class GameManager : EdgeMultiplayCallbacks {
         print ("Joined room");
         print ("Maximum Players in the room :"+ room.maxPlayersPerRoom); 
         print ("Count of Players in the room :"+ room.roomMembers.Count); 
+        if(room.roomMembers.Count>=2){
+            // ToDo gameScene change
+        }
     }
  
     // Called once the CreateRoom request succeeded 
     public override void OnRoomCreated(Room room){
         print ("Created a room");
         print ("Maximum Players in the room :"+ room.maxPlayersPerRoom); 
-        print ("Count of Players in the room :"+ room.roomMembers.Count); 
+        print ("Count of Players in the room :"+ room.roomMembers.Count);
+        print("waiting for other player to join");
     }
  
     // Called once the Game start on the server
