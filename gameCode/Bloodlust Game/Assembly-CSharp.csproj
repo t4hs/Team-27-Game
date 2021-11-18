@@ -58,11 +58,11 @@
     <Compile Include="Assets/Scripts/card4Pressed.cs" />
     <Compile Include="Assets/Scripts/skillPoints.cs" />
     <Compile Include="Assets/Scripts/card1Pressed.cs" />
+    <Compile Include="Assets/Scripts/Healthbar.cs" />
     <Compile Include="Assets/Scripts/card2Pressed.cs" />
     <Compile Include="Assets/Scripts/card5Pressed.cs" />
     <Compile Include="Assets/Scripts/cardGenerate.cs" />
     <Compile Include="Assets/Scripts/Health.cs" />
-    <Compile Include="Assets/Scripts/Healthbar.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
