@@ -1,35 +1,31 @@
 ﻿<Properties StartupConfiguration="{73A852FA-7A14-5CAA-5109-6EA0B964BA4B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/card5Pressed.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Healthbar.cs">
     <Files>
-      <File FileName="Assets/Scripts/card1Pressed.cs" Line="8" Column="5" />
-      <File FileName="Assets/Scripts/cardGenerate.cs" Line="9" Column="28" />
-      <File FileName="Assets/Scripts/Card.cs" Line="17" Column="2" />
-      <File FileName="Assets/Scripts/card2Pressed.cs" Line="30" Column="1" />
-      <File FileName="Assets/Scripts/card3Pressed.cs" Line="29" Column="2" />
-      <File FileName="Assets/card4Pressed.cs" Line="29" Column="2" />
-      <File FileName="Assets/card5Pressed.cs" Line="27" Column="64" />
+      <File FileName="Assets/Scripts/card1Pressed.cs" Line="25" Column="25" />
+      <File FileName="Assets/Scripts/cardGenerate.cs" />
+      <File FileName="Assets/Scripts/Card.cs" />
+      <File FileName="Assets/Scripts/card2Pressed.cs" />
+      <File FileName="Assets/Scripts/card3Pressed.cs" />
+      <File FileName="Assets/Scripts/Health.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/Healthbar.cs" Line="23" Column="105" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Bloodlust Game" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True" />
-              <Node name="card5Pressed.cs" selected="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Healthbar.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Unity" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3060750e-5963-401a-9afe-a9abfa02fdb2" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ae211425-35b3-4d12-810c-dc4f40900c6e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
