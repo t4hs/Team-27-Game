@@ -28,15 +28,16 @@ In order to use this repository, you need to be part of the collaborators (get i
 
  The scrum master will take care of merging your changes into the master branch
 
-# C# project
+# Getting the latest change from the remote repository
 
-    A c# project has been created in order to build our software. 
-    In order to perform some test of your code, make sure you have dotnet installed in your system.
+    Someone may have pushed his changes to his remote branch then got these changes merged. In order to keep yourself up to date you may pull from the main branch. To make sure you have the previous at the top of your next commit, this is the command to use.
+  - git pull --rebase origin main.
 
-# Installation Link
+# Working with your commits
 
- - https://dotnet.microsoft.com/download
+    You may have used the git add . and git commit -m "your commit" command but not being happy of the changes. You can revert the commit by using git rebase -i HEAD~n (for n the number of commits to be displayed). you will be able to use d,f,s,e etc...
 
-# Testing your code
-
- - dotnet run
+    d: delete
+    f: fix
+    s: squash
+    e: edit
