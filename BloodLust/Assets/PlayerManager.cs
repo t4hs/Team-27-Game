@@ -21,11 +21,7 @@ public class PlayerManager : NetworkedPlayer {
     
     // Called once a GamePlay Event is received from the server
     public override void OnMessageReceived(GamePlayEvent gamePlayEvent){
-        //print ("GamePlayEvent received from server, event name: " + gamePlayEvent.eventName );
-        if(gamePlayEvent.eventName.Equals("room joined")){
-            print("room joined by: " + gamePlayEvent.senderId);
-            SceneManager.LoadScene("CharacterScene", LoadSceneMode.Single);
-        }       
+        print ("GamePlayEvent received from server, event name: " + gamePlayEvent.eventName );    
     }   
     
 }
