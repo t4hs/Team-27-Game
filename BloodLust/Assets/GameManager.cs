@@ -112,6 +112,10 @@ public class GameManager : EdgeMultiplayCallbacks
         }
     }
 
+    private void CharacterSelection(int id){
+        //ToDo character selection onclick events
+    }
+
     private bool NameIsEmpty(string name)
     {
         return name.Length == 0;
