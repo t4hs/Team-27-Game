@@ -25,5 +25,9 @@ public class card5Pressed : MonoBehaviour
         return cardData.ToString();
     }
     //send card data to server (for now it just prints to the console)
-    public void sendString() { Debug.Log(createCardString()); }
+    public void sendString() { 
+        EdgeManager
+            .MessageSender
+            .BroadcastMessage("card chosen",createCardString().Split("$"));
+     }
 }
