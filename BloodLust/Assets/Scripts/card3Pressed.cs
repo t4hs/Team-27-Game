@@ -6,8 +6,13 @@ using UnityEngine;
 public class card3Pressed : MonoBehaviour
 {
     Card card;
+
     //function to select a card
-    void setCard(string select) { card = Resources.Load<Card>(select); }
+    void setCard(string select)
+    {
+        card = Resources.Load<Card>(select);
+    }
+
     //create string with all cards (the card the player chose is last)
     public string createCardString()
     {
@@ -24,6 +29,12 @@ public class card3Pressed : MonoBehaviour
         cardData.Append("$" + card.cardToString());
         return cardData.ToString();
     }
+
     //send card data to server (for now it just prints to the console)
-    public void sendString() { Debug.Log(createCardString()); }
+    public void sendString()
+    {
+        EdgeManager
+            .MessageSender
+            .BroadcastMessage("card chosen", createCardString().Split("$"));
+    }
 }

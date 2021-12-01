@@ -22,6 +22,8 @@ public class PlayerManager : NetworkedPlayer {
     // Called once a GamePlay Event is received from the server
     public override void OnMessageReceived(GamePlayEvent gamePlayEvent){
         print ("GamePlayEvent received from server, event name: " + gamePlayEvent.eventName );    
-    }   
+    }
+
+       
     
 }
