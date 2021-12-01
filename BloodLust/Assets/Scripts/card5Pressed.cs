@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
+using EdgeMultiplay;
 
-public class card5Pressed : MonoBehaviour
+public class card5Pressed : PlayerManager
 {
     Card card;
     //function to select a card
@@ -28,6 +29,6 @@ public class card5Pressed : MonoBehaviour
     public void sendString() { 
         EdgeManager
             .MessageSender
-            .BroadcastMessage("card chosen",createCardString().Split("$"));
+            .BroadcastMessage("card chosen",createCardString().Split('$'));
      }
 }
