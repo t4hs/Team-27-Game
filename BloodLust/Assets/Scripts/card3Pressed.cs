@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
+using EdgeMultiplay;
 
-public class card3Pressed : MonoBehaviour
+public class card3Pressed : PlayerManager
 {
     Card card;
 
@@ -35,6 +36,6 @@ public class card3Pressed : MonoBehaviour
     {
         EdgeManager
             .MessageSender
-            .BroadcastMessage("card chosen", createCardString().Split("$"));
+            .BroadcastMessage("card chosen", createCardString().Split('$'));
     }
 }

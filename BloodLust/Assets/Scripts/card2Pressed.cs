@@ -37,6 +37,6 @@ public class card2Pressed : PlayerManager
     {
         EdgeManager
             .MessageSender
-            .BroadcastMessage("card chosen", createCardString().Split("$"));
+            .BroadcastMessage("card chosen", createCardString().Split('$'));
     }
 }
