@@ -2,12 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
+using EdgeMultiplay;
 
-public class card4Pressed : MonoBehaviour
+public class card4Pressed : PlayerManager
 {
     Card card;
+
     //function to select a card
-    void setCard(string select) { card = Resources.Load<Card>(select); }
+    void setCard(string select)
+    {
+        card = Resources.Load<Card>(select);
+    }
+
     //create string with all cards (the card the player chose is last)
     public string createCardString()
     {
@@ -24,11 +30,12 @@ public class card4Pressed : MonoBehaviour
         cardData.Append("$" + card.cardToString());
         return cardData.ToString();
     }
+
     //send card data to server (for now it just prints to the console)
-    public void sendString() { 
+    public void sendString()
+    {
         EdgeManager
             .MessageSender
-            .BroadcastMessage("card chosen",
-            new string[] { createCardString() });
-     }
+            .BroadcastMessage("card chosen", createCardString().Split('$'));
+    }
 }
