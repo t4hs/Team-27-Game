@@ -11,15 +11,15 @@ public class CharacterSelection : MonoBehaviour
 
 
     //next character button
-    public void Next()
+    public void NextButton()
     {
         characters[selectedCharacter].SetActive(false);
-        selectedCharacter = (selectedCharacter + 1) % characters.Length;
+        selectedCharacter = (selectedCharacter + 1) % characters.Length; //loops back to the first element
         characters[selectedCharacter].SetActive(true);
     }
 
     //back character button
-    public void Back()
+    public void BackButton()
     {
         characters[selectedCharacter].SetActive(false);
         selectedCharacter--;
@@ -31,7 +31,7 @@ public class CharacterSelection : MonoBehaviour
     }
     
     //select button
-    public void Select()
+    public void SelectButton()
     {
         PlayerPrefs.SetInt("selectedCharacter", selectedCharacter);
         SceneManager.LoadScene(1, LoadSceneMode.Single);
