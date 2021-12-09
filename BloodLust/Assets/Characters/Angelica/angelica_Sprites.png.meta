@@ -1,0 +1,2892 @@
+fileFormatVersion: 2
+guid: a6e5264de5e5b4a65a56db59c81d6308
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1795581282253692320
+    second: angelica_Sprites_0
+  - first:
+      213: 739349477618869016
+    second: angelica_Sprites_1
+  - first:
+      213: 1067889174452455295
+    second: angelica_Sprites_2
+  - first:
+      213: -6270761052356776159
+    second: angelica_Sprites_3
+  - first:
+      213: 8105717599724097892
+    second: angelica_Sprites_4
+  - first:
+      213: -5718380119964889310
+    second: angelica_Sprites_5
+  - first:
+      213: -6540113237403429918
+    second: angelica_Sprites_6
+  - first:
+      213: 1797676232765054863
+    second: angelica_Sprites_7
+  - first:
+      213: -6913845751905400869
+    second: angelica_Sprites_8
+  - first:
+      213: 2621843418869747057
+    second: angelica_Sprites_9
+  - first:
+      213: 4808092402444726950
+    second: angelica_Sprites_10
+  - first:
+      213: 1136912842234143967
+    second: angelica_Sprites_11
+  - first:
+      213: 475290636629039806
+    second: angelica_Sprites_12
+  - first:
+      213: -6581625205297772852
+    second: angelica_Sprites_13
+  - first:
+      213: 1902104217536888706
+    second: angelica_Sprites_14
+  - first:
+      213: -4334060664073718591
+    second: angelica_Sprites_15
+  - first:
+      213: -1663178038306014376
+    second: angelica_Sprites_16
+  - first:
+      213: 7151328747906509718
+    second: angelica_Sprites_17
+  - first:
+      213: -1325467125464264070
+    second: angelica_Sprites_18
+  - first:
+      213: 8742223568966177985
+    second: angelica_Sprites_19
+  - first:
+      213: 6079716151855707518
+    second: angelica_Sprites_20
+  - first:
+      213: 626186755875490919
+    second: angelica_Sprites_21
+  - first:
+      213: -2799242533528783488
+    second: angelica_Sprites_22
+  - first:
+      213: -1935767450490147508
+    second: angelica_Sprites_23
+  - first:
+      213: 8015882737264811047
+    second: angelica_Sprites_24
+  - first:
+      213: -3268616446960035563
+    second: angelica_Sprites_25
+  - first:
+      213: 6892250786348902206
+    second: angelica_Sprites_26
+  - first:
+      213: -4555382572908330672
+    second: angelica_Sprites_27
+  - first:
+      213: 5730468528590158442
+    second: angelica_Sprites_28
+  - first:
+      213: 7686204753210163381
+    second: angelica_Sprites_29
+  - first:
+      213: 4749030467508605849
+    second: angelica_Sprites_30
+  - first:
+      213: -7391038801087398776
+    second: angelica_Sprites_31
+  - first:
+      213: 8512996375037765994
+    second: angelica_Sprites_32
+  - first:
+      213: 316718548676339728
+    second: angelica_Sprites_33
+  - first:
+      213: 5469108312960454664
+    second: angelica_Sprites_34
+  - first:
+      213: -7600041101082625684
+    second: angelica_Sprites_35
+  - first:
+      213: -7890594223441124190
+    second: angelica_Sprites_36
+  - first:
+      213: 7449924924138397902
+    second: angelica_Sprites_37
+  - first:
+      213: -940404343399176085
+    second: angelica_Sprites_38
+  - first:
+      213: 6848612312804067423
+    second: angelica_Sprites_39
+  - first:
+      213: -5756026634053766162
+    second: angelica_Sprites_40
+  - first:
+      213: 8993379801867494077
+    second: angelica_Sprites_41
+  - first:
+      213: -4971404264446055413
+    second: angelica_Sprites_42
+  - first:
+      213: 8336652216563924179
+    second: angelica_Sprites_43
+  - first:
+      213: 3953942356934749990
+    second: angelica_Sprites_44
+  - first:
+      213: -6070529454716969114
+    second: angelica_Sprites_45
+  - first:
+      213: 3787358195149264839
+    second: angelica_Sprites_46
+  - first:
+      213: -1945066571538778476
+    second: angelica_Sprites_47
+  - first:
+      213: 1614426381265639168
+    second: angelica_Sprites_48
+  - first:
+      213: -6918748385540392751
+    second: angelica_Sprites_49
+  - first:
+      213: -8341760538901603724
+    second: angelica_Sprites_50
+  - first:
+      213: -933015059523986547
+    second: angelica_Sprites_51
+  - first:
+      213: 3377969512475164566
+    second: angelica_Sprites_52
+  - first:
+      213: -7677495710073275534
+    second: angelica_Sprites_53
+  - first:
+      213: -7454154712943618110
+    second: angelica_Sprites_54
+  - first:
+      213: 1695871169673003216
+    second: angelica_Sprites_55
+  - first:
+      213: 118750781873249922
+    second: angelica_Sprites_56
+  - first:
+      213: -6647691319320324074
+    second: angelica_Sprites_57
+  - first:
+      213: 5065194228740292360
+    second: angelica_Sprites_58
+  - first:
+      213: 5345021735140216103
+    second: angelica_Sprites_59
+  - first:
+      213: 8735871915038522257
+    second: angelica_Sprites_60
+  - first:
+      213: 775451762261623575
+    second: angelica_Sprites_61
+  - first:
+      213: -6895274122721225462
+    second: angelica_Sprites_62
+  - first:
+      213: 78068716926431252
+    second: angelica_Sprites_63
+  - first:
+      213: -1812328963919901274
+    second: angelica_Sprites_64
+  - first:
+      213: 6174899828891184872
+    second: angelica_Sprites_65
+  - first:
+      213: -8697428009751500803
+    second: angelica_Sprites_66
+  - first:
+      213: -8843041471973621907
+    second: angelica_Sprites_67
+  - first:
+      213: 6179716193216661659
+    second: angelica_Sprites_68
+  - first:
+      213: -1913835270091148387
+    second: angelica_Sprites_69
+  - first:
+      213: -7917109561895077807
+    second: angelica_Sprites_70
+  - first:
+      213: -2692421978588156758
+    second: angelica_Sprites_71
+  - first:
+      213: 6796037792542133582
+    second: angelica_Sprites_72
+  - first:
+      213: -3492797866378255715
+    second: angelica_Sprites_73
+  - first:
+      213: 1655446022764928482
+    second: angelica_Sprites_74
+  - first:
+      213: 2136883361373502331
+    second: angelica_Sprites_75
+  - first:
+      213: -5407088775761410449
+    second: angelica_Sprites_76
+  - first:
+      213: 1201990144987231005
+    second: angelica_Sprites_77
+  - first:
+      213: 4337130195466066251
+    second: angelica_Sprites_78
+  - first:
+      213: 7782566653500504415
+    second: angelica_Sprites_79
+  - first:
+      213: 7722518822714402845
+    second: angelica_Sprites_80
+  - first:
+      213: 8613897825946400474
+    second: angelica_Sprites_81
+  - first:
+      213: -5861089819376834615
+    second: angelica_Sprites_82
+  - first:
+      213: -6890671033199133216
+    second: angelica_Sprites_83
+  - first:
+      213: 2700220236769553788
+    second: angelica_Sprites_84
+  - first:
+      213: -1275302929666453282
+    second: angelica_Sprites_85
+  - first:
+      213: -3078312605323591018
+    second: angelica_Sprites_86
+  - first:
+      213: -5208125460636947425
+    second: angelica_Sprites_87
+  - first:
+      213: 1794057508183396182
+    second: angelica_Sprites_88
+  - first:
+      213: 4724660504283262481
+    second: angelica_Sprites_89
+  - first:
+      213: -8906596891556035402
+    second: angelica_Sprites_90
+  - first:
+      213: -6706880138940223994
+    second: angelica_Sprites_91
+  - first:
+      213: 349594297956952320
+    second: angelica_Sprites_92
+  - first:
+      213: -2786944784399306661
+    second: angelica_Sprites_93
+  - first:
+      213: 6346185181467370830
+    second: angelica_Sprites_94
+  - first:
+      213: -3478975084231487974
+    second: angelica_Sprites_95
+  - first:
+      213: 3830361024017811238
+    second: angelica_Sprites_96
+  - first:
+      213: -5979464198867796029
+    second: angelica_Sprites_97
+  - first:
+      213: 802150478910989590
+    second: angelica_Sprites_98
+  - first:
+      213: 9146200974515194962
+    second: angelica_Sprites_99
+  - first:
+      213: -3513097097810588689
+    second: angelica_Sprites_100
+  - first:
+      213: -6914278082736414311
+    second: angelica_Sprites_101
+  - first:
+      213: 5098154528781702
+    second: angelica_Sprites_102
+  - first:
+      213: 4282155716497583230
+    second: angelica_Sprites_103
+  - first:
+      213: -4601588027940101956
+    second: angelica_Sprites_104
+  - first:
+      213: 1241483392132443300
+    second: angelica_Sprites_105
+  - first:
+      213: -2076382769617320996
+    second: angelica_Sprites_106
+  - first:
+      213: 4915593245048808576
+    second: angelica_Sprites_107
+  - first:
+      213: 2087055766113368073
+    second: angelica_Sprites_108
+  - first:
+      213: -9153767953974158710
+    second: angelica_Sprites_109
+  - first:
+      213: -4447237414378908934
+    second: angelica_Sprites_110
+  - first:
+      213: 8998460606038028833
+    second: angelica_Sprites_111
+  - first:
+      213: -1851330355017976684
+    second: angelica_Sprites_112
+  - first:
+      213: 7826167607876257289
+    second: angelica_Sprites_113
+  - first:
+      213: 7415867048656771177
+    second: angelica_Sprites_114
+  - first:
+      213: -2768782504935030335
+    second: angelica_Sprites_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angelica_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2549
+        width: 48
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad521ea9af2be810800000000000000
+      internalID: 1795581282253692320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2549
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e752ce62b24a00800000000000000
+      internalID: 739349477618869016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2549
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7749b6db87e1de00800000000000000
+      internalID: 1067889174452455295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2549
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6beafb08c9f8a0800000000000000
+      internalID: -6270761052356776159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2586
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461df25063b4d7070800000000000000
+      internalID: 8105717599724097892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2585
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f46d2049b34a0b0800000000000000
+      internalID: -5718380119964889310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2550
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e31dbd59a9dc35a0800000000000000
+      internalID: -6540113237403429918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2547
+        width: 32
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9f1b5201a2f810800000000000000
+      internalID: 1797676232765054863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2549
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c5d57be51d00a0800000000000000
+      internalID: -6913845751905400869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2438
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d4d66c2b8a26420800000000000000
+      internalID: 2621843418869747057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2433
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f8fec096c9b240800000000000000
+      internalID: 4808092402444726950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2436
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd422f5d43027cf00800000000000000
+      internalID: 1136912842234143967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2433
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.38789546, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad759d052989600800000000000000
+      internalID: 475290636629039806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2327
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc608792fbe59a4a0800000000000000
+      internalID: -6581625205297772852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2327
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ffe0445b1a56a10800000000000000
+      internalID: 1902104217536888706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2324
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c474e2f9c25ad3c0800000000000000
+      internalID: -4334060664073718591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2321
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bf984d2643be8e0800000000000000
+      internalID: -1663178038306014376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2321
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba10b5b9f9e3360800000000000000
+      internalID: 7151328747906509718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2325
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a729e390caefa9de0800000000000000
+      internalID: -1325467125464264070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2216
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d647840e925970800000000000000
+      internalID: 8742223568966177985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2214
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75709ed0ad7f5450800000000000000
+      internalID: 6079716151855707518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2214
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c430b6989a0b800800000000000000
+      internalID: 626186755875490919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2208
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0853adc2fb71729d0800000000000000
+      internalID: -2799242533528783488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2214
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d65c982c5c225e0800000000000000
+      internalID: -1935767450490147508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2210
+        width: 36
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cdadb21e22e3f60800000000000000
+      internalID: 8015882737264811047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2131
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51992fbc8aa83a2d0800000000000000
+      internalID: -3268616446960035563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2133
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ab3fc29136af50800000000000000
+      internalID: 6892250786348902206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2127
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0514bc57fa708c0c0800000000000000
+      internalID: -4555382572908330672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2131
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6afb23f3c6b68f40800000000000000
+      internalID: 5730468528590158442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2127
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0c202ff72eaaa60800000000000000
+      internalID: 7686204753210163381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2119
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9939b5b7c02f7e140800000000000000
+      internalID: 4749030467508605849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2119
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c7e0cae51cd6990800000000000000
+      internalID: -7391038801087398776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2044
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69605c691d342670800000000000000
+      internalID: 8512996375037765994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2041
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01861ab87d5356400800000000000000
+      internalID: 316718548676339728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2041
+        width: 112
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d428b80d26eb40800000000000000
+      internalID: 5469108312960454664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2036
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69f993a2ea378690800000000000000
+      internalID: -7600041101082625684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2038
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ea052c5afe7290800000000000000
+      internalID: -7890594223441124190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1922
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec029924f33736760800000000000000
+      internalID: 7449924924138397902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1922
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68257e6b3303f2f0800000000000000
+      internalID: -940404343399176085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1922
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f588d0dec982b0f50800000000000000
+      internalID: 6848612312804067423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1923
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b987e54c7e10b0800000000000000
+      internalID: -5756026634053766162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1924
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22c74e747eecc70800000000000000
+      internalID: 8993379801867494077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1922
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ca4de3926020bb0800000000000000
+      internalID: -4971404264446055413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1922
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf340850db1b370800000000000000
+      internalID: 8336652216563924179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1924
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f677fef993fd630800000000000000
+      internalID: 3953942356934749990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1810
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9c0dbf9521cba0800000000000000
+      internalID: -6070529454716969114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1810
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7590356366f8430800000000000000
+      internalID: 3787358195149264839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1784
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496b1f2324cb105e0800000000000000
+      internalID: -1945066571538778476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1806
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0079b5b7d38976610800000000000000
+      internalID: 1614426381265639168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1783
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8be8d100babff90800000000000000
+      internalID: -6918748385540392751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1796
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a16658cfc1c3c80800000000000000
+      internalID: -8341760538901603724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1680
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b9bf62fb34d03f0800000000000000
+      internalID: -933015059523986547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1677
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f7e25df55f0ee20800000000000000
+      internalID: 3377969512475164566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1672
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b3f7c245e047590800000000000000
+      internalID: -7677495710073275534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1680
+        width: 55
+        height: 77
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7113a48c58d8890800000000000000
+      internalID: -7454154712943618110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1681
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d08f2df7d1f88710800000000000000
+      internalID: 1695871169673003216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1740
+        width: 106
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5000003, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eda5af433e5a100800000000000000
+      internalID: 118750781873249922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1688
+        width: 100
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618d67f47f7aeb3a0800000000000000
+      internalID: -6647691319320324074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1562
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f7c62805f2b4640800000000000000
+      internalID: 5065194228740292360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1585
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d46cfe2f45d2a40800000000000000
+      internalID: 5345021735140216103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1562
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bbe2bd83d0c3970800000000000000
+      internalID: 8735871915038522257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1559
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130e0ee445f2ca00800000000000000
+      internalID: 775451762261623575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1594
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a051246d7b01f40a0800000000000000
+      internalID: -6895274122721225462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1600
+        width: 106
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410787c951b551100800000000000000
+      internalID: 78068716926431252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1467
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad0761d86059d6e0800000000000000
+      internalID: -1812328963919901274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1449
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeeda8ada6a1b550800000000000000
+      internalID: 6174899828891184872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1432
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7aa3b5e478c4780800000000000000
+      internalID: -8697428009751500803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1454
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ff6f832a4374580800000000000000
+      internalID: -8843041471973621907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1455
+        width: 30
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98886dd223c2c550800000000000000
+      internalID: 6179716193216661659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1458
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d937a9736f0b075e0800000000000000
+      internalID: -1913835270091148387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1468
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583563dcc6c02290800000000000000
+      internalID: -7917109561895077807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1320
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac6cccb97892aad0800000000000000
+      internalID: -2692421978588156758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1320
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d8a988d50605e50800000000000000
+      internalID: 6796037792542133582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1318
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92284e98d6178fc0800000000000000
+      internalID: -3492797866378255715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1315
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9cb3036359f610800000000000000
+      internalID: 1655446022764928482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1318
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b3c11781cb7ad10800000000000000
+      internalID: 2136883361373502331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1320
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f664dbb086926f4b0800000000000000
+      internalID: -5407088775761410449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1136
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13fb7f1ba35ea010800000000000000
+      internalID: 1201990144987231005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1135
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4910650fe4903c30800000000000000
+      internalID: 4337130195466066251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1133
+        width: 34
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b2b6332b310c60800000000000000
+      internalID: 7782566653500504415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1136
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e82f14f5eb2b60800000000000000
+      internalID: 7722518822714402845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1133
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67b0f2f66ba8770800000000000000
+      internalID: 8613897825946400474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1143
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a267dcd939aea0800000000000000
+      internalID: -5861089819376834615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1143
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed7712243b6f50a0800000000000000
+      internalID: -6890671033199133216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1143
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d68fbbffb197520800000000000000
+      internalID: 2700220236769553788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1143
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed057380eb63d4ee0800000000000000
+      internalID: -1275302929666453282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 997
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692841cbef2a745d0800000000000000
+      internalID: -3078312605323591018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1004
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c2115cc7509b7b0800000000000000
+      internalID: -5208125460636947425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1010
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fc4e16cc5c5e810800000000000000
+      internalID: 1794057508183396182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1017
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e2f1242bd519140800000000000000
+      internalID: 4724660504283262481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 844
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b44439f059656480800000000000000
+      internalID: -8906596891556035402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 841
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e68575c006ce2a0800000000000000
+      internalID: -6706880138940223994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 863
+        width: 121
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009e93969220ad400800000000000000
+      internalID: 349594297956952320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 847
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5070450c78c259d0800000000000000
+      internalID: -2786944784399306661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 743
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e53c8ccd221850800000000000000
+      internalID: 6346185181467370830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 715
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e82f1e79238bfc0800000000000000
+      internalID: -3478975084231487974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 758
+        width: 117
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6274516ae0d282530800000000000000
+      internalID: 3830361024017811238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 571
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb15fddfca40da0800000000000000
+      internalID: -5979464198867796029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 580
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61526ef4c9fc12b00800000000000000
+      internalID: 802150478910989590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 593
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4f42e355ddee70800000000000000
+      internalID: 9146200974515194962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 576
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb4b8f7dc8fe3fc0800000000000000
+      internalID: -3513097097810588689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 406
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9912a3897bc8b00a0800000000000000
+      internalID: -6914278082736414311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 408
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685b2b99ebc121000800000000000000
+      internalID: 5098154528781702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 412
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c2fb2bfe54d6b30800000000000000
+      internalID: 4282155716497583230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 271
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0a0ff9110e320c0800000000000000
+      internalID: -4601588027940101956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 278
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace9964192aa3110800000000000000
+      internalID: 1241483392132443300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 271
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3c7374fd43f23e0800000000000000
+      internalID: -2076382769617320996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 273
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084a17f2302b73440800000000000000
+      internalID: 4915593245048808576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 283
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083e9d5926b6fc10800000000000000
+      internalID: 2087055766113368073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a140b6b8847f080800000000000000
+      internalID: -9153767953974158710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 153
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af25e14522d3842c0800000000000000
+      internalID: -4447237414378908934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 167
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1223e3cce34f0ec70800000000000000
+      internalID: 8998460606038028833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 27
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947143d9d0ce46e0800000000000000
+      internalID: -1851330355017976684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 25
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906022c79f12c9c60800000000000000
+      internalID: 7826167607876257289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 71
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96816b03ac37ae660800000000000000
+      internalID: 7415867048656771177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angelica_Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 82
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1080d3bfe4399d0800000000000000
+      internalID: -2768782504935030335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

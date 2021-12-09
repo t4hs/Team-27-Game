@@ -1,0 +1,2268 @@
+fileFormatVersion: 2
+guid: 0a835108370de4329950edead0d0944d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5911891522058035834
+    second: zack_Sprites_0
+  - first:
+      213: -4123533525770601800
+    second: zack_Sprites_1
+  - first:
+      213: -869124817840752281
+    second: zack_Sprites_2
+  - first:
+      213: 6712012618873139418
+    second: zack_Sprites_3
+  - first:
+      213: 6835084021234652477
+    second: zack_Sprites_4
+  - first:
+      213: 304775929722689839
+    second: zack_Sprites_5
+  - first:
+      213: 3267312849609810902
+    second: zack_Sprites_6
+  - first:
+      213: -8537724355926505316
+    second: zack_Sprites_7
+  - first:
+      213: -9066276814440629868
+    second: zack_Sprites_8
+  - first:
+      213: -2230239146421889851
+    second: zack_Sprites_9
+  - first:
+      213: -4488610495161025582
+    second: zack_Sprites_10
+  - first:
+      213: -1146486722651301251
+    second: zack_Sprites_11
+  - first:
+      213: 2795031706763676522
+    second: zack_Sprites_12
+  - first:
+      213: -4905507930732131587
+    second: zack_Sprites_13
+  - first:
+      213: -2253972791538099322
+    second: zack_Sprites_14
+  - first:
+      213: -6468593718222861296
+    second: zack_Sprites_15
+  - first:
+      213: -867234010625494029
+    second: zack_Sprites_16
+  - first:
+      213: -2236459302023464757
+    second: zack_Sprites_17
+  - first:
+      213: 8280042750047540282
+    second: zack_Sprites_18
+  - first:
+      213: -5001197094133865135
+    second: zack_Sprites_19
+  - first:
+      213: 4621494820164765692
+    second: zack_Sprites_20
+  - first:
+      213: 2819704256674298903
+    second: zack_Sprites_21
+  - first:
+      213: 4133320646389079577
+    second: zack_Sprites_22
+  - first:
+      213: 7746242142237961303
+    second: zack_Sprites_23
+  - first:
+      213: -2923026598469044080
+    second: zack_Sprites_24
+  - first:
+      213: -2818198308632483045
+    second: zack_Sprites_25
+  - first:
+      213: -5648018659085387328
+    second: zack_Sprites_26
+  - first:
+      213: 5831868744949349697
+    second: zack_Sprites_27
+  - first:
+      213: 2818252072489992044
+    second: zack_Sprites_28
+  - first:
+      213: -4002771593473292264
+    second: zack_Sprites_29
+  - first:
+      213: 8680680191450988712
+    second: zack_Sprites_30
+  - first:
+      213: 1557040705048518184
+    second: zack_Sprites_31
+  - first:
+      213: -8133260095222144930
+    second: zack_Sprites_32
+  - first:
+      213: 3917227525508941714
+    second: zack_Sprites_33
+  - first:
+      213: -5001271784148395214
+    second: zack_Sprites_34
+  - first:
+      213: 2258086007810880546
+    second: zack_Sprites_35
+  - first:
+      213: 8644256360419470817
+    second: zack_Sprites_36
+  - first:
+      213: -3345609139658651962
+    second: zack_Sprites_37
+  - first:
+      213: -2606953479797244748
+    second: zack_Sprites_38
+  - first:
+      213: -327443817209844179
+    second: zack_Sprites_39
+  - first:
+      213: -5346790759939558698
+    second: zack_Sprites_40
+  - first:
+      213: 1874128972948477240
+    second: zack_Sprites_41
+  - first:
+      213: -3686358021550321
+    second: zack_Sprites_42
+  - first:
+      213: -7255228513219397761
+    second: zack_Sprites_43
+  - first:
+      213: 2795827200222328432
+    second: zack_Sprites_44
+  - first:
+      213: -1219986232796916901
+    second: zack_Sprites_45
+  - first:
+      213: -698911706593320084
+    second: zack_Sprites_46
+  - first:
+      213: 9000178145403524836
+    second: zack_Sprites_47
+  - first:
+      213: 593706170332791226
+    second: zack_Sprites_48
+  - first:
+      213: -4494779693363416921
+    second: zack_Sprites_49
+  - first:
+      213: 6485406900231182427
+    second: zack_Sprites_50
+  - first:
+      213: 2098204833264949356
+    second: zack_Sprites_51
+  - first:
+      213: -7518142758963802254
+    second: zack_Sprites_52
+  - first:
+      213: 7890806301792531613
+    second: zack_Sprites_53
+  - first:
+      213: -6179377651793478591
+    second: zack_Sprites_54
+  - first:
+      213: -8901850672096206825
+    second: zack_Sprites_55
+  - first:
+      213: -8847201039259626935
+    second: zack_Sprites_56
+  - first:
+      213: -4986686647642221783
+    second: zack_Sprites_57
+  - first:
+      213: -8695836699910788524
+    second: zack_Sprites_58
+  - first:
+      213: 5224386040115496192
+    second: zack_Sprites_59
+  - first:
+      213: 3706112632147349860
+    second: zack_Sprites_60
+  - first:
+      213: -2974124170981982299
+    second: zack_Sprites_61
+  - first:
+      213: -2447985926073410682
+    second: zack_Sprites_62
+  - first:
+      213: 6730268404272077233
+    second: zack_Sprites_63
+  - first:
+      213: -5683947279814152217
+    second: zack_Sprites_64
+  - first:
+      213: 3775811934424188648
+    second: zack_Sprites_65
+  - first:
+      213: -2105278881629960966
+    second: zack_Sprites_66
+  - first:
+      213: 8700337511111332122
+    second: zack_Sprites_67
+  - first:
+      213: -4493932738033364694
+    second: zack_Sprites_68
+  - first:
+      213: 7517367948934060718
+    second: zack_Sprites_69
+  - first:
+      213: 4384412596940751886
+    second: zack_Sprites_70
+  - first:
+      213: 2801082852909781246
+    second: zack_Sprites_71
+  - first:
+      213: -5325207666263834231
+    second: zack_Sprites_72
+  - first:
+      213: 7404583516701762647
+    second: zack_Sprites_73
+  - first:
+      213: -983765379055704170
+    second: zack_Sprites_74
+  - first:
+      213: 118014195955600022
+    second: zack_Sprites_75
+  - first:
+      213: -9195406935730886588
+    second: zack_Sprites_76
+  - first:
+      213: 5904285934687520715
+    second: zack_Sprites_77
+  - first:
+      213: -6122569918175137360
+    second: zack_Sprites_78
+  - first:
+      213: 7367591142601262593
+    second: zack_Sprites_79
+  - first:
+      213: -6216072027910856997
+    second: zack_Sprites_80
+  - first:
+      213: 4976614343698887648
+    second: zack_Sprites_81
+  - first:
+      213: 65817019166188716
+    second: zack_Sprites_82
+  - first:
+      213: 1240424855739336069
+    second: zack_Sprites_83
+  - first:
+      213: -801350822911371567
+    second: zack_Sprites_84
+  - first:
+      213: -7271512805134211078
+    second: zack_Sprites_85
+  - first:
+      213: 5174947279383066559
+    second: zack_Sprites_86
+  - first:
+      213: 780972110912682740
+    second: zack_Sprites_87
+  - first:
+      213: -4832183643005275653
+    second: zack_Sprites_88
+  - first:
+      213: 6964518312531824240
+    second: zack_Sprites_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zack_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 5862
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72a9ea44024b0250800000000000000
+      internalID: 5911891522058035834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5876
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba77011b1446c6c0800000000000000
+      internalID: -4123533525770601800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5705
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769302f359f30f3f0800000000000000
+      internalID: -869124817840752281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5702
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad07fd34aebd52d50800000000000000
+      internalID: 6712012618873139418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5699
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35d3a714b81bde50800000000000000
+      internalID: 6835084021234652477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 5697
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29d533e718ca3400800000000000000
+      internalID: 304775929722689839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5540
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3ef0bc9b3d75d20800000000000000
+      internalID: 3267312849609810902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5542
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98cccedee8e38980800000000000000
+      internalID: -8537724355926505316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5363
+        width: 73
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499f7efb54d1e2280800000000000000
+      internalID: -9066276814440629868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5374
+        width: 67
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c45a5900599c01e0800000000000000
+      internalID: -2230239146421889851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5392
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db36dc498045b1c0800000000000000
+      internalID: -4488610495161025582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5410
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7adaac666cd610f0800000000000000
+      internalID: -1146486722651301251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5207
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b4a915782f9c620800000000000000
+      internalID: 2795031706763676522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5247
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa89d907822cebb0800000000000000
+      internalID: -4905507930732131587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5050
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bd9fa20b748b0e0800000000000000
+      internalID: -2253972791538099322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 5055
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc00d0940fa36a0800000000000000
+      internalID: -6468593718222861296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4919
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3b78b1347f6f3f0800000000000000
+      internalID: -867234010625494029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4923
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8f5443d1086f0e0800000000000000
+      internalID: -2236459302023464757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4785
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34d1a9f20f98e270800000000000000
+      internalID: 8280042750047540282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4787
+        width: 85
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1556f688dbd289ab0800000000000000
+      internalID: -5001197094133865135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4784
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf78a3f9d09d22040800000000000000
+      internalID: 4621494820164765692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 4644
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c7abef41a912720800000000000000
+      internalID: 2819704256674298903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4636
+        width: 143
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e1fc68a318c5930800000000000000
+      internalID: 4133320646389079577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4480
+        width: 67
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c2140ef2e208b60800000000000000
+      internalID: 7746242142237961303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4471
+        width: 80
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098fb39abc25f67d0800000000000000
+      internalID: -2923026598469044080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 4491
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1baa5bd19fb3e8d0800000000000000
+      internalID: -2818198308632483045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4305
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9ff6c34f43e91b0800000000000000
+      internalID: -5648018659085387328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4316
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db86799b5fee050800000000000000
+      internalID: 5831868744949349697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4188
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f364404517c1720800000000000000
+      internalID: 2818252072489992044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4192
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818000e717c4378c0800000000000000
+      internalID: -4002771593473292264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4055
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c43454a8f77870800000000000000
+      internalID: 8680680191450988712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4057
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9d3d8548bb9510800000000000000
+      internalID: 1557040705048518184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 4069
+        width: 118
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50ac66090bd02f80800000000000000
+      internalID: -8133260095222144930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3932
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c75a1ea9cc5630800000000000000
+      internalID: 3917227525508941714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3923
+        width: 167
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b96a86fc9e79ab0800000000000000
+      internalID: -5001271784148395214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3758
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224f8df9245565f10800000000000000
+      internalID: 2258086007810880546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3768
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda63e4c5196f770800000000000000
+      internalID: 8644256360419470817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3603
+        width: 85
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6885996320291d0800000000000000
+      internalID: -3345609139658651962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3588
+        width: 101
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc77b25f9d32dbd0800000000000000
+      internalID: -2606953479797244748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3456
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e2f47459fa47bf0800000000000000
+      internalID: -327443817209844179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3440
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d23671e1226cc5b0800000000000000
+      internalID: -5346790759939558698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3428
+        width: 76
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8359cdf0f5e320a10800000000000000
+      internalID: 1874128972948477240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3274
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f4c93e647e2fff0800000000000000
+      internalID: -3686358021550321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3105
+        width: 99
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b5496b10405b90800000000000000
+      internalID: -7255228513219397761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3125
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07670a29606ccc620800000000000000
+      internalID: 2795827200222328432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3136
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53d54b2cfcb11fe0800000000000000
+      internalID: -1219986232796916901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2971
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63a42f7187fc46f0800000000000000
+      internalID: -698911706593320084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2837
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6d208965e07ec70800000000000000
+      internalID: 9000178145403524836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2827
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1c4a7cd944d3800800000000000000
+      internalID: 593706170332791226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2783
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03f69eea55f91c0800000000000000
+      internalID: -4494779693363416921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2636
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b589520f63bc00a50800000000000000
+      internalID: 6485406900231182427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2637
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d3c8dd225e1d10800000000000000
+      internalID: 2098204833264949356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2480
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f89495ef03aa790800000000000000
+      internalID: -7518142758963802254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2480
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f1c13686c18d60800000000000000
+      internalID: 7890806301792531613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2310
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cbcd3f3c07e3aa0800000000000000
+      internalID: -6179377651793478591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2311
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710222e4af5467480800000000000000
+      internalID: -8901850672096206825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2142
+        width: 76
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942967e778d683580800000000000000
+      internalID: -8847201039259626935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2169
+        width: 141
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9231a112aeabbcab0800000000000000
+      internalID: -4986686647642221783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2044
+        width: 158
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a230d089e225780800000000000000
+      internalID: -8695836699910788524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2040
+        width: 124
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005089a6c6fb08840800000000000000
+      internalID: 5224386040115496192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1851
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4611bb89dc1ce6330800000000000000
+      internalID: 3706112632147349860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1853
+        width: 125
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af37b6f2d9c9b6d0800000000000000
+      internalID: -2974124170981982299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1856
+        width: 153
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b1d3d25c1070ed0800000000000000
+      internalID: -2447985926073410682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1701
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b91ca78477b66d50800000000000000
+      internalID: 6730268404272077233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1700
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef21a850109e11b0800000000000000
+      internalID: -5683947279814152217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1699
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c80203f0666430800000000000000
+      internalID: 3775811934424188648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1575
+        width: 85
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4805be20c88c2e0800000000000000
+      internalID: -2105278881629960966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1402
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111cc7bedecdb870800000000000000
+      internalID: 8700337511111332122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1404
+        width: 76
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d5011cf752a1c0800000000000000
+      internalID: -4493932738033364694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1404
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa1f12225e035860800000000000000
+      internalID: 7517367948934060718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1238
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04c66df60098dc30800000000000000
+      internalID: 4384412596940751886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1229
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0102293027fd620800000000000000
+      internalID: 2801082852909781246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1046
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981482977df0916b0800000000000000
+      internalID: -5325207666263834231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1017
+        width: 105
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754a8be2a7d52c660800000000000000
+      internalID: 7404583516701762647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1041
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697ae079996f852f0800000000000000
+      internalID: -983765379055704170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 880
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a0364394543a100800000000000000
+      internalID: 118014195955600022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 883
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e89e7c1a536080800000000000000
+      internalID: -9195406935730886588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 886
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7826d76cc30f150800000000000000
+      internalID: 5904285934687520715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 709
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1bda22913480ba0800000000000000
+      internalID: -6122569918175137360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 715
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1060019eb11fe3660800000000000000
+      internalID: 7367591142601262593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 713
+        width: 109
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde912ebc631cb9a0800000000000000
+      internalID: -6216072027910856997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 550
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3394cd06c701540800000000000000
+      internalID: 4976614343698887648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 382
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4639fea34d9e000800000000000000
+      internalID: 65817019166188716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 389
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58588e095dfd63110800000000000000
+      internalID: 1240424855739336069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 393
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d696eb1ca701e4f0800000000000000
+      internalID: -801350822911371567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 394
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7654e31a5661b90800000000000000
+      internalID: -7271512805134211078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 229
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7700fe12b11d740800000000000000
+      internalID: 5174947279383066559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 247
+        width: 131
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faff624ff196da00800000000000000
+      internalID: 780972110912682740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 135
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b7352492a0fcb0800000000000000
+      internalID: -4832183643005275653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zack_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 127
+        width: 136
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e89227180f6a060800000000000000
+      internalID: 6964518312531824240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
