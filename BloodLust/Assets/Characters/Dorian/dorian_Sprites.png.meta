@@ -1,0 +1,1860 @@
+fileFormatVersion: 2
+guid: 66a0787c934854dc29d5ccb619901b90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2268850888521235835
+    second: dorian_Sprites_0
+  - first:
+      213: 6350835541332669479
+    second: dorian_Sprites_1
+  - first:
+      213: 7445214898888189893
+    second: dorian_Sprites_2
+  - first:
+      213: -2190010509460832479
+    second: dorian_Sprites_3
+  - first:
+      213: -6447878531134026240
+    second: dorian_Sprites_4
+  - first:
+      213: 6282068200566370155
+    second: dorian_Sprites_5
+  - first:
+      213: 6980277535529903065
+    second: dorian_Sprites_6
+  - first:
+      213: 8583558929619838310
+    second: dorian_Sprites_7
+  - first:
+      213: -7026180105729081781
+    second: dorian_Sprites_8
+  - first:
+      213: 121002354254819462
+    second: dorian_Sprites_9
+  - first:
+      213: -7351716123705185992
+    second: dorian_Sprites_10
+  - first:
+      213: -7520531783015126508
+    second: dorian_Sprites_11
+  - first:
+      213: 750727063782405049
+    second: dorian_Sprites_12
+  - first:
+      213: 354354686322131240
+    second: dorian_Sprites_13
+  - first:
+      213: -2921577353772672094
+    second: dorian_Sprites_14
+  - first:
+      213: -7941261464618102643
+    second: dorian_Sprites_15
+  - first:
+      213: -2186010653113477474
+    second: dorian_Sprites_16
+  - first:
+      213: 2005787507728872694
+    second: dorian_Sprites_17
+  - first:
+      213: 5885188799216805120
+    second: dorian_Sprites_18
+  - first:
+      213: -1256178566510880907
+    second: dorian_Sprites_19
+  - first:
+      213: 452809815035873949
+    second: dorian_Sprites_20
+  - first:
+      213: -1017263915837886331
+    second: dorian_Sprites_21
+  - first:
+      213: 7121126866608756889
+    second: dorian_Sprites_22
+  - first:
+      213: -8057449554910097481
+    second: dorian_Sprites_23
+  - first:
+      213: 5191234406026241595
+    second: dorian_Sprites_24
+  - first:
+      213: -7862692679012057416
+    second: dorian_Sprites_25
+  - first:
+      213: -3156233645438936559
+    second: dorian_Sprites_26
+  - first:
+      213: 4268816369028691816
+    second: dorian_Sprites_27
+  - first:
+      213: -475708047176157795
+    second: dorian_Sprites_28
+  - first:
+      213: -4534450369197744250
+    second: dorian_Sprites_29
+  - first:
+      213: 4012917736204840499
+    second: dorian_Sprites_30
+  - first:
+      213: -3781211675781172495
+    second: dorian_Sprites_31
+  - first:
+      213: 6442088889660525807
+    second: dorian_Sprites_32
+  - first:
+      213: 3768809663691495838
+    second: dorian_Sprites_33
+  - first:
+      213: 5811863650222890173
+    second: dorian_Sprites_34
+  - first:
+      213: 1856329565505564623
+    second: dorian_Sprites_35
+  - first:
+      213: -2154833209904480434
+    second: dorian_Sprites_36
+  - first:
+      213: -497456516041763482
+    second: dorian_Sprites_37
+  - first:
+      213: -3169399822402443796
+    second: dorian_Sprites_38
+  - first:
+      213: 3077835477224080503
+    second: dorian_Sprites_39
+  - first:
+      213: -6617895671235676015
+    second: dorian_Sprites_40
+  - first:
+      213: -3829818980484165619
+    second: dorian_Sprites_41
+  - first:
+      213: -2804771031816874190
+    second: dorian_Sprites_42
+  - first:
+      213: 9189440134035643624
+    second: dorian_Sprites_43
+  - first:
+      213: 3980258537183150653
+    second: dorian_Sprites_44
+  - first:
+      213: 3394025870436506823
+    second: dorian_Sprites_45
+  - first:
+      213: 7689901809505042580
+    second: dorian_Sprites_46
+  - first:
+      213: 42241567122156492
+    second: dorian_Sprites_47
+  - first:
+      213: 2933173117010046107
+    second: dorian_Sprites_48
+  - first:
+      213: -8795328743266968694
+    second: dorian_Sprites_49
+  - first:
+      213: -7958617731982740996
+    second: dorian_Sprites_50
+  - first:
+      213: 7918520090250894169
+    second: dorian_Sprites_51
+  - first:
+      213: -5332334129486765043
+    second: dorian_Sprites_52
+  - first:
+      213: 2732683946020105202
+    second: dorian_Sprites_53
+  - first:
+      213: -7178114825091732894
+    second: dorian_Sprites_54
+  - first:
+      213: -69167657100584751
+    second: dorian_Sprites_55
+  - first:
+      213: 779492527838890464
+    second: dorian_Sprites_56
+  - first:
+      213: -307164533207788492
+    second: dorian_Sprites_57
+  - first:
+      213: -2687837896284218249
+    second: dorian_Sprites_58
+  - first:
+      213: 3536195938378513331
+    second: dorian_Sprites_59
+  - first:
+      213: 4728036897990330309
+    second: dorian_Sprites_60
+  - first:
+      213: 3365153963832627431
+    second: dorian_Sprites_61
+  - first:
+      213: 5093313427597249350
+    second: dorian_Sprites_62
+  - first:
+      213: 3663295038949331801
+    second: dorian_Sprites_63
+  - first:
+      213: 8336133407623440338
+    second: dorian_Sprites_64
+  - first:
+      213: -9071549612531472182
+    second: dorian_Sprites_65
+  - first:
+      213: 7081308660812231418
+    second: dorian_Sprites_66
+  - first:
+      213: 9218756058598733385
+    second: dorian_Sprites_67
+  - first:
+      213: -3879557232967364605
+    second: dorian_Sprites_68
+  - first:
+      213: -4846270418358082916
+    second: dorian_Sprites_69
+  - first:
+      213: -2143835708824201755
+    second: dorian_Sprites_70
+  - first:
+      213: -4423146582412676512
+    second: dorian_Sprites_71
+  - first:
+      213: -158675491709984412
+    second: dorian_Sprites_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dorian_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3947
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d33aabcd39c7f10800000000000000
+      internalID: 2268850888521235835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3944
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243f04d643b22850800000000000000
+      internalID: 6350835541332669479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3950
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c72dac0187b25760800000000000000
+      internalID: 7445214898888189893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3773
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ff6397b058b91e0800000000000000
+      internalID: -2190010509460832479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3773
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e83e463a88486a0800000000000000
+      internalID: -6447878531134026240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3771
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f298d9eb36e2750800000000000000
+      internalID: 6282068200566370155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3772
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d326ea7f6deed060800000000000000
+      internalID: 6980277535529903065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3609
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6656f9c6e5dee1770800000000000000
+      internalID: 8583558929619838310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3610
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ef91e8b6efd7e90800000000000000
+      internalID: -7026180105729081781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3623
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68038560003eda100800000000000000
+      internalID: 121002354254819462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3610
+        width: 95
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8396a05f22579f990800000000000000
+      internalID: -7351716123705185992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3457
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a29575034b1a790800000000000000
+      internalID: -7520531783015126508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3487
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b508794e1b6a00800000000000000
+      internalID: 750727063782405049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3476
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c9b2b5bbeae400800000000000000
+      internalID: 354354686322131240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3459
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abdd8c30e87477d0800000000000000
+      internalID: -2921577353772672094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3317
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8090f4c5c8fac190800000000000000
+      internalID: -7941261464618102643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3301
+        width: 85
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9693f994eab9a1e0800000000000000
+      internalID: -2186010653113477474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3288
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f478157c1df5db10800000000000000
+      internalID: 2005787507728872694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3295
+        width: 141
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ec6528046ca150800000000000000
+      internalID: 5885188799216805120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3124
+        width: 97
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577d8a0df38219ee0800000000000000
+      internalID: -1256178566510880907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2957
+        width: 139
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0600b024b84600800000000000000
+      internalID: 452809815035873949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2956
+        width: 171
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f8a5bbd3f1e1f0800000000000000
+      internalID: -1017263915837886331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2958
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99894b4e72353d260800000000000000
+      internalID: 7121126866608756889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2786
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf44fbe1503e2090800000000000000
+      internalID: -8057449554910097481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2793
+        width: 162
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36eafc1038fa0840800000000000000
+      internalID: 5191234406026241595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2612
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8befb61baaa12e290800000000000000
+      internalID: -7862692679012057416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2619
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ad97fc83ec234d0800000000000000
+      internalID: -3156233645438936559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2441
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867f357ded1ed3b30800000000000000
+      internalID: 4268816369028691816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2453
+        width: 131
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95354f2d02f569f0800000000000000
+      internalID: -475708047176157795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2436
+        width: 90
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f545ce9656211c0800000000000000
+      internalID: -4534450369197744250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2431
+        width: 73
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eaa537b6fb0b730800000000000000
+      internalID: 4012917736204840499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2258
+        width: 124
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f08cb300768bc0800000000000000
+      internalID: -3781211675781172495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2284
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc4b7a6b5e66950800000000000000
+      internalID: 6442088889660525807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2282
+        width: 140
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99146ecb608d4430800000000000000
+      internalID: 3768809663691495838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2134
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc5a828233e7a050800000000000000
+      internalID: 5811863650222890173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2134
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa30297e103c910800000000000000
+      internalID: 1856329565505564623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2111
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fbd65cc9e7812e0800000000000000
+      internalID: -2154833209904480434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1981
+        width: 128
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665902e2feda819f0800000000000000
+      internalID: -497456516041763482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1982
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5248a57a70404d0800000000000000
+      internalID: -3169399822402443796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1975
+        width: 127
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77449093f0ba6ba20800000000000000
+      internalID: 3077835477224080503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1487
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f66b33f28824a0800000000000000
+      internalID: -6617895671235676015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1489
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d005132bdefb9dac0800000000000000
+      internalID: -3829818980484165619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1491
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237df3c5b937319d0800000000000000
+      internalID: -2804771031816874190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1344
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec99e93d13778f70800000000000000
+      internalID: 9189440134035643624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1345
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32840f1d08bc3730800000000000000
+      internalID: 3980258537183150653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1395
+        width: 147
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc9addfb800a1f20800000000000000
+      internalID: 3394025870436506823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1273
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908e21f3f408ba60800000000000000
+      internalID: 7689901809505042580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1291
+        width: 149
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb62134b72169000800000000000000
+      internalID: 42241567122156492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1188
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ceb18c869b4b820800000000000000
+      internalID: 2933173117010046107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1177
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b1ace8b17b0f580800000000000000
+      internalID: -8795328743266968694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1124
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf13b0ed65f4d8190800000000000000
+      internalID: -7958617731982740996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1135
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bd236611c34ed60800000000000000
+      internalID: 7918520090250894169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 992
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04ef347c5ebff5b0800000000000000
+      internalID: -5332334129486765043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 991
+        width: 137
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbe0fd02917ce520800000000000000
+      internalID: 2732683946020105202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 975
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a217d0996326c90800000000000000
+      internalID: -7178114825091732894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 969
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d290e1644a0ff0800000000000000
+      internalID: -69167657100584751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 811
+        width: 89
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e988eaf25051da00800000000000000
+      internalID: 779492527838890464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 818
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4341d860c7bbcbbf0800000000000000
+      internalID: -307164533207788492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 818
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c55229ca1e2bad0800000000000000
+      internalID: -2687837896284218249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 880
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbfa3b6877131130800000000000000
+      internalID: 3536195938378513331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 630
+        width: 109
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c747ad228c5d9140800000000000000
+      internalID: 4728036897990330309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 622
+        width: 97
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ddb463bd63be20800000000000000
+      internalID: 3365153963832627431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 629
+        width: 100
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b49ada3951fa640800000000000000
+      internalID: 5093313427597249350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 630
+        width: 87
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539600dd63a6d230800000000000000
+      internalID: 3663295038949331801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 405
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d769a1ea25efa370800000000000000
+      internalID: 8336133407623440338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 370
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8aab6c0b16b1280800000000000000
+      internalID: -9071549612531472182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 405
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af23c9865bcd54260800000000000000
+      internalID: 7081308660812231418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 382
+        width: 88
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946f1cfcac99fef70800000000000000
+      internalID: 9218756058598733385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 181
+        width: 82
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300de2b504b092ac0800000000000000
+      internalID: -3879557232967364605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 177
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92684c2bb69ebcb0800000000000000
+      internalID: -4846270418358082916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 178
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e55cb608c09f32e0800000000000000
+      internalID: -2143835708824201755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 175
+        width: 82
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0623fcd3e93dd92c0800000000000000
+      internalID: -4423146582412676512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dorian_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 18
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e0122b754ccdf0800000000000000
+      internalID: -158675491709984412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
