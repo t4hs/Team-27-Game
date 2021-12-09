@@ -1,0 +1,3300 @@
+fileFormatVersion: 2
+guid: adca491fe41b5437cbe15b846a20ee0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5517895461404448815
+    second: vladmir_Sprites_0
+  - first:
+      213: -2201117633400723939
+    second: vladmir_Sprites_1
+  - first:
+      213: 4338761498885116072
+    second: vladmir_Sprites_2
+  - first:
+      213: -6234573838435120448
+    second: vladmir_Sprites_3
+  - first:
+      213: -2488028242760180680
+    second: vladmir_Sprites_4
+  - first:
+      213: -9059733591108156061
+    second: vladmir_Sprites_5
+  - first:
+      213: -4560757697463227310
+    second: vladmir_Sprites_6
+  - first:
+      213: 9134249653994429525
+    second: vladmir_Sprites_7
+  - first:
+      213: 604676455209709399
+    second: vladmir_Sprites_8
+  - first:
+      213: 2463869244139688157
+    second: vladmir_Sprites_9
+  - first:
+      213: -9165295531414312667
+    second: vladmir_Sprites_10
+  - first:
+      213: -8877503631427184893
+    second: vladmir_Sprites_11
+  - first:
+      213: -2088515504036860439
+    second: vladmir_Sprites_12
+  - first:
+      213: -7446024408775825181
+    second: vladmir_Sprites_13
+  - first:
+      213: 3053342693770623599
+    second: vladmir_Sprites_14
+  - first:
+      213: -5755037814199673506
+    second: vladmir_Sprites_15
+  - first:
+      213: 3567457983044400807
+    second: vladmir_Sprites_16
+  - first:
+      213: -1622327033695081504
+    second: vladmir_Sprites_17
+  - first:
+      213: -811833211470201286
+    second: vladmir_Sprites_18
+  - first:
+      213: -779533618553595976
+    second: vladmir_Sprites_19
+  - first:
+      213: -7105365372894622744
+    second: vladmir_Sprites_20
+  - first:
+      213: -918868868808808697
+    second: vladmir_Sprites_21
+  - first:
+      213: 3684549940584500923
+    second: vladmir_Sprites_22
+  - first:
+      213: 3207233943709391574
+    second: vladmir_Sprites_23
+  - first:
+      213: -2428390180956559073
+    second: vladmir_Sprites_24
+  - first:
+      213: -8871937396109580896
+    second: vladmir_Sprites_25
+  - first:
+      213: 6044533171236243287
+    second: vladmir_Sprites_26
+  - first:
+      213: 8394281410852763327
+    second: vladmir_Sprites_27
+  - first:
+      213: 5408738297142560142
+    second: vladmir_Sprites_28
+  - first:
+      213: -4532736928398717403
+    second: vladmir_Sprites_29
+  - first:
+      213: -893422199074996208
+    second: vladmir_Sprites_30
+  - first:
+      213: 7900024887696034236
+    second: vladmir_Sprites_31
+  - first:
+      213: 2748972337392225328
+    second: vladmir_Sprites_32
+  - first:
+      213: 4207761514853834865
+    second: vladmir_Sprites_33
+  - first:
+      213: -249456571270499221
+    second: vladmir_Sprites_34
+  - first:
+      213: -3435432573351402248
+    second: vladmir_Sprites_35
+  - first:
+      213: -2614953196844501390
+    second: vladmir_Sprites_36
+  - first:
+      213: 3884388951263751283
+    second: vladmir_Sprites_37
+  - first:
+      213: -5785796958798143065
+    second: vladmir_Sprites_38
+  - first:
+      213: 4372165889116081090
+    second: vladmir_Sprites_39
+  - first:
+      213: -8834517354744270688
+    second: vladmir_Sprites_40
+  - first:
+      213: -5155942088550050443
+    second: vladmir_Sprites_41
+  - first:
+      213: -301918081296316365
+    second: vladmir_Sprites_42
+  - first:
+      213: 6612270965418488367
+    second: vladmir_Sprites_43
+  - first:
+      213: -2889934086094500761
+    second: vladmir_Sprites_44
+  - first:
+      213: -5902165240743714390
+    second: vladmir_Sprites_45
+  - first:
+      213: -1007298350275103411
+    second: vladmir_Sprites_46
+  - first:
+      213: 5544363417764049140
+    second: vladmir_Sprites_47
+  - first:
+      213: 4752624056475377980
+    second: vladmir_Sprites_48
+  - first:
+      213: 2554112454584921249
+    second: vladmir_Sprites_49
+  - first:
+      213: 8277071639099181541
+    second: vladmir_Sprites_50
+  - first:
+      213: -2242152416312885784
+    second: vladmir_Sprites_51
+  - first:
+      213: -3289581915008972946
+    second: vladmir_Sprites_52
+  - first:
+      213: 4981096215605093930
+    second: vladmir_Sprites_53
+  - first:
+      213: 8268769470534963478
+    second: vladmir_Sprites_54
+  - first:
+      213: -5772487486544686769
+    second: vladmir_Sprites_55
+  - first:
+      213: -4257467265829705750
+    second: vladmir_Sprites_56
+  - first:
+      213: -8783883189941463378
+    second: vladmir_Sprites_57
+  - first:
+      213: 8640839537456732112
+    second: vladmir_Sprites_58
+  - first:
+      213: -677089191496759342
+    second: vladmir_Sprites_59
+  - first:
+      213: 3089264818444542365
+    second: vladmir_Sprites_60
+  - first:
+      213: -6810400151558469738
+    second: vladmir_Sprites_61
+  - first:
+      213: 7377369059491718015
+    second: vladmir_Sprites_62
+  - first:
+      213: -4289806515710591080
+    second: vladmir_Sprites_63
+  - first:
+      213: 5946631667158696397
+    second: vladmir_Sprites_64
+  - first:
+      213: -8216093323418129908
+    second: vladmir_Sprites_65
+  - first:
+      213: 2278605734429248937
+    second: vladmir_Sprites_66
+  - first:
+      213: 4217847122015949971
+    second: vladmir_Sprites_67
+  - first:
+      213: 699481746011466494
+    second: vladmir_Sprites_68
+  - first:
+      213: -3661671710292508304
+    second: vladmir_Sprites_69
+  - first:
+      213: -7523708516098126929
+    second: vladmir_Sprites_70
+  - first:
+      213: -1433224179500030046
+    second: vladmir_Sprites_71
+  - first:
+      213: 5035891543552624527
+    second: vladmir_Sprites_72
+  - first:
+      213: 8774689086385297208
+    second: vladmir_Sprites_73
+  - first:
+      213: -3719714627227295154
+    second: vladmir_Sprites_74
+  - first:
+      213: 1799909794216333345
+    second: vladmir_Sprites_75
+  - first:
+      213: -5003441431626863711
+    second: vladmir_Sprites_76
+  - first:
+      213: -4427901194460668971
+    second: vladmir_Sprites_77
+  - first:
+      213: 827410408449422492
+    second: vladmir_Sprites_78
+  - first:
+      213: -4195905364417163201
+    second: vladmir_Sprites_79
+  - first:
+      213: -8346717473347878856
+    second: vladmir_Sprites_80
+  - first:
+      213: -2490081038526965828
+    second: vladmir_Sprites_81
+  - first:
+      213: 300586901428899055
+    second: vladmir_Sprites_82
+  - first:
+      213: -1098753146417851425
+    second: vladmir_Sprites_83
+  - first:
+      213: -4509763819477373244
+    second: vladmir_Sprites_84
+  - first:
+      213: -9059911458025820062
+    second: vladmir_Sprites_85
+  - first:
+      213: 6955968639998651923
+    second: vladmir_Sprites_86
+  - first:
+      213: 467842627814146257
+    second: vladmir_Sprites_87
+  - first:
+      213: -8593911630987465633
+    second: vladmir_Sprites_88
+  - first:
+      213: 1516344559306649093
+    second: vladmir_Sprites_89
+  - first:
+      213: -3290896065936212239
+    second: vladmir_Sprites_90
+  - first:
+      213: -4195157434431002929
+    second: vladmir_Sprites_91
+  - first:
+      213: 8465697905755520918
+    second: vladmir_Sprites_92
+  - first:
+      213: 6942011433912229484
+    second: vladmir_Sprites_93
+  - first:
+      213: 1835405655677865434
+    second: vladmir_Sprites_94
+  - first:
+      213: 9075595275007605687
+    second: vladmir_Sprites_95
+  - first:
+      213: 7712609153042322946
+    second: vladmir_Sprites_96
+  - first:
+      213: 7880803627490479955
+    second: vladmir_Sprites_97
+  - first:
+      213: -3334217661978332692
+    second: vladmir_Sprites_98
+  - first:
+      213: 4209414291420424870
+    second: vladmir_Sprites_99
+  - first:
+      213: -6997548553885552257
+    second: vladmir_Sprites_100
+  - first:
+      213: -200080235003343967
+    second: vladmir_Sprites_101
+  - first:
+      213: 367003687058391468
+    second: vladmir_Sprites_102
+  - first:
+      213: 200451802137787044
+    second: vladmir_Sprites_103
+  - first:
+      213: -79704393483440579
+    second: vladmir_Sprites_104
+  - first:
+      213: 1703135237510090506
+    second: vladmir_Sprites_105
+  - first:
+      213: -8221945272547507725
+    second: vladmir_Sprites_106
+  - first:
+      213: -7037883247304064533
+    second: vladmir_Sprites_107
+  - first:
+      213: -7975752451564898473
+    second: vladmir_Sprites_108
+  - first:
+      213: -2965940593137133910
+    second: vladmir_Sprites_109
+  - first:
+      213: 9210032575680287418
+    second: vladmir_Sprites_110
+  - first:
+      213: 4635069092051781120
+    second: vladmir_Sprites_111
+  - first:
+      213: 5894246704635182802
+    second: vladmir_Sprites_112
+  - first:
+      213: -5701167413770039392
+    second: vladmir_Sprites_113
+  - first:
+      213: -2005037745089763462
+    second: vladmir_Sprites_114
+  - first:
+      213: -2240211405099971042
+    second: vladmir_Sprites_115
+  - first:
+      213: 6341487178705650223
+    second: vladmir_Sprites_116
+  - first:
+      213: 7912632096172536870
+    second: vladmir_Sprites_117
+  - first:
+      213: -5147139969306841684
+    second: vladmir_Sprites_118
+  - first:
+      213: -7093370870517630383
+    second: vladmir_Sprites_119
+  - first:
+      213: 4885275827693151148
+    second: vladmir_Sprites_120
+  - first:
+      213: -1290878199336712022
+    second: vladmir_Sprites_121
+  - first:
+      213: 3225306477197551729
+    second: vladmir_Sprites_122
+  - first:
+      213: -5737799251462175242
+    second: vladmir_Sprites_123
+  - first:
+      213: 1134584639040385547
+    second: vladmir_Sprites_124
+  - first:
+      213: 4521000256929192455
+    second: vladmir_Sprites_125
+  - first:
+      213: -3542804845396984144
+    second: vladmir_Sprites_126
+  - first:
+      213: 8712890601960570606
+    second: vladmir_Sprites_127
+  - first:
+      213: 6589165266814693215
+    second: vladmir_Sprites_128
+  - first:
+      213: -7130204542880112270
+    second: vladmir_Sprites_129
+  - first:
+      213: -7324563485750508527
+    second: vladmir_Sprites_130
+  - first:
+      213: 80751522952588074
+    second: vladmir_Sprites_131
+  - first:
+      213: -3865556045820515868
+    second: vladmir_Sprites_132
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vladmir_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 6716
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d76f3b105f7c63b0800000000000000
+      internalID: -5517895461404448815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 6727
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162d48ac2f0471e0800000000000000
+      internalID: -2201117633400723939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6635
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a050327890663c30800000000000000
+      internalID: 4338761498885116072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6701
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca812a40285a79a0800000000000000
+      internalID: -6234573838435120448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 6681
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd32fce7fb87dd0800000000000000
+      internalID: -2488028242760180680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 6679
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3650356ac4c554280800000000000000
+      internalID: -9059733591108156061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 6656
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c6310c90fe4b0c0800000000000000
+      internalID: -4560757697463227310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 6654
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c921c3aaf53ce70800000000000000
+      internalID: 9134249653994429525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 6629
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f21d4480e346800800000000000000
+      internalID: 604676455209709399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 6622
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0d4fdf50c613220800000000000000
+      internalID: 2463869244139688157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 6596
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529239426445ec080800000000000000
+      internalID: -9165295531414312667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 6572
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307da847b75ccc480800000000000000
+      internalID: -8877503631427184893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6461
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edacf9e63a1403e0800000000000000
+      internalID: -2088515504036860439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 6460
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8670e30486aa890800000000000000
+      internalID: -7446024408775825181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 6308
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a7bbfa007af5a20800000000000000
+      internalID: 3053342693770623599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 6314
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d10b7799ff120b0800000000000000
+      internalID: -5755037814199673506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6119
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a63e766228228130800000000000000
+      internalID: 3567457983044400807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6137
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb671788265c79e0800000000000000
+      internalID: -1622327033695081504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 6152
+        width: 122
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e3475def9cbb4f0800000000000000
+      internalID: -811833211470201286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5982
+        width: 124
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b753a7dd4a8e25f0800000000000000
+      internalID: -779533618553595976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5992
+        width: 125
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb4145d6dba46d90800000000000000
+      internalID: -7105365372894622744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 5967
+        width: 175
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7076c77d1a58f33f0800000000000000
+      internalID: -918868868808808697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5845
+        width: 140
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbec9bd36a6222330800000000000000
+      internalID: 3684549940584500923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5842
+        width: 127
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da9f567742628c20800000000000000
+      internalID: 3207233943709391574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5709
+        width: 127
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19a9002fff9c4ed0800000000000000
+      internalID: -2428390180956559073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5709
+        width: 122
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5626b91fb80e480800000000000000
+      internalID: -8871937396109580896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 5711
+        width: 133
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7570a98d4ee72e350800000000000000
+      internalID: 6044533171236243287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5609
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb63b86e77a7e7470800000000000000
+      internalID: 8394281410852763327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5612
+        width: 133
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85cb3413d2bf0b40800000000000000
+      internalID: 5408738297142560142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5536
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ecf7277cb7811c0800000000000000
+      internalID: -4532736928398717403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5393
+        width: 73
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010cfa55e3de993f0800000000000000
+      internalID: -893422199074996208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 5393
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb90edb77c682ad60800000000000000
+      internalID: 7900024887696034236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5248
+        width: 69
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c83a3b6cf462620800000000000000
+      internalID: 2748972337392225328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 5252
+        width: 122
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1702c68ddc8f46a30800000000000000
+      internalID: 4207761514853834865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 5253
+        width: 146
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64f882f190c98cf0800000000000000
+      internalID: -249456571270499221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 5125
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f46597b644e250d0800000000000000
+      internalID: -3435432573351402248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5005
+        width: 180
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276bfcd0ce1d5bbd0800000000000000
+      internalID: -2614953196844501390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 5005
+        width: 184
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2789bb2f18e530800000000000000
+      internalID: 3884388951263751283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4887
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a12d480258b4bfa0800000000000000
+      internalID: -5785796958798143065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4881
+        width: 142
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb08df16bd0dac30800000000000000
+      internalID: 4372165889116081090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 4856
+        width: 113
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0b17ce54d756580800000000000000
+      internalID: -8834517354744270688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4697
+        width: 100
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5751d71ecf96278b0800000000000000
+      internalID: -5155942088550050443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4716
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c01dca1f5fcbf0800000000000000
+      internalID: -301918081296316365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4712
+        width: 115
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22f564e86183cb50800000000000000
+      internalID: 6612270965418488367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4569
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c4b0e9244e4e7d0800000000000000
+      internalID: -2889934086094500761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4580
+        width: 143
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa120db0cfb471ea0800000000000000
+      internalID: -5902165240743714390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 4547
+        width: 99
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f301cc7b5502f0800000000000000
+      internalID: -1007298350275103411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4408
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f03f75372981fc40800000000000000
+      internalID: 5544363417764049140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4414
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e03d1666b4f140800000000000000
+      internalID: 4752624056475377980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 4441
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac6fe3ceb7027320800000000000000
+      internalID: 2554112454584921249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4317
+        width: 146
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e987fc4dc01ed270800000000000000
+      internalID: 8277071639099181541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4316
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edf26db14642e0e0800000000000000
+      internalID: -2242152416312885784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4316
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6747506dae0952d0800000000000000
+      internalID: -3289581915008972946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4169
+        width: 138
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a262f2bfd98602540800000000000000
+      internalID: 4981096215605093930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4164
+        width: 157
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d4dc060290c270800000000000000
+      internalID: 8268769470534963478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4052
+        width: 119
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41dd16073104efa0800000000000000
+      internalID: -5772487486544686769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4047
+        width: 135
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7ed5924107ae4c0800000000000000
+      internalID: -4257467265829705750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3929
+        width: 118
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6930b17c0691680800000000000000
+      internalID: -8783883189941463378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3928
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7524737cd6ae770800000000000000
+      internalID: 8640839537456732112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3932
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7449bb7fe7a96f0800000000000000
+      internalID: -677089191496759342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3794
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91af781cf54fda20800000000000000
+      internalID: 3089264818444542365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3802
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697471c25299c71a0800000000000000
+      internalID: -6810400151558469738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3805
+        width: 140
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7326f7921ea16660800000000000000
+      internalID: 7377369059491718015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3619
+        width: 112
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ff9ebc3bb8774c0800000000000000
+      internalID: -4289806515710591080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3455
+        width: 129
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14513aefda68250800000000000000
+      internalID: 5946631667158696397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3464
+        width: 116
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a243037a29afd80800000000000000
+      internalID: -8216093323418129908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3457
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc2d7c7db3f9f10800000000000000
+      internalID: 2278605734429248937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3324
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3941aa04c9dc88a30800000000000000
+      internalID: 4217847122015949971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3337
+        width: 114
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa22e521fe05b900800000000000000
+      internalID: 699481746011466494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3172
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0710be7daf02f2dc0800000000000000
+      internalID: -3661671710292508304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3162
+        width: 81
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc36887fa669790800000000000000
+      internalID: -7523708516098126929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3036
+        width: 87
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a76669c33a2c1ce0800000000000000
+      internalID: -1433224179500030046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3031
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8709d47da413e540800000000000000
+      internalID: 5035891543552624527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3030
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371e78db35f5c970800000000000000
+      internalID: 8774689086385297208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2921
+        width: 119
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42ea42214be06cc0800000000000000
+      internalID: -3719714627227295154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2891
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120d208eb609af810800000000000000
+      internalID: 1799909794216333345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2790
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aba86df684309ab0800000000000000
+      internalID: -5003441431626863711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2782
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbd4abd25fec82c0800000000000000
+      internalID: -4427901194460668971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2779
+        width: 188
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b617f16d8b7b00800000000000000
+      internalID: 827410408449422492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2663
+        width: 180
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3052ca4d4625c5c0800000000000000
+      internalID: -4195905364417163201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2610
+        width: 124
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830cd884ea08a2c80800000000000000
+      internalID: -8346717473347878856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2644
+        width: 117
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71aac0d74717dd0800000000000000
+      internalID: -2490081038526965828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2464
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec0ecbb136eb2400800000000000000
+      internalID: 300586901428899055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2463
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3dbe3b5d170c0f0800000000000000
+      internalID: -1098753146417851425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2321
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce642f23b91a61c0800000000000000
+      internalID: -4509763819477373244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2320
+        width: 136
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26031e7c78ab44280800000000000000
+      internalID: -9059911458025820062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2324
+        width: 191
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e60efaf90988060800000000000000
+      internalID: 6955968639998651923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2211
+        width: 136
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0c5a9246c1e7600800000000000000
+      internalID: 467842627814146257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2197
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ce4e377ea4cb880800000000000000
+      internalID: -8593911630987465633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2185
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ea19eb7532b0510800000000000000
+      internalID: 1516344559306649093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2061
+        width: 104
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe3425c6736452d0800000000000000
+      internalID: -3290896065936212239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2070
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6a6ef4a8ec7c5c0800000000000000
+      internalID: -4195157434431002929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1928
+        width: 46
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f735064633c7570800000000000000
+      internalID: 8465697905755520918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1907
+        width: 70
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed9096e9af65060800000000000000
+      internalID: 6942011433912229484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1904
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0c6d28bba87910800000000000000
+      internalID: 1835405655677865434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1761
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbba0c61ddf2fd70800000000000000
+      internalID: 9075595275007605687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1769
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206938a5921b80b60800000000000000
+      internalID: 7712609153042322946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1807
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f0e29152d3e5d60800000000000000
+      internalID: 7880803627490479955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1636
+        width: 121
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b2fda3ba7ab1d0800000000000000
+      internalID: -3334217661978332692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1636
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa2190eef7da6a30800000000000000
+      internalID: 4209414291420424870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1640
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f717a133aa6b3ee90800000000000000
+      internalID: -6997548553885552257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1533
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab8c0a161c293df0800000000000000
+      internalID: -200080235003343967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1542
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1cf5ea8ebd71500800000000000000
+      internalID: 367003687058391468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1533
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa720d1ad528c200800000000000000
+      internalID: 200451802137787044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1472
+        width: 117
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ea163c645d4eef0800000000000000
+      internalID: -79704393483440579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1331
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4d349970c2a710800000000000000
+      internalID: 1703135237510090506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1327
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18a1b1658c5ed80800000000000000
+      internalID: -8221945272547507725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1331
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1c4c1997a645e90800000000000000
+      internalID: -7037883247304064533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1184
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757f504176f605190800000000000000
+      internalID: -7975752451564898473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1188
+        width: 122
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa65629aebcd6d6d0800000000000000
+      internalID: -2965940593137133910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1191
+        width: 114
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2133ba4db90df70800000000000000
+      internalID: 9210032575680287418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1034
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006832518c2135040800000000000000
+      internalID: 4635069092051781120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 997
+        width: 128
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2defb4816229cc150800000000000000
+      internalID: 5894246704635182802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 864
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af4439717261e0b0800000000000000
+      internalID: -5701167413770039392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 878
+        width: 140
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77aca24bccac24e0800000000000000
+      internalID: -2005037745089763462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 784
+        width: 128
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ecc31a89b29e0e0800000000000000
+      internalID: -2240211405099971042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 796
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22c17a8dfc710850800000000000000
+      internalID: 6341487178705650223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 796
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624f7b2f7f05fcd60800000000000000
+      internalID: 7912632096172536870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 796
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2048f77fa198b0800000000000000
+      internalID: -5147139969306841684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 796
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a71ba86c84f8d90800000000000000
+      internalID: -7093370870517630383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 796
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3e3736b7cfbc340800000000000000
+      internalID: 4885275827693151148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 796
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84d38fd11e51ee0800000000000000
+      internalID: -1290878199336712022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 793
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1786021172792cc20800000000000000
+      internalID: 3225306477197551729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 633
+        width: 73
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f548102bfd3f50b0800000000000000
+      internalID: -5737799251462175242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 633
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02fd99c7badebf00800000000000000
+      internalID: 1134584639040385547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 636
+        width: 69
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ad6b7c7c1ddbe30800000000000000
+      internalID: 4521000256929192455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 642
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be749183cd65dec0800000000000000
+      internalID: -3542804845396984144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 514
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef2b0f6d76ae870800000000000000
+      internalID: 8712890601960570606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 506
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fe4d636ea617b50800000000000000
+      internalID: 6589165266814693215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 503
+        width: 188
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27121c5eebc6c0d90800000000000000
+      internalID: -7130204542880112270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 387
+        width: 180
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1144b01215ce95a90800000000000000
+      internalID: -7324563485750508527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 334
+        width: 124
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b29a01513ee1100800000000000000
+      internalID: 80751522952588074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vladmir_Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 368
+        width: 117
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e92185c149ca5ac0800000000000000
+      internalID: -3865556045820515868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
