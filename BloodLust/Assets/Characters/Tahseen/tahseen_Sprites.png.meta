@@ -1,0 +1,2220 @@
+fileFormatVersion: 2
+guid: ff0f91fed40af4e768bebf85c938ebe2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1643084754578016213
+    second: tahseen_Sprites_0
+  - first:
+      213: 5743227818270214250
+    second: tahseen_Sprites_1
+  - first:
+      213: -2307985053420875829
+    second: tahseen_Sprites_2
+  - first:
+      213: -7884402734149080477
+    second: tahseen_Sprites_3
+  - first:
+      213: 2205694767072119401
+    second: tahseen_Sprites_4
+  - first:
+      213: -1356734213761434331
+    second: tahseen_Sprites_5
+  - first:
+      213: 883584225535037991
+    second: tahseen_Sprites_6
+  - first:
+      213: 3885968749838431716
+    second: tahseen_Sprites_7
+  - first:
+      213: -6048232298641626014
+    second: tahseen_Sprites_8
+  - first:
+      213: -5424091964135052953
+    second: tahseen_Sprites_9
+  - first:
+      213: -6565103693482701577
+    second: tahseen_Sprites_10
+  - first:
+      213: -7438045683317277916
+    second: tahseen_Sprites_11
+  - first:
+      213: -3965511193506076224
+    second: tahseen_Sprites_12
+  - first:
+      213: 8191001133476359904
+    second: tahseen_Sprites_13
+  - first:
+      213: 2048837522386926954
+    second: tahseen_Sprites_14
+  - first:
+      213: 1763505615360322713
+    second: tahseen_Sprites_15
+  - first:
+      213: 5571001094501519779
+    second: tahseen_Sprites_16
+  - first:
+      213: 784493378022341794
+    second: tahseen_Sprites_17
+  - first:
+      213: -5158859130200207665
+    second: tahseen_Sprites_18
+  - first:
+      213: -1948528262083628917
+    second: tahseen_Sprites_19
+  - first:
+      213: 2205850412611396433
+    second: tahseen_Sprites_20
+  - first:
+      213: -775814939763107274
+    second: tahseen_Sprites_21
+  - first:
+      213: 4677087439482305113
+    second: tahseen_Sprites_22
+  - first:
+      213: 6079121740200073879
+    second: tahseen_Sprites_23
+  - first:
+      213: 2224821257838791545
+    second: tahseen_Sprites_24
+  - first:
+      213: 8684400323210859668
+    second: tahseen_Sprites_25
+  - first:
+      213: -5594340580935511134
+    second: tahseen_Sprites_26
+  - first:
+      213: 3107733248402356044
+    second: tahseen_Sprites_27
+  - first:
+      213: -4049448534848942379
+    second: tahseen_Sprites_28
+  - first:
+      213: -5444657433500540165
+    second: tahseen_Sprites_29
+  - first:
+      213: 2973983052455762629
+    second: tahseen_Sprites_30
+  - first:
+      213: -3700055489780820102
+    second: tahseen_Sprites_31
+  - first:
+      213: 8757645656248298874
+    second: tahseen_Sprites_32
+  - first:
+      213: 1727716854887960338
+    second: tahseen_Sprites_33
+  - first:
+      213: 1287921098735197933
+    second: tahseen_Sprites_34
+  - first:
+      213: 2962560206034521712
+    second: tahseen_Sprites_35
+  - first:
+      213: 2734380928940770626
+    second: tahseen_Sprites_36
+  - first:
+      213: 8457345804170685461
+    second: tahseen_Sprites_37
+  - first:
+      213: -7256887550756157057
+    second: tahseen_Sprites_38
+  - first:
+      213: 5512892360590654835
+    second: tahseen_Sprites_39
+  - first:
+      213: -2187763365078699266
+    second: tahseen_Sprites_40
+  - first:
+      213: 587437415845730566
+    second: tahseen_Sprites_41
+  - first:
+      213: -2933318390078312211
+    second: tahseen_Sprites_42
+  - first:
+      213: 764777862894525434
+    second: tahseen_Sprites_43
+  - first:
+      213: -6932280753377956837
+    second: tahseen_Sprites_44
+  - first:
+      213: 2760846116112239494
+    second: tahseen_Sprites_45
+  - first:
+      213: -4275303390590972545
+    second: tahseen_Sprites_46
+  - first:
+      213: 527244219801070568
+    second: tahseen_Sprites_47
+  - first:
+      213: -8116804222845852715
+    second: tahseen_Sprites_48
+  - first:
+      213: -5692064869670955077
+    second: tahseen_Sprites_49
+  - first:
+      213: -873999789609818521
+    second: tahseen_Sprites_50
+  - first:
+      213: -2234372954277202002
+    second: tahseen_Sprites_51
+  - first:
+      213: -4760276584047252702
+    second: tahseen_Sprites_52
+  - first:
+      213: 7165176698617763515
+    second: tahseen_Sprites_53
+  - first:
+      213: 2019779453957662424
+    second: tahseen_Sprites_54
+  - first:
+      213: 9160683035439097510
+    second: tahseen_Sprites_55
+  - first:
+      213: -7133932559550970652
+    second: tahseen_Sprites_56
+  - first:
+      213: 4492603573709055120
+    second: tahseen_Sprites_57
+  - first:
+      213: 265561733701852180
+    second: tahseen_Sprites_58
+  - first:
+      213: -1821928026313581737
+    second: tahseen_Sprites_59
+  - first:
+      213: -5145533176693634293
+    second: tahseen_Sprites_60
+  - first:
+      213: -265573829364079887
+    second: tahseen_Sprites_61
+  - first:
+      213: -3709805844929380213
+    second: tahseen_Sprites_62
+  - first:
+      213: -6696478521142405352
+    second: tahseen_Sprites_63
+  - first:
+      213: 3691565756671388011
+    second: tahseen_Sprites_64
+  - first:
+      213: -6910796374067517545
+    second: tahseen_Sprites_65
+  - first:
+      213: -1209550777641066710
+    second: tahseen_Sprites_66
+  - first:
+      213: 4342887003138355241
+    second: tahseen_Sprites_67
+  - first:
+      213: -8897005704600504252
+    second: tahseen_Sprites_68
+  - first:
+      213: -9042389255115603858
+    second: tahseen_Sprites_69
+  - first:
+      213: -8798745617100303173
+    second: tahseen_Sprites_70
+  - first:
+      213: -5523407080829909821
+    second: tahseen_Sprites_71
+  - first:
+      213: 7999727844267426945
+    second: tahseen_Sprites_72
+  - first:
+      213: -2572719727960110695
+    second: tahseen_Sprites_73
+  - first:
+      213: -8746949046218923004
+    second: tahseen_Sprites_74
+  - first:
+      213: 4633271028304382843
+    second: tahseen_Sprites_75
+  - first:
+      213: -4738460077054595294
+    second: tahseen_Sprites_76
+  - first:
+      213: -6716661595690965352
+    second: tahseen_Sprites_77
+  - first:
+      213: 8108859986055873330
+    second: tahseen_Sprites_78
+  - first:
+      213: 2156238584282835470
+    second: tahseen_Sprites_79
+  - first:
+      213: 3840713391647020689
+    second: tahseen_Sprites_80
+  - first:
+      213: 6014482575976934767
+    second: tahseen_Sprites_81
+  - first:
+      213: 1143202973624030346
+    second: tahseen_Sprites_82
+  - first:
+      213: 6470400999590344649
+    second: tahseen_Sprites_83
+  - first:
+      213: 8210068776747999480
+    second: tahseen_Sprites_84
+  - first:
+      213: 292524986574088038
+    second: tahseen_Sprites_85
+  - first:
+      213: -2832995920302520935
+    second: tahseen_Sprites_86
+  - first:
+      213: -8496248393981400799
+    second: tahseen_Sprites_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tahseen_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3076
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2874830f179239e0800000000000000
+      internalID: -1643084754578016213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3071
+        width: 57
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684324954b04bf40800000000000000
+      internalID: 5743227818270214250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3071
+        width: 57
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf00f772d368ffd0800000000000000
+      internalID: -2307985053420875829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3096
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aece49c79f49290800000000000000
+      internalID: -7884402734149080477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3060
+        width: 51
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a854254b33c9e10800000000000000
+      internalID: 2205694767072119401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3058
+        width: 30
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d712ebb69eb2de0800000000000000
+      internalID: -1356734213761434331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 3162
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7229724fb2f134c00800000000000000
+      internalID: 883584225535037991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3130
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5736e3dfbbde530800000000000000
+      internalID: 3885968749838431716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2930
+        width: 45
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ceb60f4cc501ca0800000000000000
+      internalID: -6048232298641626014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2926
+        width: 48
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769eda0c811c9b4b0800000000000000
+      internalID: -5424091964135052953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2925
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fccb5469f014e4a0800000000000000
+      internalID: -6565103693482701577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2922
+        width: 33
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bfeb60cd0c6c890800000000000000
+      internalID: -7438045683317277916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2922
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92c36649ca7f8c0800000000000000
+      internalID: -3965511193506076224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2922
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee2ea312284ca170800000000000000
+      internalID: 8191001133476359904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2766
+        width: 41
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d3d541fdeee6c10800000000000000
+      internalID: 2048837522386926954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2779
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c65f2830b397810800000000000000
+      internalID: 1763505615360322713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2781
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a15311aafb205d40800000000000000
+      internalID: 5571001094501519779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2793
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acfaa5229413ea00800000000000000
+      internalID: 784493378022341794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2794
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcec22234fc0868b0800000000000000
+      internalID: -5158859130200207665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2630
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8032bf8edf65f4e0800000000000000
+      internalID: -1948528262083628917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2635
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153e95f5341cc9e10800000000000000
+      internalID: 2205850412611396433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2635
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a9af73c60cb35f0800000000000000
+      internalID: -775814939763107274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2639
+        width: 50
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ab8c5fe3a58e040800000000000000
+      internalID: 4677087439482305113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2638
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79adafe93016d5450800000000000000
+      internalID: 6079121740200073879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2484
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b083a752720ee10800000000000000
+      internalID: 2224821257838791545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2486
+        width: 65
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49455400510358870800000000000000
+      internalID: 8684400323210859668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2493
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a359c8b1e8ec52b0800000000000000
+      internalID: -5594340580935511134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2496
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4771b78ce2e02b20800000000000000
+      internalID: 3107733248402356044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2344
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de4a1033087dc7c0800000000000000
+      internalID: -4049448534848942379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2345
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2a28849e0b074b0800000000000000
+      internalID: -5444657433500540165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2352
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca58a154d5b54920800000000000000
+      internalID: 2973983052455762629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2356
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a775162c223c6acc0800000000000000
+      internalID: -3700055489780820102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2230
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d2c690358698970800000000000000
+      internalID: 8757645656248298874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2231
+        width: 123
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f4d0063551af710800000000000000
+      internalID: 1727716854887960338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2230
+        width: 107
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee97d46a6d9fd110800000000000000
+      internalID: 1287921098735197933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2090
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e4562afc02d1920800000000000000
+      internalID: 2962560206034521712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2095
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2450e1ea7f872f520800000000000000
+      internalID: 2734380928940770626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2091
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ceb3033378e5570800000000000000
+      internalID: 8457345804170685461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2091
+        width: 44
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f798932a83b5a4b90800000000000000
+      internalID: -7256887550756157057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1942
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d78f5b46ab18c40800000000000000
+      internalID: 5512892360590654835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1946
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2fedb8fc083a1e0800000000000000
+      internalID: -2187763365078699266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1947
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6091243a73ff62800800000000000000
+      internalID: 587437415845730566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1944
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f2423772ca47d0800000000000000
+      internalID: -2933318390078312211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1830
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb19e11a690d9a00800000000000000
+      internalID: 764777862894525434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1833
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c21a332679bcf90800000000000000
+      internalID: -6932280753377956837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1842
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b036e3aee705620800000000000000
+      internalID: 2760846116112239494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1844
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d4dc0c7321ba4c0800000000000000
+      internalID: -4275303390590972545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1733
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebee1f03d5215700800000000000000
+      internalID: 527244219801070568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1730
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e1e160915b5f80800000000000000
+      internalID: -8116804222845852715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1725
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb758cca829b101b0800000000000000
+      internalID: -5692064869670955077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1736
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7666a8e62ddeed3f0800000000000000
+      internalID: -873999789609818521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1637
+        width: 112
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea73194e2a9edf0e0800000000000000
+      internalID: -2234372954277202002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1630
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be047faa910fdb0800000000000000
+      internalID: -4760276584047252702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1625
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb69402ae32df6360800000000000000
+      internalID: 7165176698617763515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1632
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d667cd46b2b70c10800000000000000
+      internalID: 2019779453957662424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1530
+        width: 115
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a66b437fa8412f70800000000000000
+      internalID: 9160683035439097510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1531
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e40f50622e2ffc90800000000000000
+      internalID: -7133932559550970652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1530
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094249fb52fe85e30800000000000000
+      internalID: 4492603573709055120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1508
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5c336df67fa300800000000000000
+      internalID: 265561733701852180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1395
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b1041fc1637b6e0800000000000000
+      internalID: -1821928026313581737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1394
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b403786d46798b0800000000000000
+      internalID: -5145533176693634293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1403
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f22d1f520e705cf0800000000000000
+      internalID: -265573829364079887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1409
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80015b4d3f148cc0800000000000000
+      internalID: -3709805844929380213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1285
+        width: 111
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8171645b3445113a0800000000000000
+      internalID: -6696478521142405352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1285
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e4673f731b3330800000000000000
+      internalID: 3691565756671388011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1277
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797e5a0105be710a0800000000000000
+      internalID: -6910796374067517545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1306
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f18e8e9ffc63fe0800000000000000
+      internalID: -1209550777641066710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1156
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920f8b148b8054c30800000000000000
+      internalID: 4342887003138355241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1155
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448b9a4337c778480800000000000000
+      internalID: -8897005704600504252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1155
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60860091eaf28280800000000000000
+      internalID: -9042389255115603858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1156
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb416bf9a7394e580800000000000000
+      internalID: -8798745617100303173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1156
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c48145368ae853b0800000000000000
+      internalID: -5523407080829909821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1052
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1848c59071eb40f60800000000000000
+      internalID: 7999727844267426945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1078
+        width: 123
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9994c4cc90ddb4cd0800000000000000
+      internalID: -2572719727960110695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 903
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404edaf8f289c9680800000000000000
+      internalID: -8746949046218923004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 900
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b013eb37fac4040800000000000000
+      internalID: 4633271028304382843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 927
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f6ac45aab9d3eb0800000000000000
+      internalID: -4738460077054595294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 767
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896e4587ddf99c2a0800000000000000
+      internalID: -6716661595690965352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 776
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334d3ad135788070800000000000000
+      internalID: 8108859986055873330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 779
+        width: 142
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a6b23719f7ced10800000000000000
+      internalID: 2156238584282835470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 622
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d4311b74fc4530800000000000000
+      internalID: 3840713391647020689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 624
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da1e8690cb77350800000000000000
+      internalID: 6014482575976934767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 487
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84d70d2c097ddf00800000000000000
+      internalID: 1143202973624030346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 485
+        width: 121
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c73aee6d6b7bc950800000000000000
+      internalID: 6470400999590344649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 347
+        width: 65
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0279bbd0600f170800000000000000
+      internalID: 8210068776747999480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 347
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667aca8ece14f0400800000000000000
+      internalID: 292524986574088038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 204
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995cc38683d2fa8d0800000000000000
+      internalID: -2832995920302520935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahseen_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 235
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1296149c913471a80800000000000000
+      internalID: -8496248393981400799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
