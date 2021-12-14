@@ -2,9 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[System.Serializable]
-public class Character
+[CreateAssetMenu(fileName ="Character", menuName ="Character")]
+public class Character : ScriptableObject
 {
-    public string characterName;
-    public Sprite characterSprite;
+    [SerializeField] private string characterName = default;
+    [SerializeField ] private GameObject characterPrefab = default;
+
+    public string CharacterName => characterName;
+    public GameObject CharacterPrefab => characterPrefab;
 }
