@@ -68,6 +68,9 @@ public class GameManager : MonoBehaviourPunCallbacks
         SceneManager.LoadScene("RoomScene", LoadSceneMode.Single);
     }
 
+    /**
+     * When a room has been joined
+     */
     public override void OnJoinedRoom()
     {
         Debug.Log("joined room");
