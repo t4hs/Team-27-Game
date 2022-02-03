@@ -25,7 +25,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     {
         PhotonNetwork.ConnectUsingSettings();
         createRoomButton.onClick.AddListener(()=>{
-            this.CreateRoom(roomNameField.text);
+            this.CreateRoom(roomNameField.text, userNameField.text);
         });
         joinRoomButton.onClick.AddListener(()=>{
             this.joinRoom(roomNameField.text);
@@ -44,11 +44,12 @@ public class GameManager : MonoBehaviourPunCallbacks
         Debug.Log("Joined lobby");
     }
 
-    public void CreateRoom(string roomName)
+    public void CreateRoom(string roomName, string playerName)
     {
         RoomOptions options = new RoomOptions();
         options.IsVisible  = false;
         options.MaxPlayers = this.MaxPlayers;
+        PhotonNetwork.NickName = playerName;
         PhotonNetwork.CreateRoom(roomName, options, null);
     }
 
