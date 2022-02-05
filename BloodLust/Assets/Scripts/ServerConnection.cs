@@ -5,7 +5,7 @@ using Photon.Pun;
 using Photon.Realtime;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-public class GameManager : MonoBehaviourPunCallbacks
+public class ServerConnection : MonoBehaviourPunCallbacks
 {
 
     [SerializeField]
