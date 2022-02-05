@@ -19,13 +19,14 @@ public class GameManager : MonoBehaviourPunCallbacks
     void Start()
     {
         connectButton.onClick.AddListener(()=>{
-            if(userNameField.text.Length >= 1)
+            if(userNameField.text.Length >= 1 && !PhotonNetwork.IsConnected)
             {
                 PhotonNetwork.NickName = userNameField.text;
                 Debug.Log("connecting to the server");
+                PhotonNetwork.AutomaticallySyncScene = true;
                 PhotonNetwork.ConnectUsingSettings();
             }
-        });
+            });
     }
 
 
@@ -37,7 +38,7 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     public override void OnJoinedLobby()
     {
-        SceneManager.LoadScene("LobbyScene", LoadSceneMode.Single);
+        SceneManager.LoadScene("LobbyScene");
         Debug.Log("Joined lobby");
     }
 
