@@ -283,7 +283,7 @@ GameObject:
   - component: {fileID: 582961722}
   - component: {fileID: 582961723}
   m_Layer: 0
-  m_Name: GameManager
+  m_Name: ServerConnection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -317,7 +317,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   userNameField: {fileID: 1171266478}
   connectButton: {fileID: 690925916}
-  MaxPlayers: 2
 --- !u!1 &690925914
 GameObject:
   m_ObjectHideFlags: 0
