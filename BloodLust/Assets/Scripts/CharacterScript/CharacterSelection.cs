@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Photon.Pun;
+using Photon.Realtime;
 
-public class CharacterSelection : MonoBehaviour
+public class CharacterSelection : MonoBehaviourPunCallbacks
 {
     [SerializeField] private Character[] characters = default;
     [SerializeField] private Text characterName = default;
@@ -11,6 +13,8 @@ public class CharacterSelection : MonoBehaviour
     private int currentCharacter = 0;    
     void Start()
     {
+        PhotonNetwork.AutomaticallySyncScene = true;
+
         foreach (var character in characters)
         {
             GameObject characterInstance = Instantiate(character.CharacterPrefab);

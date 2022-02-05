@@ -20,14 +20,24 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     {
         createRoomButton.onClick.AddListener(()=>{
             this.CreateRoom(roomNameInput.text);
-        });
+            });
 
         joinRoomButton.onClick.AddListener(()=>{
             this.JoinRoom(roomNameInput.text);
-        });
+            });
     }
 
     // Update is called once per frame
+    private void Update()
+    {
+        if(PhotonNetwork.IsMasterClient && PhotonNetwork.CurrentRoom.PlayerCount == this.maxPlayers)
+        {
+            Debug.Log("Joining the character Scene");
+            PhotonNetwork.LoadLevel("CharacterScene");
+            PhotonNetwork.AutomaticallySyncScene = false;
+        }
+    }
+
     public void JoinRoom(string roomName)
     {
         PhotonNetwork.JoinRoom(roomName);
@@ -46,11 +56,6 @@ public class LobbyManager : MonoBehaviourPunCallbacks
         roomPanel.SetActive(true);
         this.roomName.text+= ": " + PhotonNetwork.CurrentRoom.Name;
         Debug.Log("joined room");
-        if(PhotonNetwork.CurrentRoom.PlayerCount == this.maxPlayers)
-        {
-            Debug.Log("heading to character selection");
-            SceneManager.LoadScene("CharacterScene", LoadSceneMode.Single);
-        }
     }
 
     public override void OnCreatedRoom()
