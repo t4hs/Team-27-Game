@@ -1,6 +1,9 @@
 BloodLust/[Ll]ibrary/
 BloodLust/[Tt]emp/
-BloodLust/[Ll]ogs
+BloodLust/[Ll]ogs/
+BloodLust_copy/[Ll]ibrary
+BloodLust_copy/[Ll]ogs
+BloodLust_copy/[Tt]emp
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
