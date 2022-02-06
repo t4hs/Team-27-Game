@@ -28,13 +28,12 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     }
 
     // Update is called once per frame
-    private void Update()
+    public override void OnPlayerEnteredRoom(Player newPlayer)
     {
-        if(PhotonNetwork.IsMasterClient && PhotonNetwork.CurrentRoom.PlayerCount == this.maxPlayers)
+        base.OnPlayerEnteredRoom(newPlayer);
+        if(PhotonNetwork.CurrentRoom.PlayerCount == this.maxPlayers && PhotonNetwork.IsMasterClient)
         {
-            Debug.Log("Joining the character Scene");
             PhotonNetwork.LoadLevel("CharacterScene");
-            PhotonNetwork.AutomaticallySyncScene = false;
         }
     }
 
@@ -61,7 +60,6 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     public override void OnCreatedRoom()
     {
         Debug.Log("Created room");
-
     }
 
     public override void OnJoinRoomFailed(short returnCode, string message)

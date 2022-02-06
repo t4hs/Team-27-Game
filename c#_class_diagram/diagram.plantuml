@@ -1,0 +1,88 @@
+@startuml diagram
+
+
+class Character implements IComparable{
+    +characterName: string
+    +characterPrefab: GameObject
+    +health: Health
+    +energy: Energy
+    +healthBar: HealthBar
+    +energyBar: EnergyBar
+
+    +Grapple()
+    +Attack()
+    +Counter()
+    +Dodge()
+    +Heal()
+    -UpdateHealthBar(health: Health)
+    -UpdateEnergyBar(energy: Energy)
+    +CompareTo(anotherCharacter: Character): int
+}
+
+
+class BloodLustPlayer extends Player{
+    -score: int
+    -character: Character
+    -isWinner: Boolean = false
+    -card: Card
+    
+    +BloodLustPlayer(character: Character)
+    +SetScore(score: int)
+    +GetScore(): int
+    +SetWinner(isWinner: Boolean): void
+    +IsWinner(): Boolean
+    +SetChosenCard(card: Card)
+    +GetChosenCard(): Card
+}
+
+class Card{
+    +type: String
+    +damageAmount: int
+    +artwork: Sprite
+}
+
+class Energy{
+    -maxEnergy: int
+    -currentEnergy: int
+
+    +AddSkillPoints(combo: int)
+}
+
+class Health{
+    +maxHealth: int
+    +currentHealth: int
+    +ReduceHealth(damageAmount: int)
+    +Heal(healAmount: int)
+}
+
+class EnergyBar{
+    +energy: Energy
+    +fillImage: Image
+    +slider: Slider
+}
+
+class HealthBar{
+    +health: Health
+    +fillImage: Image
+    +slider: Slider
+    +colour: Colour
+}
+
+class GameManager{
+    
+    -Start()
+    -Update()
+    +HandleCardSelection()
+    +CompareCardTypes()
+    +CompareDamage(): int
+    
+}
+
+BloodLustPlayer --> Character: uses
+Health --> HealthBar: uses
+Energy --> EnergyBar: uses
+Energy -right- Health: associated with
+Player -left-> Card: uses
+
+
+@enduml
