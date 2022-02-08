@@ -53,7 +53,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     {
         lobbyPanel.SetActive(false);
         roomPanel.SetActive(true);
-        this.roomName.text+= ": " + PhotonNetwork.CurrentRoom.Name;
+        this.roomName.text = ": " + PhotonNetwork.CurrentRoom.Name;
         Debug.Log("joined room");
     }
 
