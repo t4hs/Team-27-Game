@@ -20,13 +20,13 @@ public class damageHandler : MonoBehaviour
     {
 
     }
-    void dealDamage(Player player, int dmg)
+    /*void dealDamage(Player player, int dmg)
     {
         player.health -= dmg;
     }
     void heal(Player player, int value)
     {
         player.health += value;
-    }
+    }*/
 
 }
