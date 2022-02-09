@@ -1,7 +1,7 @@
 @startuml diagram
 
 
-class Character implements IComparable{
+class Character{
     +characterName: string
     +characterPrefab: GameObject
     +health: Health
@@ -16,7 +16,6 @@ class Character implements IComparable{
     +Heal()
     -UpdateHealthBar(health: Health)
     -UpdateEnergyBar(energy: Energy)
-    +CompareTo(anotherCharacter: Character): int
 }
 
 
@@ -24,21 +23,22 @@ class BloodLustPlayer extends Player{
     -score: int
     -character: Character
     -isWinner: Boolean = false
-    -card: Card
-    
-    +BloodLustPlayer(character: Character)
+    -hand: List<Card>
+        
+    +BloodLustPlayer(NickName: string, actorNumber: int, isLocal: Boolean)
+    +generateCard()
     +SetScore(score: int)
     +GetScore(): int
     +SetWinner(isWinner: Boolean): void
     +IsWinner(): Boolean
-    +SetChosenCard(card: Card)
-    +GetChosenCard(): Card
 }
 
-class Card{
+class Card implements IComparable{
     +type: String
     +damageAmount: int
     +artwork: Sprite
+    +CompareTo(anotherCharacter: Character): int
+
 }
 
 class Energy{
