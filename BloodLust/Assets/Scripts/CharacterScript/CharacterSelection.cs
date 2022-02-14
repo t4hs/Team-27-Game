@@ -26,6 +26,8 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
     {
         currentCharacter = UnityEngine.Random.Range(0,characters.Length);
         OnCharacterSelected+=OnChosenCharacter;
+        DontDestroyOnLoad(player1Prefab.gameObject);
+        DontDestroyOnLoad(player2Prefab.gameObject);
     }
 
 
