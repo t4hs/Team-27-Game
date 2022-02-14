@@ -1,7 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class Card : MonoBehaviour
+using System;
+public class Card : MonoBehaviour,IComparable<Card>
 {
     public string type;
     public int damage;
@@ -14,8 +15,8 @@ public class Card : MonoBehaviour
 
     public void Awake()
     {
-       damage = Random.Range(500, 900);
-       rndType = Random.Range(0, 4);
+       damage = UnityEngine.Random.Range(500, 900);
+       rndType = UnityEngine.Random.Range(0, 4);
    }
 
     // Start is called before the first frame update
@@ -39,5 +40,13 @@ public class Card : MonoBehaviour
     else if (rndType == 3) type = "grapple";
     else if (rndType == 4) type = "heal";
 }
+
+    public int CompareTo(Card otherCard)
+    {
+        //ToDo implement card comparison
+        return 0;
+    }
+
+
 
 }
