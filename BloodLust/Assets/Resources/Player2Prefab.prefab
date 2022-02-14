@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6689980297670497801}
   - component: {fileID: 8460543244601940679}
   - component: {fileID: -4331601627701518502}
+  - component: {fileID: -6992827501319692268}
   m_Layer: 5
   m_Name: Player2Prefab
   m_TagString: Untagged

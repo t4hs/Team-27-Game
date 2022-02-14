@@ -16,13 +16,18 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
     private List<GameObject> characterInstances = new List<GameObject>();    
     private int currentCharacter;
     private BloodLustPlayer player1, player2;
-
+    [SerializeField] private Button PlayerReadyButton;
+    [SerializeField] private Button selectButton;
     public event Action<Character> OnCharacterSelected;
+    private Player player;
+    private ExitGames.Client.Photon.Hashtable customProps = new ExitGames.Client.Photon.Hashtable();
 
     public void Awake()
     {
         currentCharacter = UnityEngine.Random.Range(0,characters.Length);
         OnCharacterSelected+=OnChosenCharacter;
+        DontDestroyOnLoad(player1Prefab.gameObject);
+        DontDestroyOnLoad(player2Prefab.gameObject);
     }
 
 
@@ -33,17 +38,76 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
 
     private void OnChosenCharacter(Character chosenCharacter)
     {
-        if(PhotonNetwork.IsConnected)
+        if(PhotonNetwork.IsMasterClient)
         {
+            player1.ChosenCharacter = chosenCharacter;
+            player1.CharacterName = chosenCharacter.CharacterName;
+            Debug.LogFormat("{0} has selected {1}", player1.NickName, player1.CharacterName);
+            customProps["chosenCharacter"] = currentCharacter;
+            player.SetCustomProperties(customProps);
+        }else
+        {
+            player2.ChosenCharacter = chosenCharacter;
+            player2.CharacterName = chosenCharacter.CharacterName;
+            Debug.LogFormat("{0} has selected {1}", player2.NickName, player2.CharacterName);
+            customProps["chosenCharacter"] = currentCharacter;
+            player.SetCustomProperties(customProps);
+        }
+    }
+
+        void Start()
+        {
+
+            PlayerReadyButton.gameObject.SetActive(false);
+
+            if(PhotonNetwork.IsConnected)
+            {
+                InstanciatePrefabs();
+            }
+
+            PlayerReadyButton.onClick.AddListener(()=>{
+                OnPlayerPressed();
+                });
+        }
+
+        public void OnPlayerPressed()
+        {
+           if(PhotonNetwork.IsConnected)
+           {
+            Debug.LogFormat("heading to the chatadcter scene");
+            PhotonNetwork.LoadLevel("GameScene");
+        }
+    }
+
+    void Update()
+    {
+        if(FighterReady() && PhotonNetwork.IsMasterClient)
+        {
+            PlayerReadyButton.gameObject.SetActive(true);
+            selectButton.gameObject.SetActive(false);
+        }
+    }
+
+    public void InstanciatePrefabs()
+    {
+            player = PhotonNetwork.LocalPlayer;
+
             if(PhotonNetwork.IsMasterClient)
             {
-                player1.SetCharacter(chosenCharacter);
-                Debug.LogFormat("{0} chose {1}", player1.NickName, player1.GetCharacter().CharacterName);
-                }else
-                {
-                    player2.SetCharacter(chosenCharacter);
-                    Debug.LogFormat("{0} chose {1}", player2.NickName, player2.GetCharacter().CharacterName);
-                }
+                player1 = player1Prefab.GetComponent<BloodLustPlayer>();
+                player1.PlayerId = player.ActorNumber;
+                player1.NickName = player.NickName;
+                player1Prefab.GetComponent<Text>().text = player1.NickName;
+                GameObject go = Instantiate(player1Prefab);
+                go.transform.SetParent(playerListing.transform,false);
+            }else
+            {
+                player2 = player2Prefab.GetComponent<BloodLustPlayer>();
+                player2.PlayerId = player.ActorNumber;
+                player2.NickName = player.NickName;
+                player2Prefab.GetComponent<Text>().text = player2.NickName;
+                GameObject go = Instantiate(player2Prefab);
+                go.transform.SetParent(playerListing.transform,false);
             }
 
             //ToDo event when both players have chosen a character
@@ -89,10 +153,19 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
                 {
                     GameObject characterInstance = Instantiate(character.CharacterPrefab);
 
-                    characterInstance.SetActive(false);
-
-                    characterInstances.Add(characterInstance);
+        public bool FighterReady()
+        {
+            bool fighterSelected = true;
+            foreach(Player player in PhotonNetwork.PlayerList)
+            {
+                if(!player.CustomProperties.ContainsKey("chosenCharacter"))
+                {
+                    fighterSelected = false;
                 }
+            }
+
+            return fighterSelected;
+        }
 
                 characterInstances[currentCharacter].SetActive(true);
                 characterName.text = characters[currentCharacter].CharacterName;
@@ -109,23 +182,9 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
             }
 
 
-            public void Back()
-            {
-                characterInstances[currentCharacter].SetActive(false);
+        public void CharacterSelected()
+        {
+           OnCharacterSelected(characters[currentCharacter]);
+       }
 
-                currentCharacter--;
-                if(currentCharacter < 0)
-                {
-                    currentCharacter += characterInstances.Count;
-                }
-
-                characterInstances[currentCharacter].SetActive(true);
-                characterName.text = characters[currentCharacter].CharacterName;
-            }
-
-            public void CharacterSelected()
-            {
-             OnCharacterSelected(characters[currentCharacter]);
-         }
-
-     }
+   }
