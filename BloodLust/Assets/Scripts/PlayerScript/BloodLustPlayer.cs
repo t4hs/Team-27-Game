@@ -15,15 +15,6 @@ public class BloodLustPlayer : MonoBehaviourPunCallbacks {
     [SerializeField] private int playerId;
     private bool isLocal;
 
-    /*public BloodLustPlayer(string NickName, int actorNumber, bool isLocal)
-    {
-        this.playerName = NickName;
-        this.playerId = actorNumber;
-        this.isLocal = isLocal;
-        this.score = 0;
-        GenerateCards();
-    }*/
-
     public int PlayerId
     {
         set{this.playerId = value; }
@@ -43,15 +34,11 @@ public class BloodLustPlayer : MonoBehaviourPunCallbacks {
         get{ return this.isLocal; }
     }
 
-    public void SetCharacter(Character chosenCharacter)
+    public Character ChosenCharacter
     {
-        character = chosenCharacter;
-        CharacterName = character.CharacterName;
-    }
+        set{this.character = value;}
 
-    public Character GetCharacter()
-    {
-        return character;
+        get{return this.character;}
     }
 
     public string CharacterName
