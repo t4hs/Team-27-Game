@@ -51,9 +51,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfc326384f9ee7be4b6a042bf6ac7d1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerName: 
-  characterName: 
-  playerId: 0
+  playerName: jojo
+  characterName: Dorian
+  playerId: 2
 --- !u!222 &8460543244601940679
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -95,7 +95,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Player Name
+  m_Text: jojo
 --- !u!114 &-6992827501319692268
 MonoBehaviour:
   m_ObjectHideFlags: 0
