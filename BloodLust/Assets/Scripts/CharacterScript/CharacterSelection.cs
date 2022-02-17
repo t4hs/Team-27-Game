@@ -108,28 +108,48 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
                 go.transform.SetParent(playerListing.transform,false);
             }
 
-            foreach (var character in characters)
-            {
-                GameObject characterInstance = Instantiate(character.CharacterPrefab);
-
-                characterInstance.SetActive(false);
-
-                characterInstances.Add(characterInstance);
-            }
-
-            characterInstances[currentCharacter].SetActive(true);
-            characterName.text = characters[currentCharacter].CharacterName;
+            //ToDo event when both players have chosen a character
         }
 
-        public void Next()
+        void Start()
         {
-            characterInstances[currentCharacter].SetActive(false);
 
-            currentCharacter = (currentCharacter + 1)% characterInstances.Count;
-
-            characterInstances[currentCharacter].SetActive(true);
-            characterName.text = characters[currentCharacter].CharacterName;
+            if(PhotonNetwork.IsConnected)
+            {
+                InstanciatePrefabs();
+            }
         }
+
+        public void InstanciatePrefabs()
+        {
+            foreach(KeyValuePair<int, Player> player in PhotonNetwork.CurrentRoom.Players)
+            {
+                if(PhotonNetwork.IsMasterClient)
+                {
+                    player1 = player1Prefab.GetComponent<BloodLustPlayer>();
+                    player1.NickName = player.Value.NickName;
+                    player1.IsLocal = player.Value.IsLocal;
+                    player1.PlayerId = player.Value.ActorNumber;
+                    player1Prefab.GetComponent<Text>().text = player1.NickName;
+                    GameObject Go = Instantiate(player1Prefab);
+                    Go.transform.SetParent(GameObject.Find("PlayerListing").transform, false);
+                    break;
+                    }else
+                    {
+                        player2 = player2Prefab.GetComponent<BloodLustPlayer>();
+                        player2.NickName = player.Value.NickName;
+                        player2.IsLocal = player.Value.IsLocal;
+                        player2.PlayerId = player.Value.ActorNumber;
+                        player2Prefab.GetComponent<Text>().text = player2.NickName;
+                        GameObject Go = Instantiate(player2Prefab);
+                        Go.transform.SetParent(GameObject.Find("PlayerListing").transform, false);
+                        break;
+                    }
+                }
+
+                foreach (var character in characters)
+                {
+                    GameObject characterInstance = Instantiate(character.CharacterPrefab);
 
         public bool FighterReady()
         {
@@ -145,19 +165,20 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
             return fighterSelected;
         }
 
-        public void Back()
-        {
-            characterInstances[currentCharacter].SetActive(false);
-
-            currentCharacter--;
-            if(currentCharacter < 0)
-            {
-                currentCharacter += characterInstances.Count;
+                characterInstances[currentCharacter].SetActive(true);
+                characterName.text = characters[currentCharacter].CharacterName;
             }
 
-            characterInstances[currentCharacter].SetActive(true);
-            characterName.text = characters[currentCharacter].CharacterName;
-        }
+            public void Next()
+            {
+                characterInstances[currentCharacter].SetActive(false);
+
+                currentCharacter = (currentCharacter + 1)% characterInstances.Count;
+
+                characterInstances[currentCharacter].SetActive(true);
+                characterName.text = characters[currentCharacter].CharacterName;
+            }
+
 
         public void CharacterSelected()
         {
