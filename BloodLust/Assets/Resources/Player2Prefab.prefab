@@ -52,7 +52,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerName: jojo
-  characterName: Dorian
+  characterName: Kate
   playerId: 2
 --- !u!222 &8460543244601940679
 CanvasRenderer:
