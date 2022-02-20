@@ -4,40 +4,31 @@ using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
+using System.IO;
 
 public class GameManager : MonoBehaviourPunCallbacks
 {
     public static GameManager instance;
     public GameState state { get; private set; }
-    private GameObject player1Prefab, player2Prefab;
-    [SerializeField] private Character[] characters = default;
-    [SerializeField] private GameObject handGO;
+    private GameObject playerPrefab;
+    public Transform[] spawnPoints;
+    private int spawnPicker;
+    PhotonView pV;
 
     public void Awake()
     {
-        instance = this;
+        if(instance == null)
+        {
+            instance = this;
+        }
         DontDestroyOnLoad(transform.gameObject);
-        player1Prefab = Resources.Load<GameObject>("player1Prefab");
-        player2Prefab = Resources.Load<GameObject>("player2Prefab");
     }
 
+    // Load the player prefab for each client
     public void Start()
     {
-        changeState(GameState.CharacterSelection);
-        if(PhotonNetwork.IsConnected)
-        {
-            if(PhotonNetwork.IsMasterClient)
-            {
-                Player player = PhotonNetwork.LocalPlayer;
-                int currentCharacter = (int)player.CustomProperties["chosenCharacter"];
-
-                GameObject p1 = PhotonNetwork.Instantiate(player1Prefab.name, new Vector3(0,150,0), Quaternion.identity);
-            }
-            else
-            {
-                GameObject p2 = PhotonNetwork.Instantiate(player2Prefab.name, new Vector3(-80,150,0), Quaternion.identity);
-            }
-        }
+        playerPrefab = Resources.Load("PlayerPrefab") as GameObject;
+        changeState(GameState.GameSetup);
     }
 
 
@@ -47,9 +38,6 @@ public class GameManager : MonoBehaviourPunCallbacks
         this.state = state;
         switch (state)
         {
-            case GameState.CharacterSelection:
-                //HandleCharacterSelection();
-                break;
             case GameState.GameSetup:
                 HandleGameSetup();
                 break;
@@ -64,21 +52,34 @@ public class GameManager : MonoBehaviourPunCallbacks
         }
     }
 
-    public void HandleCharacterSelection()
-    {
-        //Load character selection scene, you can also have the UI in the same scene as the game
-        changeState(GameState.GameSetup);
-    }
+
 
     public void HandleGameSetup()
     {
-        //set up relevant cards
+        //set up relevant cards and spawn the player characters
+        if(PhotonNetwork.IsConnected)
+        {
+           if(PhotonNetwork.IsMasterClient)
+           {
+                spawnPicker = 0;
+                Fighter fighter = playerPrefab.GetComponent<Fighter>();
+                GameObject characterPrefab = fighter.ChosenCharacter.CharacterPrefab;
+                GameObject fighterGo = PhotonNetwork.Instantiate(characterPrefab.name, spawnPoints[spawnPicker]
+                    .position, spawnPoints[spawnPicker].rotation,0);
+           }else
+           {
+                spawnPicker = 1;
+                Fighter otherFighter = playerPrefab.GetComponent<Fighter>();
+                GameObject characterPrefab = otherFighter.ChosenCharacter.CharacterPrefab;
+                GameObject fighterGo = PhotonNetwork.Instantiate(characterPrefab.name, spawnPoints[spawnPicker]
+                    .position, spawnPoints[spawnPicker].rotation,0);
+           }
+        }
     }
 }
 
 public enum GameState
 {
-    CharacterSelection,
     GameSetup,
     WaitingInput,
     Player1Win,
