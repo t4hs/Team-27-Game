@@ -11,11 +11,11 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
 {
     [SerializeField] private Character[] characters = default;
     [SerializeField] private Text characterName = default;
-    [SerializeField] private GameObject player1Prefab, player2Prefab;
+    [SerializeField] private GameObject playerPrefab;
     [SerializeField] private GameObject playerListing;
     private List<GameObject> characterInstances = new List<GameObject>();    
     private int currentCharacter;
-    private BloodLustPlayer player1, player2;
+    private Fighter player1, player2;
     [SerializeField] private Button PlayerReadyButton;
     [SerializeField] private Button selectButton;
     public event Action<Character> OnCharacterSelected;
@@ -34,25 +34,25 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
         OnCharacterSelected-=OnChosenCharacter;
     }
 
+    //Event handler for a character selection
     private void OnChosenCharacter(Character chosenCharacter)
     {
         if(PhotonNetwork.IsMasterClient)
         {
-            player1.ChosenCharacter = chosenCharacter;
-            player1.CharacterName = chosenCharacter.CharacterName;
+            player1.AssignCharacters(chosenCharacter);
             Debug.LogFormat("{0} has selected {1}", player1.NickName, player1.CharacterName);
             customProps["chosenCharacter"] = currentCharacter;
             player.SetCustomProperties(customProps);
         }else
         {
-            player2.ChosenCharacter = chosenCharacter;
-            player2.CharacterName = chosenCharacter.CharacterName;
+            player2.AssignCharacters(chosenCharacter);
             Debug.LogFormat("{0} has selected {1}", player2.NickName, player2.CharacterName);
             customProps["chosenCharacter"] = currentCharacter;
             player.SetCustomProperties(customProps);
         }
     }
 
+        // Instanciate all the characters prefabs
         void Start()
         {
 
@@ -77,6 +77,7 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
         }
     }
 
+    //For each frame the client checks if every player owns a character
     void Update()
     {
         if(FighterReady() && PhotonNetwork.IsMasterClient)
@@ -92,19 +93,17 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
 
             if(PhotonNetwork.IsMasterClient)
             {
-                player1 = player1Prefab.GetComponent<BloodLustPlayer>();
-                player1.PlayerId = player.ActorNumber;
-                player1.NickName = player.NickName;
-                player1Prefab.GetComponent<Text>().text = player1.NickName;
-                GameObject go = Instantiate(player1Prefab);
+                player1 = playerPrefab.GetComponent<Fighter>();
+                player1.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
+                playerPrefab.GetComponent<Text>().text = player1.NickName;
+                GameObject go = Instantiate(playerPrefab);
                 go.transform.SetParent(playerListing.transform,false);
             }else
             {
-                player2 = player2Prefab.GetComponent<BloodLustPlayer>();
-                player2.PlayerId = player.ActorNumber;
-                player2.NickName = player.NickName;
-                player2Prefab.GetComponent<Text>().text = player2.NickName;
-                GameObject go = Instantiate(player2Prefab);
+                player2 = playerPrefab.GetComponent<Fighter>();
+                player2.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
+                playerPrefab.GetComponent<Text>().text = player2.NickName;
+                GameObject go = Instantiate(playerPrefab);
                 go.transform.SetParent(playerListing.transform,false);
             }
 
@@ -180,6 +179,8 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
             }
 
 
+        //Call the OnCharacterSelected callback after the player chosen
+        //His character
         public void CharacterSelected()
         {
            OnCharacterSelected(characters[currentCharacter]);
