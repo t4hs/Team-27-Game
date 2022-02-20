@@ -89,66 +89,53 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
 
     public void InstanciatePrefabs()
     {
-            player = PhotonNetwork.LocalPlayer;
+        player = PhotonNetwork.LocalPlayer;
+        if(PhotonNetwork.IsMasterClient)
+        {
+            player1 = playerPrefab.GetComponent<Fighter>();
+            player1.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
+            playerPrefab.GetComponent<Text>().text = player1.NickName;
+            GameObject go = Instantiate(playerPrefab);
+            go.transform.SetParent(playerListing.transform,false);
+        }else
+        {
+            player2 = playerPrefab.GetComponent<Fighter>();
+            player2.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
+            playerPrefab.GetComponent<Text>().text = player2.NickName;
+            GameObject go = Instantiate(playerPrefab);
+            go.transform.SetParent(playerListing.transform,false);
+        }
 
-            if(PhotonNetwork.IsMasterClient)
+            foreach (var character in characters)
             {
-                player1 = playerPrefab.GetComponent<Fighter>();
-                player1.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
-                playerPrefab.GetComponent<Text>().text = player1.NickName;
-                GameObject go = Instantiate(playerPrefab);
-                go.transform.SetParent(playerListing.transform,false);
-            }else
-            {
-                player2 = playerPrefab.GetComponent<Fighter>();
-                player2.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
-                playerPrefab.GetComponent<Text>().text = player2.NickName;
-                GameObject go = Instantiate(playerPrefab);
-                go.transform.SetParent(playerListing.transform,false);
+                GameObject characterInstance = Instantiate(character.CharacterPrefab);
+                characterInstance.SetActive(false);
+                characterInstances.Add(characterInstance);
             }
-
+            characterInstances[currentCharacter].SetActive(true);
+            characterName.text = characters[currentCharacter].CharacterName;
             //ToDo event when both players have chosen a character
         }
 
-        void Start()
+        public void Next()
         {
-
-            if(PhotonNetwork.IsConnected)
-            {
-                InstanciatePrefabs();
-            }
+            characterInstances[currentCharacter].SetActive(false);
+            currentCharacter = (currentCharacter + 1)% characterInstances.Count;
+            characterInstances[currentCharacter].SetActive(true);
+            characterName.text = characters[currentCharacter].CharacterName;
         }
 
-        public void InstanciatePrefabs()
+        public void Back()
         {
-            foreach(KeyValuePair<int, Player> player in PhotonNetwork.CurrentRoom.Players)
+            characterInstances[currentCharacter].SetActive(false);
+            currentCharacter--;
+            if(currentCharacter < 0)
             {
-                if(PhotonNetwork.IsMasterClient)
-                {
-                    player1 = player1Prefab.GetComponent<BloodLustPlayer>();
-                    player1.NickName = player.Value.NickName;
-                    player1.IsLocal = player.Value.IsLocal;
-                    player1.PlayerId = player.Value.ActorNumber;
-                    player1Prefab.GetComponent<Text>().text = player1.NickName;
-                    GameObject Go = Instantiate(player1Prefab);
-                    Go.transform.SetParent(GameObject.Find("PlayerListing").transform, false);
-                    break;
-                    }else
-                    {
-                        player2 = player2Prefab.GetComponent<BloodLustPlayer>();
-                        player2.NickName = player.Value.NickName;
-                        player2.IsLocal = player.Value.IsLocal;
-                        player2.PlayerId = player.Value.ActorNumber;
-                        player2Prefab.GetComponent<Text>().text = player2.NickName;
-                        GameObject Go = Instantiate(player2Prefab);
-                        Go.transform.SetParent(GameObject.Find("PlayerListing").transform, false);
-                        break;
-                    }
-                }
-
-                foreach (var character in characters)
-                {
-                    GameObject characterInstance = Instantiate(character.CharacterPrefab);
+                currentCharacter = characterInstances.Count -1;
+            }
+            characterInstances[currentCharacter].SetActive(true);
+            characterName.text = characters[currentCharacter].CharacterName;
+        }
 
         public bool FighterReady()
         {
@@ -163,21 +150,6 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
 
             return fighterSelected;
         }
-
-                characterInstances[currentCharacter].SetActive(true);
-                characterName.text = characters[currentCharacter].CharacterName;
-            }
-
-            public void Next()
-            {
-                characterInstances[currentCharacter].SetActive(false);
-
-                currentCharacter = (currentCharacter + 1)% characterInstances.Count;
-
-                characterInstances[currentCharacter].SetActive(true);
-                characterName.text = characters[currentCharacter].CharacterName;
-            }
-
 
         //Call the OnCharacterSelected callback after the player chosen
         //His character
