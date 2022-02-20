@@ -4,7 +4,7 @@ using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
 
-public class BloodLustPlayer : MonoBehaviourPunCallbacks {
+public class Fighter : MonoBehaviourPunCallbacks {
 
     private int score = 0;
     private Character character;
@@ -14,6 +14,20 @@ public class BloodLustPlayer : MonoBehaviourPunCallbacks {
     [SerializeField] private string characterName;
     [SerializeField] private int playerId;
     private bool isLocal;
+
+    //Assign character to players
+    public void AssignCharacters(Character character)
+    {
+        ChosenCharacter = character;
+    }
+
+    //Assign players attributes to players
+    public void AssignPlayers(string playerName, int actorNumber, bool isLocal)
+    {
+        NickName = playerName;
+        PlayerId = actorNumber;
+        IsLocal = isLocal;
+    }
 
     public int PlayerId
     {
@@ -36,7 +50,10 @@ public class BloodLustPlayer : MonoBehaviourPunCallbacks {
 
     public Character ChosenCharacter
     {
-        set{this.character = value;}
+        set{
+            this.character = value;
+            CharacterName = this.character.CharacterName;
+        }
 
         get{return this.character;}
     }
@@ -58,22 +75,13 @@ public class BloodLustPlayer : MonoBehaviourPunCallbacks {
         return this.score;
     }
 
-    public void GenerateCards()
-    {
-        hand = new List<Card>();
-
-        while(hand.Count < 8)
-        {
-            Card card = new Card();
-            hand.Add(card);
-        }
-    }
-
+    //Set the winner when someone has 0 Hp
     public void SetWinner(bool winner)
     {
         this.isWinner = winner;
     }
 
+    //Check from the winner
     public bool IsWinner()
     {
         return this.isWinner;

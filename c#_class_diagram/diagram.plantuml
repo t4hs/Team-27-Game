@@ -19,14 +19,15 @@ class Character{
 }
 
 
-class BloodLustPlayer extends Player{
+class Fighter{
     -score: int
     -character: Character
     -isWinner: Boolean = false
     -hand: List<Card>
         
-    +BloodLustPlayer(NickName: string, actorNumber: int, isLocal: Boolean)
-    +generateCard()
+    +Fighter(NickName: string, actorNumber: int, isLocal: Boolean)
+    +SetCharacter(character: Character)
+    +GetCharacter(): Character
     +SetScore(score: int)
     +GetScore(): int
     +SetWinner(isWinner: Boolean): void
@@ -38,6 +39,7 @@ class Card implements IComparable{
     +damageAmount: int
     +artwork: Sprite
     +CompareTo(anotherCharacter: Character): int
+    +init(type: String, damageAmount: int, artwork: Sprite)
 
 }
 
@@ -68,21 +70,33 @@ class HealthBar{
     +colour: Colour
 }
 
-class GameManager{
-    
-    -Start()
-    -Update()
-    +HandleCardSelection()
-    +CompareCardTypes()
-    +CompareDamage(): int
-    
+class PlayerManager{
+    -playerPrefab: GameObject
+    -fighter: Fighter 
+  
+    -Update(): void
+    +HandleWinner(): string
+    +UpdatePlayerScore(point: int): void
+    +HandleCardSelection(card1: Card, card2: Card): void
+    +SetTurn(player: Player): void
+    +CheckDeath(player: Player): boolean
 }
 
-BloodLustPlayer --> Character: uses
+class GameManager{
+    -{static}instance: GameManager
+    -playerManagerObject: GameObject
+    
+    +ChangeState(state: GameState): void
+
+}
+
+GameManager -left-> PlayerManager:uses
+
+Fighter--> Character: uses
 Health --> HealthBar: uses
 Energy --> EnergyBar: uses
 Energy -right- Health: associated with
-Player -left-> Card: uses
+Fighter -left-> Card: uses
 
 
 @enduml

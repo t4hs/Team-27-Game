@@ -1,19 +1,45 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class PlayerManager : MonoBehaviour
+using Photon.Pun;
+using Photon.Realtime;
+public class PlayerManager : MonoBehaviourPunCallbacks
 {
-    
-    void Start()
+    [SerializeField] private GameObject playerPrefab;
+    Fighter figtherPlayer;
+
+    private void Start()
     {
-        
+        figtherPlayer = playerPrefab.GetComponent<Fighter>();
     }
-    
-    void Update()
+
+    private void Update()
     {
-        
+
     }
-    
-    
+
+    public string HandleWinner()
+    {
+        return null;
+    }
+
+    public void UpdatePlayerScore(int point)
+    {
+
+    }
+
+    public void HandleCardSelection(Card card1, Card card2)
+    {
+
+    }
+
+    public void SetTurn(Player player)
+    {
+
+    }
+
+    public bool CheckDeth(Player player)
+    {
+        return false;
+    }
 }
