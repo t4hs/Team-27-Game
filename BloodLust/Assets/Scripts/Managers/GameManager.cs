@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     private GameObject playerPrefab;
     public Transform[] spawnPoints;
     private int spawnPicker;
+    private ExitGames.Client.Photon.Hashtable roomProps = new ExitGames.Client.Photon.Hashtable();
     PhotonView pV;
 
     public void Awake()
@@ -29,6 +30,15 @@ public class GameManager : MonoBehaviourPunCallbacks
     {
         playerPrefab = Resources.Load("PlayerPrefab") as GameObject;
         changeState(GameState.GameSetup);
+    }
+
+    public void handleLogic()
+    {
+        if(PhotonNetwork.IsMasterClient)
+        {
+            //Todo handle player click
+
+        }
     }
 
 
