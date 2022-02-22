@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using System;
-public class Card : MonoBehaviour,IComparable<Card>
+public class Card : MonoBehaviour,IComparable<Card>, IPointerClickHandler
 {
     public string type;
     public int damage;
@@ -17,6 +18,12 @@ public class Card : MonoBehaviour,IComparable<Card>
     {
        damage = UnityEngine.Random.Range(500, 900);
        rndType = UnityEngine.Random.Range(0, 4);
+   }
+
+
+   public void OnPointerClick(PointerEventData data)
+   {
+        Debug.Log(data);
    }
 
     // Start is called before the first frame update
