@@ -42,11 +42,6 @@ public class GameManager : MonoBehaviourPunCallbacks
         ChangeState(GameState.GameStart);
     }
 
-    public void handleLogic()
-    {
-
-    }
-
     private void OnGameStateChange(GameState state)
     {
      this.state = state;
