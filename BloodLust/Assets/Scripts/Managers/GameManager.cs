@@ -11,9 +11,12 @@ public class GameManager : MonoBehaviourPunCallbacks
     public static GameManager instance;
     public GameState state { get; private set; }
     private GameObject playerPrefab;
-    public Transform[] spawnPoints;
-    private int spawnPicker;
+    [SerializeField] private GameObject playerManagerGo;
+    private event Action<GameState> GameStateChange;
+
+    private ExitGames.Client.Photon.Hashtable roomProps = new ExitGames.Client.Photon.Hashtable();
     PhotonView pV;
+    PlayerManager playerManager;
 
     public void Awake()
     {
@@ -21,67 +24,81 @@ public class GameManager : MonoBehaviourPunCallbacks
         {
             instance = this;
         }
+        GameStateChange+=OnGameStateChange;
         DontDestroyOnLoad(transform.gameObject);
+    }
+
+    void OnDestroy()
+    {
+        GameStateChange-=OnGameStateChange;
     }
 
     // Load the player prefab for each client
     public void Start()
     {
         playerPrefab = Resources.Load("PlayerPrefab") as GameObject;
-        changeState(GameState.GameSetup);
+        playerManager = playerManagerGo.GetComponent<PlayerManager>();
+        playerManager.Init(playerPrefab);
+        ChangeState(GameState.GameStart);
     }
 
-
-
-    public void changeState(GameState state)
+    private void OnGameStateChange(GameState state)
     {
-        this.state = state;
-        switch (state)
-        {
-            case GameState.GameSetup:
-                HandleGameSetup();
-                break;
-            case GameState.WaitingInput:
-                break;
-            case GameState.Player1Win:
-                break;
-            case GameState.Player2Win:
-                break;
-            default:
-                throw new ArgumentOutOfRangeException(nameof(state), state, null);
-        }
+     this.state = state;
+     switch (state)
+     {
+        case GameState.GameStart:
+            HandleGameStart();
+            break;
+        case GameState.Player1Turn:
+            HandlePlayer1Turn();
+            break;
+        case GameState.Player2Turn:
+            HandlePlayer2Turn();
+            break;
+        case GameState.Player1Win:
+        break;
+        case GameState.Player2Win:
+        break;
+        default:
+        throw new ArgumentOutOfRangeException(nameof(state), state, null);
     }
+}
+
+
+public void ChangeState(GameState state)
+{
+    GameStateChange(state);
+}
 
 
 
-    public void HandleGameSetup()
-    {
+public void HandleGameStart()
+{
         //set up relevant cards and spawn the player characters
-        if(PhotonNetwork.IsConnected)
-        {
-           if(PhotonNetwork.IsMasterClient)
-           {
-                spawnPicker = 0;
-                Fighter fighter = playerPrefab.GetComponent<Fighter>();
-                GameObject characterPrefab = fighter.ChosenCharacter.CharacterPrefab;
-                GameObject fighterGo = PhotonNetwork.Instantiate(characterPrefab.name, spawnPoints[spawnPicker]
-                    .position, spawnPoints[spawnPicker].rotation,0);
-           }else
-           {
-                spawnPicker = 1;
-                Fighter otherFighter = playerPrefab.GetComponent<Fighter>();
-                GameObject characterPrefab = otherFighter.ChosenCharacter.CharacterPrefab;
-                GameObject fighterGo = PhotonNetwork.Instantiate(characterPrefab.name, spawnPoints[spawnPicker]
-                    .position, spawnPoints[spawnPicker].rotation,0);
-           }
-        }
-    }
+    playerManager.SpawnPlayers();
+
+}
+
+private void HandlePlayer1Turn()
+{
+    Debug.Log("Handling player1 turn");
+    playerManager.Player1Turn();
+}
+
+private void HandlePlayer2Turn()
+{
+    Debug.Log("Handling player 2 Turn");
+    playerManager.Player2Turn();
+}
+
 }
 
 public enum GameState
 {
-    GameSetup,
-    WaitingInput,
+    GameStart,
+    Player1Turn,
+    Player2Turn,
     Player1Win,
     Player2Win
 }
