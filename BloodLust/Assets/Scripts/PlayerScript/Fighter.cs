@@ -7,9 +7,9 @@ using Photon.Realtime;
 public class Fighter : MonoBehaviourPunCallbacks {
 
     private int score = 0;
-    private Character character;
+    public Character character;
     private bool isWinner;
-    private List<Card> hand;
+    public List<Card> hand;
     [SerializeField] private string playerName;
     [SerializeField] private string characterName;
     [SerializeField] private int playerId;
@@ -27,6 +27,12 @@ public class Fighter : MonoBehaviourPunCallbacks {
         NickName = playerName;
         PlayerId = actorNumber;
         IsLocal = isLocal;
+        hand = new List<Card>();
+        while (hand.Count < 8)
+        {
+            Card card = new Card();
+            hand.Add(card);
+        }
     }
 
     public int PlayerId
