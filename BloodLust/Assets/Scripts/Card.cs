@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using System;
+<<<<<<< HEAD
 public class Card : MonoBehaviour,IComparable<Card>, IPointerClickHandler
+=======
+public class Card : ScriptableObject,IComparable<Card>, IPointerClickHandler
+>>>>>>> dorianBranch
 {
     public string type;
     public int damage;
