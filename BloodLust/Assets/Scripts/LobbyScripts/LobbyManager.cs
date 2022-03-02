@@ -10,21 +10,41 @@ public class LobbyManager : MonoBehaviourPunCallbacks
 {
     // Start is called before the first frame update
     [SerializeField] private Button createRoomButton;
-    [SerializeField] private Button joinRoomButton;
-    [SerializeField] private InputField roomNameInput;
     [SerializeField] private GameObject lobbyPanel, roomPanel;
     [SerializeField] private Text roomName;
     [SerializeField] private byte maxPlayers = 2;
+    [SerializeField] private Text roomMessage;
+    [SerializeField] private GameObject roomItem;
+    private Button roomButton;
+    [SerializeField] private Transform content;
+    private List<RoomItem> roomItems;
+    private RoomItem room;
+    public static LobbyManager instance;
+
+    void Awake()
+    {
+        if(LobbyManager.instance == null)
+        {
+            LobbyManager.instance = this;
+        }else
+        {
+            if(LobbyManager.instance !=this)
+            {
+                Destroy(LobbyManager.instance.gameObject);
+                LobbyManager.instance = this;
+            }
+        }
+    }
 
     void Start()
     {
         createRoomButton.onClick.AddListener(()=>{
-            this.CreateRoom(roomNameInput.text);
-            });
+            string roomName = PhotonNetwork.NickName + "'s room";
+            this.CreateRoom(roomName);
+        });
 
-        joinRoomButton.onClick.AddListener(()=>{
-            this.JoinRoom(roomNameInput.text);
-            });
+        this.roomMessage.text = "No room to display";
+        roomItems = new List<RoomItem>();
     }
 
     // Fires when a player enters in the room
@@ -34,6 +54,30 @@ public class LobbyManager : MonoBehaviourPunCallbacks
         if(PhotonNetwork.CurrentRoom.PlayerCount == this.maxPlayers && PhotonNetwork.IsMasterClient)
         {
             PhotonNetwork.LoadLevel("CharacterScene");
+        }
+    }
+
+
+    public override void OnRoomListUpdate(List<RoomInfo> roomList)
+    {
+        UpdateRoomList(roomList);
+        roomMessage.text = "Join one of the rooms down below!!!";
+    }
+
+    public void UpdateRoomList(List<RoomInfo> roomList)
+    {
+        foreach(RoomItem item in roomItems)
+        {
+            Destroy(item.gameObject);
+        }
+        roomItems.Clear();
+
+        foreach(RoomInfo info in roomList)
+        {
+            GameObject roomGo = Instantiate(roomItem, content);
+            RoomItem item = roomGo.GetComponent<RoomItem>();
+            item.SetRoomName(info.Name);
+            roomItems.Add(item);
         }
     }
 
@@ -57,7 +101,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     {
         lobbyPanel.SetActive(false);
         roomPanel.SetActive(true);
-        this.roomName.text = ": " + PhotonNetwork.CurrentRoom.Name;
+        this.roomName.text= string.Format("Room name: {0}", PhotonNetwork.CurrentRoom.Name);
         Debug.Log("joined room");
     }
 
