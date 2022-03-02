@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using System;
-public class Card : MonoBehaviour,IComparable<Card>, IPointerClickHandler
+public class Card : ScriptableObject,IComparable<Card>, IPointerClickHandler
 {
     public string type;
     public int damage;

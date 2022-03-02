@@ -10,7 +10,7 @@ public class Character : ScriptableObject
     [SerializeField] private string characterName = default;
     [SerializeField ] private GameObject characterPrefab = default;
     public string CharacterName => characterName;
-    int maxHealth = 0;
+    private const int MAX_HEALTH = 0;
     public int health;
     public int energy;
     public GameObject CharacterPrefab => characterPrefab;
@@ -39,5 +39,7 @@ public class Character : ScriptableObject
     {
 
     }
+
+
 
 }

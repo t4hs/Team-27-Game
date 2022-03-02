@@ -51,6 +51,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     }
 
 
+
     //Spawn the player avatars accross the screen
     public void SpawnPlayers()
     {
