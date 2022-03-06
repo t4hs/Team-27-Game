@@ -30,42 +30,30 @@ public class damageHandler : MonoBehaviour
     }
     public void CompareCards(Card card1, Card card2, Fighter p1, Fighter p2)
     {
-        //combined damage after all combos and reductions
-        int totalDamage = 0;
+        //net damage after all combos and reductions
+        int finalDamage = 0;
         damageHandler dmg = new damageHandler();
         //attack vs attack
         if (card1.type == "attack" && card2.type == "attack")
         {
             if (card1.damage > card2.damage)
             {
-                foreach (Card card in p1.hand)
-                {
-                    if (card.type == "attack") totalDamage += card.damage;
-                }
-                dealDamage(p2.character, totalDamage);
+                finalDamage = comboDamage(p1.hand, "attack");
+                dealDamage(p2.character, finalDamage);
 
             }
             else if (card1.damage < card2.damage)
             {
-                foreach (Card card in p2.hand)
-                {
-                    if (card.type == "attack") totalDamage += card.damage;
-                }
-                dealDamage(p1.character, totalDamage);
+                finalDamage = comboDamage(p2.hand, "attack");
+                dealDamage(p1.character, finalDamage);
             }
             else
             {
-                foreach (Card card in p1.hand)
-                {
-                    if (card.type == "attack") totalDamage += card.damage;
-                }
-                dealDamage(p2.character, totalDamage);
-                totalDamage = 0;
-                foreach (Card card in p2.hand)
-                {
-                    if (card.type == "attack") totalDamage += card.damage;
-                }
-                dealDamage(p1.character, totalDamage);
+                finalDamage = comboDamage(p1.hand, "attack");
+                dealDamage(p2.character, finalDamage);
+                finalDamage = 0;
+                finalDamage = comboDamage(p2.hand, "attack");
+                dealDamage(p1.character, finalDamage);
             }
             //play animation
         }
@@ -81,114 +69,78 @@ public class damageHandler : MonoBehaviour
         {
             if (card1.damage > card2.damage)
             {
-                foreach (Card card in p1.hand)
-                {
-                    if (card.type == "grapple") totalDamage += card.damage;
-                }
-                dealDamage(p2.character, totalDamage);
+                finalDamage = comboDamage(p1.hand, "grapple");
+                dealDamage(p2.character, finalDamage);
 
             }
             else if (card1.damage < card2.damage)
             {
-                foreach (Card card in p2.hand)
-                {
-                    if (card.type == "grapple") totalDamage += card.damage;
-                }
-                dealDamage(p1.character, totalDamage);
+                finalDamage = comboDamage(p2.hand, "grapple");
+                dealDamage(p1.character, finalDamage);
             }
             else
             {
-                foreach (Card card in p1.hand)
-                {
-                    if (card.type == "grapple") totalDamage += card.damage;
-                }
-                dealDamage(p2.character, totalDamage);
-                totalDamage = 0;
-                foreach (Card card in p2.hand)
-                {
-                    if (card.type == "grapple") totalDamage += card.damage;
-                }
-                dealDamage(p1.character, totalDamage);
+                finalDamage = comboDamage(p1.hand, "grapple");
+                dealDamage(p2.character, finalDamage);
+                finalDamage = 0;
+                finalDamage = comboDamage(p2.hand, "grapple");
+                dealDamage(p1.character, finalDamage);
             }
             //play animation
         }
         //heal vs heal
         if(card1.type == "heal" && card2.type == "heal")
         {
-            foreach (Card card in p1.hand)
-            {
-                if (card.type == "heal") totalDamage += card.damage;
-            }
-            heal(p1.character, totalDamage);
-            totalDamage = 0;
-            foreach (Card card in p2.hand)
-            {
-                if (card.type == "heal") totalDamage += card.damage;
-            }
-            heal(p2.character, totalDamage);
+            finalDamage = comboDamage(p1.hand, "heal");
+            heal(p1.character, finalDamage);
+            finalDamage = 0;
+            finalDamage = comboDamage(p2.hand, "heal");
+            heal(p2.character, finalDamage);
             //play animation
         }
 
         //attack vs counter
         if(card1.type == "attack" && card2.type == "counter")
         {
-            foreach (Card card in p1.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p1.character, totalDamage);
+            finalDamage = comboDamage(p1.hand, "attack");
+            dealDamage(p1.character, finalDamage);
             //play animation
         }
 
         //attack vs dodge
         if (card1.type == "attack" && card2.type == "dodge")
         {
-            foreach (Card card in p2.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p1.character, totalDamage);
+            finalDamage = comboDamage(p2.hand, "attack");
+            dealDamage(p1.character, finalDamage);
             //play animation
         }
         //attack vs heal
         if (card1.type == "attack" && card2.type == "dodge")
         {
-            foreach (Card card in p2.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p1.character, totalDamage);
+            finalDamage = comboDamage(p2.hand, "attack");
+            dealDamage(p1.character, finalDamage);
             //play animation
         }
 
         //attack vs grapple
         if (card1.type == "attack" && card2.type == "grapple")
         {
-            foreach (Card card in p1.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p2.character, totalDamage);
+            finalDamage = comboDamage(p1.hand, "attack");
+            dealDamage(p2.character, finalDamage);
             //play animation
         }
         //counter vs attack
         if (card1.type == "counter" && card2.type == "attack")
         {
-            foreach (Card card in p2.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p2.character, totalDamage);
+            finalDamage = comboDamage(p2.hand, "attack");
+            dealDamage(p2.character, finalDamage);
             //play animation
         }
         //counter vs dodge
         if (card1.type == "counter" && card2.type == "dodge")
         {
-            foreach (Card card in p2.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p1.character, totalDamage);
+            finalDamage = comboDamage(p2.hand, "attack");
+            dealDamage(p1.character, finalDamage);
             //play animation
         }
         //counter vs heal
@@ -199,31 +151,22 @@ public class damageHandler : MonoBehaviour
         //counter vs grapple
         if (card1.type == "counter" && card2.type == "grapple")
         {
-            foreach (Card card in p1.hand)
-            {
-                if (card.type == "grapple") totalDamage += card.damage;
-            }
-            dealDamage(p1.character, totalDamage);
+            finalDamage = comboDamage(p1.hand, "grapple");
+            dealDamage(p1.character, finalDamage);
             //play animation
         }
         //dodge vs attack
         if (card1.type == "dodge" && card2.type == "attack")
         {
-            foreach (Card card in p1.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p2.character, totalDamage);
+            finalDamage = comboDamage(p1.hand, "attack");
+            dealDamage(p2.character, finalDamage);
             //play animation
         }
         //dodge vs counter
         if (card1.type == "dodge" && card2.type == "counter")
         {
-            foreach (Card card in p1.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p2.character, totalDamage);
+            finalDamage = comboDamage(p1.hand, "attack");
+            dealDamage(p2.character, finalDamage);
             //play animation
         }
         //dodge vs heal
@@ -234,21 +177,15 @@ public class damageHandler : MonoBehaviour
         //dodge vs grapple
         if (card1.type == "dodge" && card2.type == "grapple")
         {
-            foreach (Card card in p2.hand)
-            {
-                if (card.type == "grapple") totalDamage += card.damage;
-            }
-            dealDamage(p1.character, totalDamage);
+            finalDamage = comboDamage(p2.hand, "grapple");
+            dealDamage(p1.character, finalDamage);
             //play animation
         }
         //heal vs attack
         if (card1.type == "heal" && card2.type == "attack")
         {
-            foreach (Card card in p2.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p1.character, totalDamage);
+            finalDamage = comboDamage(p2.hand, "attack");
+            dealDamage(p1.character, finalDamage);
             //play animation
         }
         //heal vs counter
@@ -269,31 +206,22 @@ public class damageHandler : MonoBehaviour
         //grapple vs attack
         if (card1.type == "grapple" && card2.type == "attack")
         {
-            foreach (Card card in p2.hand)
-            {
-                if (card.type == "attack") totalDamage += card.damage;
-            }
-            dealDamage(p1.character, totalDamage);
+            finalDamage = comboDamage(p2.hand, "attack");
+            dealDamage(p1.character, finalDamage);
             //play animation
         }
         //grapple vs counter
         if (card1.type == "grapple" && card2.type == "counter")
         {
-            foreach (Card card in p2.hand)
-            {
-                if (card.type == "grapple") totalDamage += card.damage;
-            }
-            dealDamage(p2.character, totalDamage);
+            finalDamage = comboDamage(p2.hand, "grapple");
+            dealDamage(p2.character, finalDamage);
             //play animation
         }
         //grapple vs dodge
         if (card1.type == "grapple" && card2.type == "dodge")
         {
-            foreach (Card card in p1.hand)
-            {
-                if (card.type == "grapple") totalDamage += card.damage;
-            }
-            dealDamage(p2.character, totalDamage);
+            finalDamage = comboDamage(p1.hand, "grapple");
+            dealDamage(p2.character, finalDamage);
             //play animation
         }
         //grapple vs heal
@@ -301,5 +229,18 @@ public class damageHandler : MonoBehaviour
         {
             heal(p2.character, card1.damage);
         }
+    }
+    private int comboDamage(List<Card> hand, string type)
+    {
+        int totalDamage = 0;
+        foreach (Card card in hand)
+        {
+            if (card.type == type)
+            {
+                totalDamage += card.damage;
+                hand.Remove(card);
+            }
+        }
+        return totalDamage;
     }
 }
