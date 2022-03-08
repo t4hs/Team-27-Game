@@ -79,6 +79,7 @@
     <Compile Include="Assets/Scripts/CharacterScript/CharacterSelection.cs" />
     <Compile Include="Assets/Photon/PhotonChat/Demos/Common/OnStartDelete.cs" />
     <Compile Include="Assets/Scripts/RoomScripts/RoomManager.cs" />
+    <Compile Include="Assets/Scripts/RoomScripts/RoomItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.xml" />
