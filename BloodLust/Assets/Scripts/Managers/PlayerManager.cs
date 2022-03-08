@@ -67,8 +67,13 @@ public class PlayerManager : MonoBehaviourPunCallbacks
             go = PhotonNetwork.Instantiate(characterPref.name,spawnPoints[spawnPicker].position,
                 spawnPoints[spawnPicker].rotation,0);
         }
+        foreach(Card card in fighterPlayer.hand)
+        {
+            card.Display();
+        }
         GameManager.instance.ChangeState(GameState.Player1Turn);
     }
+
 
     //For now it requests the player 1 to click
     public void Player1Turn()
