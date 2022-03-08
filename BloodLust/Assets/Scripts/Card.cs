@@ -3,20 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using System;
-<<<<<<< HEAD
-public class Card : MonoBehaviour,IComparable<Card>, IPointerClickHandler
-=======
-public class Card : ScriptableObject,IComparable<Card>, IPointerClickHandler
->>>>>>> dorianBranch
+
+[CreateAssetMenu(fileName = "new card", menuName = "card")]
+public class Card : ScriptableObject, IPointerClickHandler
 {
     public string type;
     public int damage;
     int rndType;
-
-    public Card()
-    {
-        generateCard();
-    }
 
     public void Awake()
     {
@@ -51,13 +44,5 @@ public class Card : ScriptableObject,IComparable<Card>, IPointerClickHandler
     else if (rndType == 3) type = "grapple";
     else if (rndType == 4) type = "heal";
 }
-
-    public int CompareTo(Card otherCard)
-    {
-        //ToDo implement card comparison
-        return 0;
-    }
-
-
 
 }
