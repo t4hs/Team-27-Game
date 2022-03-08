@@ -26,7 +26,7 @@ public class Card : ScriptableObject, IPointerClickHandler
     // Start is called before the first frame update
    void Start()
    {
-
+        Init();
    }
 
     // Update is called once per frame
@@ -34,8 +34,14 @@ public class Card : ScriptableObject, IPointerClickHandler
    {
 
    }
+
+   public void Display()
+   {
+        // ToDo Display card assets
+        Debug.Log("Card display function call");
+   }
     //create a card
-   void generateCard()
+   public void Init()
    {
 
     if (rndType == 0) type = "attack";
