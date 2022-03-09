@@ -21,6 +21,7 @@ public class Card : ScriptableObject
    {
 
    }
+
     //create a card
    public void generateCard()
    {
