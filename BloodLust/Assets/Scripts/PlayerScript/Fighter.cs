@@ -29,13 +29,7 @@ public class Fighter : MonoBehaviourPunCallbacks {
         IsLocal = isLocal;
     }
 
-    public void GenerateCards()
-    {
-        foreach(Card card in hand)
-        {
-            card.Init();
-        }
-    }
+  
 
     public int PlayerId
     {
