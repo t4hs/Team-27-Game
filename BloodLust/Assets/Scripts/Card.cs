@@ -5,28 +5,15 @@ using UnityEngine.EventSystems;
 using System;
 
 [CreateAssetMenu(fileName = "new card", menuName = "card")]
-public class Card : ScriptableObject, IPointerClickHandler
+public class Card : ScriptableObject
 {
     public string type;
     public int damage;
     int rndType;
 
-    public void Awake()
-    {
-       damage = UnityEngine.Random.Range(500, 900);
-       rndType = UnityEngine.Random.Range(0, 4);
-   }
-
-
-   public void OnPointerClick(PointerEventData data)
-   {
-        Debug.Log(data);
-   }
-
     // Start is called before the first frame update
    void Start()
    {
-
    }
 
     // Update is called once per frame
@@ -35,14 +22,15 @@ public class Card : ScriptableObject, IPointerClickHandler
 
    }
     //create a card
-   void generateCard()
+   public void generateCard()
    {
-
+    damage = UnityEngine.Random.Range(500, 900);
+    rndType = UnityEngine.Random.Range(0, 4);
     if (rndType == 0) type = "attack";
     else if (rndType == 1) type = "counter";
     else if (rndType == 2) type = "dodge";
     else if (rndType == 3) type = "grapple";
     else if (rndType == 4) type = "heal";
-}
+    }
 
 }
