@@ -27,11 +27,13 @@ public class Fighter : MonoBehaviourPunCallbacks {
         NickName = playerName;
         PlayerId = actorNumber;
         IsLocal = isLocal;
-        hand = new List<Card>();
-        while (hand.Count < 8)
+    }
+
+    public void GenerateCards()
+    {
+        foreach(Card card in hand)
         {
-            Card card = new Card();
-            hand.Add(card);
+            card.Init();
         }
     }
 
