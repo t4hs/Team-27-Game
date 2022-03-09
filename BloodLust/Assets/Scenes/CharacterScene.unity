@@ -641,7 +641,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c66cea7d2c3de2d459924956c7fb55ce, type: 2}
   - {fileID: 11400000, guid: 0abe34db6a6b7564b8d4c8dc29b5ba98, type: 2}
   characterName: {fileID: 1310541362}
-  playerPrefab: {fileID: 828097652063853549, guid: c9da973e263633debac7a923eb1920cf, type: 3}
+  playerPrefab: {fileID: 7607773788726542817, guid: 0d1a9946fc2010e2781c8767a4a42cc4, type: 3}
   playerListing: {fileID: 81529506}
   PlayerReadyButton: {fileID: 1130542855}
   selectButton: {fileID: 174270089}

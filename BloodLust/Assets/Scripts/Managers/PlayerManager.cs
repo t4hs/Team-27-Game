@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class PlayerManager : MonoBehaviourPunCallbacks
 {
 
-    private GameObject playerPrefab;
+    [SerializeField] private GameObject playerPrefab;
     [SerializeField] private Transform[] spawnPoints;
     private int spawnPicker;
     Fighter fighterPlayer;
@@ -66,10 +66,6 @@ public class PlayerManager : MonoBehaviourPunCallbacks
             spawnPicker = 1;
             go = PhotonNetwork.Instantiate(characterPref.name,spawnPoints[spawnPicker].position,
                 spawnPoints[spawnPicker].rotation,0);
-        }
-        foreach(Card card in fighterPlayer.hand)
-        {
-            card.Display();
         }
         GameManager.instance.ChangeState(GameState.Player1Turn);
     }
