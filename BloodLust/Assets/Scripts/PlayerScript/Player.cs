@@ -4,11 +4,10 @@ using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
 
-public class Fighter : MonoBehaviourPunCallbacks {
+public class Player: MonoBehaviourPunCallbacks{
 
-    private int score = 0;
     public Character character;
-    private bool isWinner;
+    // Damage handler refactoring needed for public Hand hand;
     public List<Card> hand;
     [SerializeField] private string playerName;
     [SerializeField] private string characterName;
@@ -22,7 +21,7 @@ public class Fighter : MonoBehaviourPunCallbacks {
     }
 
     //Assign players attributes to players
-    public void AssignPlayers(string playerName, int actorNumber, bool isLocal)
+    public  void AssignPlayers(string playerName, int actorNumber, bool isLocal)
     {
         NickName = playerName;
         PlayerId = actorNumber;
@@ -67,28 +66,7 @@ public class Fighter : MonoBehaviourPunCallbacks {
         get{return this.characterName; }
     }
 
-    public void UpdateScore(int point)
-    {
-        score+= point;
-    }
-
-    public int GetScore()
-    {
-        return this.score;
-    }
-
-    //Set the winner when someone has 0 Hp
-    public void SetWinner(bool winner)
-    {
-        this.isWinner = winner;
-    }
-
-    //Check from the winner
-    public bool IsWinner()
-    {
-        return this.isWinner;
-    }
-
+   
 }
 
 

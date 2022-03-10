@@ -36,22 +36,22 @@ namespace Photon.Pun.UtilityScripts
 
 			if (PunTeams.PlayersPerTeam!=null)
 			{
-				foreach (KeyValuePair<PunTeams.Team,List<Player>> _pair in PunTeams.PlayersPerTeam)
+				foreach (KeyValuePair<PunTeams.Team, List<Realtime.Player>> _pair in PunTeams.PlayersPerTeam)
 				{	
 #pragma warning restore 0618
 					if (!_Foldouts.ContainsKey(_pair.Key))
 					{
-						_Foldouts[_pair.Key] = true;
+                        _Foldouts[_pair.Key] = true;
 					}
 
-					_Foldouts[_pair.Key] =   EditorGUILayout.Foldout(_Foldouts[_pair.Key],"Team "+_pair.Key +" ("+_pair.Value.Count+")");
+                    _Foldouts[_pair.Key] =   EditorGUILayout.Foldout(_Foldouts[_pair.Key],"Team "+ _pair.Key +" ("+ _pair.Value.Count+")");
 
 					if (_Foldouts[_pair.Key])
 					{
 						EditorGUI.indentLevel++;
-						foreach(Player _player in _pair.Value)
+						foreach(Realtime.Player _player in _pair.Value)
 						{
-							EditorGUILayout.LabelField("",_player.ToString() + (PhotonNetwork.LocalPlayer==_player?" - You -":""));
+							EditorGUILayout.LabelField("", _player.ToString() + (PhotonNetwork.LocalPlayer == _player ? " - You -":""));
 						}
 						EditorGUI.indentLevel--;
 					}

@@ -4,35 +4,93 @@ using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
 using UnityEngine.UI;
+using System.IO;
 public class PlayerManager : MonoBehaviourPunCallbacks
 {
 
-    [SerializeField] private GameObject playerPrefab;
-    [SerializeField] private Transform[] spawnPoints;
+    public GameObject playerPrefab;
+    public static PlayerManager instance;
     private int spawnPicker;
-    Fighter fighterPlayer;
-    [SerializeField] private Button p1Button, p2Button;
+    Player player1, player2;
+    [SerializeField] private Button p1Button, p2Button; // Test Buttons
     public bool IsPlayer1Turn {private set; get;}
     public bool IsPlayer2Turn {private set; get;}
     private PhotonView PV;
     private GameObject go;
-    public void Init(GameObject playerPref)
+    private Photon.Realtime.Player player;
+    private ExitGames.Client.Photon.Hashtable customProps = new ExitGames.Client.Photon.Hashtable();
+    public void Awake()
     {
-        this.playerPrefab = playerPref;
-        Debug.Log("Player prefab init");
-        fighterPlayer = playerPrefab.GetComponent<Fighter>();
+        if(instance == null)
+        {
+            instance = this;
+        }else
+        {
+            if (instance != null && instance != this)
+            {
+                instance = this;
+            }
+        }
+
+        DontDestroyOnLoad(transform.gameObject);
+    }
+
+    // function called in the CharacterSelection script
+    public void InitPlayers()
+    {
+        player = PhotonNetwork.LocalPlayer;
+        if(PhotonNetwork.IsMasterClient)
+        {
+            player1 = playerPrefab.GetComponent<Player>();
+            player1.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
+            playerPrefab.GetComponent<Text>().text = player1.NickName;
+        }else
+        {
+            player2 = playerPrefab.GetComponent<Player>();
+            player2.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
+            playerPrefab.GetComponent<Text>().text = player2.NickName;
+        }
+    }
+
+    public void InitCharacters(Character chosenCharacter, int currentCharacter)
+    {
+        if(PhotonNetwork.IsMasterClient)
+        {
+            player1.AssignCharacters(chosenCharacter);
+            customProps["chosenCharacter"] = currentCharacter;
+            player.SetCustomProperties(customProps);
+        }
+        else
+        {
+            player2.AssignCharacters(chosenCharacter);
+            customProps["chosenCharacter"] = currentCharacter;
+            player.SetCustomProperties(customProps);
+        }
+    }
+
+    public bool PlayersReady()
+    {
+        bool readyToFight = true;
+
+        foreach(Photon.Realtime.Player player in PhotonNetwork.PlayerList)
+        {
+            if (!player.CustomProperties.ContainsKey("chosenCharacter"))
+                readyToFight = false;
+        }
+
+        return readyToFight;
     }
 
     private void Start()
     {
         this.IsPlayer1Turn=true;
         this.IsPlayer2Turn=false;
-        p2Button.gameObject.SetActive(false);
-        p1Button.gameObject.SetActive(false);
-        if(PhotonNetwork.IsMasterClient)
+        /*p2Button.gameObject.SetActive(false);
+        p1Button.gameObject.SetActive(false);*/
+        /*if(PhotonNetwork.IsMasterClient)
         {
             p1Button.gameObject.SetActive(true);
-        }
+        }*/
 
         PV = GetComponent<PhotonView>();
     }
@@ -40,29 +98,31 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     // In this function we check whether it's player 1 or player 2 turn each frame
     private void Update()
     {
-        if(IsPlayer2Turn && !PhotonNetwork.IsMasterClient)
+        /*if(IsPlayer2Turn && !PhotonNetwork.IsMasterClient)
         {
             p2Button.gameObject.SetActive(true);
         }
         else if(IsPlayer1Turn && PhotonNetwork.IsMasterClient)
         {
             p1Button.gameObject.SetActive(true);
-        }
+        }*/
     }
 
 
     //Spawn the player avatars accross the screen
     public void SpawnPlayers()
     {
-        GameObject characterPref = fighterPlayer.ChosenCharacter.CharacterPrefab;
+        //GameObject characterPref = fighterPlayer.ChosenCharacter.CharacterPrefab;
         Debug.Log("SpawnPlayers function called");
         if(PhotonNetwork.IsMasterClient)
         {
+            GameObject characterPref = player1.ChosenCharacter.CharacterPrefab;
             spawnPicker = 0;
             go = PhotonNetwork.Instantiate(characterPref.name,spawnPoints[spawnPicker].position,
                 spawnPoints[spawnPicker].rotation,0);
         }else
         {
+            GameObject characterPref = player2.ChosenCharacter.CharacterPrefab;
             spawnPicker = 1;
             go = PhotonNetwork.Instantiate(characterPref.name,spawnPoints[spawnPicker].position,
                 spawnPoints[spawnPicker].rotation,0);
