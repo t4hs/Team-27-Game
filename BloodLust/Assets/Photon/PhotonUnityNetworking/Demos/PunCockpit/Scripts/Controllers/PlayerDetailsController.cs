@@ -43,7 +43,7 @@ namespace Photon.Pun.Demo.Cockpit
 
         Dictionary<string, PropertyCell> builtInPropsCellList = new Dictionary<string, PropertyCell>();
 
-        Player _player;
+        Realtime.Player _player;
 
 
         void Awake()
@@ -69,7 +69,7 @@ namespace Photon.Pun.Demo.Cockpit
         }
 
 
-        public void SetPlayerTarget(Player player)
+        public void SetPlayerTarget(Realtime.Player player)
         {
             //Debug.Log("SetPlayerTarget " + player);
             this._player = player;
@@ -142,18 +142,18 @@ namespace Photon.Pun.Demo.Cockpit
 
         #region Photon CallBacks
 
-        public override void OnPlayerLeftRoom(Player otherPlayer)
+        public override void OnPlayerLeftRoom(Realtime.Player otherPlayer)
         {
             NotInRoomLabel.SetActive(otherPlayer == _player);
             ContentPanel.SetActive(otherPlayer != _player);
         }
 
-        public override void OnMasterClientSwitched(Player newMasterClient)
+        public override void OnMasterClientSwitched(Realtime.Player newMasterClient)
         {
             MasterClientToolBar.SetActive(_player == newMasterClient);
         }
 
-        public override void OnPlayerPropertiesUpdate(Player target, ExitGames.Client.Photon.Hashtable changedProps)
+        public override void OnPlayerPropertiesUpdate(Realtime.Player target, ExitGames.Client.Photon.Hashtable changedProps)
         {
             //Debug.Log("OnPlayerPropertiesUpdate " + target.ActorNumber + " " + target.ToStringFull() + " " + changedProps.ToStringFull());
 

@@ -8,17 +8,14 @@ using Photon.Pun;
 public class Character : ScriptableObject
 {
     [SerializeField] private string characterName = default;
-    [SerializeField ] private GameObject characterPrefab = default;
+    [SerializeField] private GameObject characterPrefab = default;
+    [SerializeField] private const int MAX_HEALTH = default;
+    [SerializeField] private const int MAX_ENERGY = default;
     public string CharacterName => characterName;
-    private const int MAX_HEALTH = 0;
     public int health;
     public int energy;
     public GameObject CharacterPrefab => characterPrefab;
 
-    Character()
-    {
-
-    }
 
     public void Attack()
     {
@@ -30,7 +27,7 @@ public class Character : ScriptableObject
 
     }
 
-    public void Heal()
+    public void Heal(int amount)
     {
 
     }
@@ -39,6 +36,17 @@ public class Character : ScriptableObject
     {
 
     }
+
+    public void Counter()
+    {
+
+    }
+
+    public bool TakeDamage(int amount)
+    {
+        return false; // ToDo implement this function after During the Damage Handler refactoring
+    }
+
 
 
 

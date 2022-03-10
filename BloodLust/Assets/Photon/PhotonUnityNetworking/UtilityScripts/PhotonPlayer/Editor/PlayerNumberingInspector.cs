@@ -42,10 +42,10 @@ namespace Photon.Pun.UtilityScripts
 				EditorGUILayout.LabelField("Player Index", "Player ID");
 				if (PlayerNumbering.SortedPlayers != null)
 				{
-					foreach(Player punPlayer in PlayerNumbering.SortedPlayers)
+					foreach(Realtime.Player punPlayer in PlayerNumbering.SortedPlayers)
 					{
 						GUI.enabled = punPlayer.ActorNumber > 0;
-						EditorGUILayout.LabelField("Player " +punPlayer.GetPlayerNumber() + (punPlayer.IsLocal?" - You -":""), punPlayer.ActorNumber == 0?"n/a":punPlayer.ToStringFull());
+						EditorGUILayout.LabelField("Player " + punPlayer.GetPlayerNumber() + (punPlayer.IsLocal?" - You -":""), punPlayer.ActorNumber == 0?"n/a": punPlayer.ToStringFull());
 						GUI.enabled = true;
 					}
 				}

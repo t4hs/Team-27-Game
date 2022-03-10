@@ -1,7 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using Photon.Pun;
+using Photon.Realtime;
 public class damageHandler : MonoBehaviour
 {
 
@@ -28,7 +29,7 @@ public class damageHandler : MonoBehaviour
     {
         character.health += value;
     }
-    public void CompareCards(Card card1, Card card2, Fighter p1, Fighter p2)
+    public void CompareCards(Card card1, Card card2, Player p1, Player p2)
     {
         //net damage after all combos and reductions
         int finalDamage = 0;

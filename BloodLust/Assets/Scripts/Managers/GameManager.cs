@@ -13,6 +13,8 @@ public class GameManager : MonoBehaviourPunCallbacks
     private GameObject playerPrefab;
     [SerializeField] private GameObject playerManagerGo;
     private event Action<GameState> GameStateChange;
+    public GameObject[] cards;
+    [SerializeField] private Transform[] spawnPoints;
 
     private ExitGames.Client.Photon.Hashtable roomProps = new ExitGames.Client.Photon.Hashtable();
     PhotonView pV;
@@ -36,9 +38,6 @@ public class GameManager : MonoBehaviourPunCallbacks
     // Load the player prefab for each client
     public void Start()
     {
-        playerPrefab = Resources.Load("PlayerPrefab") as GameObject;
-        playerManager = playerManagerGo.GetComponent<PlayerManager>();
-        playerManager.Init(playerPrefab);
         ChangeState(GameState.GameStart);
     }
 
@@ -75,21 +74,20 @@ public void ChangeState(GameState state)
 
 public void HandleGameStart()
 {
-        //set up relevant cards and spawn the player characters
-    playerManager.SpawnPlayers();
-
+    //set up relevant cards and spawn the player characters
+    PlayerManager.instance.SpawnPlayers();
 }
 
 private void HandlePlayer1Turn()
 {
     Debug.Log("Handling player1 turn");
-    playerManager.Player1Turn();
+   PlayerManager.instance.Player1Turn();
 }
 
 private void HandlePlayer2Turn()
 {
     Debug.Log("Handling player 2 Turn");
-    playerManager.Player2Turn();
+    PlayerManager.instance.Player2Turn();
 }
 
 }
