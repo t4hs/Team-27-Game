@@ -336,6 +336,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2596,6 +2597,111 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      shen_Sprites_54: -1107325700557850983
+      shen_Sprites_11: 4339743153376601722
+      shen_Sprites_26: -3482465370921000163
+      shen_Sprites_94: 7650047158377166597
+      shen_Sprites_63: 7255230821582868123
+      shen_Sprites_81: -7913319169401037405
+      shen_Sprites_68: -6420469501106800233
+      shen_Sprites_41: -5450045624964660722
+      shen_Sprites_4: 2817208058008833859
+      shen_Sprites_12: -5231819571891480137
+      shen_Sprites_80: -6368783472035719633
+      shen_Sprites_3: 6275551936833456923
+      shen_Sprites_75: -4005526479596294037
+      shen_Sprites_101: -796124488789839257
+      shen_Sprites_15: 8698812408426294756
+      shen_Sprites_96: -5444808004413538455
+      shen_Sprites_31: -7280252693155323493
+      shen_Sprites_33: 3924611499956112108
+      shen_Sprites_50: 4479849032153929061
+      shen_Sprites_56: -2259757356812121163
+      shen_Sprites_70: -125499099638940391
+      shen_Sprites_99: 85242819642799031
+      shen_Sprites_90: -7002026432746808129
+      shen_Sprites_82: 6763508590192215837
+      shen_Sprites_35: -8205678799369112777
+      shen_Sprites_16: -9097411846930094601
+      shen_Sprites_5: -7090669955506755729
+      shen_Sprites_58: -2818662123711019344
+      shen_Sprites_51: 6176338857852371804
+      shen_Sprites_61: -2476980785479953844
+      shen_Sprites_53: -4181553998413980582
+      shen_Sprites_59: -4085475532390746722
+      shen_Sprites_38: 3652720477844799634
+      shen_Sprites_22: 1565347380791495068
+      shen_Sprites_49: -4466389055503569298
+      shen_Sprites_10: 7402745245652000082
+      shen_Sprites_20: -6944866241765743183
+      shen_Sprites_62: 3476416957532940426
+      shen_Sprites_55: 951019856024310144
+      shen_Sprites_84: -7667581701116764746
+      shen_Sprites_44: -115492123943046601
+      shen_Sprites_21: -378281259642054110
+      shen_Sprites_39: -4915250011135296750
+      shen_Sprites_14: 806899555725351439
+      shen_Sprites_36: -7362286441743873893
+      shen_Sprites_23: 2004924771546333296
+      shen_Sprites_8: -847973205823697058
+      shen_Sprites_97: 3895363627734816562
+      shen_Sprites_45: 3967070615224432784
+      shen_Sprites_47: -8591193032760190649
+      shen_Sprites_60: 5874750659501505984
+      shen_Sprites_92: 1640171431420940953
+      shen_Sprites_28: 8262983827891806801
+      shen_Sprites_72: 2795262794953639312
+      shen_Sprites_40: -1216249747157075742
+      shen_Sprites_9: 7722879058124953150
+      shen_Sprites_83: -7960125848698446167
+      shen_Sprites_103: 7519251081008719749
+      shen_Sprites_85: -2114430538197747108
+      shen_Sprites_13: 8372063942593086375
+      shen_Sprites_78: -9013039101869272931
+      shen_Sprites_24: -2510539077411048599
+      shen_Sprites_30: -8121535805827131300
+      shen_Sprites_27: 470782806497750455
+      shen_Sprites_89: -5502104410074108800
+      shen_Sprites_98: -4482716776048955265
+      shen_Sprites_18: 8476595065681313162
+      shen_Sprites_48: 3293439369050909664
+      shen_Sprites_93: -6821302465779727071
+      shen_Sprites_42: -3642056765720449937
+      shen_Sprites_88: 662853678416376908
+      shen_Sprites_32: 3231668287556996446
+      shen_Sprites_64: 4867526233755552960
+      shen_Sprites_34: 4780276723632199556
+      shen_Sprites_87: -8156165254201515674
+      shen_Sprites_2: 5510276359842871989
+      shen_Sprites_65: 7612149659528239222
+      shen_Sprites_25: 100737775425774357
+      shen_Sprites_57: 6516860224424122916
+      shen_Sprites_1: -1919174086220767116
+      shen_Sprites_7: -8739530550285391357
+      shen_Sprites_73: -3777638563746602896
+      shen_Sprites_37: -5089567377871966308
+      shen_Sprites_74: 4378637303329357033
+      shen_Sprites_29: 8959656654520009589
+      shen_Sprites_76: -5492787039217221912
+      shen_Sprites_91: 427051772222253988
+      shen_Sprites_102: -7507919110571266815
+      shen_Sprites_66: -1784123193141953016
+      shen_Sprites_17: -8971812115470638252
+      shen_Sprites_19: 4920979726500238210
+      shen_Sprites_79: -466459572769645938
+      shen_Sprites_67: 4653911158092768029
+      shen_Sprites_100: 696958756767321152
+      shen_Sprites_71: 7235737120367926873
+      shen_Sprites_77: 7918954539971798343
+      shen_Sprites_46: 6878664950865557475
+      shen_Sprites_95: -4418100755960211259
+      shen_Sprites_6: -2290326710072273840
+      shen_Sprites_52: 2101162200388260420
+      shen_Sprites_86: -8536207798798255423
+      shen_Sprites_0: -7993198751706413704
+      shen_Sprites_43: 813374625783097515
+      shen_Sprites_69: -7880159719425312635
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

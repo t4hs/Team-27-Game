@@ -372,6 +372,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2884,6 +2885,123 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      angelica_Sprites_51: -933015059523986547
+      angelica_Sprites_12: 475290636629039806
+      angelica_Sprites_6: -6540113237403429918
+      angelica_Sprites_38: -940404343399176085
+      angelica_Sprites_81: 8613897825946400474
+      angelica_Sprites_4: 8105717599724097892
+      angelica_Sprites_45: -6070529454716969114
+      angelica_Sprites_50: -8341760538901603724
+      angelica_Sprites_61: 775451762261623575
+      angelica_Sprites_95: -3478975084231487974
+      angelica_Sprites_101: -6914278082736414311
+      angelica_Sprites_99: 9146200974515194962
+      angelica_Sprites_100: -3513097097810588689
+      angelica_Sprites_82: -5861089819376834615
+      angelica_Sprites_66: -8697428009751500803
+      angelica_Sprites_78: 4337130195466066251
+      angelica_Sprites_97: -5979464198867796029
+      angelica_Sprites_87: -5208125460636947425
+      angelica_Sprites_86: -3078312605323591018
+      angelica_Sprites_57: -6647691319320324074
+      angelica_Sprites_23: -1935767450490147508
+      angelica_Sprites_3: -6270761052356776159
+      angelica_Sprites_53: -7677495710073275534
+      angelica_Sprites_102: 5098154528781702
+      angelica_Sprites_31: -7391038801087398776
+      angelica_Sprites_49: -6918748385540392751
+      angelica_Sprites_30: 4749030467508605849
+      angelica_Sprites_110: -4447237414378908934
+      angelica_Sprites_84: 2700220236769553788
+      angelica_Sprites_48: 1614426381265639168
+      angelica_Sprites_1: 739349477618869016
+      angelica_Sprites_8: -6913845751905400869
+      angelica_Sprites_40: -5756026634053766162
+      angelica_Sprites_63: 78068716926431252
+      angelica_Sprites_107: 4915593245048808576
+      angelica_Sprites_17: 7151328747906509718
+      angelica_Sprites_19: 8742223568966177985
+      angelica_Sprites_32: 8512996375037765994
+      angelica_Sprites_79: 7782566653500504415
+      angelica_Sprites_46: 3787358195149264839
+      angelica_Sprites_55: 1695871169673003216
+      angelica_Sprites_69: -1913835270091148387
+      angelica_Sprites_7: 1797676232765054863
+      angelica_Sprites_18: -1325467125464264070
+      angelica_Sprites_60: 8735871915038522257
+      angelica_Sprites_62: -6895274122721225462
+      angelica_Sprites_85: -1275302929666453282
+      angelica_Sprites_88: 1794057508183396182
+      angelica_Sprites_74: 1655446022764928482
+      angelica_Sprites_54: -7454154712943618110
+      angelica_Sprites_27: -4555382572908330672
+      angelica_Sprites_15: -4334060664073718591
+      angelica_Sprites_114: 7415867048656771177
+      angelica_Sprites_42: -4971404264446055413
+      angelica_Sprites_33: 316718548676339728
+      angelica_Sprites_93: -2786944784399306661
+      angelica_Sprites_20: 6079716151855707518
+      angelica_Sprites_75: 2136883361373502331
+      angelica_Sprites_108: 2087055766113368073
+      angelica_Sprites_34: 5469108312960454664
+      angelica_Sprites_29: 7686204753210163381
+      angelica_Sprites_96: 3830361024017811238
+      angelica_Sprites_73: -3492797866378255715
+      angelica_Sprites_80: 7722518822714402845
+      angelica_Sprites_112: -1851330355017976684
+      angelica_Sprites_106: -2076382769617320996
+      angelica_Sprites_36: -7890594223441124190
+      angelica_Sprites_10: 4808092402444726950
+      angelica_Sprites_77: 1201990144987231005
+      angelica_Sprites_64: -1812328963919901274
+      angelica_Sprites_90: -8906596891556035402
+      angelica_Sprites_11: 1136912842234143967
+      angelica_Sprites_65: 6174899828891184872
+      angelica_Sprites_35: -7600041101082625684
+      angelica_Sprites_59: 5345021735140216103
+      angelica_Sprites_2: 1067889174452455295
+      angelica_Sprites_41: 8993379801867494077
+      angelica_Sprites_26: 6892250786348902206
+      angelica_Sprites_16: -1663178038306014376
+      angelica_Sprites_92: 349594297956952320
+      angelica_Sprites_70: -7917109561895077807
+      angelica_Sprites_14: 1902104217536888706
+      angelica_Sprites_89: 4724660504283262481
+      angelica_Sprites_52: 3377969512475164566
+      angelica_Sprites_71: -2692421978588156758
+      angelica_Sprites_91: -6706880138940223994
+      angelica_Sprites_44: 3953942356934749990
+      angelica_Sprites_47: -1945066571538778476
+      angelica_Sprites_43: 8336652216563924179
+      angelica_Sprites_105: 1241483392132443300
+      angelica_Sprites_24: 8015882737264811047
+      angelica_Sprites_111: 8998460606038028833
+      angelica_Sprites_104: -4601588027940101956
+      angelica_Sprites_115: -2768782504935030335
+      angelica_Sprites_76: -5407088775761410449
+      angelica_Sprites_13: -6581625205297772852
+      angelica_Sprites_21: 626186755875490919
+      angelica_Sprites_22: -2799242533528783488
+      angelica_Sprites_113: 7826167607876257289
+      angelica_Sprites_37: 7449924924138397902
+      angelica_Sprites_103: 4282155716497583230
+      angelica_Sprites_5: -5718380119964889310
+      angelica_Sprites_39: 6848612312804067423
+      angelica_Sprites_109: -9153767953974158710
+      angelica_Sprites_68: 6179716193216661659
+      angelica_Sprites_56: 118750781873249922
+      angelica_Sprites_72: 6796037792542133582
+      angelica_Sprites_83: -6890671033199133216
+      angelica_Sprites_94: 6346185181467370830
+      angelica_Sprites_67: -8843041471973621907
+      angelica_Sprites_0: 1795581282253692320
+      angelica_Sprites_98: 802150478910989590
+      angelica_Sprites_25: -3268616446960035563
+      angelica_Sprites_58: 5065194228740292360
+      angelica_Sprites_9: 2621843418869747057
+      angelica_Sprites_28: 5730468528590158442
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

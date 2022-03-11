@@ -423,6 +423,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -3292,6 +3293,140 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      vladmir_Sprites_0: -5517895461404448815
+      vladmir_Sprites_92: 8465697905755520918
+      vladmir_Sprites_16: 3567457983044400807
+      vladmir_Sprites_109: -2965940593137133910
+      vladmir_Sprites_108: -7975752451564898473
+      vladmir_Sprites_24: -2428390180956559073
+      vladmir_Sprites_7: 9134249653994429525
+      vladmir_Sprites_107: -7037883247304064533
+      vladmir_Sprites_8: 604676455209709399
+      vladmir_Sprites_33: 4207761514853834865
+      vladmir_Sprites_29: -4532736928398717403
+      vladmir_Sprites_86: 6955968639998651923
+      vladmir_Sprites_51: -2242152416312885784
+      vladmir_Sprites_89: 1516344559306649093
+      vladmir_Sprites_99: 4209414291420424870
+      vladmir_Sprites_61: -6810400151558469738
+      vladmir_Sprites_72: 5035891543552624527
+      vladmir_Sprites_69: -3661671710292508304
+      vladmir_Sprites_52: -3289581915008972946
+      vladmir_Sprites_96: 7712609153042322946
+      vladmir_Sprites_90: -3290896065936212239
+      vladmir_Sprites_27: 8394281410852763327
+      vladmir_Sprites_54: 8268769470534963478
+      vladmir_Sprites_56: -4257467265829705750
+      vladmir_Sprites_132: -3865556045820515868
+      vladmir_Sprites_28: 5408738297142560142
+      vladmir_Sprites_55: -5772487486544686769
+      vladmir_Sprites_41: -5155942088550050443
+      vladmir_Sprites_111: 4635069092051781120
+      vladmir_Sprites_93: 6942011433912229484
+      vladmir_Sprites_38: -5785796958798143065
+      vladmir_Sprites_123: -5737799251462175242
+      vladmir_Sprites_15: -5755037814199673506
+      vladmir_Sprites_47: 5544363417764049140
+      vladmir_Sprites_125: 4521000256929192455
+      vladmir_Sprites_22: 3684549940584500923
+      vladmir_Sprites_106: -8221945272547507725
+      vladmir_Sprites_113: -5701167413770039392
+      vladmir_Sprites_5: -9059733591108156061
+      vladmir_Sprites_40: -8834517354744270688
+      vladmir_Sprites_62: 7377369059491718015
+      vladmir_Sprites_67: 4217847122015949971
+      vladmir_Sprites_120: 4885275827693151148
+      vladmir_Sprites_10: -9165295531414312667
+      vladmir_Sprites_21: -918868868808808697
+      vladmir_Sprites_48: 4752624056475377980
+      vladmir_Sprites_64: 5946631667158696397
+      vladmir_Sprites_65: -8216093323418129908
+      vladmir_Sprites_118: -5147139969306841684
+      vladmir_Sprites_131: 80751522952588074
+      vladmir_Sprites_23: 3207233943709391574
+      vladmir_Sprites_75: 1799909794216333345
+      vladmir_Sprites_79: -4195905364417163201
+      vladmir_Sprites_42: -301918081296316365
+      vladmir_Sprites_11: -8877503631427184893
+      vladmir_Sprites_63: -4289806515710591080
+      vladmir_Sprites_3: -6234573838435120448
+      vladmir_Sprites_102: 367003687058391468
+      vladmir_Sprites_34: -249456571270499221
+      vladmir_Sprites_104: -79704393483440579
+      vladmir_Sprites_44: -2889934086094500761
+      vladmir_Sprites_4: -2488028242760180680
+      vladmir_Sprites_46: -1007298350275103411
+      vladmir_Sprites_70: -7523708516098126929
+      vladmir_Sprites_43: 6612270965418488367
+      vladmir_Sprites_2: 4338761498885116072
+      vladmir_Sprites_1: -2201117633400723939
+      vladmir_Sprites_25: -8871937396109580896
+      vladmir_Sprites_39: 4372165889116081090
+      vladmir_Sprites_45: -5902165240743714390
+      vladmir_Sprites_58: 8640839537456732112
+      vladmir_Sprites_130: -7324563485750508527
+      vladmir_Sprites_124: 1134584639040385547
+      vladmir_Sprites_76: -5003441431626863711
+      vladmir_Sprites_59: -677089191496759342
+      vladmir_Sprites_20: -7105365372894622744
+      vladmir_Sprites_32: 2748972337392225328
+      vladmir_Sprites_78: 827410408449422492
+      vladmir_Sprites_91: -4195157434431002929
+      vladmir_Sprites_103: 200451802137787044
+      vladmir_Sprites_115: -2240211405099971042
+      vladmir_Sprites_77: -4427901194460668971
+      vladmir_Sprites_50: 8277071639099181541
+      vladmir_Sprites_98: -3334217661978332692
+      vladmir_Sprites_9: 2463869244139688157
+      vladmir_Sprites_100: -6997548553885552257
+      vladmir_Sprites_80: -8346717473347878856
+      vladmir_Sprites_35: -3435432573351402248
+      vladmir_Sprites_84: -4509763819477373244
+      vladmir_Sprites_119: -7093370870517630383
+      vladmir_Sprites_88: -8593911630987465633
+      vladmir_Sprites_97: 7880803627490479955
+      vladmir_Sprites_53: 4981096215605093930
+      vladmir_Sprites_105: 1703135237510090506
+      vladmir_Sprites_101: -200080235003343967
+      vladmir_Sprites_81: -2490081038526965828
+      vladmir_Sprites_57: -8783883189941463378
+      vladmir_Sprites_114: -2005037745089763462
+      vladmir_Sprites_31: 7900024887696034236
+      vladmir_Sprites_37: 3884388951263751283
+      vladmir_Sprites_73: 8774689086385297208
+      vladmir_Sprites_129: -7130204542880112270
+      vladmir_Sprites_13: -7446024408775825181
+      vladmir_Sprites_94: 1835405655677865434
+      vladmir_Sprites_112: 5894246704635182802
+      vladmir_Sprites_60: 3089264818444542365
+      vladmir_Sprites_128: 6589165266814693215
+      vladmir_Sprites_121: -1290878199336712022
+      vladmir_Sprites_18: -811833211470201286
+      vladmir_Sprites_19: -779533618553595976
+      vladmir_Sprites_68: 699481746011466494
+      vladmir_Sprites_95: 9075595275007605687
+      vladmir_Sprites_85: -9059911458025820062
+      vladmir_Sprites_117: 7912632096172536870
+      vladmir_Sprites_26: 6044533171236243287
+      vladmir_Sprites_66: 2278605734429248937
+      vladmir_Sprites_71: -1433224179500030046
+      vladmir_Sprites_82: 300586901428899055
+      vladmir_Sprites_126: -3542804845396984144
+      vladmir_Sprites_87: 467842627814146257
+      vladmir_Sprites_116: 6341487178705650223
+      vladmir_Sprites_122: 3225306477197551729
+      vladmir_Sprites_110: 9210032575680287418
+      vladmir_Sprites_127: 8712890601960570606
+      vladmir_Sprites_14: 3053342693770623599
+      vladmir_Sprites_12: -2088515504036860439
+      vladmir_Sprites_83: -1098753146417851425
+      vladmir_Sprites_30: -893422199074996208
+      vladmir_Sprites_36: -2614953196844501390
+      vladmir_Sprites_49: 2554112454584921249
+      vladmir_Sprites_74: -3719714627227295154
+      vladmir_Sprites_17: -1622327033695081504
+      vladmir_Sprites_6: -4560757697463227310
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

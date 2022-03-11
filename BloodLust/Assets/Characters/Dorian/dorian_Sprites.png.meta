@@ -243,6 +243,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1852,6 +1853,80 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      dorian_Sprites_48: 2933173117010046107
+      dorian_Sprites_57: -307164533207788492
+      dorian_Sprites_61: 3365153963832627431
+      dorian_Sprites_23: -8057449554910097481
+      dorian_Sprites_34: 5811863650222890173
+      dorian_Sprites_55: -69167657100584751
+      dorian_Sprites_27: 4268816369028691816
+      dorian_Sprites_65: -9071549612531472182
+      dorian_Sprites_2: 7445214898888189893
+      dorian_Sprites_45: 3394025870436506823
+      dorian_Sprites_30: 4012917736204840499
+      dorian_Sprites_72: -158675491709984412
+      dorian_Sprites_69: -4846270418358082916
+      dorian_Sprites_59: 3536195938378513331
+      dorian_Sprites_13: 354354686322131240
+      dorian_Sprites_56: 779492527838890464
+      dorian_Sprites_1: 6350835541332669479
+      dorian_Sprites_6: 6980277535529903065
+      dorian_Sprites_21: -1017263915837886331
+      dorian_Sprites_22: 7121126866608756889
+      dorian_Sprites_25: -7862692679012057416
+      dorian_Sprites_8: -7026180105729081781
+      dorian_Sprites_29: -4534450369197744250
+      dorian_Sprites_52: -5332334129486765043
+      dorian_Sprites_53: 2732683946020105202
+      dorian_Sprites_35: 1856329565505564623
+      dorian_Sprites_44: 3980258537183150653
+      dorian_Sprites_49: -8795328743266968694
+      dorian_Sprites_0: 2268850888521235835
+      dorian_Sprites_28: -475708047176157795
+      dorian_Sprites_68: -3879557232967364605
+      dorian_Sprites_39: 3077835477224080503
+      dorian_Sprites_24: 5191234406026241595
+      dorian_Sprites_46: 7689901809505042580
+      dorian_Sprites_36: -2154833209904480434
+      dorian_Sprites_15: -7941261464618102643
+      dorian_Sprites_47: 42241567122156492
+      dorian_Sprites_31: -3781211675781172495
+      dorian_Sprites_37: -497456516041763482
+      dorian_Sprites_67: 9218756058598733385
+      dorian_Sprites_26: -3156233645438936559
+      dorian_Sprites_19: -1256178566510880907
+      dorian_Sprites_11: -7520531783015126508
+      dorian_Sprites_32: 6442088889660525807
+      dorian_Sprites_7: 8583558929619838310
+      dorian_Sprites_60: 4728036897990330309
+      dorian_Sprites_16: -2186010653113477474
+      dorian_Sprites_4: -6447878531134026240
+      dorian_Sprites_62: 5093313427597249350
+      dorian_Sprites_5: 6282068200566370155
+      dorian_Sprites_42: -2804771031816874190
+      dorian_Sprites_18: 5885188799216805120
+      dorian_Sprites_54: -7178114825091732894
+      dorian_Sprites_20: 452809815035873949
+      dorian_Sprites_63: 3663295038949331801
+      dorian_Sprites_64: 8336133407623440338
+      dorian_Sprites_70: -2143835708824201755
+      dorian_Sprites_41: -3829818980484165619
+      dorian_Sprites_3: -2190010509460832479
+      dorian_Sprites_43: 9189440134035643624
+      dorian_Sprites_50: -7958617731982740996
+      dorian_Sprites_17: 2005787507728872694
+      dorian_Sprites_58: -2687837896284218249
+      dorian_Sprites_33: 3768809663691495838
+      dorian_Sprites_38: -3169399822402443796
+      dorian_Sprites_71: -4423146582412676512
+      dorian_Sprites_40: -6617895671235676015
+      dorian_Sprites_12: 750727063782405049
+      dorian_Sprites_9: 121002354254819462
+      dorian_Sprites_51: 7918520090250894169
+      dorian_Sprites_66: 7081308660812231418
+      dorian_Sprites_10: -7351716123705185992
+      dorian_Sprites_14: -2921577353772672094
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

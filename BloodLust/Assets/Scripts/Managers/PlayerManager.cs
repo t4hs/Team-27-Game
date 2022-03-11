@@ -118,14 +118,14 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         {
             GameObject characterPref = player1.ChosenCharacter.CharacterPrefab;
             spawnPicker = 0;
-            go = PhotonNetwork.Instantiate(characterPref.name,spawnPoints[spawnPicker].position,
-                spawnPoints[spawnPicker].rotation,0);
+            go = PhotonNetwork.Instantiate(characterPref.name,GameManager.instance.spawnPoints[spawnPicker].position,
+                GameManager.instance.spawnPoints[spawnPicker].rotation,0);
         }else
         {
             GameObject characterPref = player2.ChosenCharacter.CharacterPrefab;
             spawnPicker = 1;
-            go = PhotonNetwork.Instantiate(characterPref.name,spawnPoints[spawnPicker].position,
-                spawnPoints[spawnPicker].rotation,0);
+            go = PhotonNetwork.Instantiate(characterPref.name, GameManager.instance.spawnPoints[spawnPicker].position,
+                GameManager.instance.spawnPoints[spawnPicker].rotation,0);
         }
         GameManager.instance.ChangeState(GameState.Player1Turn);
     }

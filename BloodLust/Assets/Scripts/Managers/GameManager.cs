@@ -10,15 +10,12 @@ public class GameManager : MonoBehaviourPunCallbacks
 {
     public static GameManager instance;
     public GameState state { get; private set; }
-    private GameObject playerPrefab;
-    [SerializeField] private GameObject playerManagerGo;
     private event Action<GameState> GameStateChange;
     public GameObject[] cards;
-    [SerializeField] private Transform[] spawnPoints;
+    public Transform[] spawnPoints;
 
     private ExitGames.Client.Photon.Hashtable roomProps = new ExitGames.Client.Photon.Hashtable();
     PhotonView pV;
-    PlayerManager playerManager;
 
     public void Awake()
     {

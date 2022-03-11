@@ -441,6 +441,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -3436,6 +3437,146 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      emma_Sprites_96: -6289701242838612359
+      emma_Sprites_86: 501220941134720006
+      emma_Sprites_17: 6695511310045942784
+      emma_Sprites_2: 3407109392536167202
+      emma_Sprites_58: 1562679410048359813
+      emma_Sprites_78: -6273652771367505723
+      emma_Sprites_59: -5242040171957564770
+      emma_Sprites_83: -6010543400430482148
+      emma_Sprites_19: 2660878097785178657
+      emma_Sprites_35: 398202772146450016
+      emma_Sprites_114: -3461515319570411453
+      emma_Sprites_133: 8044411286492547791
+      emma_Sprites_24: 9063528891755151943
+      emma_Sprites_61: 3519136450075925839
+      emma_Sprites_105: -610973372654757261
+      emma_Sprites_129: -842828297535681742
+      emma_Sprites_49: -5093528660301304627
+      emma_Sprites_109: 4329706163772591457
+      emma_Sprites_60: -3140153763593585751
+      emma_Sprites_55: -9063202076440762347
+      emma_Sprites_20: -2970902962561634572
+      emma_Sprites_33: 5450099970604843398
+      emma_Sprites_121: 6858626899945636254
+      emma_Sprites_0: 3365364393385455131
+      emma_Sprites_126: 5257721856265650339
+      emma_Sprites_42: -1662483675008705095
+      emma_Sprites_89: 1792311845655252877
+      emma_Sprites_124: 6553400432279624458
+      emma_Sprites_48: -2586665998896389311
+      emma_Sprites_127: 6325550563484272783
+      emma_Sprites_85: -4633114515339845412
+      emma_Sprites_77: 9104589054391321490
+      emma_Sprites_104: -3944231111413013712
+      emma_Sprites_116: -3829135990828728604
+      emma_Sprites_137: 2733388879015381265
+      emma_Sprites_98: -5244194492212617141
+      emma_Sprites_22: 3206533295117375471
+      emma_Sprites_94: 649511650555058794
+      emma_Sprites_136: 4176872444280363135
+      emma_Sprites_4: -3166266643190188722
+      emma_Sprites_99: 806817635259584884
+      emma_Sprites_74: 2803958066153480757
+      emma_Sprites_34: -4177824792017158862
+      emma_Sprites_115: -6652818167172147220
+      emma_Sprites_122: 5738804394393528061
+      emma_Sprites_97: -2199956478591464641
+      emma_Sprites_6: 809523174887038739
+      emma_Sprites_11: 2289368345226341438
+      emma_Sprites_3: 4779461668473849011
+      emma_Sprites_30: 2148317626467261317
+      emma_Sprites_88: -4451605606869324810
+      emma_Sprites_63: -7957183963733312311
+      emma_Sprites_106: 2398308364519182414
+      emma_Sprites_102: -1441066577726468762
+      emma_Sprites_51: -7036641551645914241
+      emma_Sprites_138: -1656535750388813348
+      emma_Sprites_69: 4585643287566503052
+      emma_Sprites_80: -7291110946888360027
+      emma_Sprites_110: -8906172769842889416
+      emma_Sprites_118: -7468433287244308130
+      emma_Sprites_43: 4826707095808195396
+      emma_Sprites_101: 7909759631812762212
+      emma_Sprites_38: -5776950203220886529
+      emma_Sprites_57: -5942542571945565726
+      emma_Sprites_13: 6381200815868906106
+      emma_Sprites_87: -4409302501958619773
+      emma_Sprites_45: -218461204100579365
+      emma_Sprites_46: -6143270758168665628
+      emma_Sprites_70: -2907340583073452817
+      emma_Sprites_103: -2536855155144508783
+      emma_Sprites_91: -7031260488640603321
+      emma_Sprites_64: -3071103001962564190
+      emma_Sprites_54: 6963604373602851521
+      emma_Sprites_15: -4345785456946242183
+      emma_Sprites_135: 8629181642839791364
+      emma_Sprites_111: -5056445405821050931
+      emma_Sprites_100: -3706226055531251128
+      emma_Sprites_73: 1437398218047257999
+      emma_Sprites_9: 7520559033015388548
+      emma_Sprites_41: -6859041310967304909
+      emma_Sprites_10: -6200167254129399294
+      emma_Sprites_53: 3347588213900673679
+      emma_Sprites_18: 645689888179295985
+      emma_Sprites_82: -3667475002880836492
+      emma_Sprites_67: -528373599294297423
+      emma_Sprites_68: 1813543999033927564
+      emma_Sprites_108: -1713733773173418536
+      emma_Sprites_125: -5510752352311719896
+      emma_Sprites_76: 3825605769679207490
+      emma_Sprites_65: 2821560355780222321
+      emma_Sprites_117: 3066269442374385705
+      emma_Sprites_81: 8282896015439591603
+      emma_Sprites_79: -1655801413673072513
+      emma_Sprites_128: -4023327706711087165
+      emma_Sprites_119: 4887391025926417044
+      emma_Sprites_39: -4936659983189401778
+      emma_Sprites_1: -2262061111148111924
+      emma_Sprites_50: 6111736228606400190
+      emma_Sprites_7: 4409445871515779396
+      emma_Sprites_113: -5293467774313718680
+      emma_Sprites_93: -514706164272683010
+      emma_Sprites_75: -4198089418752528790
+      emma_Sprites_123: -6483176447493709265
+      emma_Sprites_16: -5298770035979444083
+      emma_Sprites_21: 1619494118404744033
+      emma_Sprites_40: 4309907392446843317
+      emma_Sprites_36: 7514585120870391037
+      emma_Sprites_32: -4932949362383830579
+      emma_Sprites_47: 6772390167737817222
+      emma_Sprites_12: -5044286943814191994
+      emma_Sprites_44: 9027640158520062080
+      emma_Sprites_120: -2081598683294143757
+      emma_Sprites_131: 2614964104825104085
+      emma_Sprites_107: 1125406188595521283
+      emma_Sprites_27: -8134557798012547015
+      emma_Sprites_56: 5148171258791665960
+      emma_Sprites_31: -2661313478868242213
+      emma_Sprites_72: -555702107551524628
+      emma_Sprites_8: -4531572400570073413
+      emma_Sprites_26: -6462603807105780965
+      emma_Sprites_84: 45256192742568197
+      emma_Sprites_90: -1345204903437230627
+      emma_Sprites_130: 1194315962455843382
+      emma_Sprites_112: 815257124608855499
+      emma_Sprites_37: -1598739429576423730
+      emma_Sprites_28: -7196005809129151297
+      emma_Sprites_71: -3263273041392058436
+      emma_Sprites_95: -5300391283965945273
+      emma_Sprites_62: -7905233231770892063
+      emma_Sprites_14: -1950596382794354752
+      emma_Sprites_132: -505130814283755323
+      emma_Sprites_5: -238395179780711159
+      emma_Sprites_23: -7335353120081963665
+      emma_Sprites_134: 771579496421187273
+      emma_Sprites_25: 7607235342279865532
+      emma_Sprites_29: -4679072279740223553
+      emma_Sprites_52: -1984203328750188179
+      emma_Sprites_92: 493925717517137985
+      emma_Sprites_66: 4757541151087706069
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
