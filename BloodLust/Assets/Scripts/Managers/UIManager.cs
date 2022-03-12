@@ -1,18 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public abstract class UIManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public abstract void ToggleButtons(Button button, bool value);
+    public abstract void ToggleScreens(GameObject screen, bool value);
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

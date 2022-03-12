@@ -2026,7 +2026,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8fff4e14124a11a1a7e57336efebfc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cards: []
+  playerManagerGo: {fileID: 0}
   spawnPoints:
   - {fileID: 424630909}
   - {fileID: 95907676}
