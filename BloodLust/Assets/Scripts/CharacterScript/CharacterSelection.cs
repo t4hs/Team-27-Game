@@ -16,6 +16,7 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
     private int currentCharacter;
     [SerializeField] private Button PlayerReadyButton;
     [SerializeField] private Button selectButton;
+    [SerializeField] CharacterUIManager characterUIManager;
     public event Action<Character> OnCharacterSelected;
     public void Awake()
     {
@@ -33,7 +34,7 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
         void Start()
         {
 
-            PlayerReadyButton.gameObject.SetActive(false);
+        characterUIManager.ToggleButtons(PlayerReadyButton, false);
 
             if(PhotonNetwork.IsConnected)
             {
@@ -57,8 +58,8 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
     {
         if(FighterReady() && PhotonNetwork.IsMasterClient)
         {
-            PlayerReadyButton.gameObject.SetActive(true);
-            selectButton.gameObject.SetActive(false);
+          characterUIManager.ToggleButtons(PlayerReadyButton, true);
+          characterUIManager.ToggleButtons(selectButton, false);
         }
     }
 

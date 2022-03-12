@@ -261,6 +261,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1996,6 +1997,86 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      kate_Sprites_57: -7438709069997258172
+      kate_Sprites_46: -3063651611030382308
+      kate_Sprites_10: 2171313557130609735
+      kate_Sprites_48: 3283827871143963079
+      kate_Sprites_63: 260743510871735570
+      kate_Sprites_34: -7412655141575110560
+      kate_Sprites_38: -3984446607304948505
+      kate_Sprites_73: -27806111155820370
+      kate_Sprites_45: 3449758371789650030
+      kate_Sprites_19: -2991761051890003817
+      kate_Sprites_71: 6883984417314337372
+      kate_Sprites_29: -860853911341108794
+      kate_Sprites_6: 3979433898875277884
+      kate_Sprites_32: 1040428970688528861
+      kate_Sprites_58: -3425151727894257009
+      kate_Sprites_15: 7192678825190414369
+      kate_Sprites_8: -4078556099447910689
+      kate_Sprites_72: 905470435246288912
+      kate_Sprites_5: -2552735150100786188
+      kate_Sprites_21: 3767131060713295628
+      kate_Sprites_44: 8247132949654366710
+      kate_Sprites_50: 7874846754854075719
+      kate_Sprites_9: -3334179359466501110
+      kate_Sprites_31: 6212108916936202147
+      kate_Sprites_0: 1563194932747763431
+      kate_Sprites_54: -4589244872485519447
+      kate_Sprites_61: 8289538304346291190
+      kate_Sprites_59: 3962095370877267659
+      kate_Sprites_43: -5630548409414993088
+      kate_Sprites_66: -6169003511108980005
+      kate_Sprites_27: 6001368518856465041
+      kate_Sprites_36: -185142356936661147
+      kate_Sprites_11: -1095686056020138766
+      kate_Sprites_20: -230790190633453329
+      kate_Sprites_77: 4507016396827892511
+      kate_Sprites_41: 4687365384935965999
+      kate_Sprites_24: 1354426512407262709
+      kate_Sprites_68: 313238016611735084
+      kate_Sprites_22: 6705836529168209330
+      kate_Sprites_64: 5884429236430733006
+      kate_Sprites_14: -4369799034089814657
+      kate_Sprites_23: 4954997905049542629
+      kate_Sprites_35: 4247455435784748167
+      kate_Sprites_17: 3996675377218181535
+      kate_Sprites_42: 3228225094015534429
+      kate_Sprites_1: 2074985662890563952
+      kate_Sprites_39: -139462065724951416
+      kate_Sprites_56: 5422486789550445967
+      kate_Sprites_52: -7816713333754391683
+      kate_Sprites_75: 5779702181443008897
+      kate_Sprites_37: -4472266039573262875
+      kate_Sprites_53: -874793994302866425
+      kate_Sprites_69: 7948386843276793572
+      kate_Sprites_65: 2751350183635005150
+      kate_Sprites_40: -4207886203778172195
+      kate_Sprites_4: -8942157354102662457
+      kate_Sprites_76: 6759482564278440623
+      kate_Sprites_26: 7719669098333798775
+      kate_Sprites_25: -4128924091178669067
+      kate_Sprites_55: -5160629968853725457
+      kate_Sprites_67: 3499744042831180535
+      kate_Sprites_7: -2584126965548556811
+      kate_Sprites_12: 5190789402964552108
+      kate_Sprites_62: 2110295651944265361
+      kate_Sprites_78: -279275185939990679
+      kate_Sprites_16: 5149078871110354072
+      kate_Sprites_33: -1165917857248309310
+      kate_Sprites_74: 5309671528025476969
+      kate_Sprites_28: 8221693525215060590
+      kate_Sprites_2: -3879347594164682107
+      kate_Sprites_49: -8512540084309304126
+      kate_Sprites_3: -299821671683821028
+      kate_Sprites_18: 7294090204703091821
+      kate_Sprites_47: -7739458258133256470
+      kate_Sprites_13: 5988313244572263920
+      kate_Sprites_60: 903759321578952076
+      kate_Sprites_70: -632307135912731580
+      kate_Sprites_30: -6067348731142731760
+      kate_Sprites_51: -1769100769255634570
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

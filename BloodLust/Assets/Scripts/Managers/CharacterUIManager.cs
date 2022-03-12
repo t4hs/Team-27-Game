@@ -1,18 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class CharacterUIManager : MonoBehaviour
+using UnityEngine.UI;
+public class CharacterUIManager : UIManager
 {
-    // Start is called before the first frame update
-    void Start()
+    //Toggles whatever buttons of the game
+    public override void ToggleButtons(Button button, bool value)
     {
-        
+        button.gameObject.SetActive(value);
     }
-
-    // Update is called once per frame
-    void Update()
+    //Toggle whatever screens of the game. 
+    public override void ToggleScreens(GameObject screen, bool value)
     {
-        
+        screen.SetActive(value);
     }
 }

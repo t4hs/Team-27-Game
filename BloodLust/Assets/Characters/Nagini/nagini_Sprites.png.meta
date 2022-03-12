@@ -243,6 +243,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1852,6 +1853,80 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      nagini_Sprites_53: 1132521411240839985
+      nagini_Sprites_19: -8439205171010213371
+      nagini_Sprites_40: -3996090885895190310
+      nagini_Sprites_43: 6916297834545568170
+      nagini_Sprites_61: -7689906737289317390
+      nagini_Sprites_30: -6991286407520269439
+      nagini_Sprites_69: -1304852549867414273
+      nagini_Sprites_28: -6817249930359813068
+      nagini_Sprites_51: -8961436728472821018
+      nagini_Sprites_72: -2512913641757796730
+      nagini_Sprites_62: -1829179292612231601
+      nagini_Sprites_63: 6827762503441123521
+      nagini_Sprites_32: 7788332718372887212
+      nagini_Sprites_4: 249925976571730533
+      nagini_Sprites_52: -2831767349473363626
+      nagini_Sprites_21: 2369215386313961839
+      nagini_Sprites_49: -7459886133618804772
+      nagini_Sprites_15: 8766839458897227593
+      nagini_Sprites_5: -1207067295677564232
+      nagini_Sprites_29: 6612571664068893944
+      nagini_Sprites_16: -3303991127214235583
+      nagini_Sprites_58: 5545918775004191571
+      nagini_Sprites_17: 8682677576118633237
+      nagini_Sprites_68: 4705209075107067098
+      nagini_Sprites_39: 1772559723361857578
+      nagini_Sprites_13: -3107911386969737754
+      nagini_Sprites_10: -4839298263617290887
+      nagini_Sprites_59: -2574439809227476724
+      nagini_Sprites_60: 8064174259666591440
+      nagini_Sprites_70: -3510741927462765389
+      nagini_Sprites_23: 6339625849116687004
+      nagini_Sprites_18: -6331101647951092549
+      nagini_Sprites_65: -923853267560740063
+      nagini_Sprites_41: -1435990928881067799
+      nagini_Sprites_31: -1046901324947739965
+      nagini_Sprites_55: 6727603526301378114
+      nagini_Sprites_56: 8178856103005779310
+      nagini_Sprites_67: -5996859547840391219
+      nagini_Sprites_1: 5934309132864923481
+      nagini_Sprites_14: -2884131343391216678
+      nagini_Sprites_45: -4777809283228381247
+      nagini_Sprites_6: -1681477754546543040
+      nagini_Sprites_46: -214222467428656311
+      nagini_Sprites_27: -2186259403937198167
+      nagini_Sprites_9: -3458056511257578852
+      nagini_Sprites_48: -1856198055925918179
+      nagini_Sprites_8: -768468491630995581
+      nagini_Sprites_0: 6354605895861102921
+      nagini_Sprites_35: -756471975503213179
+      nagini_Sprites_37: -8954977183431300595
+      nagini_Sprites_34: 917038494510481821
+      nagini_Sprites_71: -1792965315934812776
+      nagini_Sprites_42: 6719523556203032777
+      nagini_Sprites_36: 1074501306330389479
+      nagini_Sprites_47: 9057248294553268429
+      nagini_Sprites_66: 3807702102244425673
+      nagini_Sprites_25: 394173637838847120
+      nagini_Sprites_64: -8461314048107193837
+      nagini_Sprites_7: -1750267082825788602
+      nagini_Sprites_3: 8261174510265347657
+      nagini_Sprites_38: -868997455172690245
+      nagini_Sprites_2: -7211698644924406082
+      nagini_Sprites_22: 1345459113019891820
+      nagini_Sprites_11: -1979686934102764302
+      nagini_Sprites_12: -2939864335994553259
+      nagini_Sprites_57: -2220808500516318572
+      nagini_Sprites_20: -2346262308963719703
+      nagini_Sprites_33: 169436066168195423
+      nagini_Sprites_44: -4582719269260185784
+      nagini_Sprites_26: -7682474991988846430
+      nagini_Sprites_54: 2157097666233404343
+      nagini_Sprites_50: -4182859822957637522
+      nagini_Sprites_24: -8314634278326901194
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

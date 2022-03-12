@@ -294,6 +294,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2260,6 +2261,97 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      zack_Sprites_31: 1557040705048518184
+      zack_Sprites_19: -5001197094133865135
+      zack_Sprites_28: 2818252072489992044
+      zack_Sprites_39: -327443817209844179
+      zack_Sprites_68: -4493932738033364694
+      zack_Sprites_46: -698911706593320084
+      zack_Sprites_11: -1146486722651301251
+      zack_Sprites_3: 6712012618873139418
+      zack_Sprites_33: 3917227525508941714
+      zack_Sprites_12: 2795031706763676522
+      zack_Sprites_89: 6964518312531824240
+      zack_Sprites_40: -5346790759939558698
+      zack_Sprites_70: 4384412596940751886
+      zack_Sprites_78: -6122569918175137360
+      zack_Sprites_23: 7746242142237961303
+      zack_Sprites_42: -3686358021550321
+      zack_Sprites_38: -2606953479797244748
+      zack_Sprites_49: -4494779693363416921
+      zack_Sprites_29: -4002771593473292264
+      zack_Sprites_41: 1874128972948477240
+      zack_Sprites_64: -5683947279814152217
+      zack_Sprites_48: 593706170332791226
+      zack_Sprites_74: -983765379055704170
+      zack_Sprites_65: 3775811934424188648
+      zack_Sprites_71: 2801082852909781246
+      zack_Sprites_85: -7271512805134211078
+      zack_Sprites_54: -6179377651793478591
+      zack_Sprites_5: 304775929722689839
+      zack_Sprites_16: -867234010625494029
+      zack_Sprites_4: 6835084021234652477
+      zack_Sprites_35: 2258086007810880546
+      zack_Sprites_81: 4976614343698887648
+      zack_Sprites_50: 6485406900231182427
+      zack_Sprites_69: 7517367948934060718
+      zack_Sprites_66: -2105278881629960966
+      zack_Sprites_45: -1219986232796916901
+      zack_Sprites_21: 2819704256674298903
+      zack_Sprites_77: 5904285934687520715
+      zack_Sprites_84: -801350822911371567
+      zack_Sprites_13: -4905507930732131587
+      zack_Sprites_36: 8644256360419470817
+      zack_Sprites_58: -8695836699910788524
+      zack_Sprites_75: 118014195955600022
+      zack_Sprites_57: -4986686647642221783
+      zack_Sprites_52: -7518142758963802254
+      zack_Sprites_51: 2098204833264949356
+      zack_Sprites_1: -4123533525770601800
+      zack_Sprites_61: -2974124170981982299
+      zack_Sprites_0: 5911891522058035834
+      zack_Sprites_76: -9195406935730886588
+      zack_Sprites_7: -8537724355926505316
+      zack_Sprites_27: 5831868744949349697
+      zack_Sprites_86: 5174947279383066559
+      zack_Sprites_79: 7367591142601262593
+      zack_Sprites_80: -6216072027910856997
+      zack_Sprites_59: 5224386040115496192
+      zack_Sprites_56: -8847201039259626935
+      zack_Sprites_24: -2923026598469044080
+      zack_Sprites_67: 8700337511111332122
+      zack_Sprites_14: -2253972791538099322
+      zack_Sprites_30: 8680680191450988712
+      zack_Sprites_47: 9000178145403524836
+      zack_Sprites_8: -9066276814440629868
+      zack_Sprites_60: 3706112632147349860
+      zack_Sprites_6: 3267312849609810902
+      zack_Sprites_22: 4133320646389079577
+      zack_Sprites_82: 65817019166188716
+      zack_Sprites_55: -8901850672096206825
+      zack_Sprites_20: 4621494820164765692
+      zack_Sprites_87: 780972110912682740
+      zack_Sprites_26: -5648018659085387328
+      zack_Sprites_9: -2230239146421889851
+      zack_Sprites_2: -869124817840752281
+      zack_Sprites_62: -2447985926073410682
+      zack_Sprites_72: -5325207666263834231
+      zack_Sprites_10: -4488610495161025582
+      zack_Sprites_73: 7404583516701762647
+      zack_Sprites_34: -5001271784148395214
+      zack_Sprites_44: 2795827200222328432
+      zack_Sprites_15: -6468593718222861296
+      zack_Sprites_43: -7255228513219397761
+      zack_Sprites_88: -4832183643005275653
+      zack_Sprites_25: -2818198308632483045
+      zack_Sprites_63: 6730268404272077233
+      zack_Sprites_37: -3345609139658651962
+      zack_Sprites_53: 7890806301792531613
+      zack_Sprites_83: 1240424855739336069
+      zack_Sprites_18: 8280042750047540282
+      zack_Sprites_32: -8133260095222144930
+      zack_Sprites_17: -2236459302023464757
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
