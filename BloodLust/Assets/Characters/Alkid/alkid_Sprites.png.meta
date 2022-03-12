@@ -306,6 +306,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2356,6 +2357,101 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      alkid_Sprites_48: -7856610795193896626
+      alkid_Sprites_17: -5936898902457707889
+      alkid_Sprites_28: -6211315815798286100
+      alkid_Sprites_16: -7872055472353278787
+      alkid_Sprites_21: 7790385368988222046
+      alkid_Sprites_86: -584000738724981246
+      alkid_Sprites_80: 918163477023749597
+      alkid_Sprites_27: -4359185926101752572
+      alkid_Sprites_49: 8752801902924936131
+      alkid_Sprites_82: 1797207582080743375
+      alkid_Sprites_54: -3797659002783830898
+      alkid_Sprites_0: -1777988501720997470
+      alkid_Sprites_83: 5602240921220451083
+      alkid_Sprites_89: -5956372213270743581
+      alkid_Sprites_77: -6698121313944110563
+      alkid_Sprites_41: 3742474605781099599
+      alkid_Sprites_76: 2513387554811263382
+      alkid_Sprites_64: 2774037414606812529
+      alkid_Sprites_63: -3193752284495449559
+      alkid_Sprites_1: 1881991320707063671
+      alkid_Sprites_58: 7080676735056528853
+      alkid_Sprites_66: 5632454598651549696
+      alkid_Sprites_23: -286891239096115268
+      alkid_Sprites_13: -1846224068523413448
+      alkid_Sprites_93: 1441119228295151093
+      alkid_Sprites_84: 1002991758017445863
+      alkid_Sprites_87: 8052860471290414463
+      alkid_Sprites_36: -2999939914302572658
+      alkid_Sprites_5: 406517829242144349
+      alkid_Sprites_35: 5898955738800948046
+      alkid_Sprites_55: -9019275336464664397
+      alkid_Sprites_6: 6856330091629239138
+      alkid_Sprites_72: 41319110453025646
+      alkid_Sprites_70: -5410788598139203086
+      alkid_Sprites_75: 5554114823982505851
+      alkid_Sprites_85: -7242209214935227629
+      alkid_Sprites_33: 3328876973540606507
+      alkid_Sprites_9: -9084351416992416997
+      alkid_Sprites_2: -6230330515037980421
+      alkid_Sprites_78: -5614464379009263132
+      alkid_Sprites_29: 3878558568432550662
+      alkid_Sprites_43: -753469223536066083
+      alkid_Sprites_62: 6121439204314871498
+      alkid_Sprites_79: 5127284785938845418
+      alkid_Sprites_12: 4637735144472385883
+      alkid_Sprites_39: -2135011456919180931
+      alkid_Sprites_81: 4486477358915819285
+      alkid_Sprites_10: -6790490122691757685
+      alkid_Sprites_92: 6782878084829281015
+      alkid_Sprites_14: -6255059398180675763
+      alkid_Sprites_53: 1517574379986173342
+      alkid_Sprites_34: -8699498632576027839
+      alkid_Sprites_40: 7172929940066845910
+      alkid_Sprites_73: 7477613812637303795
+      alkid_Sprites_57: 2774194999037673660
+      alkid_Sprites_25: 3907485921447679789
+      alkid_Sprites_26: 3191313716739022744
+      alkid_Sprites_74: 8294257219284044506
+      alkid_Sprites_22: -2454497906544943768
+      alkid_Sprites_30: 7024686344300237094
+      alkid_Sprites_44: 5832935626990037525
+      alkid_Sprites_50: 6318688085410799298
+      alkid_Sprites_24: 6253633859873621563
+      alkid_Sprites_15: -5535805767334919648
+      alkid_Sprites_90: -8683429712051300026
+      alkid_Sprites_38: -1695323023071020165
+      alkid_Sprites_20: 4524884569753728228
+      alkid_Sprites_65: 2982215900311435892
+      alkid_Sprites_46: 5850118156463723334
+      alkid_Sprites_4: 4504461664333047102
+      alkid_Sprites_31: -6753765507194339941
+      alkid_Sprites_3: 7794778241980709676
+      alkid_Sprites_8: -8107517790044879028
+      alkid_Sprites_67: -56014963893047762
+      alkid_Sprites_47: 1785803058924030297
+      alkid_Sprites_18: -8736613419877564391
+      alkid_Sprites_19: -5143330530854494301
+      alkid_Sprites_32: 1640345935922154237
+      alkid_Sprites_69: -7826414827814729059
+      alkid_Sprites_59: -4718166316911931050
+      alkid_Sprites_61: -4424635219971190853
+      alkid_Sprites_42: -4078161046927804383
+      alkid_Sprites_91: 6034536365713749972
+      alkid_Sprites_7: -7819503817844970999
+      alkid_Sprites_56: 1354748980237723476
+      alkid_Sprites_88: 8544159304070608589
+      alkid_Sprites_37: 934498090006452765
+      alkid_Sprites_60: 4185591964920987882
+      alkid_Sprites_68: 4497088953375506285
+      alkid_Sprites_45: 7685036681280836760
+      alkid_Sprites_11: -5834631308957014816
+      alkid_Sprites_52: -1524506423065719127
+      alkid_Sprites_51: -846773816817228802
+      alkid_Sprites_71: 5450555712491153866
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

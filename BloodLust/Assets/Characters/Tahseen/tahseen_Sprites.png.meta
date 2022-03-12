@@ -288,6 +288,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2212,6 +2213,95 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tahseen_Sprites_33: 1727716854887960338
+      tahseen_Sprites_69: -9042389255115603858
+      tahseen_Sprites_35: 2962560206034521712
+      tahseen_Sprites_57: 4492603573709055120
+      tahseen_Sprites_28: -4049448534848942379
+      tahseen_Sprites_85: 292524986574088038
+      tahseen_Sprites_73: -2572719727960110695
+      tahseen_Sprites_2: -2307985053420875829
+      tahseen_Sprites_26: -5594340580935511134
+      tahseen_Sprites_65: -6910796374067517545
+      tahseen_Sprites_16: 5571001094501519779
+      tahseen_Sprites_76: -4738460077054595294
+      tahseen_Sprites_84: 8210068776747999480
+      tahseen_Sprites_80: 3840713391647020689
+      tahseen_Sprites_10: -6565103693482701577
+      tahseen_Sprites_47: 527244219801070568
+      tahseen_Sprites_25: 8684400323210859668
+      tahseen_Sprites_52: -4760276584047252702
+      tahseen_Sprites_67: 4342887003138355241
+      tahseen_Sprites_7: 3885968749838431716
+      tahseen_Sprites_44: -6932280753377956837
+      tahseen_Sprites_68: -8897005704600504252
+      tahseen_Sprites_21: -775814939763107274
+      tahseen_Sprites_17: 784493378022341794
+      tahseen_Sprites_70: -8798745617100303173
+      tahseen_Sprites_41: 587437415845730566
+      tahseen_Sprites_82: 1143202973624030346
+      tahseen_Sprites_0: -1643084754578016213
+      tahseen_Sprites_20: 2205850412611396433
+      tahseen_Sprites_8: -6048232298641626014
+      tahseen_Sprites_40: -2187763365078699266
+      tahseen_Sprites_62: -3709805844929380213
+      tahseen_Sprites_29: -5444657433500540165
+      tahseen_Sprites_83: 6470400999590344649
+      tahseen_Sprites_24: 2224821257838791545
+      tahseen_Sprites_58: 265561733701852180
+      tahseen_Sprites_81: 6014482575976934767
+      tahseen_Sprites_14: 2048837522386926954
+      tahseen_Sprites_74: -8746949046218923004
+      tahseen_Sprites_64: 3691565756671388011
+      tahseen_Sprites_13: 8191001133476359904
+      tahseen_Sprites_19: -1948528262083628917
+      tahseen_Sprites_37: 8457345804170685461
+      tahseen_Sprites_9: -5424091964135052953
+      tahseen_Sprites_56: -7133932559550970652
+      tahseen_Sprites_50: -873999789609818521
+      tahseen_Sprites_32: 8757645656248298874
+      tahseen_Sprites_45: 2760846116112239494
+      tahseen_Sprites_51: -2234372954277202002
+      tahseen_Sprites_22: 4677087439482305113
+      tahseen_Sprites_39: 5512892360590654835
+      tahseen_Sprites_49: -5692064869670955077
+      tahseen_Sprites_60: -5145533176693634293
+      tahseen_Sprites_55: 9160683035439097510
+      tahseen_Sprites_36: 2734380928940770626
+      tahseen_Sprites_72: 7999727844267426945
+      tahseen_Sprites_87: -8496248393981400799
+      tahseen_Sprites_4: 2205694767072119401
+      tahseen_Sprites_61: -265573829364079887
+      tahseen_Sprites_48: -8116804222845852715
+      tahseen_Sprites_11: -7438045683317277916
+      tahseen_Sprites_18: -5158859130200207665
+      tahseen_Sprites_38: -7256887550756157057
+      tahseen_Sprites_59: -1821928026313581737
+      tahseen_Sprites_34: 1287921098735197933
+      tahseen_Sprites_78: 8108859986055873330
+      tahseen_Sprites_54: 2019779453957662424
+      tahseen_Sprites_63: -6696478521142405352
+      tahseen_Sprites_23: 6079121740200073879
+      tahseen_Sprites_15: 1763505615360322713
+      tahseen_Sprites_6: 883584225535037991
+      tahseen_Sprites_53: 7165176698617763515
+      tahseen_Sprites_3: -7884402734149080477
+      tahseen_Sprites_75: 4633271028304382843
+      tahseen_Sprites_12: -3965511193506076224
+      tahseen_Sprites_77: -6716661595690965352
+      tahseen_Sprites_1: 5743227818270214250
+      tahseen_Sprites_5: -1356734213761434331
+      tahseen_Sprites_46: -4275303390590972545
+      tahseen_Sprites_86: -2832995920302520935
+      tahseen_Sprites_43: 764777862894525434
+      tahseen_Sprites_42: -2933318390078312211
+      tahseen_Sprites_66: -1209550777641066710
+      tahseen_Sprites_27: 3107733248402356044
+      tahseen_Sprites_79: 2156238584282835470
+      tahseen_Sprites_30: 2973983052455762629
+      tahseen_Sprites_71: -5523407080829909821
+      tahseen_Sprites_31: -3700055489780820102
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

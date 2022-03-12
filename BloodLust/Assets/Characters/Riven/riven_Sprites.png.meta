@@ -321,6 +321,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2476,6 +2477,106 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      riven_Sprites_39: -2476172803000070354
+      riven_Sprites_83: 4351525484999459079
+      riven_Sprites_49: 8451580658249668508
+      riven_Sprites_73: 9169102047386864972
+      riven_Sprites_47: 8617971253150609856
+      riven_Sprites_32: 8511223588107854918
+      riven_Sprites_91: 379795740389603230
+      riven_Sprites_10: 6996839667061802427
+      riven_Sprites_96: -7034328741072193807
+      riven_Sprites_30: 1825035053205580085
+      riven_Sprites_28: -6026637558755484192
+      riven_Sprites_89: 9141760626202219387
+      riven_Sprites_4: -4396866171703518790
+      riven_Sprites_98: -2839739200511688992
+      riven_Sprites_67: -8050357030476306634
+      riven_Sprites_57: 3559096266110810330
+      riven_Sprites_0: 5315953821143305605
+      riven_Sprites_21: -6491079550559106445
+      riven_Sprites_38: 8319804308849320785
+      riven_Sprites_63: 9199919708550791337
+      riven_Sprites_71: 4525460833673201827
+      riven_Sprites_17: 4381550193986721776
+      riven_Sprites_69: -6349988397200202626
+      riven_Sprites_95: -400114225648709702
+      riven_Sprites_84: -4785650331178609027
+      riven_Sprites_88: -5621448481038140511
+      riven_Sprites_1: -1989014307778072332
+      riven_Sprites_86: -1236258669866004173
+      riven_Sprites_87: -4534941786017733581
+      riven_Sprites_34: 6487853873361619626
+      riven_Sprites_15: -5596806511053558103
+      riven_Sprites_33: -374589950508287885
+      riven_Sprites_48: 4763270666166821026
+      riven_Sprites_79: -9104972414096505186
+      riven_Sprites_81: -6978575204796796315
+      riven_Sprites_70: -3843641573083402878
+      riven_Sprites_50: -4479078646887542931
+      riven_Sprites_59: -1502697024855306799
+      riven_Sprites_75: -764050039048445416
+      riven_Sprites_97: -6483508748356800619
+      riven_Sprites_25: 791895570664204961
+      riven_Sprites_45: -5478827624319130432
+      riven_Sprites_61: -2310951001630573863
+      riven_Sprites_46: 6710780676748958579
+      riven_Sprites_20: -6088113068678240891
+      riven_Sprites_92: -4906843618192472335
+      riven_Sprites_31: 4232467773912885700
+      riven_Sprites_23: 1664472026308983305
+      riven_Sprites_12: -2483491143120259993
+      riven_Sprites_64: 4249572969443449045
+      riven_Sprites_27: -5945957230537334821
+      riven_Sprites_53: 4443533137738002996
+      riven_Sprites_54: -2945708778154081909
+      riven_Sprites_37: 541900325708981414
+      riven_Sprites_3: 8386241901470095311
+      riven_Sprites_19: 7938689853308413170
+      riven_Sprites_6: 1360392611596663046
+      riven_Sprites_62: 5149070906090447903
+      riven_Sprites_60: -2077453060158773006
+      riven_Sprites_85: -3952051020725782430
+      riven_Sprites_16: 7905786074614156378
+      riven_Sprites_7: -6067385395999356882
+      riven_Sprites_65: 5442261508720784554
+      riven_Sprites_22: -5187739754346824946
+      riven_Sprites_76: 6475471170067368969
+      riven_Sprites_66: -7651795935385571091
+      riven_Sprites_13: -64708740575075209
+      riven_Sprites_51: 755164992220984131
+      riven_Sprites_78: 8126091598690836197
+      riven_Sprites_40: 8185108171626788547
+      riven_Sprites_80: 7021827998115870461
+      riven_Sprites_11: 3586815582627638898
+      riven_Sprites_2: 6149977512792344136
+      riven_Sprites_82: -7308680102245817894
+      riven_Sprites_44: -9114015116332498392
+      riven_Sprites_14: -8616580498811902039
+      riven_Sprites_42: -2636371416053803558
+      riven_Sprites_52: -674189501441325268
+      riven_Sprites_58: 4186988372975964617
+      riven_Sprites_36: 5927289259663701823
+      riven_Sprites_55: 3952891563850636137
+      riven_Sprites_74: -1185442392458607161
+      riven_Sprites_93: 3079858809873329580
+      riven_Sprites_72: 5424124120263539254
+      riven_Sprites_24: -8606022257403146447
+      riven_Sprites_68: 3826121023091780494
+      riven_Sprites_43: -4300166206290787170
+      riven_Sprites_90: 4745538467388952466
+      riven_Sprites_18: 3377219186677974327
+      riven_Sprites_77: 2725982076505229568
+      riven_Sprites_8: -4623837288570696865
+      riven_Sprites_26: 775862549248090292
+      riven_Sprites_56: -6683973862055939637
+      riven_Sprites_41: 8475915467820324760
+      riven_Sprites_9: 3232851412736459931
+      riven_Sprites_35: -1320491627744227181
+      riven_Sprites_94: -8596168159998472085
+      riven_Sprites_29: 5213745877652826019
+      riven_Sprites_5: -1815392000318139627
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
