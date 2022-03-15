@@ -32,7 +32,6 @@ public class GameManager : MonoBehaviourPunCallbacks
     public void Start()
     {
         ChangeState(GameState.GameStart);
-        HandleClickButtons();
     }
 
     private void OnGameStateChange(GameState state)
@@ -68,6 +67,7 @@ public void HandleClickButtons()
     {
         foreach(Button button in buttons)
         {
+            Debug.Log(button.gameObject.GetComponent<cardManager>().card.type);
             button.onClick.AddListener(() =>
             {
                 Debug.Log("clicked");
@@ -80,7 +80,8 @@ public void HandleGameStart()
 {
     //set up relevant cards and spawn the player characters
     PlayerManager.instance.SpawnPlayers();
-}
+    HandleClickButtons();
+    }
 
 private void HandlePlayer1Turn()
 {
