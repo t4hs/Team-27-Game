@@ -5,7 +5,7 @@ using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
 using System.IO;
-
+using UnityEngine.UI;
 public class GameManager : MonoBehaviourPunCallbacks
 {
     public static GameManager instance;
@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     private GameObject playerPrefab;
     private event Action<GameState> GameStateChange;
     public Transform[] spawnPoints;
+    [SerializeField] private Button[] buttons;
     public void Awake()
     {
         if(instance == null)
@@ -31,6 +32,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public void Start()
     {
         ChangeState(GameState.GameStart);
+        HandleClickButtons();
     }
 
     private void OnGameStateChange(GameState state)
@@ -62,7 +64,17 @@ public void ChangeState(GameState state)
     GameStateChange(state);
 }
 
-
+public void HandleClickButtons()
+    {
+        foreach(Button button in buttons)
+        {
+            button.onClick.AddListener(() =>
+            {
+                Debug.Log("clicked");
+                Debug.Log(button.gameObject.GetComponent<cardManager>().card.type);
+            });
+        }
+    }
 
 public void HandleGameStart()
 {
