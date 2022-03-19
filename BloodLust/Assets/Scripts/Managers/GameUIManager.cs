@@ -15,4 +15,9 @@ public class GameUIManager : UIManager
     {
         screen.SetActive(value);
     }
+
+    public void SetInteractableButtons(Button button, bool value)
+    {
+        button.interactable = value;
+    }
 }

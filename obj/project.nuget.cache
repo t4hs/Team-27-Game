@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/AirGfLdJikPUGfBplFtF9WBXfU/g9WBBeJCE51Jye6fBYhYpqy6SPAq1c64msdKUOOTjTWhwkRCAVVj0gVE3w==",
+  "dgSpecHash": "n1xQxtUEYRvcqIEtUUqaPKzsT/fWwYb61MAUha98WdDXN1JJe80wge/j3Lp1RqI0womkybnlEUupfUdffMQh+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\200141600\\OneDrive - Aston University\\Team-27-Game\\Team-27-Game.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\doria\\OneDrive\\Desktop\\Team-27-Game\\Team-27-Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\doria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\doria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\doria\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
