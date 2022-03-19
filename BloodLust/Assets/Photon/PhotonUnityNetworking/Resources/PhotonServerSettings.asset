@@ -43,6 +43,8 @@ MonoBehaviour:
   - RPC_Player1Turn
   - RPC_Player2Turn
   - RPC_Player2TurnState
+  - RPC_Player2WithoutCard
+  - RPC_DisableCards
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 1

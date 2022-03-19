@@ -9,11 +9,11 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviourPunCallbacks
 {
     public static GameManager instance;
-    public GameState state { get; private set; }
-    private GameObject playerPrefab;
     private event Action<GameState> GameStateChange;
     public Transform[] spawnPoints;
     [SerializeField] private Button[] buttons;
+    [SerializeField] private GameUIManager gameUIManager;
+    PhotonView PV;
     public void Awake()
     {
         if(instance == null)
@@ -22,6 +22,7 @@ public class GameManager : MonoBehaviourPunCallbacks
         }
         GameStateChange+=OnGameStateChange;
         DontDestroyOnLoad(transform.gameObject);
+        PV = GetComponent<PhotonView>();
     }
 
     void OnDestroy()
@@ -29,33 +30,48 @@ public class GameManager : MonoBehaviourPunCallbacks
         GameStateChange-=OnGameStateChange;
     }
 
-    public void Start()
+    void Start()
     {
         ChangeState(GameState.GameStart);
     }
 
-    private void OnGameStateChange(GameState state)
+    void Update()
     {
-     this.state = state;
-     switch (state)
-     {
-        case GameState.GameStart:
-            HandleGameStart();
-            break;
-        case GameState.Player1Turn:
-            HandlePlayer1Turn();
-            break;
-        case GameState.Player2Turn:
-            HandlePlayer2Turn();
-            break;
-        case GameState.Player1Win:
-        break;
-        case GameState.Player2Win:
-        break;
-        default:
-        throw new ArgumentOutOfRangeException(nameof(state), state, null);
+        if(PlayerManager.instance.bothPlayersHaveSelected)
+        {
+            //Change to comparison state
+        }
     }
-}
+
+    public void TogglePlayerButton(bool value)
+    {
+        foreach(Button button in buttons)
+        {
+            gameUIManager.SetInteractableButtons(button, value);
+        }
+    }
+
+private void OnGameStateChange(GameState state)
+    {
+        switch(state)
+        {
+            case GameState.GameStart:
+                HandleGameStart();
+                break;
+            case GameState.Player1Turn:
+                HandlePlayer1Turn();
+                break;
+            case GameState.Player2Turn:
+                HandlePlayer2Turn();
+                break;
+            case GameState.Comparison:
+                break;
+            case GameState.GameEnded:
+                break;
+            default:
+                throw new ArgumentOutOfRangeException(nameof(state), state, null);
+        }
+    }
 
 
 public void ChangeState(GameState state)
@@ -63,36 +79,48 @@ public void ChangeState(GameState state)
     GameStateChange(state);
 }
 
-public void HandleClickButtons()
+public void OnSelectedCard(int index)
     {
-        foreach(Button button in buttons)
-        {
-            Debug.Log(button.gameObject.GetComponent<cardManager>().card.type);
-            button.onClick.AddListener(() =>
-            {
-                Debug.Log("clicked");
-                Debug.Log(button.gameObject.GetComponent<cardManager>().card.type);
-            });
-        }
+        Card selectedCard = buttons[index].GetComponent<cardManager>().card;
+        PlayerManager.instance.AddSelectedCard(selectedCard);
+        TogglePlayerButton(false);
     }
 
 public void HandleGameStart()
 {
     //set up relevant cards and spawn the player characters
-    PlayerManager.instance.SpawnPlayers();
-    HandleClickButtons();
-    }
-
-private void HandlePlayer1Turn()
-{
-    Debug.Log("Handling player1 turn");
-   PlayerManager.instance.Player1Turn();
+        PlayerManager.instance.SpawnPlayers();
+        ChangeState(GameState.Player1Turn); 
 }
 
-private void HandlePlayer2Turn()
+private void HandlePlayer1Turn()
+    {
+        Debug.Log("Handling player 1 turn");
+        if(PhotonNetwork.IsMasterClient && PV.IsMine)
+        {
+            PV.RPC(nameof(RPC_DisableCards), RpcTarget.Others);
+        }
+    }
+
+    [PunRPC]
+
+    void RPC_DisableCards()
+    {
+        TogglePlayerButton(false);
+    }
+    
+    public void ShowWinScreen()
+    {
+        //ToDo implement this function
+    }
+
+    public void ShowLooseScreen()
+    {
+        //ToDo implement this function
+    }
+    private void HandlePlayer2Turn()
 {
     Debug.Log("Handling player 2 Turn");
-    PlayerManager.instance.Player2Turn();
 }
 
 }
@@ -102,6 +130,6 @@ public enum GameState
     GameStart,
     Player1Turn,
     Player2Turn,
-    Player1Win,
-    Player2Win
+    Comparison,
+    GameEnded
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\200141600\\OneDrive - Aston University\\Team-27-Game\\Team-27-Game.csproj": {}
+    "C:\\Users\\doria\\OneDrive\\Desktop\\Team-27-Game\\Team-27-Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\200141600\\OneDrive - Aston University\\Team-27-Game\\Team-27-Game.csproj": {
+    "C:\\Users\\doria\\OneDrive\\Desktop\\Team-27-Game\\Team-27-Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\200141600\\OneDrive - Aston University\\Team-27-Game\\Team-27-Game.csproj",
+        "projectUniqueName": "C:\\Users\\doria\\OneDrive\\Desktop\\Team-27-Game\\Team-27-Game.csproj",
         "projectName": "Team-27-Game",
-        "projectPath": "C:\\Users\\200141600\\OneDrive - Aston University\\Team-27-Game\\Team-27-Game.csproj",
-        "packagesPath": "C:\\Users\\200141600\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\200141600\\OneDrive - Aston University\\Team-27-Game\\obj\\",
+        "projectPath": "C:\\Users\\doria\\OneDrive\\Desktop\\Team-27-Game\\Team-27-Game.csproj",
+        "packagesPath": "C:\\Users\\doria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\doria\\OneDrive\\Desktop\\Team-27-Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\200141600\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\doria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
