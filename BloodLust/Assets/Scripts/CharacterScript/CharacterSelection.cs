@@ -75,12 +75,12 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
         playerGO.transform.SetParent(playerListing.transform, false);
             foreach (var character in characters)
             {
-                GameObject characterInstance = Instantiate(character.CharacterPrefab);
+                GameObject characterInstance = Instantiate(character.characterPrefab);
                 characterInstance.SetActive(false);
                 characterInstances.Add(characterInstance);
             }
             characterInstances[currentCharacter].SetActive(true);
-            characterName.text = characters[currentCharacter].CharacterName;
+            characterName.text = characters[currentCharacter].characterName;
         }
 
         public void Next()
@@ -88,7 +88,7 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
             characterInstances[currentCharacter].SetActive(false);
             currentCharacter = (currentCharacter + 1)% characterInstances.Count;
             characterInstances[currentCharacter].SetActive(true);
-            characterName.text = characters[currentCharacter].CharacterName;
+            characterName.text = characters[currentCharacter].characterName;
         }
 
         public void Back()
@@ -100,7 +100,7 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
                 currentCharacter = characterInstances.Count -1;
             }
             characterInstances[currentCharacter].SetActive(true);
-            characterName.text = characters[currentCharacter].CharacterName;
+            characterName.text = characters[currentCharacter].characterName;
         }
 
         public bool FighterReady()

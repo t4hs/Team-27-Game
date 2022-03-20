@@ -630,22 +630,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characters:
-  - {fileID: 11400000, guid: dce648809273b554fbfcb348efbd07d4, type: 2}
-  - {fileID: 11400000, guid: e3d227718d931bd4fa1c597221ad27e8, type: 2}
-  - {fileID: 11400000, guid: ad249da5f6d0cc042893f318a881fda0, type: 2}
-  - {fileID: 11400000, guid: f0836114123663444adb51f7d590b0e4, type: 2}
-  - {fileID: 11400000, guid: 5e3d49a31375f48499a296aaa0d07a31, type: 2}
-  - {fileID: 11400000, guid: 9c9d719ddecd0dd4581bf6775c9b56f0, type: 2}
-  - {fileID: 11400000, guid: 65eebc5f2c676c24cb18454bcf8ff59f, type: 2}
-  - {fileID: 11400000, guid: a244c0823e8d55f4d8124629f75a78ab, type: 2}
-  - {fileID: 11400000, guid: f87cbed060bcd034a9e9ff8869653625, type: 2}
-  - {fileID: 11400000, guid: c6558ad4e68ea3649891defd827f68ac, type: 2}
-  - {fileID: 11400000, guid: 45fe8093ed6bb9f42b09c41c22e1cc27, type: 2}
-  - {fileID: 11400000, guid: 3a504fc3d2500fa419726b47937881ed, type: 2}
-  - {fileID: 11400000, guid: ad227904f16e47a4ca5f5c5bd978c66d, type: 2}
-  - {fileID: 11400000, guid: fb07e337311171d4cb4240f16dfab2bc, type: 2}
-  - {fileID: 11400000, guid: c66cea7d2c3de2d459924956c7fb55ce, type: 2}
-  - {fileID: 11400000, guid: 0abe34db6a6b7564b8d4c8dc29b5ba98, type: 2}
+  - {fileID: 11400000, guid: d7a030305eab5454eba3db443f4170d9, type: 2}
+  - {fileID: 11400000, guid: a836ad8167b34a440a2000251da91d3a, type: 2}
+  - {fileID: 11400000, guid: 7ab08071463b1bf4fbd4eaca8df372c7, type: 2}
+  - {fileID: 11400000, guid: 83e59790484aacf449f99165396294b7, type: 2}
   characterName: {fileID: 1310541362}
   playerListing: {fileID: 81529506}
   PlayerReadyButton: {fileID: 1130542855}

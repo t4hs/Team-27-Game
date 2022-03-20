@@ -1,0 +1,3685 @@
+fileFormatVersion: 2
+guid: f2a073d8a0dfa4a9096c2a575bfb00e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5965277968626676391
+    second: bane_sprites_0
+  - first:
+      213: -1363718869577841866
+    second: bane_sprites_1
+  - first:
+      213: -65282757135176334
+    second: bane_sprites_2
+  - first:
+      213: -4664027870567068972
+    second: bane_sprites_3
+  - first:
+      213: -2261137194757252296
+    second: bane_sprites_4
+  - first:
+      213: 2577760449647127285
+    second: bane_sprites_5
+  - first:
+      213: 5250296523450712253
+    second: bane_sprites_6
+  - first:
+      213: 6886898786043189831
+    second: bane_sprites_7
+  - first:
+      213: -4753145148274791920
+    second: bane_sprites_8
+  - first:
+      213: 6541160767769846421
+    second: bane_sprites_9
+  - first:
+      213: -4886748333717668007
+    second: bane_sprites_10
+  - first:
+      213: 7331647536629904437
+    second: bane_sprites_11
+  - first:
+      213: 5545165218516849981
+    second: bane_sprites_12
+  - first:
+      213: -3325765692239854507
+    second: bane_sprites_13
+  - first:
+      213: 2753291282420578088
+    second: bane_sprites_14
+  - first:
+      213: 5110341510485658171
+    second: bane_sprites_15
+  - first:
+      213: -7799106492749406338
+    second: bane_sprites_16
+  - first:
+      213: -2026360374111137164
+    second: bane_sprites_17
+  - first:
+      213: -7622654537068067747
+    second: bane_sprites_18
+  - first:
+      213: -9044358537703673969
+    second: bane_sprites_19
+  - first:
+      213: -3660616690355071855
+    second: bane_sprites_20
+  - first:
+      213: -5761358683820429038
+    second: bane_sprites_21
+  - first:
+      213: -2518430116848458769
+    second: bane_sprites_22
+  - first:
+      213: -4877710194520864462
+    second: bane_sprites_23
+  - first:
+      213: -1480721335963426083
+    second: bane_sprites_24
+  - first:
+      213: -6066623774802317294
+    second: bane_sprites_25
+  - first:
+      213: 3981378613813521342
+    second: bane_sprites_26
+  - first:
+      213: -5173861593236912791
+    second: bane_sprites_27
+  - first:
+      213: -4224223255424195133
+    second: bane_sprites_28
+  - first:
+      213: -8023532137027389027
+    second: bane_sprites_29
+  - first:
+      213: 4757492104594128662
+    second: bane_sprites_30
+  - first:
+      213: 3148909321367573600
+    second: bane_sprites_31
+  - first:
+      213: 3816616499165756721
+    second: bane_sprites_32
+  - first:
+      213: 8291200169609959394
+    second: bane_sprites_33
+  - first:
+      213: 5024750834480902317
+    second: bane_sprites_34
+  - first:
+      213: -2553842659931685363
+    second: bane_sprites_35
+  - first:
+      213: -2007496914716695504
+    second: bane_sprites_36
+  - first:
+      213: 4382116405189564798
+    second: bane_sprites_37
+  - first:
+      213: 113408333495199204
+    second: bane_sprites_38
+  - first:
+      213: -6450055209233739082
+    second: bane_sprites_39
+  - first:
+      213: -4216097003828353924
+    second: bane_sprites_40
+  - first:
+      213: 8977029216753573573
+    second: bane_sprites_41
+  - first:
+      213: -8391701286966037699
+    second: bane_sprites_42
+  - first:
+      213: -242487497684588283
+    second: bane_sprites_43
+  - first:
+      213: 4228463862245686865
+    second: bane_sprites_44
+  - first:
+      213: -6008658086961204193
+    second: bane_sprites_45
+  - first:
+      213: 4416092682925098688
+    second: bane_sprites_46
+  - first:
+      213: 3377257863968891357
+    second: bane_sprites_47
+  - first:
+      213: -7182058991532860642
+    second: bane_sprites_48
+  - first:
+      213: 2346772944467088905
+    second: bane_sprites_49
+  - first:
+      213: -653563271686199908
+    second: bane_sprites_50
+  - first:
+      213: -5069149007189522336
+    second: bane_sprites_51
+  - first:
+      213: -8578013579723480282
+    second: bane_sprites_52
+  - first:
+      213: 5361430108322949778
+    second: bane_sprites_53
+  - first:
+      213: -4099243601336632963
+    second: bane_sprites_54
+  - first:
+      213: 1178912374778047691
+    second: bane_sprites_55
+  - first:
+      213: 5338679134779110000
+    second: bane_sprites_56
+  - first:
+      213: 4198517466422856178
+    second: bane_sprites_57
+  - first:
+      213: -890648546836305944
+    second: bane_sprites_58
+  - first:
+      213: 5960310976663633868
+    second: bane_sprites_59
+  - first:
+      213: 679248764859315180
+    second: bane_sprites_60
+  - first:
+      213: 9057761479728519495
+    second: bane_sprites_61
+  - first:
+      213: -621582591708332200
+    second: bane_sprites_62
+  - first:
+      213: -1285698707958368860
+    second: bane_sprites_63
+  - first:
+      213: 3126746245551307954
+    second: bane_sprites_64
+  - first:
+      213: 5573006758137732635
+    second: bane_sprites_65
+  - first:
+      213: 5366943623707283453
+    second: bane_sprites_66
+  - first:
+      213: 6183735194902613418
+    second: bane_sprites_67
+  - first:
+      213: -2251713007353688097
+    second: bane_sprites_68
+  - first:
+      213: 4887361896617474468
+    second: bane_sprites_69
+  - first:
+      213: -2149785474605485227
+    second: bane_sprites_70
+  - first:
+      213: 4903933461028711714
+    second: bane_sprites_71
+  - first:
+      213: -8728245752574706718
+    second: bane_sprites_72
+  - first:
+      213: 4453201592062694375
+    second: bane_sprites_73
+  - first:
+      213: 6794851338407726662
+    second: bane_sprites_74
+  - first:
+      213: 3210953041571104233
+    second: bane_sprites_75
+  - first:
+      213: -8489405268670856963
+    second: bane_sprites_76
+  - first:
+      213: -1972131588835340086
+    second: bane_sprites_77
+  - first:
+      213: 3032866522057494644
+    second: bane_sprites_78
+  - first:
+      213: 7021566778285579884
+    second: bane_sprites_79
+  - first:
+      213: 954375251309811496
+    second: bane_sprites_80
+  - first:
+      213: 7276773381812543134
+    second: bane_sprites_81
+  - first:
+      213: 8474760454166434825
+    second: bane_sprites_82
+  - first:
+      213: -2248869562328763330
+    second: bane_sprites_83
+  - first:
+      213: -5767163133297476735
+    second: bane_sprites_84
+  - first:
+      213: -2262468592345517261
+    second: bane_sprites_85
+  - first:
+      213: -5419804336300456988
+    second: bane_sprites_86
+  - first:
+      213: 4134992765599542837
+    second: bane_sprites_87
+  - first:
+      213: 3950893386503878129
+    second: bane_sprites_88
+  - first:
+      213: 8700390213545055839
+    second: bane_sprites_89
+  - first:
+      213: -5391606151000994896
+    second: bane_sprites_90
+  - first:
+      213: -7900717572811869666
+    second: bane_sprites_91
+  - first:
+      213: 4114795234750196734
+    second: bane_sprites_92
+  - first:
+      213: 7256254113706794292
+    second: bane_sprites_93
+  - first:
+      213: -4245441876512863401
+    second: bane_sprites_94
+  - first:
+      213: 2295538277499717652
+    second: bane_sprites_95
+  - first:
+      213: -508158846490686257
+    second: bane_sprites_96
+  - first:
+      213: -8679318751175672459
+    second: bane_sprites_97
+  - first:
+      213: -797525339597561110
+    second: bane_sprites_98
+  - first:
+      213: 3695096256115246983
+    second: bane_sprites_99
+  - first:
+      213: -145020977811098872
+    second: bane_sprites_100
+  - first:
+      213: -5399375496816408770
+    second: bane_sprites_101
+  - first:
+      213: 718027801831061423
+    second: bane_sprites_102
+  - first:
+      213: 2628161897249967792
+    second: bane_sprites_103
+  - first:
+      213: 4929339397420272798
+    second: bane_sprites_104
+  - first:
+      213: 4954632574905924354
+    second: bane_sprites_105
+  - first:
+      213: -6940959434143491205
+    second: bane_sprites_106
+  - first:
+      213: -9002352526184124805
+    second: bane_sprites_107
+  - first:
+      213: -8331485160806378157
+    second: bane_sprites_108
+  - first:
+      213: 5731408513273787263
+    second: bane_sprites_109
+  - first:
+      213: 560349959323634561
+    second: bane_sprites_110
+  - first:
+      213: -3643834966943770849
+    second: bane_sprites_111
+  - first:
+      213: 8375657345862037615
+    second: bane_sprites_112
+  - first:
+      213: 7893963985433219037
+    second: bane_sprites_113
+  - first:
+      213: -4106870915329301600
+    second: bane_sprites_114
+  - first:
+      213: 1421638155782739648
+    second: bane_sprites_115
+  - first:
+      213: 3960086800147434728
+    second: bane_sprites_116
+  - first:
+      213: -7609150307191283466
+    second: bane_sprites_117
+  - first:
+      213: 962710664854666542
+    second: bane_sprites_118
+  - first:
+      213: 5335784480962894358
+    second: bane_sprites_119
+  - first:
+      213: 3952181304996321471
+    second: bane_sprites_120
+  - first:
+      213: -8262009459875532487
+    second: bane_sprites_121
+  - first:
+      213: -6667550919625912104
+    second: bane_sprites_122
+  - first:
+      213: 7999028053198522592
+    second: bane_sprites_123
+  - first:
+      213: 4310981783808205888
+    second: bane_sprites_124
+  - first:
+      213: 333475303421825424
+    second: bane_sprites_125
+  - first:
+      213: -4929752997412884810
+    second: bane_sprites_126
+  - first:
+      213: 2043214691791450360
+    second: bane_sprites_127
+  - first:
+      213: -1852592156267344555
+    second: bane_sprites_128
+  - first:
+      213: 877739591340479085
+    second: bane_sprites_129
+  - first:
+      213: -4598498891633428409
+    second: bane_sprites_130
+  - first:
+      213: 7595295254384103126
+    second: bane_sprites_131
+  - first:
+      213: 2759218575950014519
+    second: bane_sprites_132
+  - first:
+      213: -2090150872226612855
+    second: bane_sprites_133
+  - first:
+      213: 4490664614617386748
+    second: bane_sprites_134
+  - first:
+      213: 7176984979986782336
+    second: bane_sprites_135
+  - first:
+      213: 7271103801048297465
+    second: bane_sprites_136
+  - first:
+      213: -3098505333470962841
+    second: bane_sprites_137
+  - first:
+      213: 1569888671544665275
+    second: bane_sprites_138
+  - first:
+      213: -4084209070404168411
+    second: bane_sprites_139
+  - first:
+      213: 7453072620625429359
+    second: bane_sprites_140
+  - first:
+      213: -4237078408296979702
+    second: bane_sprites_141
+  - first:
+      213: 5516438868637272542
+    second: bane_sprites_142
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bane_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 4565
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d0b8dfa43173da0800000000000000
+      internalID: -5965277968626676391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 4566
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633c055d9e8131de0800000000000000
+      internalID: -1363718869577841866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 4566
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27deff2ada1181ff0800000000000000
+      internalID: -65282757135176334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4573
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0450ec5b064fb0800000000000000
+      internalID: -4664027870567068972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 4573
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b121e83b3de90e0800000000000000
+      internalID: -2261137194757252296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4554
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa44da87b06c320800000000000000
+      internalID: 2577760449647127285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 4554
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db08fbdeedcccd840800000000000000
+      internalID: 5250296523450712253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4459
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a5c2225fd239f50800000000000000
+      internalID: 6886898786043189831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4460
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa53fbbaf690eb0800000000000000
+      internalID: -4753145148274791920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 4460
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a4adcf0fd6ca50800000000000000
+      internalID: 6541160767769846421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 4456
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fb6061848ce2cb0800000000000000
+      internalID: -4886748333717668007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4365
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534713ff69e3fb560800000000000000
+      internalID: 7331647536629904437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4340
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d355c8ef26264fc40800000000000000
+      internalID: 5545165218516849981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4336
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554ccdb39b188d1d0800000000000000
+      internalID: -3325765692239854507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 4335
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827bbd375d7a53620800000000000000
+      internalID: 2753291282420578088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 4335
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a4e6d27849be640800000000000000
+      internalID: 5110341510485658171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4195
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f9a3e57f104c390800000000000000
+      internalID: -7799106492749406338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4206
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4729d22d9fbe0e3e0800000000000000
+      internalID: -2026360374111137164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4213
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c988c514e63690800000000000000
+      internalID: -7622654537068067747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 4215
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa6ea34dbfb7280800000000000000
+      internalID: -9044358537703673969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4218
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1941580d380e23dc0800000000000000
+      internalID: -3660616690355071855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4113
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21175435dca8b00b0800000000000000
+      internalID: -5761358683820429038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4117
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe32a95e62dbc0dd0800000000000000
+      internalID: -2518430116848458769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 4105
+        width: 117
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239484adb64ee4cb0800000000000000
+      internalID: -4877710194520864462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 4110
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ee864acb637be0800000000000000
+      internalID: -1480721335963426083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4010
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f7f4b1d50fcba0800000000000000
+      internalID: -6066623774802317294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4010
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb21b841c2b04730800000000000000
+      internalID: 3981378613813521342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3989
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965c3121b40c238b0800000000000000
+      internalID: -5173861593236912791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3991
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c52f70845b8065c0800000000000000
+      internalID: -4224223255424195133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3878
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d993d882800b6a090800000000000000
+      internalID: -8023532137027389027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3890
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ffe04ecd1060240800000000000000
+      internalID: 4757492104594128662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3867
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064d70a185c23bb20800000000000000
+      internalID: 3148909321367573600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3865
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d7ba41c7857f430800000000000000
+      internalID: 3816616499165756721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3748
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7924720a2401370800000000000000
+      internalID: 8291200169609959394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3747
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f41ef2408bb540800000000000000
+      internalID: 5024750834480902317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3747
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7882b1adee8cd0800000000000000
+      internalID: -2553842659931685363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3745
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0346e963130f324e0800000000000000
+      internalID: -2007496914716695504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3625
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795cbf27a760dc30800000000000000
+      internalID: 4382116405189564798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3627
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5ec884748e29100800000000000000
+      internalID: 113408333495199204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3624
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b217f706fccc76a0800000000000000
+      internalID: -6450055209233739082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3625
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74e834ec1a6d75c0800000000000000
+      internalID: -4216097003828353924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3508
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce56e2a280d49c70800000000000000
+      internalID: 8977029216753573573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3503
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3373310420ba8b80800000000000000
+      internalID: -8391701286966037699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3501
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096906d7e282acf0800000000000000
+      internalID: -242487497684588283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3377
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15efab6ba758eaa30800000000000000
+      internalID: 4228463862245686865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3375
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1436ed1e45fc9ca0800000000000000
+      internalID: -6008658086961204193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3376
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c3fcc5ec194d30800000000000000
+      internalID: 4416092682925098688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3376
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1a2c0422e6ede20800000000000000
+      internalID: 3377257863968891357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3251
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b98cd3663345c90800000000000000
+      internalID: -7182058991532860642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3247
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906557b2f89619020800000000000000
+      internalID: 2346772944467088905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3249
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e6e8caa31ee6f0800000000000000
+      internalID: -653563271686199908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3259
+        width: 118
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068c1f0e5d3c6a9b0800000000000000
+      internalID: -5069149007189522336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3123
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ea16f816c4f880800000000000000
+      internalID: -8578013579723480282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3118
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a6ca60740a76a40800000000000000
+      internalID: 5361430108322949778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3114
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79798ec9af8c17c0800000000000000
+      internalID: -4099243601336632963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3129
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc25f70f865c5010800000000000000
+      internalID: 1178912374778047691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3000
+        width: 120
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727c46336cc61a40800000000000000
+      internalID: 5338679134779110000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2988
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f948691461244a30800000000000000
+      internalID: 4198517466422856178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2997
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7aa129dd7c3a3f0800000000000000
+      internalID: -890648546836305944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2995
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfb5e2114747b250800000000000000
+      internalID: 5960310976663633868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2879
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3ff8f172d2d6900800000000000000
+      internalID: 679248764859315180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2877
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7495f636312a3bd70800000000000000
+      internalID: 9057761479728519495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2878
+        width: 126
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f78a61de1bf57f0800000000000000
+      internalID: -621582591708332200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2772
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a576f746d7482ee0800000000000000
+      internalID: -1285698707958368860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2780
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc3fd4e42f646b20800000000000000
+      internalID: 3126746245551307954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2778
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e96a59e1c475d40800000000000000
+      internalID: 5573006758137732635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2777
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffce9c5ac63b7a40800000000000000
+      internalID: 5366943623707283453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2671
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad404d956a01d550800000000000000
+      internalID: 6183735194902613418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2673
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf8e8c23fe40c0e0800000000000000
+      internalID: -2251713007353688097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_69
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2668
+        width: 124
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9f9a820c563d340800000000000000
+      internalID: 4887361896617474468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2663
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55378da308d6a22e0800000000000000
+      internalID: -2149785474605485227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2579
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da4ca20854e0440800000000000000
+      internalID: 4903933461028711714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2560
+        width: 134
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf8757bba0fd680800000000000000
+      internalID: -8728245752574706718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2564
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3d9100143fccd30800000000000000
+      internalID: 4453201592062694375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_74
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2567
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e4167aa492c4e50800000000000000
+      internalID: 6794851338407726662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2483
+        width: 130
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e54e4967c89f8c20800000000000000
+      internalID: 3210953041571104233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2454
+        width: 134
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df04b8e03e29f2a80800000000000000
+      internalID: -8489405268670856963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_77
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2459
+        width: 134
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0942dc4c491a4e0800000000000000
+      internalID: -1972131588835340086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2346
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47059627808e61a20800000000000000
+      internalID: 3032866522057494644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2344
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e556278cd917160800000000000000
+      internalID: 7021566778285579884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2349
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827debc0c3f9e3d00800000000000000
+      internalID: 954375251309811496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_81
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2343
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e54f536da4cf460800000000000000
+      internalID: 7276773381812543134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2258
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9045e1b5bb56c9570800000000000000
+      internalID: 8474760454166434825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_83
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2230
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34b43f4c096ac0e0800000000000000
+      internalID: -2248869562328763330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2221
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b331e9fabe6ffa0800000000000000
+      internalID: -5767163133297476735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2221
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33374c56dc81a90e0800000000000000
+      internalID: -2262468592345517261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_86
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2122
+        width: 117
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e380b6ebacf8c4b0800000000000000
+      internalID: -5419804336300456988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2088
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eee5e1302726930800000000000000
+      internalID: 4134992765599542837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_88
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2086
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f0003a9464d630800000000000000
+      internalID: 3950893386503878129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_89
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2112
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5653a57dcefdb870800000000000000
+      internalID: 8700390213545055839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1944
+        width: 47
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb46c885ca2d25b0800000000000000
+      internalID: -5391606151000994896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1946
+        width: 47
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12bcd13a330b5290800000000000000
+      internalID: -7900717572811869666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1939
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb61c20770ba1930800000000000000
+      internalID: 4114795234750196734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1938
+        width: 47
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dd57fcba463b460800000000000000
+      internalID: 7256254113706794292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1943
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b02eb4b192515c0800000000000000
+      internalID: -4245441876512863401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_95
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1818
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ceaea6e36bdf10800000000000000
+      internalID: 2295538277499717652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1813
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc4371b838a2f8f0800000000000000
+      internalID: -508158846490686257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_97
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1819
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d79cfa49ddc8780800000000000000
+      internalID: -8679318751175672459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_98
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1709
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22ae9ddee9ee4f0800000000000000
+      internalID: -797525339597561110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_99
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1679
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78700aca77e974330800000000000000
+      internalID: 3695096256115246983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_100
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1678
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803f6946038ccfdf0800000000000000
+      internalID: -145020977811098872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_101
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1590
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e374f4fb7909115b0800000000000000
+      internalID: -5399375496816408770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_102
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1575
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7bef24b72f6f900800000000000000
+      internalID: 718027801831061423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_103
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1570
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be0dc9225b197420800000000000000
+      internalID: 2628161897249967792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_104
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1569
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cc290b018886440800000000000000
+      internalID: 4929339397420272798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1470
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bb8db731462c440800000000000000
+      internalID: 4954632574905924354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_106
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1460
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b1b7f5b22ccaf90800000000000000
+      internalID: -6940959434143491205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1441
+        width: 50
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e64fde218311380800000000000000
+      internalID: -9002352526184124805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_108
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1436
+        width: 44
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35592ba636e906c80800000000000000
+      internalID: -8331485160806378157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_109
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1434
+        width: 63
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7375503dad0a8f40800000000000000
+      internalID: 5731408513273787263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_110
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1316
+        width: 48
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc363b153c6c700800000000000000
+      internalID: 560349959323634561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_111
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1316
+        width: 47
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f175b27476f7e6dc0800000000000000
+      internalID: -3643834966943770849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_112
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1316
+        width: 47
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607f7cdaff4c3470800000000000000
+      internalID: 8375657345862037615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_113
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1310
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf4975bb6efc8d60800000000000000
+      internalID: 7893963985433219037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_114
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1300
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3e96169a67107c0800000000000000
+      internalID: -4106870915329301600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_115
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1303
+        width: 54
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6529ade5caab310800000000000000
+      internalID: 1421638155782739648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1165
+        width: 46
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec408a96fd05f630800000000000000
+      internalID: 3960086800147434728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_117
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1161
+        width: 46
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f02f415c1ed66690800000000000000
+      internalID: -7609150307191283466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_118
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1221
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d7420cf3c3c5d00800000000000000
+      internalID: 962710664854666542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_119
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1185
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad5d917b38c0a40800000000000000
+      internalID: 5335784480962894358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_120
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1189
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8de3415f7f8d630800000000000000
+      internalID: 3952181304996321471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_121
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1066
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b3359b22775d80800000000000000
+      internalID: -8262009459875532487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1033
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05ed9c3c91873a0800000000000000
+      internalID: -6667550919625912104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_123
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1030
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8484b32a1420f60800000000000000
+      internalID: 7999028053198522592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_124
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1029
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0446111871fa3db30800000000000000
+      internalID: 4310981783808205888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_125
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 936
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091d2d9850eb0a400800000000000000
+      internalID: 333475303421825424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_126
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 934
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bea9ce84cff59bb0800000000000000
+      internalID: -4929752997412884810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_127
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 968
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0b610dfe4fa5c10800000000000000
+      internalID: 2043214691791450360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_128
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 912
+        width: 115
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8204df354a46e0800000000000000
+      internalID: -1852592156267344555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_129
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 821
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d625523028b5e2c00800000000000000
+      internalID: 877739591340479085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_130
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 812
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74879283f99de20c0800000000000000
+      internalID: -4598498891633428409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_131
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 719
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de46c1dac8e76960800000000000000
+      internalID: 7595295254384103126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_132
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 597
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738e8250da6ba4620800000000000000
+      internalID: 2759218575950014519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_133
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 469
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989b5f51bda4ef2e0800000000000000
+      internalID: -2090150872226612855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_134
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 462
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe8fa7acab025e30800000000000000
+      internalID: 4490664614617386748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_135
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 321
+        width: 159
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0881d6260d5c99360800000000000000
+      internalID: 7176984979986782336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_136
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 336
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe972126628e460800000000000000
+      internalID: 7271103801048297465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_137
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 204
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b5fc7d0d5eff4d0800000000000000
+      internalID: -3098505333470962841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_138
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 208
+        width: 169
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4645cdd6d59c510800000000000000
+      internalID: 1569888671544665275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_139
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 142
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52591225d79f157c0800000000000000
+      internalID: -4084209070404168411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_140
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 146
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6381957f02ae6760800000000000000
+      internalID: 7453072620625429359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 82
+        width: 142
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a032bfbf2afd235c0800000000000000
+      internalID: -4237078408296979702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bane_sprites_142
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 88
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed948467ce35e8c40800000000000000
+      internalID: 5516438868637272542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bane_sprites_35: -2553842659931685363
+      bane_sprites_136: 7271103801048297465
+      bane_sprites_26: 3981378613813521342
+      bane_sprites_46: 4416092682925098688
+      bane_sprites_110: 560349959323634561
+      bane_sprites_114: -4106870915329301600
+      bane_sprites_98: -797525339597561110
+      bane_sprites_38: 113408333495199204
+      bane_sprites_112: 8375657345862037615
+      bane_sprites_70: -2149785474605485227
+      bane_sprites_122: -6667550919625912104
+      bane_sprites_120: 3952181304996321471
+      bane_sprites_40: -4216097003828353924
+      bane_sprites_89: 8700390213545055839
+      bane_sprites_0: -5965277968626676391
+      bane_sprites_55: 1178912374778047691
+      bane_sprites_133: -2090150872226612855
+      bane_sprites_19: -9044358537703673969
+      bane_sprites_111: -3643834966943770849
+      bane_sprites_100: -145020977811098872
+      bane_sprites_25: -6066623774802317294
+      bane_sprites_142: 5516438868637272542
+      bane_sprites_86: -5419804336300456988
+      bane_sprites_60: 679248764859315180
+      bane_sprites_117: -7609150307191283466
+      bane_sprites_39: -6450055209233739082
+      bane_sprites_6: 5250296523450712253
+      bane_sprites_9: 6541160767769846421
+      bane_sprites_67: 6183735194902613418
+      bane_sprites_94: -4245441876512863401
+      bane_sprites_59: 5960310976663633868
+      bane_sprites_5: 2577760449647127285
+      bane_sprites_7: 6886898786043189831
+      bane_sprites_130: -4598498891633428409
+      bane_sprites_125: 333475303421825424
+      bane_sprites_22: -2518430116848458769
+      bane_sprites_12: 5545165218516849981
+      bane_sprites_138: 1569888671544665275
+      bane_sprites_141: -4237078408296979702
+      bane_sprites_95: 2295538277499717652
+      bane_sprites_69: 4887361896617474468
+      bane_sprites_90: -5391606151000994896
+      bane_sprites_102: 718027801831061423
+      bane_sprites_87: 4134992765599542837
+      bane_sprites_99: 3695096256115246983
+      bane_sprites_140: 7453072620625429359
+      bane_sprites_37: 4382116405189564798
+      bane_sprites_65: 5573006758137732635
+      bane_sprites_109: 5731408513273787263
+      bane_sprites_104: 4929339397420272798
+      bane_sprites_44: 4228463862245686865
+      bane_sprites_72: -8728245752574706718
+      bane_sprites_108: -8331485160806378157
+      bane_sprites_49: 2346772944467088905
+      bane_sprites_121: -8262009459875532487
+      bane_sprites_18: -7622654537068067747
+      bane_sprites_91: -7900717572811869666
+      bane_sprites_4: -2261137194757252296
+      bane_sprites_41: 8977029216753573573
+      bane_sprites_88: 3950893386503878129
+      bane_sprites_45: -6008658086961204193
+      bane_sprites_8: -4753145148274791920
+      bane_sprites_124: 4310981783808205888
+      bane_sprites_62: -621582591708332200
+      bane_sprites_75: 3210953041571104233
+      bane_sprites_32: 3816616499165756721
+      bane_sprites_63: -1285698707958368860
+      bane_sprites_84: -5767163133297476735
+      bane_sprites_137: -3098505333470962841
+      bane_sprites_129: 877739591340479085
+      bane_sprites_119: 5335784480962894358
+      bane_sprites_73: 4453201592062694375
+      bane_sprites_17: -2026360374111137164
+      bane_sprites_47: 3377257863968891357
+      bane_sprites_14: 2753291282420578088
+      bane_sprites_80: 954375251309811496
+      bane_sprites_78: 3032866522057494644
+      bane_sprites_34: 5024750834480902317
+      bane_sprites_85: -2262468592345517261
+      bane_sprites_54: -4099243601336632963
+      bane_sprites_115: 1421638155782739648
+      bane_sprites_11: 7331647536629904437
+      bane_sprites_20: -3660616690355071855
+      bane_sprites_71: 4903933461028711714
+      bane_sprites_33: 8291200169609959394
+      bane_sprites_76: -8489405268670856963
+      bane_sprites_16: -7799106492749406338
+      bane_sprites_21: -5761358683820429038
+      bane_sprites_127: 2043214691791450360
+      bane_sprites_13: -3325765692239854507
+      bane_sprites_30: 4757492104594128662
+      bane_sprites_97: -8679318751175672459
+      bane_sprites_82: 8474760454166434825
+      bane_sprites_50: -653563271686199908
+      bane_sprites_105: 4954632574905924354
+      bane_sprites_74: 6794851338407726662
+      bane_sprites_56: 5338679134779110000
+      bane_sprites_68: -2251713007353688097
+      bane_sprites_77: -1972131588835340086
+      bane_sprites_126: -4929752997412884810
+      bane_sprites_3: -4664027870567068972
+      bane_sprites_64: 3126746245551307954
+      bane_sprites_48: -7182058991532860642
+      bane_sprites_58: -890648546836305944
+      bane_sprites_61: 9057761479728519495
+      bane_sprites_29: -8023532137027389027
+      bane_sprites_51: -5069149007189522336
+      bane_sprites_81: 7276773381812543134
+      bane_sprites_118: 962710664854666542
+      bane_sprites_31: 3148909321367573600
+      bane_sprites_92: 4114795234750196734
+      bane_sprites_23: -4877710194520864462
+      bane_sprites_24: -1480721335963426083
+      bane_sprites_36: -2007496914716695504
+      bane_sprites_43: -242487497684588283
+      bane_sprites_15: 5110341510485658171
+      bane_sprites_106: -6940959434143491205
+      bane_sprites_107: -9002352526184124805
+      bane_sprites_93: 7256254113706794292
+      bane_sprites_139: -4084209070404168411
+      bane_sprites_10: -4886748333717668007
+      bane_sprites_103: 2628161897249967792
+      bane_sprites_135: 7176984979986782336
+      bane_sprites_132: 2759218575950014519
+      bane_sprites_128: -1852592156267344555
+      bane_sprites_134: 4490664614617386748
+      bane_sprites_42: -8391701286966037699
+      bane_sprites_79: 7021566778285579884
+      bane_sprites_116: 3960086800147434728
+      bane_sprites_66: 5366943623707283453
+      bane_sprites_113: 7893963985433219037
+      bane_sprites_123: 7999028053198522592
+      bane_sprites_53: 5361430108322949778
+      bane_sprites_57: 4198517466422856178
+      bane_sprites_27: -5173861593236912791
+      bane_sprites_1: -1363718869577841866
+      bane_sprites_2: -65282757135176334
+      bane_sprites_52: -8578013579723480282
+      bane_sprites_83: -2248869562328763330
+      bane_sprites_28: -4224223255424195133
+      bane_sprites_131: 7595295254384103126
+      bane_sprites_96: -508158846490686257
+      bane_sprites_101: -5399375496816408770
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
