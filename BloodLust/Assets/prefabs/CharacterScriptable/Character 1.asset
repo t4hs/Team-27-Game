@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Character 1
   m_EditorClassIdentifier: 
   characterName: Alkid
+  characterPrefab: {fileID: 5448066499630675230, guid: 56d7b6fcf9bef6c479b85977a2d42019, type: 3}
   health: 150
   energy: 150
-  characterPrefab: {fileID: 5448066499630675230, guid: 1fa845205a8c441c598c7c1aba001c42, type: 3}
-  cardPrefab: {fileID: 0}
+  cardPrefab: {fileID: 3134777629180120161, guid: 7da23efc616a4bd418eb4686e0e861de, type: 3}

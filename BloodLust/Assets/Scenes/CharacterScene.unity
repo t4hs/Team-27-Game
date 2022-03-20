@@ -785,7 +785,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: d7a030305eab5454eba3db443f4170d9, type: 2}
   - {fileID: 11400000, guid: a836ad8167b34a440a2000251da91d3a, type: 2}
   - {fileID: 11400000, guid: 7ab08071463b1bf4fbd4eaca8df372c7, type: 2}
-  - {fileID: 11400000, guid: 83e59790484aacf449f99165396294b7, type: 2}
   characterName: {fileID: 1310541362}
   playerListing: {fileID: 81529506}
   PlayerReadyButton: {fileID: 1130542855}
@@ -1460,6 +1459,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerPrefab: {fileID: 7607773788726542817, guid: 0d1a9946fc2010e2781c8767a4a42cc4, type: 3}
+  player1: {fileID: 0}
+  player2: {fileID: 0}
   bothPlayersHaveSelected: 0
 --- !u!4 &1387165980
 Transform:

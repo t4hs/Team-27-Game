@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: Character 3
   m_EditorClassIdentifier: 
   characterName: Bane
-  characterPrefab: {fileID: 896817529972728884, guid: 1ed4bf482e61047e8b0edf912c0f68e4, type: 3}
+  characterPrefab: {fileID: 896817529972728884, guid: 2ddfe83bf8f4a8841be47e3bf99293a0, type: 3}
+  health: 150
+  energy: 150
+  cardPrefab: {fileID: 3836387650433599947, guid: ee7b5810b23e72446b0a8957b52c5eb0, type: 3}

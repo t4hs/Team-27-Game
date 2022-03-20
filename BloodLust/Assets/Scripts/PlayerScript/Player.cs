@@ -65,7 +65,7 @@ public class Player: MonoBehaviourPunCallbacks{
     {
         set{
             this.character = value;
-            CharacterName = this.character.characterName;
+            CharacterName = this.character.CharacterName;
         }
 
         get{return this.character;}
