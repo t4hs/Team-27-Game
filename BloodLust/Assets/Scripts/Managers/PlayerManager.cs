@@ -41,65 +41,13 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     {
         UpdateSelectedCards -= OnUpdateSelectedCards;
     }
-    
-    // function called in the CharacterSelection script
-    public void InitPlayers()
-    {
-        player = PhotonNetwork.LocalPlayer;
-        if(PhotonNetwork.IsMasterClient)
-        {
-            player1 = playerPrefab.GetComponent<Player>();
-            player1.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
-            playerPrefab.GetComponent<Text>().text = player1.NickName;
-        }else
-        {
-            player2 = playerPrefab.GetComponent<Player>();
-            player2.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
-            playerPrefab.GetComponent<Text>().text = player2.NickName;
-        }
-    }
-
-
-
 
     //This event events when a player has selected a card
     private void OnUpdateSelectedCards(Dictionary<Player,Card> selectedCards)
     {
 
     }
-           
-            
-    // Initialize the character an assign to whatever player chosen it
-    public void InitCharacters(Character chosenCharacter, int currentCharacter)
-    {
-        if(PhotonNetwork.IsMasterClient)
-        {
-            player1.AssignCharacters(chosenCharacter);
-            customProps["chosenCharacter"] = currentCharacter;
-            player.SetCustomProperties(customProps);
-        }
-        else
-        {
-            player2.AssignCharacters(chosenCharacter);
-            customProps["chosenCharacter"] = currentCharacter;
-            player.SetCustomProperties(customProps);
-        }
-    }
-
-
-    //Check if both players have selected a character
-    public bool PlayersReady()
-    {
-        bool readyToFight = true;
-
-        foreach(Photon.Realtime.Player player in PhotonNetwork.PlayerList)
-        {
-            if (!player.CustomProperties.ContainsKey("chosenCharacter"))
-                readyToFight = false;
-        }
-
-        return readyToFight;
-    }
+    
 
     //Add the selected card and the playerWho selected to the Key value pair dictionary
     public void AddSelectedCard(Card selectedCard)
@@ -135,4 +83,55 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         }
         GameManager.instance.ChangeState(GameState.Player1Turn);
     }   
+    
+    
+    //--------------FUNCTIONS CALLED IN CHARACTER SELECTION ---------------------------------------------------------------
+    //---------------------------------------------------------------------------------------------------------------------
+    
+    // function called in the CharacterSelection script
+    public void InitPlayers()
+    {
+        player = PhotonNetwork.LocalPlayer;
+        if(PhotonNetwork.IsMasterClient)
+        {
+            player1 = playerPrefab.GetComponent<Player>();
+            player1.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
+            playerPrefab.GetComponent<Text>().text = player1.NickName;
+        }else
+        {
+            player2 = playerPrefab.GetComponent<Player>();
+            player2.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
+            playerPrefab.GetComponent<Text>().text = player2.NickName;
+        }
+    }
+    // Initialize the character an assign to whatever player chosen it
+    public void InitCharacters(Character chosenCharacter, int currentCharacter)
+    {
+        if(PhotonNetwork.IsMasterClient)
+        {
+            player1.AssignCharacters(chosenCharacter);
+            customProps["chosenCharacter"] = currentCharacter;
+            player.SetCustomProperties(customProps);
+        }
+        else
+        {
+            player2.AssignCharacters(chosenCharacter);
+            customProps["chosenCharacter"] = currentCharacter;
+            player.SetCustomProperties(customProps);
+        }
+    }
+    
+    //Check if both players have selected a character
+    public bool PlayersReady()
+    {
+        bool readyToFight = true;
+
+        foreach(Photon.Realtime.Player player in PhotonNetwork.PlayerList)
+        {
+            if (!player.CustomProperties.ContainsKey("chosenCharacter"))
+                readyToFight = false;
+        }
+
+        return readyToFight;
+    }
 }

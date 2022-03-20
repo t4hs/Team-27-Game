@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: Character 4
   m_EditorClassIdentifier: 
   characterName: Cyn
-  characterPrefab: {fileID: 3171685994282520213, guid: 7585b1bf5809d4b6cab940771e9411f6, type: 3}
+  health: 150
+  energy: 150
+  characterPrefab: {fileID: 3171685994282520213, guid: 505feea61576f9844b80120b4e88385e, type: 3}
+  cardPrefab: {fileID: 0}
