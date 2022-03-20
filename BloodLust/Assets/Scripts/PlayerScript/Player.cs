@@ -8,7 +8,7 @@ public class Player: MonoBehaviourPunCallbacks{
 
     public Character character;
     // Damage handler refactoring needed for public Hand hand;
-    public List<Card> hand;
+    public Hand hand;
     [SerializeField] private string playerName;
     [SerializeField] private string characterName;
     [SerializeField] private int playerId;
@@ -20,6 +20,7 @@ public class Player: MonoBehaviourPunCallbacks{
     public void AssignCharacters(Character character)
     {
         ChosenCharacter = character;
+        hand.baseCard = ChosenCharacter.cardPrefab;
     }
 
     //Assign players attributes to players
@@ -55,21 +56,16 @@ public class Player: MonoBehaviourPunCallbacks{
     public string NickName
     {
         set{this.playerName = value; }
-
         get{ return this.playerName; }
     }
 
-    public bool IsLocal
-    {
-        set{ this.isLocal = value; }
-        get{ return this.isLocal; }
-    }
+    public bool IsLocal { set; get; }
 
     public Character ChosenCharacter
     {
         set{
             this.character = value;
-            CharacterName = this.character.CharacterName;
+            CharacterName = this.character.characterName;
         }
 
         get{return this.character;}

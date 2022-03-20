@@ -15,7 +15,7 @@ public class Character : ScriptableObject
     public int health;
     public int energy;
     public GameObject CharacterPrefab => characterPrefab;
-
+    public GameObject cardPrefab;
 
     public void Attack()
     {
@@ -46,8 +46,6 @@ public class Character : ScriptableObject
     {
         return false; // ToDo implement this function after During the Damage Handler refactoring
     }
-
-
 
 
 }

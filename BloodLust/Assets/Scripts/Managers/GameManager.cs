@@ -13,7 +13,6 @@ public class GameManager : MonoBehaviourPunCallbacks
     public event Action<Player> PlayerSelectedCard;
     public Transform[] spawnPoints;
     [SerializeField] private Button[] buttons;
-    [SerializeField] private DamageHandler damageHandler;
     [SerializeField] private GameUIManager gameUIManager;
     PhotonView PV;
     public void Awake()
@@ -48,7 +47,7 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     void Update()
     {
-        if(PlayerManager.instance.bothPlayersHaveSelected)
+        //if(PlayerManager.instance.bothPlayersHaveSelected)
         {
             ChangeState(GameState.Comparison);
         }
@@ -124,7 +123,7 @@ public void HandleGameStart()
         ChangeState(GameState.Player1Turn); 
 }
 
-private void HandlePlayer1Turn()
+    private void HandlePlayer1Turn()
     {
         Debug.Log("Handling player 1 turn");
         if(PhotonNetwork.IsMasterClient && PV.IsMine)
@@ -133,8 +132,12 @@ private void HandlePlayer1Turn()
         }
     }
 
-    [PunRPC]
+    private void HandlePlayer2Turn()
+    {
+        Debug.Log("Handling player 2 Turn");
+    }
 
+    [PunRPC]
     void RPC_DisableCards()
     {
         TogglePlayerButton(false);
@@ -163,8 +166,7 @@ private void HandlePlayer1Turn()
 
     private void HandleComparison()
     {
-        damageHandler.CompareCards(PlayerManager.instance.player1.SelectedCard, PlayerManager.instance.player2.SelectedCard
-            , PlayerManager.instance.player1, PlayerManager.instance.player2);
+        //ToDo handle comparison
     }
     public void ShowWinScreen()
     {
@@ -175,11 +177,6 @@ private void HandlePlayer1Turn()
     {
         //ToDo implement this function
     }
-    private void HandlePlayer2Turn()
-{
-    Debug.Log("Handling player 2 Turn");
-}
-
 }
 
 public enum GameState

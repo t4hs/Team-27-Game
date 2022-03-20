@@ -1,0 +1,3585 @@
+fileFormatVersion: 2
+guid: e0130823bf7a34e4f9b7fbb968bc4280
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3365364393385455131
+    second: emma_Sprites_0
+  - first:
+      213: -2262061111148111924
+    second: emma_Sprites_1
+  - first:
+      213: 3407109392536167202
+    second: emma_Sprites_2
+  - first:
+      213: 4779461668473849011
+    second: emma_Sprites_3
+  - first:
+      213: -3166266643190188722
+    second: emma_Sprites_4
+  - first:
+      213: -238395179780711159
+    second: emma_Sprites_5
+  - first:
+      213: 809523174887038739
+    second: emma_Sprites_6
+  - first:
+      213: 4409445871515779396
+    second: emma_Sprites_7
+  - first:
+      213: -4531572400570073413
+    second: emma_Sprites_8
+  - first:
+      213: 7520559033015388548
+    second: emma_Sprites_9
+  - first:
+      213: -6200167254129399294
+    second: emma_Sprites_10
+  - first:
+      213: 2289368345226341438
+    second: emma_Sprites_11
+  - first:
+      213: -5044286943814191994
+    second: emma_Sprites_12
+  - first:
+      213: 6381200815868906106
+    second: emma_Sprites_13
+  - first:
+      213: -1950596382794354752
+    second: emma_Sprites_14
+  - first:
+      213: -4345785456946242183
+    second: emma_Sprites_15
+  - first:
+      213: -5298770035979444083
+    second: emma_Sprites_16
+  - first:
+      213: 6695511310045942784
+    second: emma_Sprites_17
+  - first:
+      213: 645689888179295985
+    second: emma_Sprites_18
+  - first:
+      213: 2660878097785178657
+    second: emma_Sprites_19
+  - first:
+      213: -2970902962561634572
+    second: emma_Sprites_20
+  - first:
+      213: 1619494118404744033
+    second: emma_Sprites_21
+  - first:
+      213: 3206533295117375471
+    second: emma_Sprites_22
+  - first:
+      213: -7335353120081963665
+    second: emma_Sprites_23
+  - first:
+      213: 9063528891755151943
+    second: emma_Sprites_24
+  - first:
+      213: 7607235342279865532
+    second: emma_Sprites_25
+  - first:
+      213: -6462603807105780965
+    second: emma_Sprites_26
+  - first:
+      213: -8134557798012547015
+    second: emma_Sprites_27
+  - first:
+      213: -7196005809129151297
+    second: emma_Sprites_28
+  - first:
+      213: -4679072279740223553
+    second: emma_Sprites_29
+  - first:
+      213: 2148317626467261317
+    second: emma_Sprites_30
+  - first:
+      213: -2661313478868242213
+    second: emma_Sprites_31
+  - first:
+      213: -4932949362383830579
+    second: emma_Sprites_32
+  - first:
+      213: 5450099970604843398
+    second: emma_Sprites_33
+  - first:
+      213: -4177824792017158862
+    second: emma_Sprites_34
+  - first:
+      213: 398202772146450016
+    second: emma_Sprites_35
+  - first:
+      213: 7514585120870391037
+    second: emma_Sprites_36
+  - first:
+      213: -1598739429576423730
+    second: emma_Sprites_37
+  - first:
+      213: -5776950203220886529
+    second: emma_Sprites_38
+  - first:
+      213: -4936659983189401778
+    second: emma_Sprites_39
+  - first:
+      213: 4309907392446843317
+    second: emma_Sprites_40
+  - first:
+      213: -6859041310967304909
+    second: emma_Sprites_41
+  - first:
+      213: -1662483675008705095
+    second: emma_Sprites_42
+  - first:
+      213: 4826707095808195396
+    second: emma_Sprites_43
+  - first:
+      213: 9027640158520062080
+    second: emma_Sprites_44
+  - first:
+      213: -218461204100579365
+    second: emma_Sprites_45
+  - first:
+      213: -6143270758168665628
+    second: emma_Sprites_46
+  - first:
+      213: 6772390167737817222
+    second: emma_Sprites_47
+  - first:
+      213: -2586665998896389311
+    second: emma_Sprites_48
+  - first:
+      213: -5093528660301304627
+    second: emma_Sprites_49
+  - first:
+      213: 6111736228606400190
+    second: emma_Sprites_50
+  - first:
+      213: -7036641551645914241
+    second: emma_Sprites_51
+  - first:
+      213: -1984203328750188179
+    second: emma_Sprites_52
+  - first:
+      213: 3347588213900673679
+    second: emma_Sprites_53
+  - first:
+      213: 6963604373602851521
+    second: emma_Sprites_54
+  - first:
+      213: -9063202076440762347
+    second: emma_Sprites_55
+  - first:
+      213: 5148171258791665960
+    second: emma_Sprites_56
+  - first:
+      213: -5942542571945565726
+    second: emma_Sprites_57
+  - first:
+      213: 1562679410048359813
+    second: emma_Sprites_58
+  - first:
+      213: -5242040171957564770
+    second: emma_Sprites_59
+  - first:
+      213: -3140153763593585751
+    second: emma_Sprites_60
+  - first:
+      213: 3519136450075925839
+    second: emma_Sprites_61
+  - first:
+      213: -7905233231770892063
+    second: emma_Sprites_62
+  - first:
+      213: -7957183963733312311
+    second: emma_Sprites_63
+  - first:
+      213: -3071103001962564190
+    second: emma_Sprites_64
+  - first:
+      213: 2821560355780222321
+    second: emma_Sprites_65
+  - first:
+      213: 4757541151087706069
+    second: emma_Sprites_66
+  - first:
+      213: -528373599294297423
+    second: emma_Sprites_67
+  - first:
+      213: 1813543999033927564
+    second: emma_Sprites_68
+  - first:
+      213: 4585643287566503052
+    second: emma_Sprites_69
+  - first:
+      213: -2907340583073452817
+    second: emma_Sprites_70
+  - first:
+      213: -3263273041392058436
+    second: emma_Sprites_71
+  - first:
+      213: -555702107551524628
+    second: emma_Sprites_72
+  - first:
+      213: 1437398218047257999
+    second: emma_Sprites_73
+  - first:
+      213: 2803958066153480757
+    second: emma_Sprites_74
+  - first:
+      213: -4198089418752528790
+    second: emma_Sprites_75
+  - first:
+      213: 3825605769679207490
+    second: emma_Sprites_76
+  - first:
+      213: 9104589054391321490
+    second: emma_Sprites_77
+  - first:
+      213: -6273652771367505723
+    second: emma_Sprites_78
+  - first:
+      213: -1655801413673072513
+    second: emma_Sprites_79
+  - first:
+      213: -7291110946888360027
+    second: emma_Sprites_80
+  - first:
+      213: 8282896015439591603
+    second: emma_Sprites_81
+  - first:
+      213: -3667475002880836492
+    second: emma_Sprites_82
+  - first:
+      213: -6010543400430482148
+    second: emma_Sprites_83
+  - first:
+      213: 45256192742568197
+    second: emma_Sprites_84
+  - first:
+      213: -4633114515339845412
+    second: emma_Sprites_85
+  - first:
+      213: 501220941134720006
+    second: emma_Sprites_86
+  - first:
+      213: -4409302501958619773
+    second: emma_Sprites_87
+  - first:
+      213: -4451605606869324810
+    second: emma_Sprites_88
+  - first:
+      213: 1792311845655252877
+    second: emma_Sprites_89
+  - first:
+      213: -1345204903437230627
+    second: emma_Sprites_90
+  - first:
+      213: -7031260488640603321
+    second: emma_Sprites_91
+  - first:
+      213: 493925717517137985
+    second: emma_Sprites_92
+  - first:
+      213: -514706164272683010
+    second: emma_Sprites_93
+  - first:
+      213: 649511650555058794
+    second: emma_Sprites_94
+  - first:
+      213: -5300391283965945273
+    second: emma_Sprites_95
+  - first:
+      213: -6289701242838612359
+    second: emma_Sprites_96
+  - first:
+      213: -2199956478591464641
+    second: emma_Sprites_97
+  - first:
+      213: -5244194492212617141
+    second: emma_Sprites_98
+  - first:
+      213: 806817635259584884
+    second: emma_Sprites_99
+  - first:
+      213: -3706226055531251128
+    second: emma_Sprites_100
+  - first:
+      213: 7909759631812762212
+    second: emma_Sprites_101
+  - first:
+      213: -1441066577726468762
+    second: emma_Sprites_102
+  - first:
+      213: -2536855155144508783
+    second: emma_Sprites_103
+  - first:
+      213: -3944231111413013712
+    second: emma_Sprites_104
+  - first:
+      213: -610973372654757261
+    second: emma_Sprites_105
+  - first:
+      213: 2398308364519182414
+    second: emma_Sprites_106
+  - first:
+      213: 1125406188595521283
+    second: emma_Sprites_107
+  - first:
+      213: -1713733773173418536
+    second: emma_Sprites_108
+  - first:
+      213: 4329706163772591457
+    second: emma_Sprites_109
+  - first:
+      213: -8906172769842889416
+    second: emma_Sprites_110
+  - first:
+      213: -5056445405821050931
+    second: emma_Sprites_111
+  - first:
+      213: 815257124608855499
+    second: emma_Sprites_112
+  - first:
+      213: -5293467774313718680
+    second: emma_Sprites_113
+  - first:
+      213: -3461515319570411453
+    second: emma_Sprites_114
+  - first:
+      213: -6652818167172147220
+    second: emma_Sprites_115
+  - first:
+      213: -3829135990828728604
+    second: emma_Sprites_116
+  - first:
+      213: 3066269442374385705
+    second: emma_Sprites_117
+  - first:
+      213: -7468433287244308130
+    second: emma_Sprites_118
+  - first:
+      213: 4887391025926417044
+    second: emma_Sprites_119
+  - first:
+      213: -2081598683294143757
+    second: emma_Sprites_120
+  - first:
+      213: 6858626899945636254
+    second: emma_Sprites_121
+  - first:
+      213: 5738804394393528061
+    second: emma_Sprites_122
+  - first:
+      213: -6483176447493709265
+    second: emma_Sprites_123
+  - first:
+      213: 6553400432279624458
+    second: emma_Sprites_124
+  - first:
+      213: -5510752352311719896
+    second: emma_Sprites_125
+  - first:
+      213: 5257721856265650339
+    second: emma_Sprites_126
+  - first:
+      213: 6325550563484272783
+    second: emma_Sprites_127
+  - first:
+      213: -4023327706711087165
+    second: emma_Sprites_128
+  - first:
+      213: -842828297535681742
+    second: emma_Sprites_129
+  - first:
+      213: 1194315962455843382
+    second: emma_Sprites_130
+  - first:
+      213: 2614964104825104085
+    second: emma_Sprites_131
+  - first:
+      213: -505130814283755323
+    second: emma_Sprites_132
+  - first:
+      213: 8044411286492547791
+    second: emma_Sprites_133
+  - first:
+      213: 771579496421187273
+    second: emma_Sprites_134
+  - first:
+      213: 8629181642839791364
+    second: emma_Sprites_135
+  - first:
+      213: 4176872444280363135
+    second: emma_Sprites_136
+  - first:
+      213: 2733388879015381265
+    second: emma_Sprites_137
+  - first:
+      213: -1656535750388813348
+    second: emma_Sprites_138
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emma_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3181
+        width: 33
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eec77d51d24be20800000000000000
+      internalID: 3365364393385455131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3189
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc79ac1876b8b90e0800000000000000
+      internalID: -2262061111148111924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3182
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223e30dd0fb784f20800000000000000
+      internalID: 3407109392536167202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3181
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4caf6901f045240800000000000000
+      internalID: 4779461668473849011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3183
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45fa7c73492f04d0800000000000000
+      internalID: -3166266643190188722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3182
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d5109d8dc01bcf0800000000000000
+      internalID: -238395179780711159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3177
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f969cd9010c3b00800000000000000
+      internalID: 809523174887038739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3059
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c20c68af713d30800000000000000
+      internalID: 4409445871515779396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3057
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe7e0639ee9c11c0800000000000000
+      internalID: -4531572400570073413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3062
+        width: 50
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489cc3b48946e5860800000000000000
+      internalID: 7520559033015388548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3057
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aab957bb494f9a0800000000000000
+      internalID: -6200167254129399294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3059
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c6d31616875cf10800000000000000
+      internalID: 2289368345226341438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2945
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68470d810c71ff9b0800000000000000
+      internalID: -5044286943814191994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2945
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a8c4e35549e8850800000000000000
+      internalID: 6381200815868906106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2972
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf616face61ee4e0800000000000000
+      internalID: -1950596382794354752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2971
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d19a0e62ba0b3c0800000000000000
+      internalID: -4345785456946242183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2949
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8026f2f9bcf676b0800000000000000
+      internalID: -5298770035979444083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2975
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00416e8ef0c3bec50800000000000000
+      internalID: 6695511310045942784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2828
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f61df34883f5f800800000000000000
+      internalID: 645689888179295985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2811
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a4a1138865de420800000000000000
+      internalID: 2660878097785178657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2784
+        width: 41
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feab5efe7b35c6d0800000000000000
+      internalID: -2970902962561634572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2846
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163695bf159997610800000000000000
+      internalID: 1619494118404744033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2828
+        width: 59
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe71feffa05ef7c20800000000000000
+      internalID: 3206533295117375471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2822
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65167f9337933a90800000000000000
+      internalID: -7335353120081963665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2700
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7424e84a18f18cd70800000000000000
+      internalID: 9063528891755151943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2698
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4736b2d34529960800000000000000
+      internalID: 7607235342279865532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2708
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b137f59e3183056a0800000000000000
+      internalID: -6462603807105780965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2700
+        width: 63
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930149c08ce3c1f80800000000000000
+      internalID: -8134557798012547015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2606
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4a539b7d6a22c90800000000000000
+      internalID: -7196005809129151297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2617
+        width: 116
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe4b76d88901fb0800000000000000
+      internalID: -4679072279740223553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2554
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b9a4ebf7b50dd10800000000000000
+      internalID: 2148317626467261317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2557
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd07910cd7d111bd0800000000000000
+      internalID: -2661313478868242213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2558
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14f18d0b4aa8bb0800000000000000
+      internalID: -4932949362383830579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2564
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c4422c05a2ab40800000000000000
+      internalID: 5450099970604843398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2567
+        width: 117
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d3ff99c726506c0800000000000000
+      internalID: -4177824792017158862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2446
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e6d5ebf43b68500800000000000000
+      internalID: 398202772146450016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2447
+        width: 120
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc5aeb7a5b294860800000000000000
+      internalID: 7514585120870391037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2442
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6cfa395f220d9e0800000000000000
+      internalID: -1598739429576423730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2442
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbf5e3d56624dfa0800000000000000
+      internalID: -5776950203220886529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2436
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f1c1d96e57d7bb0800000000000000
+      internalID: -4936659983189401778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2331
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9cf9540fddfcb30800000000000000
+      internalID: 4309907392446843317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2324
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d6018b44acfc0a0800000000000000
+      internalID: -6859041310967304909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2326
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5832e7ebade8e0800000000000000
+      internalID: -1662483675008705095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2317
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3188d788ebf240800000000000000
+      internalID: 4826707095808195396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2320
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080b3a8c4ee984d70800000000000000
+      internalID: 9027640158520062080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2207
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf716c31bed7fcf0800000000000000
+      internalID: -218461204100579365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2210
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1ef4c3bc7bebaa0800000000000000
+      internalID: -6143270758168665628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2212
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6885c54d9fc5cfd50800000000000000
+      internalID: 6772390167737817222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2206
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143233f8af05a1cd0800000000000000
+      internalID: -2586665998896389311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2200
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc287d8ba62059b0800000000000000
+      internalID: -5093528660301304627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2202
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb658f2f7bf31d450800000000000000
+      internalID: 6111736228606400190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2093
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b446e5ac3d85e90800000000000000
+      internalID: -7036641551645914241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2053
+        width: 76
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6982b3d591b674e0800000000000000
+      internalID: -1984203328750188179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2083
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8285d78eb5057e20800000000000000
+      internalID: 3347588213900673679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2081
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca54f47841b3a060800000000000000
+      internalID: 6963604373602851521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2103
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5186a2afab9093280800000000000000
+      internalID: -9063202076440762347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2111
+        width: 103
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212723db7af17740800000000000000
+      internalID: 5148171258791665960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1963
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e16c880409d78da0800000000000000
+      internalID: -5942542571945565726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1894
+        width: 45
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ddfbdd4a0cfa510800000000000000
+      internalID: 1562679410048359813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1955
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a4424bc388047b0800000000000000
+      internalID: -5242040171957564770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1941
+        width: 65
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abf5ec0aceeb64d0800000000000000
+      internalID: -3140153763593585751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1993
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d97e6c4fb76d030800000000000000
+      internalID: 3519136450075925839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1994
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8cea96248fa4290800000000000000
+      internalID: -7905233231770892063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1855
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccbd3d0857629190800000000000000
+      internalID: -7957183963733312311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1917
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b26357104165d0800000000000000
+      internalID: -3071103001962564190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1811
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dda9eb132382720800000000000000
+      internalID: 2821560355780222321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1812
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb2ea687e260240800000000000000
+      internalID: 4757541151087706069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1848
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba6e59c207daa8f0800000000000000
+      internalID: -528373599294297423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1814
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8765f698a00b2910800000000000000
+      internalID: 1813543999033927564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1697
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c4e06364a73af30800000000000000
+      internalID: 4585643287566503052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1718
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec64d8b42d07a7d0800000000000000
+      internalID: -2907340583073452817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1706
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfb7ba557686b2d0800000000000000
+      internalID: -3263273041392058436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1705
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8947e90efb948f0800000000000000
+      internalID: -555702107551524628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1606
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d7c7b401aa2f310800000000000000
+      internalID: 1437398218047257999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1593
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326b225109a9e620800000000000000
+      internalID: 2803958066153480757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1594
+        width: 65
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eede38ae36db5c0800000000000000
+      internalID: -4198089418752528790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1608
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf968bd28471530800000000000000
+      internalID: 3825605769679207490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1638
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29387ecb18ff95e70800000000000000
+      internalID: 9104589054391321490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1609
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0be7e2b028fe8a0800000000000000
+      internalID: -6273652771367505723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1470
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f784d6713696509e0800000000000000
+      internalID: -1655801413673072513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1371
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afd1c84935c0da90800000000000000
+      internalID: -7291110946888360027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1236
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b876c79a02c2f270800000000000000
+      internalID: 8282896015439591603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1236
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb9ae7ae28a1dc0800000000000000
+      internalID: -3667475002880836492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1257
+        width: 148
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc54e5f92469ca0800000000000000
+      internalID: -6010543400430482148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1269
+        width: 141
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501be4c7448c0a000800000000000000
+      internalID: 45256192742568197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1122
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0667545eed3bfb0800000000000000
+      internalID: -4633114515339845412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1121
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c62565ac1b4f600800000000000000
+      internalID: 501220941134720006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1140
+        width: 151
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38de3876cb20fc2c0800000000000000
+      internalID: -4409302501958619773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1139
+        width: 135
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbaa624948b832c0800000000000000
+      internalID: -4451605606869324810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 986
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f8107a0229fd810800000000000000
+      internalID: 1792311845655252877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1071
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd928c744fd45de0800000000000000
+      internalID: -1345204903437230627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1001
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b565bb6d1fb6e90800000000000000
+      internalID: -7031260488640603321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1001
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148f90ab2d6cad600800000000000000
+      internalID: 493925717517137985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1002
+        width: 180
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a2da78756bd8f0800000000000000
+      internalID: -514706164272683010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 869
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6adfc8a767830900800000000000000
+      internalID: 649511650555058794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 879
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a12acb53a3176b0800000000000000
+      internalID: -5300391283965945273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 871
+        width: 89
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976854d3b0e76b8a0800000000000000
+      internalID: -6289701242838612359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 714
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b8c341d3f2871e0800000000000000
+      internalID: -2199956478591464641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 715
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b406b9ee4e0e837b0800000000000000
+      internalID: -5244194492212617141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 716
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4711b245d54623b00800000000000000
+      internalID: 806817635259584884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 792
+        width: 78
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a33c6f907d09cc0800000000000000
+      internalID: -3706226055531251128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 740
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a9ce83a7c15cd60800000000000000
+      internalID: 7909759631812762212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 738
+        width: 79
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d0de8259d400ce0800000000000000
+      internalID: -1441066577726468762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 685
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a3efe5da74bccd0800000000000000
+      internalID: -2536855155144508783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 619
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033ee2c93b64349c0800000000000000
+      internalID: -3944231111413013712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 582
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad0b364f26587f0800000000000000
+      internalID: -610973372654757261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 580
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40930130c0884120800000000000000
+      internalID: 2398308364519182414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 578
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307234347fe3e9f00800000000000000
+      internalID: 1125406188595521283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 483
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5986a86389738e0800000000000000
+      internalID: -1713733773173418536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 489
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d0c71f0d4361c30800000000000000
+      internalID: 4329706163772591457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 489
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83df1418d0be66480800000000000000
+      internalID: -8906172769842889416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf51ef81b5e3d9b0800000000000000
+      internalID: -5056445405821050931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 497
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdcae01900605b00800000000000000
+      internalID: 815257124608855499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 411
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c9d02fa13d986b0800000000000000
+      internalID: -5293467774313718680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 411
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340de60282a36ffc0800000000000000
+      internalID: -3461515319570411453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 455
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7507600217ca3a0800000000000000
+      internalID: -6652818167172147220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 418
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7dfd9a1d2cdac0800000000000000
+      internalID: -3829135990828728604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 283
+        width: 33
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9204c52efc39d8a20800000000000000
+      internalID: 3066269442374385705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 290
+        width: 33
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a915ae7bca5890800000000000000
+      internalID: -7468433287244308130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 288
+        width: 33
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aa6ca5e3083d340800000000000000
+      internalID: 4887391025926417044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 286
+        width: 33
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fae45db60dac13e0800000000000000
+      internalID: -2081598683294143757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 291
+        width: 36
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91c232b3dcbe2f50800000000000000
+      internalID: 6858626899945636254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 290
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6e643f03454af40800000000000000
+      internalID: 5738804394393528061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 291
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2265fece512706a0800000000000000
+      internalID: -6483176447493709265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b1be4c8fa52fa50800000000000000
+      internalID: 6553400432279624458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 159
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828cf4bceefd583b0800000000000000
+      internalID: -5510752352311719896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 192
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a08582fb2e27f840800000000000000
+      internalID: 5257721856265650339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 146
+        width: 116
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88804929bed8c750800000000000000
+      internalID: 6325550563484272783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 134
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7af7a64c44a28c0800000000000000
+      internalID: -4023327706711087165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 99
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b0dbef02cad44f0800000000000000
+      internalID: -842828297535681742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63262c34a00139010800000000000000
+      internalID: 1194315962455843382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 36
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66f78aff73a4420800000000000000
+      internalID: 2614964104825104085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 25
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05381633a6df8f0800000000000000
+      internalID: -505130814283755323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 106
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca0886a17d73af60800000000000000
+      internalID: 8044411286492547791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 120
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced828c67335ba00800000000000000
+      internalID: 771579496421187273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 21
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40799cb1cf201c770800000000000000
+      internalID: 8629181642839791364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 22
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78d279ab5b37f930800000000000000
+      internalID: 4176872444280363135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 21
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11907be04b2fee520800000000000000
+      internalID: 2733388879015381265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emma_Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 10
+        width: 123
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f650038dc209e0800000000000000
+      internalID: -1656535750388813348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      emma_Sprites_96: -6289701242838612359
+      emma_Sprites_86: 501220941134720006
+      emma_Sprites_17: 6695511310045942784
+      emma_Sprites_2: 3407109392536167202
+      emma_Sprites_58: 1562679410048359813
+      emma_Sprites_78: -6273652771367505723
+      emma_Sprites_59: -5242040171957564770
+      emma_Sprites_83: -6010543400430482148
+      emma_Sprites_19: 2660878097785178657
+      emma_Sprites_35: 398202772146450016
+      emma_Sprites_114: -3461515319570411453
+      emma_Sprites_133: 8044411286492547791
+      emma_Sprites_24: 9063528891755151943
+      emma_Sprites_61: 3519136450075925839
+      emma_Sprites_105: -610973372654757261
+      emma_Sprites_129: -842828297535681742
+      emma_Sprites_49: -5093528660301304627
+      emma_Sprites_109: 4329706163772591457
+      emma_Sprites_60: -3140153763593585751
+      emma_Sprites_55: -9063202076440762347
+      emma_Sprites_20: -2970902962561634572
+      emma_Sprites_33: 5450099970604843398
+      emma_Sprites_121: 6858626899945636254
+      emma_Sprites_0: 3365364393385455131
+      emma_Sprites_126: 5257721856265650339
+      emma_Sprites_42: -1662483675008705095
+      emma_Sprites_89: 1792311845655252877
+      emma_Sprites_124: 6553400432279624458
+      emma_Sprites_48: -2586665998896389311
+      emma_Sprites_127: 6325550563484272783
+      emma_Sprites_85: -4633114515339845412
+      emma_Sprites_77: 9104589054391321490
+      emma_Sprites_104: -3944231111413013712
+      emma_Sprites_116: -3829135990828728604
+      emma_Sprites_137: 2733388879015381265
+      emma_Sprites_98: -5244194492212617141
+      emma_Sprites_22: 3206533295117375471
+      emma_Sprites_94: 649511650555058794
+      emma_Sprites_136: 4176872444280363135
+      emma_Sprites_4: -3166266643190188722
+      emma_Sprites_99: 806817635259584884
+      emma_Sprites_74: 2803958066153480757
+      emma_Sprites_34: -4177824792017158862
+      emma_Sprites_115: -6652818167172147220
+      emma_Sprites_122: 5738804394393528061
+      emma_Sprites_97: -2199956478591464641
+      emma_Sprites_6: 809523174887038739
+      emma_Sprites_11: 2289368345226341438
+      emma_Sprites_3: 4779461668473849011
+      emma_Sprites_30: 2148317626467261317
+      emma_Sprites_88: -4451605606869324810
+      emma_Sprites_63: -7957183963733312311
+      emma_Sprites_106: 2398308364519182414
+      emma_Sprites_102: -1441066577726468762
+      emma_Sprites_51: -7036641551645914241
+      emma_Sprites_138: -1656535750388813348
+      emma_Sprites_69: 4585643287566503052
+      emma_Sprites_80: -7291110946888360027
+      emma_Sprites_110: -8906172769842889416
+      emma_Sprites_118: -7468433287244308130
+      emma_Sprites_43: 4826707095808195396
+      emma_Sprites_101: 7909759631812762212
+      emma_Sprites_38: -5776950203220886529
+      emma_Sprites_57: -5942542571945565726
+      emma_Sprites_13: 6381200815868906106
+      emma_Sprites_87: -4409302501958619773
+      emma_Sprites_45: -218461204100579365
+      emma_Sprites_46: -6143270758168665628
+      emma_Sprites_70: -2907340583073452817
+      emma_Sprites_103: -2536855155144508783
+      emma_Sprites_91: -7031260488640603321
+      emma_Sprites_64: -3071103001962564190
+      emma_Sprites_54: 6963604373602851521
+      emma_Sprites_15: -4345785456946242183
+      emma_Sprites_135: 8629181642839791364
+      emma_Sprites_111: -5056445405821050931
+      emma_Sprites_100: -3706226055531251128
+      emma_Sprites_73: 1437398218047257999
+      emma_Sprites_9: 7520559033015388548
+      emma_Sprites_53: 3347588213900673679
+      emma_Sprites_10: -6200167254129399294
+      emma_Sprites_82: -3667475002880836492
+      emma_Sprites_18: 645689888179295985
+      emma_Sprites_41: -6859041310967304909
+      emma_Sprites_68: 1813543999033927564
+      emma_Sprites_108: -1713733773173418536
+      emma_Sprites_125: -5510752352311719896
+      emma_Sprites_67: -528373599294297423
+      emma_Sprites_76: 3825605769679207490
+      emma_Sprites_65: 2821560355780222321
+      emma_Sprites_117: 3066269442374385705
+      emma_Sprites_81: 8282896015439591603
+      emma_Sprites_79: -1655801413673072513
+      emma_Sprites_128: -4023327706711087165
+      emma_Sprites_119: 4887391025926417044
+      emma_Sprites_39: -4936659983189401778
+      emma_Sprites_1: -2262061111148111924
+      emma_Sprites_50: 6111736228606400190
+      emma_Sprites_7: 4409445871515779396
+      emma_Sprites_113: -5293467774313718680
+      emma_Sprites_93: -514706164272683010
+      emma_Sprites_75: -4198089418752528790
+      emma_Sprites_123: -6483176447493709265
+      emma_Sprites_16: -5298770035979444083
+      emma_Sprites_21: 1619494118404744033
+      emma_Sprites_40: 4309907392446843317
+      emma_Sprites_36: 7514585120870391037
+      emma_Sprites_32: -4932949362383830579
+      emma_Sprites_47: 6772390167737817222
+      emma_Sprites_12: -5044286943814191994
+      emma_Sprites_44: 9027640158520062080
+      emma_Sprites_120: -2081598683294143757
+      emma_Sprites_131: 2614964104825104085
+      emma_Sprites_107: 1125406188595521283
+      emma_Sprites_27: -8134557798012547015
+      emma_Sprites_56: 5148171258791665960
+      emma_Sprites_31: -2661313478868242213
+      emma_Sprites_72: -555702107551524628
+      emma_Sprites_8: -4531572400570073413
+      emma_Sprites_26: -6462603807105780965
+      emma_Sprites_84: 45256192742568197
+      emma_Sprites_90: -1345204903437230627
+      emma_Sprites_130: 1194315962455843382
+      emma_Sprites_112: 815257124608855499
+      emma_Sprites_37: -1598739429576423730
+      emma_Sprites_28: -7196005809129151297
+      emma_Sprites_71: -3263273041392058436
+      emma_Sprites_95: -5300391283965945273
+      emma_Sprites_62: -7905233231770892063
+      emma_Sprites_14: -1950596382794354752
+      emma_Sprites_132: -505130814283755323
+      emma_Sprites_5: -238395179780711159
+      emma_Sprites_23: -7335353120081963665
+      emma_Sprites_134: 771579496421187273
+      emma_Sprites_25: 7607235342279865532
+      emma_Sprites_29: -4679072279740223553
+      emma_Sprites_52: -1984203328750188179
+      emma_Sprites_92: 493925717517137985
+      emma_Sprites_66: 4757541151087706069
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3485 @@
+fileFormatVersion: 2
+guid: 32fce8b17286b429088fb95ec1850ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -706478727204673040
+    second: cyn_Sprites_0
+  - first:
+      213: -8256081938334885341
+    second: cyn_Sprites_1
+  - first:
+      213: -8637760821886312574
+    second: cyn_Sprites_2
+  - first:
+      213: 4541990188801119832
+    second: cyn_Sprites_3
+  - first:
+      213: -2916287624476608441
+    second: cyn_Sprites_4
+  - first:
+      213: 6669171878635565523
+    second: cyn_Sprites_5
+  - first:
+      213: 8512374832219188418
+    second: cyn_Sprites_6
+  - first:
+      213: -1935604575934930476
+    second: cyn_Sprites_7
+  - first:
+      213: -8887203394662652308
+    second: cyn_Sprites_8
+  - first:
+      213: -3574756701414165684
+    second: cyn_Sprites_9
+  - first:
+      213: 8070512804146111765
+    second: cyn_Sprites_10
+  - first:
+      213: -7033558684150792234
+    second: cyn_Sprites_11
+  - first:
+      213: -849308011408327388
+    second: cyn_Sprites_12
+  - first:
+      213: 2090382208339571131
+    second: cyn_Sprites_13
+  - first:
+      213: -1691812858954943126
+    second: cyn_Sprites_14
+  - first:
+      213: 3083591528004365748
+    second: cyn_Sprites_15
+  - first:
+      213: -2552687191890835248
+    second: cyn_Sprites_16
+  - first:
+      213: -8459180771712497527
+    second: cyn_Sprites_17
+  - first:
+      213: -1661372233361016958
+    second: cyn_Sprites_18
+  - first:
+      213: -1879222390227793058
+    second: cyn_Sprites_19
+  - first:
+      213: 1942037894024886118
+    second: cyn_Sprites_20
+  - first:
+      213: 4932826819709471401
+    second: cyn_Sprites_21
+  - first:
+      213: 5973349989775165314
+    second: cyn_Sprites_22
+  - first:
+      213: 4072699050377292528
+    second: cyn_Sprites_23
+  - first:
+      213: -1232868635913305354
+    second: cyn_Sprites_24
+  - first:
+      213: -2019720463813733044
+    second: cyn_Sprites_25
+  - first:
+      213: 4565887959901735457
+    second: cyn_Sprites_26
+  - first:
+      213: -8718226621449456040
+    second: cyn_Sprites_27
+  - first:
+      213: 3945577477828188856
+    second: cyn_Sprites_28
+  - first:
+      213: 8875936624924136824
+    second: cyn_Sprites_29
+  - first:
+      213: 294288236449666143
+    second: cyn_Sprites_30
+  - first:
+      213: -290931580004396770
+    second: cyn_Sprites_31
+  - first:
+      213: 5469595528502853889
+    second: cyn_Sprites_32
+  - first:
+      213: -3633641493953029837
+    second: cyn_Sprites_33
+  - first:
+      213: -820858646101550079
+    second: cyn_Sprites_34
+  - first:
+      213: 8828937303836792676
+    second: cyn_Sprites_35
+  - first:
+      213: 965000153155529384
+    second: cyn_Sprites_36
+  - first:
+      213: -1393239691468602418
+    second: cyn_Sprites_37
+  - first:
+      213: 8372689408632865761
+    second: cyn_Sprites_38
+  - first:
+      213: 4153964439020060883
+    second: cyn_Sprites_39
+  - first:
+      213: 7572996993757387992
+    second: cyn_Sprites_40
+  - first:
+      213: -4032558206357480492
+    second: cyn_Sprites_41
+  - first:
+      213: -1530334599137164997
+    second: cyn_Sprites_42
+  - first:
+      213: -6696486703274670446
+    second: cyn_Sprites_43
+  - first:
+      213: 8654188513476558909
+    second: cyn_Sprites_44
+  - first:
+      213: -1068398117490004986
+    second: cyn_Sprites_45
+  - first:
+      213: -2335352728026786285
+    second: cyn_Sprites_46
+  - first:
+      213: -3221813378408751700
+    second: cyn_Sprites_47
+  - first:
+      213: 5335099949097510357
+    second: cyn_Sprites_48
+  - first:
+      213: 7708161124667662072
+    second: cyn_Sprites_49
+  - first:
+      213: 13762258077425602
+    second: cyn_Sprites_50
+  - first:
+      213: 3578132369711479346
+    second: cyn_Sprites_51
+  - first:
+      213: 6162560729596626253
+    second: cyn_Sprites_52
+  - first:
+      213: -4718930444864137726
+    second: cyn_Sprites_53
+  - first:
+      213: 4678862556113010996
+    second: cyn_Sprites_54
+  - first:
+      213: 1940945015296983612
+    second: cyn_Sprites_55
+  - first:
+      213: 1926906339688044864
+    second: cyn_Sprites_56
+  - first:
+      213: 1187167862081221415
+    second: cyn_Sprites_57
+  - first:
+      213: -7833821830529916732
+    second: cyn_Sprites_58
+  - first:
+      213: 7586640731299000830
+    second: cyn_Sprites_59
+  - first:
+      213: -3169320312930258806
+    second: cyn_Sprites_60
+  - first:
+      213: -7923407622550650070
+    second: cyn_Sprites_61
+  - first:
+      213: 6078781499293751355
+    second: cyn_Sprites_62
+  - first:
+      213: 1238895150999494442
+    second: cyn_Sprites_63
+  - first:
+      213: -647252895668353198
+    second: cyn_Sprites_64
+  - first:
+      213: 92776870949168851
+    second: cyn_Sprites_65
+  - first:
+      213: -7661697331551014708
+    second: cyn_Sprites_66
+  - first:
+      213: -3556206290701811545
+    second: cyn_Sprites_67
+  - first:
+      213: 4954637123441049595
+    second: cyn_Sprites_68
+  - first:
+      213: 9158665598771840954
+    second: cyn_Sprites_69
+  - first:
+      213: -7883146345033994928
+    second: cyn_Sprites_70
+  - first:
+      213: 7314381566055607865
+    second: cyn_Sprites_71
+  - first:
+      213: -1268504093853545398
+    second: cyn_Sprites_72
+  - first:
+      213: 4375594710990004436
+    second: cyn_Sprites_73
+  - first:
+      213: 7498800753746255256
+    second: cyn_Sprites_74
+  - first:
+      213: -2290170213124490345
+    second: cyn_Sprites_75
+  - first:
+      213: 3942415930165040378
+    second: cyn_Sprites_76
+  - first:
+      213: -7616470067329318111
+    second: cyn_Sprites_77
+  - first:
+      213: -805050425321565048
+    second: cyn_Sprites_78
+  - first:
+      213: -2605132118700597273
+    second: cyn_Sprites_79
+  - first:
+      213: 6805270730553525842
+    second: cyn_Sprites_80
+  - first:
+      213: -937248490827045220
+    second: cyn_Sprites_81
+  - first:
+      213: 8240273264834400599
+    second: cyn_Sprites_82
+  - first:
+      213: 4578592672235525761
+    second: cyn_Sprites_83
+  - first:
+      213: 2014997413007765310
+    second: cyn_Sprites_84
+  - first:
+      213: -6181531115786309074
+    second: cyn_Sprites_85
+  - first:
+      213: -1429367778996516602
+    second: cyn_Sprites_86
+  - first:
+      213: 2176513393044282411
+    second: cyn_Sprites_87
+  - first:
+      213: -3204153456574103704
+    second: cyn_Sprites_88
+  - first:
+      213: 1092285461071945179
+    second: cyn_Sprites_89
+  - first:
+      213: -8385601869797436595
+    second: cyn_Sprites_90
+  - first:
+      213: -378205073322655256
+    second: cyn_Sprites_91
+  - first:
+      213: 78918037375761820
+    second: cyn_Sprites_92
+  - first:
+      213: 8002558527222039418
+    second: cyn_Sprites_93
+  - first:
+      213: -90394489467966267
+    second: cyn_Sprites_94
+  - first:
+      213: -2326689150601064308
+    second: cyn_Sprites_95
+  - first:
+      213: -6757219083415971476
+    second: cyn_Sprites_96
+  - first:
+      213: -8747656306253643419
+    second: cyn_Sprites_97
+  - first:
+      213: 3000150633402708493
+    second: cyn_Sprites_98
+  - first:
+      213: -9074044366651631012
+    second: cyn_Sprites_99
+  - first:
+      213: 966940287900296882
+    second: cyn_Sprites_100
+  - first:
+      213: 3583619296315606833
+    second: cyn_Sprites_101
+  - first:
+      213: 1787559508182914928
+    second: cyn_Sprites_102
+  - first:
+      213: -4402899877961025940
+    second: cyn_Sprites_103
+  - first:
+      213: 8099671089524716830
+    second: cyn_Sprites_104
+  - first:
+      213: -1157664293120948373
+    second: cyn_Sprites_105
+  - first:
+      213: -3059534080229169138
+    second: cyn_Sprites_106
+  - first:
+      213: 3007949952339229236
+    second: cyn_Sprites_107
+  - first:
+      213: 7743955359208275835
+    second: cyn_Sprites_108
+  - first:
+      213: -2062315965354576408
+    second: cyn_Sprites_109
+  - first:
+      213: -3928183926263066182
+    second: cyn_Sprites_110
+  - first:
+      213: -2517096297180915643
+    second: cyn_Sprites_111
+  - first:
+      213: 5631669529990362065
+    second: cyn_Sprites_112
+  - first:
+      213: -9130208083167071409
+    second: cyn_Sprites_113
+  - first:
+      213: 5262117358160923486
+    second: cyn_Sprites_114
+  - first:
+      213: 4835303613912825800
+    second: cyn_Sprites_115
+  - first:
+      213: -6555933510365893488
+    second: cyn_Sprites_116
+  - first:
+      213: -2246545550058662243
+    second: cyn_Sprites_117
+  - first:
+      213: -3863046802481402851
+    second: cyn_Sprites_118
+  - first:
+      213: -8232833742673895066
+    second: cyn_Sprites_119
+  - first:
+      213: 7572504674665227769
+    second: cyn_Sprites_120
+  - first:
+      213: -463273880149396804
+    second: cyn_Sprites_121
+  - first:
+      213: 5297916912567803886
+    second: cyn_Sprites_122
+  - first:
+      213: 4851904025251456219
+    second: cyn_Sprites_123
+  - first:
+      213: -192300552243923003
+    second: cyn_Sprites_124
+  - first:
+      213: -556969566463725464
+    second: cyn_Sprites_125
+  - first:
+      213: -6257899597651747599
+    second: cyn_Sprites_126
+  - first:
+      213: -6341167001213166527
+    second: cyn_Sprites_127
+  - first:
+      213: 321590710059520776
+    second: cyn_Sprites_128
+  - first:
+      213: 6825137717227279061
+    second: cyn_Sprites_129
+  - first:
+      213: -4827414936475753517
+    second: cyn_Sprites_130
+  - first:
+      213: -8052136275647979168
+    second: cyn_Sprites_131
+  - first:
+      213: 1066562787180615684
+    second: cyn_Sprites_132
+  - first:
+      213: 4481446198486542905
+    second: cyn_Sprites_133
+  - first:
+      213: -7120893680187973997
+    second: cyn_Sprites_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cyn_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3985
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9689737551236f0800000000000000
+      internalID: -706478727204673040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3983
+        width: 50
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad70d38318c6d80800000000000000
+      internalID: -8256081938334885341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3983
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f1eac1c42802880800000000000000
+      internalID: -8637760821886312574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4013
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856dcc02304680f30800000000000000
+      internalID: 4541990188801119832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3981
+        width: 30
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74834305bd34787d0800000000000000
+      internalID: -2916287624476608441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3980
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1f8142d78ad8c50800000000000000
+      internalID: 6669171878635565523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3978
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc66653fc7022670800000000000000
+      internalID: 8512374832219188418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3860
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d127c9b4e95325e0800000000000000
+      internalID: -1935604575934930476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3856
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ac76599f4aa480800000000000000
+      internalID: -8887203394662652308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3854
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43f2cd48b9e36ec0800000000000000
+      internalID: -3574756701414165684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3853
+        width: 29
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515ee5ec2a8300070800000000000000
+      internalID: 8070512804146111765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3848
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dff35464a7c36e90800000000000000
+      internalID: -7033558684150792234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3848
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dfc1b0dd6a634f0800000000000000
+      internalID: -849308011408327388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3736
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb170ec0b87820d10800000000000000
+      internalID: 2090382208339571131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3727
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a657d8b1b297588e0800000000000000
+      internalID: -1691812858954943126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3738
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdaa1b382e1bca20800000000000000
+      internalID: 3083591528004365748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3752
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d848a01688039cd0800000000000000
+      internalID: -2552687191890835248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3749
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988034328e3fa9a80800000000000000
+      internalID: -8459180771712497527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3749
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b1de81ce91f8e0800000000000000
+      internalID: -1661372233361016958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3614
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b03805139abe5e0800000000000000
+      internalID: -1879222390227793058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3613
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66773bddc2183fa10800000000000000
+      internalID: 1942037894024886118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3619
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa8d477bdbe47440800000000000000
+      internalID: 4932826819709471401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3618
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287c1a3ea2a95e250800000000000000
+      internalID: 5973349989775165314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3612
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa2fce4532258830800000000000000
+      internalID: 4072699050377292528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3502
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2caa5f188f3eee0800000000000000
+      internalID: -1232868635913305354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3499
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c459bc860f288f3e0800000000000000
+      internalID: -2019720463813733044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3500
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a0d2e88ea4d5f30800000000000000
+      internalID: 4565887959901735457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3499
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856b6253413a20780800000000000000
+      internalID: -8718226621449456040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3379
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1bbfbfc181c630800000000000000
+      internalID: 3945577477828188856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3362
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759b796559ad2b70800000000000000
+      internalID: 8875936624924136824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3369
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5498238795851400800000000000000
+      internalID: 294288236449666143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3382
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1115e7f44766fbf0800000000000000
+      internalID: -290931580004396770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3399
+        width: 113
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1014a7d6728e7eb40800000000000000
+      internalID: 5469595528502853889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3258
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3395fc72056b29dc0800000000000000
+      internalID: -3633641493953029837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3256
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c1f441969bb94f0800000000000000
+      internalID: -820858646101550079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3241
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467136b33bfa68a70800000000000000
+      internalID: 8828937303836792676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3242
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa6809c68e546d00800000000000000
+      internalID: 965000153155529384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3114
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30a0fd1e73aace0800000000000000
+      internalID: -1393239691468602418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3112
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3cc3028a4c13470800000000000000
+      internalID: 8372689408632865761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3112
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0456d06a8d5a930800000000000000
+      internalID: 4153964439020060883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 3112
+        width: 37
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc920274a0b81960800000000000000
+      internalID: 7572996993757387992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2987
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbd9fd3da97908c0800000000000000
+      internalID: -4032558206357480492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2985
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3180f64ac823cae0800000000000000
+      internalID: -1530334599137164997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2985
+        width: 85
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296cf28a2dc4113a0800000000000000
+      internalID: -6696486703274670446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2985
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d304905e99ad91870800000000000000
+      internalID: 8654188513476558909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2862
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cef40a2994c21f0800000000000000
+      internalID: -1068398117490004986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2892
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31659bc2119279fd0800000000000000
+      internalID: -2335352728026786285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2891
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad585f5dc1d943d0800000000000000
+      internalID: -3221813378408751700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2890
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5692b13251a0a40800000000000000
+      internalID: 5335099949097510357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2890
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe9a4b04b3e8fa60800000000000000
+      internalID: 7708161124667662072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2772
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf130863b4e03000800000000000000
+      internalID: 13762258077425602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2776
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23abaf7be6418a130800000000000000
+      internalID: 3578132369711479346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2777
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45016a3550d58550800000000000000
+      internalID: 6162560729596626253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2781
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206d81a23cdf28eb0800000000000000
+      internalID: -4718930444864137726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2682
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4310ef184b8aee040800000000000000
+      internalID: 4678862556113010996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2702
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328755353f9fea10800000000000000
+      internalID: 1940945015296983612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2659
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049dd845b1fbdba10800000000000000
+      internalID: 1926906339688044864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2656
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7237c1471eaa97010800000000000000
+      internalID: 1187167862081221415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2521
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0609dec8ca84390800000000000000
+      internalID: -7833821830529916732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2536
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef13693ac89294960800000000000000
+      internalID: 7586640731299000830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2534
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80bc5897ff4404d0800000000000000
+      internalID: -3169320312930258806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2531
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a230f3f4fb66a0290800000000000000
+      internalID: -7923407622550650070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2533
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38de9c119b2c5450800000000000000
+      internalID: 6078781499293751355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2394
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f574d6390713110800000000000000
+      internalID: 1238895150999494442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2409
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25748d1bbee7407f0800000000000000
+      internalID: -647252895668353198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2409
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d62c44921c994100800000000000000
+      internalID: 92776870949168851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2384
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0f750dede2ca590800000000000000
+      internalID: -7661697331551014708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2384
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a085be5831d5aec0800000000000000
+      internalID: -3556206290701811545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2255
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffbaa5863862c440800000000000000
+      internalID: 4954637123441049595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2241
+        width: 52
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7c26f56dd1a1f70800000000000000
+      internalID: 9158665598771840954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2273
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d64d77a20799290800000000000000
+      internalID: -7883146345033994928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2269
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee864f747e18560800000000000000
+      internalID: 7314381566055607865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2270
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c0bb95f3e556ee0800000000000000
+      internalID: -1268504093853545398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2134
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d023ade43c39bc30800000000000000
+      internalID: 4375594710990004436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2116
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d1a702e87111860800000000000000
+      internalID: 7498800753746255256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2111
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb883335ea730e0800000000000000
+      internalID: -2290170213124490345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2113
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af41452966646b630800000000000000
+      internalID: 3942415930165040378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2116
+        width: 31
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123c07ad3dcdc4690800000000000000
+      internalID: -7616470067329318111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2117
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8845e6c47e2e3d4f0800000000000000
+      internalID: -805050425321565048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1986
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd3eff326b8dbd0800000000000000
+      internalID: -2605132118700597273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1988
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256810f6cad217e50800000000000000
+      internalID: 6805270730553525842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1986
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96abfd96793ef2f0800000000000000
+      internalID: -937248490827045220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1986
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515a9220e45b5270800000000000000
+      internalID: 8240273264834400599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1985
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861ec7e6cd6a8f30800000000000000
+      internalID: 4578592672235525761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1984
+        width: 37
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa8a1a875b6fb10800000000000000
+      internalID: 2014997413007765310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1859
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22788b833ac63aa0800000000000000
+      internalID: -6181531115786309074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1855
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609068ff39dd92ce0800000000000000
+      internalID: -1429367778996516602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1862
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cd8493667843e10800000000000000
+      internalID: 2176513393044282411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1876
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f7f07586f8883d0800000000000000
+      internalID: -3204153456574103704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1892
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd5484f6d3982f00800000000000000
+      internalID: 1092285461071945179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1739
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435fda378b50ab80800000000000000
+      internalID: -8385601869797436595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1732
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e14a585d7850caf0800000000000000
+      internalID: -378205073322655256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1745
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d3720798f581100800000000000000
+      internalID: 78918037375761820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1732
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c755c49cce0f60800000000000000
+      internalID: 8002558527222039418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1734
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cceb95d0badebef0800000000000000
+      internalID: -90394489467966267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1607
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801bab7b80f5bfd0800000000000000
+      internalID: -2326689150601064308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1600
+        width: 87
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69108f7b098932a0800000000000000
+      internalID: -6757219083415971476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1645
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561cb80cfe41a9680800000000000000
+      internalID: -8747656306253643419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1633
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b1a80b1da2a920800000000000000
+      internalID: 3000150633402708493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1513
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a589199b4821280800000000000000
+      internalID: -9074044366651631012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1479
+        width: 63
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6af4b91134b6d00800000000000000
+      internalID: 966940287900296882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1472
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137802f53c29bb130800000000000000
+      internalID: 3583619296315606833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1478
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0775d1cd6efaec810800000000000000
+      internalID: 1787559508182914928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1362
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66b58873e1c5e2c0800000000000000
+      internalID: -4402899877961025940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1359
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e153f9821ffc76070800000000000000
+      internalID: 8099671089524716830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1358
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b674f5f75762fefe0800000000000000
+      internalID: -1157664293120948373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1370
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e082db1d6f95a85d0800000000000000
+      internalID: -3059534080229169138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1412
+        width: 108
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a355b7b826eb920800000000000000
+      internalID: 3007949952339229236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1356
+        width: 120
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f7716be5e087b60800000000000000
+      internalID: 7743955359208275835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1226
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e57c6e5e8e2163e0800000000000000
+      internalID: -2062315965354576408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1211
+        width: 43
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d0be08894c79c0800000000000000
+      internalID: -3928183926263066182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1203
+        width: 40
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548941df04a711dd0800000000000000
+      internalID: -2517096297180915643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1177
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d377738995b72e40800000000000000
+      internalID: 5631669529990362065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1071
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f433d6d4f1cfa4180800000000000000
+      internalID: -9130208083167071409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1069
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b499b7bdbc60940800000000000000
+      internalID: 5262117358160923486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1074
+        width: 113
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfbf60b4037a1340800000000000000
+      internalID: 4835303613912825800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1062
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09caf870535a405a0800000000000000
+      internalID: -6555933510365893488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 936
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d40599baa2d0e0800000000000000
+      internalID: -2246545550058662243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 946
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c23638663b36ac0800000000000000
+      internalID: -3863046802481402851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 941
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a21994591fbd80800000000000000
+      internalID: -8232833742673895066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 937
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e76971e0f61960800000000000000
+      internalID: 7572504674665227769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 769
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb27afb4cde1299f0800000000000000
+      internalID: -463273880149396804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 785
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef5327cc5bf58940800000000000000
+      internalID: 5297916912567803886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 777
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a665210d655340800000000000000
+      internalID: 4851904025251456219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 725
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b365aaafc45df0800000000000000
+      internalID: -192300552243923003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 721
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f938512f3548f0800000000000000
+      internalID: -556969566463725464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 607
+        width: 166
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc58e1c8797729a0800000000000000
+      internalID: -6257899597651747599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 715
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c92479536aff7a0800000000000000
+      internalID: -6341167001213166527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 615
+        width: 221
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803d9240c05867400800000000000000
+      internalID: 321590710059520776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 427
+        width: 175
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d37ab792c7be50800000000000000
+      internalID: 6825137717227279061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 401
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a2f721b3910db0800000000000000
+      internalID: -4827414936475753517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 196
+        width: 77
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06127f628b0114090800000000000000
+      internalID: -8052136275647979168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 198
+        width: 88
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4081d8c34313dce00800000000000000
+      internalID: 1066562787180615684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 204
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aa0d4e29b413e30800000000000000
+      internalID: 4481446198486542905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyn_Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 37
+        width: 61
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e521d0de08d2d90800000000000000
+      internalID: -7120893680187973997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cyn_Sprites_78: -805050425321565048
+      cyn_Sprites_85: -6181531115786309074
+      cyn_Sprites_52: 6162560729596626253
+      cyn_Sprites_83: 4578592672235525761
+      cyn_Sprites_55: 1940945015296983612
+      cyn_Sprites_41: -4032558206357480492
+      cyn_Sprites_115: 4835303613912825800
+      cyn_Sprites_93: 8002558527222039418
+      cyn_Sprites_6: 8512374832219188418
+      cyn_Sprites_38: 8372689408632865761
+      cyn_Sprites_19: -1879222390227793058
+      cyn_Sprites_50: 13762258077425602
+      cyn_Sprites_119: -8232833742673895066
+      cyn_Sprites_31: -290931580004396770
+      cyn_Sprites_108: 7743955359208275835
+      cyn_Sprites_28: 3945577477828188856
+      cyn_Sprites_70: -7883146345033994928
+      cyn_Sprites_80: 6805270730553525842
+      cyn_Sprites_48: 5335099949097510357
+      cyn_Sprites_105: -1157664293120948373
+      cyn_Sprites_109: -2062315965354576408
+      cyn_Sprites_99: -9074044366651631012
+      cyn_Sprites_120: 7572504674665227769
+      cyn_Sprites_45: -1068398117490004986
+      cyn_Sprites_133: 4481446198486542905
+      cyn_Sprites_54: 4678862556113010996
+      cyn_Sprites_75: -2290170213124490345
+      cyn_Sprites_10: 8070512804146111765
+      cyn_Sprites_130: -4827414936475753517
+      cyn_Sprites_39: 4153964439020060883
+      cyn_Sprites_76: 3942415930165040378
+      cyn_Sprites_1: -8256081938334885341
+      cyn_Sprites_72: -1268504093853545398
+      cyn_Sprites_97: -8747656306253643419
+      cyn_Sprites_17: -8459180771712497527
+      cyn_Sprites_35: 8828937303836792676
+      cyn_Sprites_42: -1530334599137164997
+      cyn_Sprites_134: -7120893680187973997
+      cyn_Sprites_33: -3633641493953029837
+      cyn_Sprites_30: 294288236449666143
+      cyn_Sprites_125: -556969566463725464
+      cyn_Sprites_21: 4932826819709471401
+      cyn_Sprites_90: -8385601869797436595
+      cyn_Sprites_111: -2517096297180915643
+      cyn_Sprites_62: 6078781499293751355
+      cyn_Sprites_77: -7616470067329318111
+      cyn_Sprites_104: 8099671089524716830
+      cyn_Sprites_60: -3169320312930258806
+      cyn_Sprites_94: -90394489467966267
+      cyn_Sprites_110: -3928183926263066182
+      cyn_Sprites_2: -8637760821886312574
+      cyn_Sprites_34: -820858646101550079
+      cyn_Sprites_103: -4402899877961025940
+      cyn_Sprites_66: -7661697331551014708
+      cyn_Sprites_101: 3583619296315606833
+      cyn_Sprites_92: 78918037375761820
+      cyn_Sprites_117: -2246545550058662243
+      cyn_Sprites_114: 5262117358160923486
+      cyn_Sprites_44: 8654188513476558909
+      cyn_Sprites_13: 2090382208339571131
+      cyn_Sprites_124: -192300552243923003
+      cyn_Sprites_81: -937248490827045220
+      cyn_Sprites_29: 8875936624924136824
+      cyn_Sprites_96: -6757219083415971476
+      cyn_Sprites_20: 1942037894024886118
+      cyn_Sprites_59: 7586640731299000830
+      cyn_Sprites_129: 6825137717227279061
+      cyn_Sprites_61: -7923407622550650070
+      cyn_Sprites_37: -1393239691468602418
+      cyn_Sprites_36: 965000153155529384
+      cyn_Sprites_24: -1232868635913305354
+      cyn_Sprites_132: 1066562787180615684
+      cyn_Sprites_128: 321590710059520776
+      cyn_Sprites_88: -3204153456574103704
+      cyn_Sprites_106: -3059534080229169138
+      cyn_Sprites_26: 4565887959901735457
+      cyn_Sprites_51: 3578132369711479346
+      cyn_Sprites_100: 966940287900296882
+      cyn_Sprites_113: -9130208083167071409
+      cyn_Sprites_8: -8887203394662652308
+      cyn_Sprites_46: -2335352728026786285
+      cyn_Sprites_131: -8052136275647979168
+      cyn_Sprites_69: 9158665598771840954
+      cyn_Sprites_121: -463273880149396804
+      cyn_Sprites_3: 4541990188801119832
+      cyn_Sprites_82: 8240273264834400599
+      cyn_Sprites_116: -6555933510365893488
+      cyn_Sprites_16: -2552687191890835248
+      cyn_Sprites_22: 5973349989775165314
+      cyn_Sprites_126: -6257899597651747599
+      cyn_Sprites_5: 6669171878635565523
+      cyn_Sprites_0: -706478727204673040
+      cyn_Sprites_74: 7498800753746255256
+      cyn_Sprites_57: 1187167862081221415
+      cyn_Sprites_64: -647252895668353198
+      cyn_Sprites_12: -849308011408327388
+      cyn_Sprites_98: 3000150633402708493
+      cyn_Sprites_14: -1691812858954943126
+      cyn_Sprites_89: 1092285461071945179
+      cyn_Sprites_91: -378205073322655256
+      cyn_Sprites_32: 5469595528502853889
+      cyn_Sprites_65: 92776870949168851
+      cyn_Sprites_23: 4072699050377292528
+      cyn_Sprites_102: 1787559508182914928
+      cyn_Sprites_107: 3007949952339229236
+      cyn_Sprites_127: -6341167001213166527
+      cyn_Sprites_56: 1926906339688044864
+      cyn_Sprites_122: 5297916912567803886
+      cyn_Sprites_7: -1935604575934930476
+      cyn_Sprites_4: -2916287624476608441
+      cyn_Sprites_123: 4851904025251456219
+      cyn_Sprites_63: 1238895150999494442
+      cyn_Sprites_79: -2605132118700597273
+      cyn_Sprites_15: 3083591528004365748
+      cyn_Sprites_118: -3863046802481402851
+      cyn_Sprites_112: 5631669529990362065
+      cyn_Sprites_49: 7708161124667662072
+      cyn_Sprites_87: 2176513393044282411
+      cyn_Sprites_9: -3574756701414165684
+      cyn_Sprites_86: -1429367778996516602
+      cyn_Sprites_11: -7033558684150792234
+      cyn_Sprites_71: 7314381566055607865
+      cyn_Sprites_68: 4954637123441049595
+      cyn_Sprites_73: 4375594710990004436
+      cyn_Sprites_18: -1661372233361016958
+      cyn_Sprites_95: -2326689150601064308
+      cyn_Sprites_84: 2014997413007765310
+      cyn_Sprites_27: -8718226621449456040
+      cyn_Sprites_58: -7833821830529916732
+      cyn_Sprites_67: -3556206290701811545
+      cyn_Sprites_40: 7572996993757387992
+      cyn_Sprites_47: -3221813378408751700
+      cyn_Sprites_53: -4718930444864137726
+      cyn_Sprites_43: -6696486703274670446
+      cyn_Sprites_25: -2019720463813733044
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
