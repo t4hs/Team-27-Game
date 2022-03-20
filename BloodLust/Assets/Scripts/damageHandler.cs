@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
-public class damageHandler : MonoBehaviour
+public class DamageHandler : MonoBehaviour
 {
 
     // Start is called before the first frame update
@@ -18,10 +18,6 @@ public class damageHandler : MonoBehaviour
     {
         
     }
-    public damageHandler()
-    {
-
-    }
     private void dealDamage(Character character, int dmg)
     {
         character.health -= dmg;
@@ -34,7 +30,6 @@ public class damageHandler : MonoBehaviour
     {
         //net damage after all combos and reductions
         int finalDamage = 0;
-        damageHandler dmg = new damageHandler();
         //attack vs attack
         if (card1.type == "attack" && card2.type == "attack")
         {

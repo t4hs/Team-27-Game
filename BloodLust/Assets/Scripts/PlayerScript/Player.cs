@@ -12,6 +12,9 @@ public class Player: MonoBehaviourPunCallbacks{
     [SerializeField] private string playerName;
     [SerializeField] private string characterName;
     [SerializeField] private int playerId;
+    private bool hasSelected;
+    private Card selectedCard;
+    private bool isLocal;
 
     //Assign character to players
     public void AssignCharacters(Character character)
@@ -27,7 +30,23 @@ public class Player: MonoBehaviourPunCallbacks{
         PlayerId = actorNumber;
         IsLocal = isLocal;
     }
-    
+
+    public bool HasSelected
+    {
+        set { this.hasSelected = value;  }
+        get { return this.hasSelected; }
+    }
+
+    public Card SelectedCard
+    {
+        set { this.selectedCard = value; }
+        get { return this.selectedCard; }
+    }
+
+    public bool Equals(Player otherPlayer)
+    {
+        return this.PlayerId == otherPlayer.PlayerId;
+    }
     public int PlayerId
     {
         set{this.playerId = value; }

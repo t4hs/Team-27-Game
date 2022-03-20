@@ -12,13 +12,9 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     public GameObject playerPrefab;
     public static PlayerManager instance;
     private int spawnIndex;
-    Player player1, player2;
-    public bool IsPlayer1Turn {private set; get;}
-    public bool IsPlayer2Turn {private set; get;}
+    public Player player1, player2;
     private GameObject playerPref;
-    public Dictionary<Player, Card> selectedCards;
     private Photon.Realtime.Player player;
-    private event Action<Dictionary<Player, Card>> UpdateSelectedCards;
     public bool bothPlayersHaveSelected = false;
     private ExitGames.Client.Photon.Hashtable customProps = new ExitGames.Client.Photon.Hashtable();
     void Awake()
@@ -33,25 +29,27 @@ public class PlayerManager : MonoBehaviourPunCallbacks
                 instance = this;
             }
         }
-        UpdateSelectedCards += OnUpdateSelectedCards;
         DontDestroyOnLoad(transform.gameObject);
-    }
-
-    void OnDestroy()
-    {
-        UpdateSelectedCards -= OnUpdateSelectedCards;
     }
     
     // function called in the CharacterSelection script
+   
+
+    private void Start()
+    {
+        
+    }
+
     public void InitPlayers()
     {
         player = PhotonNetwork.LocalPlayer;
-        if(PhotonNetwork.IsMasterClient)
+        if (PhotonNetwork.IsMasterClient)
         {
             player1 = playerPrefab.GetComponent<Player>();
             player1.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
             playerPrefab.GetComponent<Text>().text = player1.NickName;
-        }else
+        }
+        else
         {
             player2 = playerPrefab.GetComponent<Player>();
             player2.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
@@ -59,20 +57,20 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         }
     }
 
-
+    public bool BothHaveCard(Player player1, Player player2)
+    {
+        return player1.HasSelected && player2.HasSelected;
+    }
 
 
     //This event events when a player has selected a card
-    private void OnUpdateSelectedCards(Dictionary<Player,Card> selectedCards)
-    {
 
-    }
-           
-            
+
+
     // Initialize the character an assign to whatever player chosen it
     public void InitCharacters(Character chosenCharacter, int currentCharacter)
     {
-        if(PhotonNetwork.IsMasterClient)
+        if (PhotonNetwork.IsMasterClient)
         {
             player1.AssignCharacters(chosenCharacter);
             customProps["chosenCharacter"] = currentCharacter;
@@ -92,7 +90,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     {
         bool readyToFight = true;
 
-        foreach(Photon.Realtime.Player player in PhotonNetwork.PlayerList)
+        foreach (Photon.Realtime.Player player in PhotonNetwork.PlayerList)
         {
             if (!player.CustomProperties.ContainsKey("chosenCharacter"))
                 readyToFight = false;
@@ -101,19 +99,14 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         return readyToFight;
     }
 
-    //Add the selected card and the playerWho selected to the Key value pair dictionary
-    public void AddSelectedCard(Card selectedCard)
-    {
-        Player playerKey = PhotonNetwork.IsMasterClient ? player1 : player2;
-        selectedCards.Add(playerKey, selectedCard);
-        UpdateSelectedCards(selectedCards);
-    }
 
-    private void Start()
+    //Set the selected card to the target player
+    public void SetPlayerCard(Card selectedCard)
     {
-        this.IsPlayer1Turn=true;
-        this.IsPlayer2Turn=false;
-        selectedCards = new Dictionary<Player, Card>();
+        Player targetPlayer = PhotonNetwork.IsMasterClient ? player1 : player2;
+        targetPlayer.SelectedCard = selectedCard;
+        targetPlayer.HasSelected = true;
+        GameManager.instance.GetTargetPlayer(targetPlayer);
     }
 
     //Spawn the player avatars accross the screen

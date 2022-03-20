@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviourPunCallbacks
 {
     public static GameManager instance;
     private event Action<GameState> GameStateChange;
+    public event Action<Player> PlayerSelectedCard;
     public Transform[] spawnPoints;
     [SerializeField] private Button[] buttons;
     [SerializeField] private GameUIManager gameUIManager;
@@ -19,8 +20,16 @@ public class GameManager : MonoBehaviourPunCallbacks
         if(instance == null)
         {
             instance = this;
+        }else
+        {
+            if(instance != null && instance!=this)
+            {
+                Destroy(this.gameObject);
+                instance = this;
+            }
         }
         GameStateChange+=OnGameStateChange;
+        PlayerSelectedCard += OnPlayerSelectedCard;
         DontDestroyOnLoad(transform.gameObject);
         PV = GetComponent<PhotonView>();
     }
@@ -28,6 +37,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     void OnDestroy()
     {
         GameStateChange-=OnGameStateChange;
+        PlayerSelectedCard -= OnPlayerSelectedCard;
     }
 
     void Start()
@@ -39,10 +49,30 @@ public class GameManager : MonoBehaviourPunCallbacks
     {
         //if(PlayerManager.instance.bothPlayersHaveSelected)
         {
-            //Change to comparison state
+            ChangeState(GameState.Comparison);
         }
     }
 
+    public void GetTargetPlayer(Player targetPlayer)
+    {
+        PlayerSelectedCard(targetPlayer);
+    }
+    private void OnPlayerSelectedCard(Player targetPlayer)
+    {
+        if(PlayerManager.instance.player1!=null)
+        {
+            if (targetPlayer.Equals(PlayerManager.instance.player1))
+            {
+                PV.RPC(nameof(RPC_Player2Turn), RpcTarget.Others, true);
+            }
+        }else if(PlayerManager.instance.player2!=null)
+        {
+            if(targetPlayer.Equals(PlayerManager.instance.player2))
+            {
+                PV.RPC(nameof(RPC_TurnDone), RpcTarget.MasterClient, PlayerManager.instance.player2);
+            }
+        }
+    }
     public void TogglePlayerButton(bool value)
     {
         foreach(Button button in buttons)
@@ -82,7 +112,7 @@ public void ChangeState(GameState state)
 public void OnSelectedCard(int index)
     {
         Card selectedCard = buttons[index].GetComponent<cardManager>().card;
-        PlayerManager.instance.AddSelectedCard(selectedCard);
+        PlayerManager.instance.SetPlayerCard(selectedCard);
         TogglePlayerButton(false);
     }
 
@@ -112,7 +142,32 @@ public void HandleGameStart()
     {
         TogglePlayerButton(false);
     }
+
+    [PunRPC]
+
+    void RPC_Player2Turn(bool value)
+    {
+        TogglePlayerButton(value);
+    }
     
+    [PunRPC]
+
+    void RPC_TurnDone(Player targetPlayer)
+    {
+        PlayerManager.instance.bothPlayersHaveSelected=PlayerManager.instance.BothHaveCard(PlayerManager.instance.player1, targetPlayer);
+    }
+
+    [PunRPC]
+
+    void RPC_ComparisonState()
+    {
+        ChangeState(GameState.Comparison);
+    }
+
+    private void HandleComparison()
+    {
+        //ToDo handle comparison
+    }
     public void ShowWinScreen()
     {
         //ToDo implement this function
