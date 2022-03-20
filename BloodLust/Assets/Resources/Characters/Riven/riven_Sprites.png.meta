@@ -1,0 +1,2585 @@
+fileFormatVersion: 2
+guid: bbb862d7268f6434e9ab8584e43a7e12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5315953821143305605
+    second: riven_Sprites_0
+  - first:
+      213: -1989014307778072332
+    second: riven_Sprites_1
+  - first:
+      213: 6149977512792344136
+    second: riven_Sprites_2
+  - first:
+      213: 8386241901470095311
+    second: riven_Sprites_3
+  - first:
+      213: -4396866171703518790
+    second: riven_Sprites_4
+  - first:
+      213: -1815392000318139627
+    second: riven_Sprites_5
+  - first:
+      213: 1360392611596663046
+    second: riven_Sprites_6
+  - first:
+      213: -6067385395999356882
+    second: riven_Sprites_7
+  - first:
+      213: -4623837288570696865
+    second: riven_Sprites_8
+  - first:
+      213: 3232851412736459931
+    second: riven_Sprites_9
+  - first:
+      213: 6996839667061802427
+    second: riven_Sprites_10
+  - first:
+      213: 3586815582627638898
+    second: riven_Sprites_11
+  - first:
+      213: -2483491143120259993
+    second: riven_Sprites_12
+  - first:
+      213: -64708740575075209
+    second: riven_Sprites_13
+  - first:
+      213: -8616580498811902039
+    second: riven_Sprites_14
+  - first:
+      213: -5596806511053558103
+    second: riven_Sprites_15
+  - first:
+      213: 7905786074614156378
+    second: riven_Sprites_16
+  - first:
+      213: 4381550193986721776
+    second: riven_Sprites_17
+  - first:
+      213: 3377219186677974327
+    second: riven_Sprites_18
+  - first:
+      213: 7938689853308413170
+    second: riven_Sprites_19
+  - first:
+      213: -6088113068678240891
+    second: riven_Sprites_20
+  - first:
+      213: -6491079550559106445
+    second: riven_Sprites_21
+  - first:
+      213: -5187739754346824946
+    second: riven_Sprites_22
+  - first:
+      213: 1664472026308983305
+    second: riven_Sprites_23
+  - first:
+      213: -8606022257403146447
+    second: riven_Sprites_24
+  - first:
+      213: 791895570664204961
+    second: riven_Sprites_25
+  - first:
+      213: 775862549248090292
+    second: riven_Sprites_26
+  - first:
+      213: -5945957230537334821
+    second: riven_Sprites_27
+  - first:
+      213: -6026637558755484192
+    second: riven_Sprites_28
+  - first:
+      213: 5213745877652826019
+    second: riven_Sprites_29
+  - first:
+      213: 1825035053205580085
+    second: riven_Sprites_30
+  - first:
+      213: 4232467773912885700
+    second: riven_Sprites_31
+  - first:
+      213: 8511223588107854918
+    second: riven_Sprites_32
+  - first:
+      213: -374589950508287885
+    second: riven_Sprites_33
+  - first:
+      213: 6487853873361619626
+    second: riven_Sprites_34
+  - first:
+      213: -1320491627744227181
+    second: riven_Sprites_35
+  - first:
+      213: 5927289259663701823
+    second: riven_Sprites_36
+  - first:
+      213: 541900325708981414
+    second: riven_Sprites_37
+  - first:
+      213: 8319804308849320785
+    second: riven_Sprites_38
+  - first:
+      213: -2476172803000070354
+    second: riven_Sprites_39
+  - first:
+      213: 8185108171626788547
+    second: riven_Sprites_40
+  - first:
+      213: 8475915467820324760
+    second: riven_Sprites_41
+  - first:
+      213: -2636371416053803558
+    second: riven_Sprites_42
+  - first:
+      213: -4300166206290787170
+    second: riven_Sprites_43
+  - first:
+      213: -9114015116332498392
+    second: riven_Sprites_44
+  - first:
+      213: -5478827624319130432
+    second: riven_Sprites_45
+  - first:
+      213: 6710780676748958579
+    second: riven_Sprites_46
+  - first:
+      213: 8617971253150609856
+    second: riven_Sprites_47
+  - first:
+      213: 4763270666166821026
+    second: riven_Sprites_48
+  - first:
+      213: 8451580658249668508
+    second: riven_Sprites_49
+  - first:
+      213: -4479078646887542931
+    second: riven_Sprites_50
+  - first:
+      213: 755164992220984131
+    second: riven_Sprites_51
+  - first:
+      213: -674189501441325268
+    second: riven_Sprites_52
+  - first:
+      213: 4443533137738002996
+    second: riven_Sprites_53
+  - first:
+      213: -2945708778154081909
+    second: riven_Sprites_54
+  - first:
+      213: 3952891563850636137
+    second: riven_Sprites_55
+  - first:
+      213: -6683973862055939637
+    second: riven_Sprites_56
+  - first:
+      213: 3559096266110810330
+    second: riven_Sprites_57
+  - first:
+      213: 4186988372975964617
+    second: riven_Sprites_58
+  - first:
+      213: -1502697024855306799
+    second: riven_Sprites_59
+  - first:
+      213: -2077453060158773006
+    second: riven_Sprites_60
+  - first:
+      213: -2310951001630573863
+    second: riven_Sprites_61
+  - first:
+      213: 5149070906090447903
+    second: riven_Sprites_62
+  - first:
+      213: 9199919708550791337
+    second: riven_Sprites_63
+  - first:
+      213: 4249572969443449045
+    second: riven_Sprites_64
+  - first:
+      213: 5442261508720784554
+    second: riven_Sprites_65
+  - first:
+      213: -7651795935385571091
+    second: riven_Sprites_66
+  - first:
+      213: -8050357030476306634
+    second: riven_Sprites_67
+  - first:
+      213: 3826121023091780494
+    second: riven_Sprites_68
+  - first:
+      213: -6349988397200202626
+    second: riven_Sprites_69
+  - first:
+      213: -3843641573083402878
+    second: riven_Sprites_70
+  - first:
+      213: 4525460833673201827
+    second: riven_Sprites_71
+  - first:
+      213: 5424124120263539254
+    second: riven_Sprites_72
+  - first:
+      213: 9169102047386864972
+    second: riven_Sprites_73
+  - first:
+      213: -1185442392458607161
+    second: riven_Sprites_74
+  - first:
+      213: -764050039048445416
+    second: riven_Sprites_75
+  - first:
+      213: 6475471170067368969
+    second: riven_Sprites_76
+  - first:
+      213: 2725982076505229568
+    second: riven_Sprites_77
+  - first:
+      213: 8126091598690836197
+    second: riven_Sprites_78
+  - first:
+      213: -9104972414096505186
+    second: riven_Sprites_79
+  - first:
+      213: 7021827998115870461
+    second: riven_Sprites_80
+  - first:
+      213: -6978575204796796315
+    second: riven_Sprites_81
+  - first:
+      213: -7308680102245817894
+    second: riven_Sprites_82
+  - first:
+      213: 4351525484999459079
+    second: riven_Sprites_83
+  - first:
+      213: -4785650331178609027
+    second: riven_Sprites_84
+  - first:
+      213: -3952051020725782430
+    second: riven_Sprites_85
+  - first:
+      213: -1236258669866004173
+    second: riven_Sprites_86
+  - first:
+      213: -4534941786017733581
+    second: riven_Sprites_87
+  - first:
+      213: -5621448481038140511
+    second: riven_Sprites_88
+  - first:
+      213: 9141760626202219387
+    second: riven_Sprites_89
+  - first:
+      213: 4745538467388952466
+    second: riven_Sprites_90
+  - first:
+      213: 379795740389603230
+    second: riven_Sprites_91
+  - first:
+      213: -4906843618192472335
+    second: riven_Sprites_92
+  - first:
+      213: 3079858809873329580
+    second: riven_Sprites_93
+  - first:
+      213: -8596168159998472085
+    second: riven_Sprites_94
+  - first:
+      213: -400114225648709702
+    second: riven_Sprites_95
+  - first:
+      213: -7034328741072193807
+    second: riven_Sprites_96
+  - first:
+      213: -6483508748356800619
+    second: riven_Sprites_97
+  - first:
+      213: -2839739200511688992
+    second: riven_Sprites_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: riven_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4655
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d80afc5df06c940800000000000000
+      internalID: 5315953821143305605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4652
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0f7bb760a9564e0800000000000000
+      internalID: -1989014307778072332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4650
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846c0a2c6fb195550800000000000000
+      internalID: 6149977512792344136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 4647
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc71f91c39ae16470800000000000000
+      internalID: 8386241901470095311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 4677
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab91eae23813bf2c0800000000000000
+      internalID: -4396866171703518790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 4643
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51393f4189e6ec6e0800000000000000
+      internalID: -1815392000318139627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4538
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f8416fd511e210800000000000000
+      internalID: 1360392611596663046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 4534
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28c014f0215ccba0800000000000000
+      internalID: -6067385395999356882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4532
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc983fb74d4dfb0800000000000000
+      internalID: -4623837288570696865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4526
+        width: 77
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94c6c34b356ddc20800000000000000
+      internalID: 3232851412736459931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 4605
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c4993b94c91160800000000000000
+      internalID: 6996839667061802427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 4575
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e2b55c4cde6c130800000000000000
+      internalID: 3586815582627638898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4575
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764fc73a6fdd88dd0800000000000000
+      internalID: -2483491143120259993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 4575
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774e8284ebb1a1ff0800000000000000
+      internalID: -64708740575075209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 4575
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a722cd50b1cb6880800000000000000
+      internalID: -8616580498811902039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 4549
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae2f00a1262452b0800000000000000
+      internalID: -5596806511053558103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 4549
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c4b975c8ef6bd60800000000000000
+      internalID: 7905786074614156378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 4548
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f75f1edfa46ecc30800000000000000
+      internalID: 4381550193986721776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4404
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735039ef4fa4ede20800000000000000
+      internalID: 3377219186677974327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4402
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f422705c54eb2e60800000000000000
+      internalID: 7938689853308413170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 4429
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58525059b6da28ba0800000000000000
+      internalID: -6088113068678240891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4382
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a4f1c3a8d0be5a0800000000000000
+      internalID: -6491079550559106445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4262
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b3cf2ed227108b0800000000000000
+      internalID: -5187739754346824946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4264
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ab8ba3d74691710800000000000000
+      internalID: 1664472026308983305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 4267
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f41628a54419880800000000000000
+      internalID: -8606022257403146447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4130
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa25ac63d06dfa00800000000000000
+      internalID: 791895570664204961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 4130
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0267ab0ea64ca00800000000000000
+      internalID: 775862549248090292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 4146
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf1820e667bb7da0800000000000000
+      internalID: -5945957230537334821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4009
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed1a5022151d5ca0800000000000000
+      internalID: -6026637558755484192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 3991
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a767aa8042fa5840800000000000000
+      internalID: 5213745877652826019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3837
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53964f026b3d35910800000000000000
+      internalID: 1825035053205580085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3834
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ad5b040fbcba30800000000000000
+      internalID: 4232467773912885700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3833
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644281d42c0fd1670800000000000000
+      internalID: 8511223588107854918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3668
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378b587bc603dcaf0800000000000000
+      internalID: -374589950508287885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3666
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa8c5449bc790a50800000000000000
+      internalID: 6487853873361619626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3671
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3909d6f5cdbacade0800000000000000
+      internalID: -1320491627744227181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3663
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373e337d26f14250800000000000000
+      internalID: 5927289259663701823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3474
+        width: 98
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a46d81a977358700800000000000000
+      internalID: 541900325708981414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3504
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1536abd40f1e57370800000000000000
+      internalID: 8319804308849320785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3503
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f82ba74fdd2add0800000000000000
+      internalID: -2476172803000070354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3503
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c636f9f388579170800000000000000
+      internalID: 8185108171626788547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3342
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8975bade53080a570800000000000000
+      internalID: 8475915467820324760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3299
+        width: 89
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad59e1a4a2ab96bd0800000000000000
+      internalID: -2636371416053803558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3169
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9406ee5e9db254c0800000000000000
+      internalID: -4300166206290787170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3165
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82206713a83848180800000000000000
+      internalID: -9114015116332498392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3165
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c46cd2cd4b47f3b0800000000000000
+      internalID: -5478827624319130432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3030
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5d23687b712d50800000000000000
+      internalID: 6710780676748958579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3031
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f19cd13f299770800000000000000
+      internalID: 8617971253150609856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2908
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a069e91f698a1240800000000000000
+      internalID: 4763270666166821026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2908
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97988d84db0a4570800000000000000
+      internalID: 8451580658249668508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2908
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0b3ba3bd17d1c0800000000000000
+      internalID: -4479078646887542931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2785
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34374243f82ea7a00800000000000000
+      internalID: 755164992220984131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2635
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27ca4f683cc4a6f0800000000000000
+      internalID: -674189501441325268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2630
+        width: 69
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432fc8e88d99aad30800000000000000
+      internalID: 4443533137738002996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2630
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81406a297dbe17d0800000000000000
+      internalID: -2945708778154081909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2478
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b94fa1fed7bd630800000000000000
+      internalID: 3952891563850636137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2476
+        width: 117
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f8288f21cd33a0800000000000000
+      internalID: -6683973862055939637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2465
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad834f67233746130800000000000000
+      internalID: 3559096266110810330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2373
+        width: 152
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c15ce9ddbb2b1a30800000000000000
+      internalID: 4186988372975964617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2364
+        width: 152
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd867c7409552be0800000000000000
+      internalID: -1502697024855306799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2339
+        width: 118
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f820b7d2776b23e0800000000000000
+      internalID: -2077453060158773006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2182
+        width: 76
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf976de4addefd0800000000000000
+      internalID: -2310951001630573863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2181
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e1d845bc257740800000000000000
+      internalID: 5149070906090447903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2147
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0094e4b3eacaf70800000000000000
+      internalID: 9199919708550791337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2101
+        width: 84
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d857cab91489fa30800000000000000
+      internalID: 4249572969443449045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1934
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa47512020cc68b40800000000000000
+      internalID: 5442261508720784554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1825
+        width: 102
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b091432c5fc590800000000000000
+      internalID: -7651795935385571091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1825
+        width: 132
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6372463fee2674090800000000000000
+      internalID: -8050357030476306634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1725
+        width: 108
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b2a018ccc191530800000000000000
+      internalID: 3826121023091780494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1728
+        width: 134
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a709423f40e7a0800000000000000
+      internalID: -6349988397200202626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1561
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da0709a54a8aac0800000000000000
+      internalID: -3843641573083402878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1578
+        width: 144
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8c80cb6aaadce30800000000000000
+      internalID: 4525460833673201827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1622
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63abfed262c564b40800000000000000
+      internalID: 5424124120263539254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1491
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d0dcb6bb13f3f70800000000000000
+      internalID: 9169102047386864972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1237
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c0dfbc667c8fe0800000000000000
+      internalID: -1185442392458607161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1116
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812e4ef998c8565f0800000000000000
+      internalID: -764050039048445416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1112
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c062d78be7dd950800000000000000
+      internalID: 6475471170067368969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1099
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0090d267142a4d520800000000000000
+      internalID: 2725982076505229568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1104
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed040514da5c070800000000000000
+      internalID: 8126091598690836197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1004
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960c0064d3a4a180800000000000000
+      internalID: -9104972414096505186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 788
+        width: 92
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b69d6c5b827160800000000000000
+      internalID: 7021827998115870461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 798
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562fcb743de172f90800000000000000
+      internalID: -6978575204796796315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 803
+        width: 132
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12ca88b2a529a90800000000000000
+      internalID: -7308680102245817894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 613
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c37c8f59b36c30800000000000000
+      internalID: 4351525484999459079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 613
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d765ed61164f59db0800000000000000
+      internalID: -4785650331178609027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 472
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2687b67198e7729c0800000000000000
+      internalID: -3952051020725782430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 470
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d32c2a4de7dee0800000000000000
+      internalID: -1236258669866004173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 502
+        width: 107
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33466570976a011c0800000000000000
+      internalID: -4534941786017733581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 500
+        width: 116
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abff84e36a9cf1b0800000000000000
+      internalID: -5621448481038140511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 429
+        width: 128
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b739f6abade0ede70800000000000000
+      internalID: 9141760626202219387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 309
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f8ba8d71a8bd140800000000000000
+      internalID: 4745538467388952466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 278
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97f021b63e454500800000000000000
+      internalID: 379795740389603230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 268
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6ce311ab367ebb0800000000000000
+      internalID: -4906843618192472335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 158
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad6bd0154bddba20800000000000000
+      internalID: 3079858809873329580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 162
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6094c95a9644b880800000000000000
+      internalID: -8596168159998472085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 162
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfc0ae4b32827af0800000000000000
+      internalID: -400114225648709702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 151
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6321b874b016e90800000000000000
+      internalID: -7034328741072193807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 44
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f2e0cf423f506a0800000000000000
+      internalID: -6483508748356800619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riven_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eebfb22e383798d0800000000000000
+      internalID: -2839739200511688992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      riven_Sprites_39: -2476172803000070354
+      riven_Sprites_83: 4351525484999459079
+      riven_Sprites_49: 8451580658249668508
+      riven_Sprites_73: 9169102047386864972
+      riven_Sprites_47: 8617971253150609856
+      riven_Sprites_32: 8511223588107854918
+      riven_Sprites_91: 379795740389603230
+      riven_Sprites_10: 6996839667061802427
+      riven_Sprites_96: -7034328741072193807
+      riven_Sprites_30: 1825035053205580085
+      riven_Sprites_28: -6026637558755484192
+      riven_Sprites_89: 9141760626202219387
+      riven_Sprites_4: -4396866171703518790
+      riven_Sprites_98: -2839739200511688992
+      riven_Sprites_67: -8050357030476306634
+      riven_Sprites_57: 3559096266110810330
+      riven_Sprites_0: 5315953821143305605
+      riven_Sprites_21: -6491079550559106445
+      riven_Sprites_38: 8319804308849320785
+      riven_Sprites_63: 9199919708550791337
+      riven_Sprites_71: 4525460833673201827
+      riven_Sprites_17: 4381550193986721776
+      riven_Sprites_69: -6349988397200202626
+      riven_Sprites_95: -400114225648709702
+      riven_Sprites_84: -4785650331178609027
+      riven_Sprites_88: -5621448481038140511
+      riven_Sprites_1: -1989014307778072332
+      riven_Sprites_86: -1236258669866004173
+      riven_Sprites_87: -4534941786017733581
+      riven_Sprites_34: 6487853873361619626
+      riven_Sprites_15: -5596806511053558103
+      riven_Sprites_33: -374589950508287885
+      riven_Sprites_48: 4763270666166821026
+      riven_Sprites_79: -9104972414096505186
+      riven_Sprites_81: -6978575204796796315
+      riven_Sprites_70: -3843641573083402878
+      riven_Sprites_50: -4479078646887542931
+      riven_Sprites_59: -1502697024855306799
+      riven_Sprites_75: -764050039048445416
+      riven_Sprites_97: -6483508748356800619
+      riven_Sprites_25: 791895570664204961
+      riven_Sprites_45: -5478827624319130432
+      riven_Sprites_61: -2310951001630573863
+      riven_Sprites_46: 6710780676748958579
+      riven_Sprites_20: -6088113068678240891
+      riven_Sprites_92: -4906843618192472335
+      riven_Sprites_31: 4232467773912885700
+      riven_Sprites_23: 1664472026308983305
+      riven_Sprites_12: -2483491143120259993
+      riven_Sprites_64: 4249572969443449045
+      riven_Sprites_27: -5945957230537334821
+      riven_Sprites_53: 4443533137738002996
+      riven_Sprites_54: -2945708778154081909
+      riven_Sprites_37: 541900325708981414
+      riven_Sprites_3: 8386241901470095311
+      riven_Sprites_19: 7938689853308413170
+      riven_Sprites_6: 1360392611596663046
+      riven_Sprites_62: 5149070906090447903
+      riven_Sprites_60: -2077453060158773006
+      riven_Sprites_85: -3952051020725782430
+      riven_Sprites_16: 7905786074614156378
+      riven_Sprites_65: 5442261508720784554
+      riven_Sprites_7: -6067385395999356882
+      riven_Sprites_22: -5187739754346824946
+      riven_Sprites_76: 6475471170067368969
+      riven_Sprites_66: -7651795935385571091
+      riven_Sprites_13: -64708740575075209
+      riven_Sprites_51: 755164992220984131
+      riven_Sprites_78: 8126091598690836197
+      riven_Sprites_40: 8185108171626788547
+      riven_Sprites_80: 7021827998115870461
+      riven_Sprites_11: 3586815582627638898
+      riven_Sprites_2: 6149977512792344136
+      riven_Sprites_82: -7308680102245817894
+      riven_Sprites_44: -9114015116332498392
+      riven_Sprites_14: -8616580498811902039
+      riven_Sprites_42: -2636371416053803558
+      riven_Sprites_52: -674189501441325268
+      riven_Sprites_58: 4186988372975964617
+      riven_Sprites_36: 5927289259663701823
+      riven_Sprites_55: 3952891563850636137
+      riven_Sprites_74: -1185442392458607161
+      riven_Sprites_93: 3079858809873329580
+      riven_Sprites_72: 5424124120263539254
+      riven_Sprites_24: -8606022257403146447
+      riven_Sprites_68: 3826121023091780494
+      riven_Sprites_43: -4300166206290787170
+      riven_Sprites_90: 4745538467388952466
+      riven_Sprites_18: 3377219186677974327
+      riven_Sprites_77: 2725982076505229568
+      riven_Sprites_8: -4623837288570696865
+      riven_Sprites_26: 775862549248090292
+      riven_Sprites_56: -6683973862055939637
+      riven_Sprites_41: 8475915467820324760
+      riven_Sprites_9: 3232851412736459931
+      riven_Sprites_35: -1320491627744227181
+      riven_Sprites_94: -8596168159998472085
+      riven_Sprites_29: 5213745877652826019
+      riven_Sprites_5: -1815392000318139627
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

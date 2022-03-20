@@ -3,35 +3,35 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using System;
+using TMPro;
 
-[CreateAssetMenu(fileName = "new card", menuName = "card")]
-public class Card : ScriptableObject
+public class Card : MonoBehaviour
 {
     public string type;
     public int damage;
-    int rndType;
 
-    // Start is called before the first frame update
-   void Start()
-   {
-   }
+    [Header("Text Fields")]
+    [SerializeField] private TextMeshProUGUI damageText;
+    [SerializeField] private TextMeshProUGUI typeText;
 
-    // Update is called once per frame
-   void Update()
-   {
-
-   }
+    void Start()
+    {
+        generateCard();
+    }
 
     //create a card
    public void generateCard()
    {
     damage = UnityEngine.Random.Range(500, 900);
-    rndType = UnityEngine.Random.Range(0, 4);
+    int rndType = UnityEngine.Random.Range(0, 4);
     if (rndType == 0) type = "attack";
     else if (rndType == 1) type = "counter";
     else if (rndType == 2) type = "dodge";
     else if (rndType == 3) type = "grapple";
     else if (rndType == 4) type = "heal";
-    }
+
+    damageText.text = damage.ToString();
+    typeText.text = type;
+   }
 
 }
