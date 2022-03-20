@@ -115,13 +115,13 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         Debug.Log("SpawnPlayers function called");
         if(PhotonNetwork.IsMasterClient)
         {
-            GameObject characterPref = player1.ChosenCharacter.characterPrefab;
+            GameObject characterPref = player1.ChosenCharacter.CharacterPrefab;
             spawnIndex = 0;
             playerPref = PhotonNetwork.Instantiate(characterPref.name,GameManager.instance.spawnPoints[spawnIndex].position,
                 GameManager.instance.spawnPoints[spawnIndex].rotation,0);
         }else
         {
-            GameObject characterPref = player2.ChosenCharacter.characterPrefab;
+            GameObject characterPref = player2.ChosenCharacter.CharacterPrefab;
             spawnIndex = 1;
             playerPref = PhotonNetwork.Instantiate(characterPref.name,GameManager.instance.spawnPoints[spawnIndex].position,
                 GameManager.instance.spawnPoints[spawnIndex].rotation,0);

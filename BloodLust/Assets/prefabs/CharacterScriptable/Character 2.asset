@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: Character 2
   m_EditorClassIdentifier: 
   characterName: Angelica
-  characterPrefab: {fileID: 7396299179682948809, guid: a3919ba7960ae4824ab11cae7dfbf6e1, type: 3}
+  characterPrefab: {fileID: 7396299179682948809, guid: 3b9f87e5401941d46aae701155b6f2b3, type: 3}
+  health: 150
+  energy: 150
+  cardPrefab: {fileID: 5113259253620155993, guid: 4b5a1285b2192ee4c910857a2e188b00, type: 3}
