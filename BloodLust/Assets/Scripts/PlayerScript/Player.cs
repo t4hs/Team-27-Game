@@ -5,18 +5,38 @@ using Photon.Pun;
 using Photon.Realtime;
 
 public class Player: MonoBehaviourPunCallbacks{
-
-    public Character character;
+    
     // Damage handler refactoring needed for public Hand hand;
     private Hand hand;
+    [Header("Set Before Runtime")] 
+    public Transform character1Spawn;
+    public Transform character2Spawn;
+    
+    [Header("Networking Information")]
+    [SerializeField] private int playerId;
+
+    [Header("Game Information - Set At Runtime")]
+    public Character character;
     [SerializeField] private string playerName;
     [SerializeField] private string characterName;
-    [SerializeField] private int playerId;
     private bool hasSelected;
     private Card selectedCard;
     private bool isLocal;
+    private GameObject playerPref;
 
-
+    public void spawnCharacters(int spawnIndex)
+    {
+        GameObject characterPref = ChosenCharacter.CharacterPrefab;
+        if (spawnIndex == 0)
+        {
+            playerPref = PhotonNetwork.Instantiate(characterPref.name,GameManager.instance.spawnPoints[spawnIndex].position,
+                GameManager.instance.spawnPoints[spawnIndex].rotation,0);
+        }else
+        {
+            playerPref = PhotonNetwork.Instantiate(characterPref.name,GameManager.instance.spawnPoints[spawnIndex].position,
+                GameManager.instance.spawnPoints[spawnIndex].rotation,0);
+        }
+    }
     
     //Assign character to players
     public void AssignCharacters(Character character)
