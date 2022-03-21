@@ -16,11 +16,16 @@ public class Player: MonoBehaviourPunCallbacks{
     private Card selectedCard;
     private bool isLocal;
 
+
+    void Awake()
+    {
+        hand = GetComponent<Hand>();
+    }
     //Assign character to players
     public void AssignCharacters(Character character)
     {
         ChosenCharacter = character;
-        hand.baseCard = ChosenCharacter.cardPrefab;
+        //hand.baseCard = ChosenCharacter.CardPrefab;
     }
 
     //Assign players attributes to players

@@ -9,13 +9,14 @@ public class Character : ScriptableObject
 {
     [SerializeField] private string characterName = default;
     [SerializeField] private GameObject characterPrefab = default;
+    [SerializeField] private GameObject cardPrefab = default;
     [SerializeField] private const int MAX_HEALTH = default;
     [SerializeField] private const int MAX_ENERGY = default;
     public string CharacterName => characterName;
     public int health;
     public int energy;
     public GameObject CharacterPrefab => characterPrefab;
-    public GameObject cardPrefab;
+    public GameObject CardPrefab => cardPrefab;
 
     public void Attack()
     {
