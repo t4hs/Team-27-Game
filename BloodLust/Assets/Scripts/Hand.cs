@@ -13,11 +13,11 @@ public class Hand : MonoBehaviour
     public GameObject superCard { get; set; }
     private GameObject baseCardInstance;
     
-    private void Start()
+    /*private void Start()
     {
         generateCards(5);
         Debug.Log(hand);
-    }
+    }*/
 
     public void generateCards(int amount)
     {
