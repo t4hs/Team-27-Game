@@ -14,6 +14,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public Transform[] spawnPoints;
     [SerializeField] private Button[] buttons;
     [SerializeField] private GameUIManager gameUIManager;
+    [SerializeField] private Hand hand;
     PhotonView PV;
     public void Awake()
     {

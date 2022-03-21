@@ -62,6 +62,10 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         return player1.HasSelected && player2.HasSelected;
     }
 
+    public void DisplayPlayerCards(Hand hand)
+    {
+        
+    }
 
     //This event events when a player has selected a card
 
