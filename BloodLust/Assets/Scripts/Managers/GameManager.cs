@@ -12,7 +12,6 @@ public class GameManager : MonoBehaviourPunCallbacks
     private event Action<GameState> GameStateChange;
     public event Action<Player> PlayerSelectedCard;
     public Transform[] spawnPoints;
-    [SerializeField] private Button[] buttons;
     [SerializeField] private GameUIManager gameUIManager;
     [SerializeField] private Hand hand;
     PhotonView PV;
@@ -74,12 +73,9 @@ public class GameManager : MonoBehaviourPunCallbacks
             }
         }
     }
-    public void TogglePlayerButton(bool value)
+    public void TogglePlayerCards(bool value)
     {
-        foreach(Button button in buttons)
-        {
-            gameUIManager.SetInteractableButtons(button, value);
-        }
+        
     }
 
 private void OnGameStateChange(GameState state)
@@ -112,15 +108,14 @@ public void ChangeState(GameState state)
 
 public void OnSelectedCard(int index)
     {
-        Card selectedCard = buttons[index].GetComponent<cardManager>().card;
-        PlayerManager.instance.SetPlayerCard(selectedCard);
-        TogglePlayerButton(false);
+        TogglePlayerCards(false);
     }
 
 public void HandleGameStart()
 {
     //set up relevant cards and spawn the player characters
         PlayerManager.instance.SpawnPlayers();
+        PlayerManager.instance.DisplayPlayerCards(hand);
         ChangeState(GameState.Player1Turn); 
 }
 
@@ -141,14 +136,14 @@ public void HandleGameStart()
     [PunRPC]
     void RPC_DisableCards()
     {
-        TogglePlayerButton(false);
+        TogglePlayerCards(false);
     }
 
     [PunRPC]
 
     void RPC_Player2Turn(bool value)
     {
-        TogglePlayerButton(value);
+        TogglePlayerCards(value);
     }
     
     [PunRPC]

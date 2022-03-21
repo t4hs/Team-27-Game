@@ -33,12 +33,6 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     }
     
     // function called in the CharacterSelection script
-   
-
-    private void Start()
-    {
-        
-    }
 
     public void InitPlayers()
     {
@@ -62,13 +56,15 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         return player1.HasSelected && player2.HasSelected;
     }
 
+    //Display the player cards in the game scene
     public void DisplayPlayerCards(Hand hand)
     {
-        
+        Player targetPlayer = PhotonNetwork.IsMasterClient ? player1 : player2;
+        targetPlayer.PlayerHand = hand;
+        targetPlayer.PlayerHand.baseCard = targetPlayer.ChosenCharacter.CardPrefab;
+        targetPlayer.PlayerHand.generateCards(5);
+
     }
-
-    //This event events when a player has selected a card
-
 
 
     // Initialize the character an assign to whatever player chosen it
