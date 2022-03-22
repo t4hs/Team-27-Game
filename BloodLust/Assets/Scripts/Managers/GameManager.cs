@@ -11,9 +11,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public static GameManager instance;
     private event Action<GameState> GameStateChange;
     public event Action<Player> PlayerSelectedCard;
-    public Transform[] spawnPoints;
     [SerializeField] private GameUIManager gameUIManager;
-    [SerializeField] private Hand hand;
     PhotonView PV;
     public void Awake()
     {
@@ -114,9 +112,8 @@ public void OnSelectedCard(int index)
 public void HandleGameStart()
 {
     //set up relevant cards and spawn the player characters
-        PlayerManager.instance.SpawnPlayers();
-        PlayerManager.instance.DisplayPlayerCards(hand);
-        ChangeState(GameState.Player1Turn); 
+    PlayerManager.instance.SpawnPlayers();
+    ChangeState(GameState.Player1Turn); 
 }
 
     private void HandlePlayer1Turn()

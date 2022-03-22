@@ -7,10 +7,10 @@ using Photon.Realtime;
 public class Player: MonoBehaviourPunCallbacks{
     
     // Damage handler refactoring needed for public Hand hand;
-    private Hand hand;
+    
     [Header("Set Before Runtime")] 
-    public Transform character1Spawn;
-    public Transform character2Spawn;
+    public Transform[] characterSpawns;
+    private Hand hand;
     
     [Header("Networking Information")]
     [SerializeField] private int playerId;
@@ -24,24 +24,24 @@ public class Player: MonoBehaviourPunCallbacks{
     private bool isLocal;
     private GameObject playerPref;
 
-    public void spawnCharacters(int spawnIndex)
+    public void spawnCharacters(int spawnIndex, int startCardAmount)
     {
         GameObject characterPref = ChosenCharacter.CharacterPrefab;
-        if (spawnIndex == 0)
-        {
-            playerPref = PhotonNetwork.Instantiate(characterPref.name,GameManager.instance.spawnPoints[spawnIndex].position,
-                GameManager.instance.spawnPoints[spawnIndex].rotation,0);
-        }else
-        {
-            playerPref = PhotonNetwork.Instantiate(characterPref.name,GameManager.instance.spawnPoints[spawnIndex].position,
-                GameManager.instance.spawnPoints[spawnIndex].rotation,0);
-        }
+        //sets up Hand
+        hand = PlayerInfo.instance.hand;
+        hand.baseCard = ChosenCharacter.CardPrefab;
+        hand.generateCards(startCardAmount);
+        
+        //instantiates Characters
+        playerPref = PhotonNetwork.Instantiate(characterPref.name,characterSpawns[spawnIndex].position,
+                characterSpawns[spawnIndex].rotation,0);
     }
     
     //Assign character to players
     public void AssignCharacters(Character character)
     {
         ChosenCharacter = character;
+        characterSpawns = PlayerInfo.instance.characterSpawns;
     }
 
     //Assign players attributes to players
@@ -103,8 +103,6 @@ public class Player: MonoBehaviourPunCallbacks{
 
         get{return this.characterName; }
     }
-
-   
 }
 
 

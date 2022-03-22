@@ -11,7 +11,6 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 
     public GameObject playerPrefab;
     public static PlayerManager instance;
-    private int spawnIndex;
     public Player player1, player2;
     private Photon.Realtime.Player player;
     public bool bothPlayersHaveSelected = false;
@@ -57,13 +56,13 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     //Spawn the player avatars accross the screen
     public void SpawnPlayers()
     {
-        Debug.Log("SpawnPlayers function called");
+        Debug.Log("Spawing Characters");
         if(PhotonNetwork.IsMasterClient)
         {
-            player1.spawnCharacters(0);
+            player1.spawnCharacters(0, 5);
         }else
         {
-            player2.spawnCharacters(1);
+            player2.spawnCharacters(1, 5);
         }
         GameManager.instance.ChangeState(GameState.Player1Turn);
     }
@@ -116,7 +115,6 @@ public class PlayerManager : MonoBehaviourPunCallbacks
             if (!player.CustomProperties.ContainsKey("chosenCharacter"))
                 readyToFight = false;
         }
-
         return readyToFight;
     }
 }
