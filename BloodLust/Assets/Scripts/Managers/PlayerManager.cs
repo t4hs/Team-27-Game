@@ -66,9 +66,53 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         }
         GameManager.instance.ChangeState(GameState.Player1Turn);
     }
+
+    //This event events when a player has selected a card
+    private void OnUpdateSelectedCards(Dictionary<Player,Card> selectedCards)
+    {
+
+    }
     
-    //Functions Called In Character Selection-------------------------------------------------------------------------------
-    //----------------------------------------------------------------------------------------------------------------------
+
+    //Add the selected card and the playerWho selected to the Key value pair dictionary
+    public void AddSelectedCard(Card selectedCard)
+    {
+        Player playerKey = PhotonNetwork.IsMasterClient ? player1 : player2;
+        selectedCards.Add(playerKey, selectedCard);
+        UpdateSelectedCards(selectedCards);
+    }
+
+    private void Start()
+    {
+        this.IsPlayer1Turn=true;
+        this.IsPlayer2Turn=false;
+        selectedCards = new Dictionary<Player, Card>();
+    }
+
+    //Spawn the player avatars accross the screen
+    public void SpawnPlayers()
+    {
+        Debug.Log("SpawnPlayers function called");
+        if(PhotonNetwork.IsMasterClient)
+        {
+            GameObject characterPref = player1.ChosenCharacter.characterPrefab;
+            spawnIndex = 0;
+            playerPref = PhotonNetwork.Instantiate(characterPref.name,GameManager.instance.spawnPoints[spawnIndex].position,
+                GameManager.instance.spawnPoints[spawnIndex].rotation,0);
+        }else
+        {
+            GameObject characterPref = player2.ChosenCharacter.characterPrefab;
+            spawnIndex = 1;
+            playerPref = PhotonNetwork.Instantiate(characterPref.name,GameManager.instance.spawnPoints[spawnIndex].position,
+                GameManager.instance.spawnPoints[spawnIndex].rotation,0);
+        }
+        GameManager.instance.ChangeState(GameState.Player1Turn);
+    }   
+    
+    
+    //--------------FUNCTIONS CALLED IN CHARACTER SELECTION ---------------------------------------------------------------
+    //---------------------------------------------------------------------------------------------------------------------
+    
 
     // function called in the CharacterSelection script
     public void InitPlayers()
@@ -87,7 +131,10 @@ public class PlayerManager : MonoBehaviourPunCallbacks
             playerPrefab.GetComponent<Text>().text = player2.NickName;
         }
     }
+<<<<<<< HEAD
     
+=======
+>>>>>>> 547d36e030283c35694c2faaaacab73fcc4896f1
     // Initialize the character an assign to whatever player chosen it
     public void InitCharacters(Character chosenCharacter, int currentCharacter)
     {

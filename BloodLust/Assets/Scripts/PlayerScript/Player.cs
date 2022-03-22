@@ -42,6 +42,10 @@ public class Player: MonoBehaviourPunCallbacks{
     {
         ChosenCharacter = character;
         characterSpawns = PlayerInfo.instance.characterSpawns;
+
+        Debug.Log(ChosenCharacter.name + " " + ChosenCharacter.cardPrefab.GetComponent<Card>().damage.ToString());
+        hand.baseCard = character.cardPrefab;
+        hand.show();
     }
 
     //Assign players attributes to players
@@ -96,7 +100,6 @@ public class Player: MonoBehaviourPunCallbacks{
 
         get{return this.character;}
     }
-
     public string CharacterName
     {
         set{this.characterName = value;}

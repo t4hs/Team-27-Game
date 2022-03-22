@@ -10,6 +10,7 @@ public class Hand : MonoBehaviour
 {
     //information about current Cards
     public List<GameObject> hand;
+<<<<<<< HEAD
     public GameObject selectedCard;
     
     //card prefabs taken from Character
@@ -24,12 +25,17 @@ public class Hand : MonoBehaviour
         Debug.Log(hand);
     }
 
+    public void show()
+    {
+        Debug.Log(baseCard.GetComponent<Card>().damage.ToString());
+    }
+    
+    //Call this to add Amount cards the Player's hand
     public void generateCards(int amount)
     {
         for (int i = 0; i < amount; i++)
         {
             baseCardInstance = Instantiate(baseCard, transform);
-            hand.Add(baseCardInstance);
             baseCardInstance.GetComponent<Card>().generateCard();
             baseCardInstance.GetComponent<Card>().setCardc += setCard;
         }
@@ -55,7 +61,23 @@ public class Hand : MonoBehaviour
             hand.Add(baseCardInstance);
             baseCardInstance.GetComponent<Card>().generateCard();
             baseCardInstance.GetComponent<Card>().setCardc += setCard;
+=======
+            hand.Add(baseCardInstance);
         }
+    }
+
+    //Use this to add a card to a Player's hand
+    public void addCard()
+    {
+        baseCard = Instantiate(baseCard, transform);
+        baseCard.GetComponent<Card>().generateCard();
+        hand.Add(baseCard);
+    }
+
+    //Use this to remove a certain card from the Player's Hand
+    public void removeCard(GameObject card)
+    {
+        hand.Remove(card);
     }
 
 }
