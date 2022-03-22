@@ -26,6 +26,7 @@ public class Player: MonoBehaviourPunCallbacks{
 
     public void spawnCharacters(int spawnIndex, int startCardAmount)
     {
+        this.characterSpawns = PlayerInfo.instance.characterSpawns;
         GameObject characterPref = ChosenCharacter.CharacterPrefab;
         //sets up Hand
         hand = PlayerInfo.instance.hand;
@@ -41,11 +42,7 @@ public class Player: MonoBehaviourPunCallbacks{
     public void AssignCharacters(Character character)
     {
         ChosenCharacter = character;
-        characterSpawns = PlayerInfo.instance.characterSpawns;
-
         Debug.Log(ChosenCharacter.name + " " + ChosenCharacter.CardPrefab.GetComponent<Card>().damage.ToString());
-        hand.baseCard = character.CardPrefab;
-        hand.show();
     }
 
     //Assign players attributes to players

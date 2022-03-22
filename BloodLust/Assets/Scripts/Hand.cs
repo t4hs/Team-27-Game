@@ -16,13 +16,7 @@ public class Hand : MonoBehaviour
     public GameObject superCard { get; set; }
     private GameObject baseCardInstance;
     
-    [SerializeField] private GameObject testCard;
-    private void Start()
-    {
-        generateCardsTest(5);
-        Debug.Log(hand);
-    }
-
+    
     public void show()
     {
         Debug.Log(baseCard.GetComponent<Card>().damage.ToString());
@@ -46,12 +40,12 @@ public class Hand : MonoBehaviour
         {
             c.GetComponent<Card>().disableCard();
         }
-        card.GetComponent<Card>().enableCard();
-        Debug.Log(card.GetComponent<Card>().damage);
+        selectedCard.GetComponent<Card>().enableCard();
+        Debug.Log(selectedCard.GetComponent<Card>().damage);
     }
     
     //just comment this
-    public void generateCardsTest(int amount)
+    /*public void generateCardsTest(int amount)
     {
         for (int i = 0; i < amount; i++)
         {
@@ -61,7 +55,7 @@ public class Hand : MonoBehaviour
             baseCardInstance.GetComponent<Card>().setCardc += setCard;
             hand.Add(baseCardInstance);
         }
-    }
+    }*/
     //Use this to add a card to a Player's hand
     public void addCard()
     {
