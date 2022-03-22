@@ -16,8 +16,4 @@ MonoBehaviour:
   characterPrefab: {fileID: 5448066499630675230, guid: 56d7b6fcf9bef6c479b85977a2d42019, type: 3}
   health: 150
   energy: 150
-<<<<<<< HEAD
-=======
-  characterPrefab: {fileID: 5448066499630675230, guid: 56d7b6fcf9bef6c479b85977a2d42019, type: 3}
->>>>>>> 547d36e030283c35694c2faaaacab73fcc4896f1
   cardPrefab: {fileID: 3134777629180120161, guid: 7da23efc616a4bd418eb4686e0e861de, type: 3}

@@ -10,7 +10,6 @@ public class GameManager : MonoBehaviourPunCallbacks
 {
     public static GameManager instance;
     private event Action<GameState> GameStateChange;
-    public event Action<Player> PlayerSelectedCard;
     [SerializeField] private GameUIManager gameUIManager;
     PhotonView PV;
     public void Awake()
@@ -27,7 +26,6 @@ public class GameManager : MonoBehaviourPunCallbacks
             }
         }
         GameStateChange+=OnGameStateChange;
-        PlayerSelectedCard += OnPlayerSelectedCard;
         DontDestroyOnLoad(transform.gameObject);
         PV = GetComponent<PhotonView>();
     }
@@ -35,7 +33,6 @@ public class GameManager : MonoBehaviourPunCallbacks
     void OnDestroy()
     {
         GameStateChange-=OnGameStateChange;
-        PlayerSelectedCard -= OnPlayerSelectedCard;
     }
 
     void Start()
@@ -51,26 +48,7 @@ public class GameManager : MonoBehaviourPunCallbacks
         }
     }
 
-    public void GetTargetPlayer(Player targetPlayer)
-    {
-        PlayerSelectedCard(targetPlayer);
-    }
-    private void OnPlayerSelectedCard(Player targetPlayer)
-    {
-        if(PlayerManager.instance.player1!=null)
-        {
-            if (targetPlayer.Equals(PlayerManager.instance.player1))
-            {
-                PV.RPC(nameof(RPC_Player2Turn), RpcTarget.Others, true);
-            }
-        }else if(PlayerManager.instance.player2!=null)
-        {
-            if(targetPlayer.Equals(PlayerManager.instance.player2))
-            {
-                PV.RPC(nameof(RPC_TurnDone), RpcTarget.MasterClient, PlayerManager.instance.player2);
-            }
-        }
-    }
+    
     public void TogglePlayerCards(bool value)
     {
         
@@ -147,7 +125,6 @@ public void HandleGameStart()
 
     void RPC_TurnDone(Player targetPlayer)
     {
-        PlayerManager.instance.bothPlayersHaveSelected=PlayerManager.instance.BothHaveCard(PlayerManager.instance.player1, targetPlayer);
     }
 
     [PunRPC]

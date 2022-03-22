@@ -43,8 +43,8 @@ public class Player: MonoBehaviourPunCallbacks{
         ChosenCharacter = character;
         characterSpawns = PlayerInfo.instance.characterSpawns;
 
-        Debug.Log(ChosenCharacter.name + " " + ChosenCharacter.cardPrefab.GetComponent<Card>().damage.ToString());
-        hand.baseCard = character.cardPrefab;
+        Debug.Log(ChosenCharacter.name + " " + ChosenCharacter.CardPrefab.GetComponent<Card>().damage.ToString());
+        hand.baseCard = character.CardPrefab;
         hand.show();
     }
 
@@ -56,11 +56,6 @@ public class Player: MonoBehaviourPunCallbacks{
         IsLocal = isLocal;
     }
 
-    public Hand PlayerHand
-    {
-        set { this.hand = value; }
-        get { return this.hand; }
-    }
     public bool HasSelected
     {
         set { this.hasSelected = value;  }
