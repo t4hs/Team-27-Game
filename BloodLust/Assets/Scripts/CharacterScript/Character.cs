@@ -48,5 +48,12 @@ public class Character : ScriptableObject
         return false; // ToDo implement this function after During the Damage Handler refactoring
     }
 
-
+    public int getMaxEnergy()
+    {
+        return MAX_ENERGY;
+    }
+    public int getMaxHealth()
+    {
+        return MAX_HEALTH;
+    }
 }
