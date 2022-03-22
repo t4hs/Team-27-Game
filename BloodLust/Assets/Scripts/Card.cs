@@ -1,19 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using System;
 using TMPro;
 
-public class Card : MonoBehaviour
+public class Card : MonoBehaviour, IPointerClickHandler
 {
     public string type;
     public int damage;
 
+    public event Action<GameObject> setCardc;
+
     [Header("Text Fields")]
     [SerializeField] private TextMeshProUGUI damageText;
     [SerializeField] private TextMeshProUGUI typeText;
-
+    [SerializeField] private TextMeshProUGUI selected;
+     
     void Start()
     {
         generateCard();
@@ -34,4 +38,19 @@ public class Card : MonoBehaviour
     typeText.text = type;
    }
 
+   public void disableCard()
+   {
+       selected.text = "I'm Not Selected";
+   }
+
+   public void enableCard()
+   {
+       selected.text = "I'm Selected";
+   }
+   
+   public void OnPointerClick(PointerEventData eventData)
+   {
+        setCardc?.Invoke(this.gameObject);
+        //Debug.Log("You clicked me");
+   }
 }

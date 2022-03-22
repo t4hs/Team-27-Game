@@ -5,23 +5,44 @@ using Photon.Pun;
 using Photon.Realtime;
 
 public class Player: MonoBehaviourPunCallbacks{
-
-    public Character character;
+    
     // Damage handler refactoring needed for public Hand hand;
+    
+    [Header("Set Before Runtime")] 
+    public Transform[] characterSpawns;
     private Hand hand;
+    
+    [Header("Networking Information")]
+    [SerializeField] private int playerId;
+
+    [Header("Game Information - Set At Runtime")]
+    public Character character;
     [SerializeField] private string playerName;
     [SerializeField] private string characterName;
-    [SerializeField] private int playerId;
     private bool hasSelected;
     private Card selectedCard;
     private bool isLocal;
+    private GameObject playerPref;
 
-
+    public void spawnCharacters(int spawnIndex, int startCardAmount)
+    {
+        this.characterSpawns = PlayerInfo.instance.characterSpawns;
+        GameObject characterPref = ChosenCharacter.CharacterPrefab;
+        //sets up Hand
+        hand = PlayerInfo.instance.hand;
+        hand.baseCard = ChosenCharacter.CardPrefab;
+        hand.generateCards(startCardAmount);
+        
+        //instantiates Characters
+        playerPref = PhotonNetwork.Instantiate(characterPref.name,characterSpawns[spawnIndex].position,
+                characterSpawns[spawnIndex].rotation,0);
+    }
     
     //Assign character to players
     public void AssignCharacters(Character character)
     {
         ChosenCharacter = character;
+        Debug.Log(ChosenCharacter.name + " " + ChosenCharacter.CardPrefab.GetComponent<Card>().damage.ToString());
     }
 
     //Assign players attributes to players
@@ -32,11 +53,6 @@ public class Player: MonoBehaviourPunCallbacks{
         IsLocal = isLocal;
     }
 
-    public Hand PlayerHand
-    {
-        set { this.hand = value; }
-        get { return this.hand; }
-    }
     public bool HasSelected
     {
         set { this.hasSelected = value;  }
@@ -76,15 +92,12 @@ public class Player: MonoBehaviourPunCallbacks{
 
         get{return this.character;}
     }
-
     public string CharacterName
     {
         set{this.characterName = value;}
 
         get{return this.characterName; }
     }
-
-   
 }
 
 

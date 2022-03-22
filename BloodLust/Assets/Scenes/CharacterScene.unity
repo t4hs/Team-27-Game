@@ -1459,6 +1459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerPrefab: {fileID: 7607773788726542817, guid: 0d1a9946fc2010e2781c8767a4a42cc4, type: 3}
+  playerInfo: {fileID: 7859721382459237031, guid: ef10f355e9c9a0f488bfe27f43719539, type: 3}
   player1: {fileID: 0}
   player2: {fileID: 0}
   bothPlayersHaveSelected: 0
