@@ -14,6 +14,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     public Player player1, player2;
     private Photon.Realtime.Player player;
     public bool bothPlayersHaveSelected = false;
+    PhotonView PV;
     private ExitGames.Client.Photon.Hashtable customProps = new ExitGames.Client.Photon.Hashtable();
     void Awake()
     {
@@ -27,6 +28,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
                 instance = this;
             }
         }
+        PV=GetComponent<PhotonView>();
         DontDestroyOnLoad(transform.gameObject);
     }
 
@@ -44,12 +46,17 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         GameManager.instance.ChangeState(GameState.Player1Turn);
     }
 
-    //This event events when a player has selected a card
-
     private void Start()
     {
         
     }    
+    
+    public void SendData(GameObject card)
+    {
+        Player targetPlayer = PhotonNetwork.IsMasterClient ? player1 : player2;
+        
+    }
+
     
     //--------------FUNCTIONS CALLED IN CHARACTER SELECTION ---------------------------------------------------------------
     //---------------------------------------------------------------------------------------------------------------------

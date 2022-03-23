@@ -11,7 +11,6 @@ public class GameManager : MonoBehaviourPunCallbacks
     public static GameManager instance;
     private event Action<GameState> GameStateChange;
     [SerializeField] private GameUIManager gameUIManager;
-    PhotonView PV;
     public void Awake()
     {
         if(instance == null)
@@ -27,7 +26,6 @@ public class GameManager : MonoBehaviourPunCallbacks
         }
         GameStateChange+=OnGameStateChange;
         DontDestroyOnLoad(transform.gameObject);
-        PV = GetComponent<PhotonView>();
     }
 
     void OnDestroy()
@@ -42,10 +40,7 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     void Update()
     {
-        //if(PlayerManager.instance.bothPlayersHaveSelected)
-        {
-            ChangeState(GameState.Comparison);
-        }
+       
     }
 
     
@@ -96,11 +91,7 @@ public void HandleGameStart()
 
     private void HandlePlayer1Turn()
     {
-        Debug.Log("Handling player 1 turn");
-        if(PhotonNetwork.IsMasterClient && PV.IsMine)
-        {
-            PV.RPC(nameof(RPC_DisableCards), RpcTarget.Others);
-        }
+        
     }
 
     private void HandlePlayer2Turn()
@@ -108,31 +99,7 @@ public void HandleGameStart()
         Debug.Log("Handling player 2 Turn");
     }
 
-    [PunRPC]
-    void RPC_DisableCards()
-    {
-        TogglePlayerCards(false);
-    }
-
-    [PunRPC]
-
-    void RPC_Player2Turn(bool value)
-    {
-        TogglePlayerCards(value);
-    }
     
-    [PunRPC]
-
-    void RPC_TurnDone(Player targetPlayer)
-    {
-    }
-
-    [PunRPC]
-
-    void RPC_ComparisonState()
-    {
-        ChangeState(GameState.Comparison);
-    }
 
     private void HandleComparison()
     {

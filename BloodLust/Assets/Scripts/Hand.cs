@@ -42,6 +42,7 @@ public class Hand : MonoBehaviour
         }
         selectedCard.GetComponent<Card>().enableCard();
         Debug.Log(selectedCard.GetComponent<Card>().damage);
+        PlayerManager.instance.SendData(selectedCard);
     }
     
     //just comment this
