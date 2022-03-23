@@ -44,16 +44,8 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         GameManager.instance.ChangeState(GameState.Player1Turn);
     }
 
-    //This event events when a player has selected a card
-
-    private void Start()
-    {
-        
-    }    
-    
     //--------------FUNCTIONS CALLED IN CHARACTER SELECTION ---------------------------------------------------------------
     //---------------------------------------------------------------------------------------------------------------------
-    
 
     // function called in the CharacterSelection script
     public void InitPlayers()
