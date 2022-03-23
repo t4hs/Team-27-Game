@@ -27,6 +27,7 @@ public class ServerConnection : MonoBehaviourPunCallbacks
                 PhotonNetwork.ConnectUsingSettings();
             }
             });
+        //---------------------Custom class registration functions goes down below-------------
     }
 
 

@@ -1713,6 +1713,7 @@ MonoBehaviour:
   - {fileID: 2065199269}
   - {fileID: 1520341794}
   hand: {fileID: 969651947}
+  playerPrefab: {fileID: 7607773788726542817, guid: 0d1a9946fc2010e2781c8767a4a42cc4, type: 3}
 --- !u!4 &1931137857
 Transform:
   m_ObjectHideFlags: 0

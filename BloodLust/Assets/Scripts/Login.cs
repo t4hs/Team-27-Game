@@ -20,12 +20,13 @@ public class Login : MonoBehaviour
         WWWForm form = new WWWForm();
         form.AddField("name", nameField.text);
         form.AddField("password", passwordField.text);
-        WWW www = new WWW("riseoffighters.netlify.app/sqlconnect/login.php", form);
+        WWW www = new WWW("http://localhost/sqlconnect/login.php", form);
         yield return www;
         if (www.text[0] == '0')
         {
             DBManager.username = nameField.text;
             DBManager.score = int.Parse(www.text.Split('\t')[1]);
+            Debug.Log($"Successfully logged on {DBManager.score}");
         }
         else
         {

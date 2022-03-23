@@ -38,11 +38,6 @@ public class GameManager : MonoBehaviourPunCallbacks
         ChangeState(GameState.GameStart);
     }
 
-    void Update()
-    {
-       
-    }
-
     
     public void TogglePlayerCards(bool value)
     {

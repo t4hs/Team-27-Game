@@ -6,7 +6,7 @@ public class PlayerInfo : MonoBehaviour
 {
     public Transform[] characterSpawns;
     public Hand hand;
-
+    public GameObject playerPrefab;
     public static PlayerInfo instance;
 
     public void Awake()
