@@ -40,6 +40,91 @@
     <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
+  <PropertyGroup>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <UnityProjectGenerator>Package</UnityProjectGenerator>
+    <UnityProjectGeneratorVersion>2.0.14</UnityProjectGeneratorVersion>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneOSX:2</UnityBuildTarget>
+    <UnityVersion>2021.2.15f1</UnityVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs" />
+    <Compile Include="Assets/Scripts/Managers/PlayerManager.cs" />
+    <Compile Include="Assets/Scripts/Energybar.cs" />
+    <Compile Include="Assets/Scripts/Card.cs" />
+    <Compile Include="Assets/Scripts/Managers/CharacterUIManager.cs" />
+    <Compile Include="Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs" />
+    <Compile Include="Assets/Scripts/damageHandler.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/ChatAppIdCheckerUI.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/AppSettingsExtensions.cs" />
+    <Compile Include="Assets/Scripts/Managers/UIManager.cs" />
+    <Compile Include="Assets/Scripts/RoomScripts/RoomItem.cs" />
+    <Compile Include="Assets/Scripts/LobbyScripts/LobbyManager.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/ChannelSelector.cs" />
+    <Compile Include="Assets/Scripts/Login.cs" />
+    <Compile Include="Assets/Scripts/Managers/GameUIManager.cs" />
+    <Compile Include="Assets/Scripts/cardManager.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/Common/EventSystemSpawner.cs" />
+    <Compile Include="Assets/Scripts/CharacterScript/Character.cs" />
+    <Compile Include="Assets/Scripts/Hand.cs" />
+    <Compile Include="Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/Common/TextButtonTransition.cs" />
+    <Compile Include="Assets/Scripts/Registeration.cs" />
+    <Compile Include="Assets/Scripts/PlayerScript/PlayerInfo.cs" />
+    <Compile Include="Assets/Scripts/Managers/GameManager.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/NamePickGui.cs" />
+    <Compile Include="Assets/Scripts/MainMenu.cs" />
+    <Compile Include="Assets/Scripts/Healthbar.cs" />
+    <Compile Include="Assets/Scripts/ServerConnection.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/IgnoreUiRaycastWhenInactive.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/FriendItem.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/ChatGui.cs" />
+    <Compile Include="Assets/Scripts/DBManager.cs" />
+    <Compile Include="Assets/Scripts/PlayerScript/Player.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/Common/TextToggleIsOnTransition.cs" />
+    <Compile Include="Assets/Scripts/CharacterScript/CharacterSelection.cs" />
+    <Compile Include="Assets/Photon/PhotonChat/Demos/Common/OnStartDelete.cs" />
+    <Compile Include="Assets/Scripts/RoomScripts/RoomManager.cs" />
+    <Compile Include="Assets/Scripts/UpdateScore.cs" />
+    <Compile Include="Assets/Scripts/Leaderboard.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
+    <None Include="Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.xml" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets/Photon/PhotonUnityNetworking/changelog.txt" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
+    <None Include="Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
+    <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets/Photon/PhotonLibs/changes-library.txt" />
+    <None Include="Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
+    <None Include="Assets/Photon/PhotonUnityNetworking/readme.txt" />
+    <None Include="Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll" />
+    <None Include="Assets/Photon/PhotonLibs/Photon3Unity3D.dll" />
+    <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
+    <None Include="Assets/Photon/PhotonLibs/Metro/Photon3Unity3D.dll" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets/Photon/PhotonLibs/Photon3Unity3D.xml" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" />
+    <None Include="Assets/Photon/PhotonUnityNetworking/link.xml" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" />
+  </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs" />
      <Compile Include="Assets\Scripts\Managers\PlayerManager.cs" />
