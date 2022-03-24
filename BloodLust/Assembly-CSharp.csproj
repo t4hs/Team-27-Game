@@ -69,6 +69,7 @@
     <Compile Include="Assets/Scripts/RoomScripts/RoomItem.cs" />
     <Compile Include="Assets/Scripts/LobbyScripts/LobbyManager.cs" />
     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/ChannelSelector.cs" />
+    <Compile Include="Assets/Scripts/Login.cs" />
     <Compile Include="Assets/Scripts/Managers/GameUIManager.cs" />
     <Compile Include="Assets/Scripts/cardManager.cs" />
     <Compile Include="Assets/Photon/PhotonChat/Demos/Common/EventSystemSpawner.cs" />
@@ -76,6 +77,8 @@
     <Compile Include="Assets/Scripts/Hand.cs" />
     <Compile Include="Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs" />
     <Compile Include="Assets/Photon/PhotonChat/Demos/Common/TextButtonTransition.cs" />
+    <Compile Include="Assets/Scripts/Registeration.cs" />
+    <Compile Include="Assets/Scripts/PlayerScript/PlayerInfo.cs" />
     <Compile Include="Assets/Scripts/Managers/GameManager.cs" />
     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/NamePickGui.cs" />
     <Compile Include="Assets/Scripts/MainMenu.cs" />
@@ -84,14 +87,14 @@
     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/IgnoreUiRaycastWhenInactive.cs" />
     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/FriendItem.cs" />
     <Compile Include="Assets/Photon/PhotonChat/Demos/DemoChat/ChatGui.cs" />
+    <Compile Include="Assets/Scripts/DBManager.cs" />
     <Compile Include="Assets/Scripts/PlayerScript/Player.cs" />
     <Compile Include="Assets/Photon/PhotonChat/Demos/Common/TextToggleIsOnTransition.cs" />
     <Compile Include="Assets/Scripts/CharacterScript/CharacterSelection.cs" />
     <Compile Include="Assets/Photon/PhotonChat/Demos/Common/OnStartDelete.cs" />
     <Compile Include="Assets/Scripts/RoomScripts/RoomManager.cs" />
-    <Compile Include="Assets/Scripts/Registeration.cs" />
-    <Compile Include="Assets/Scripts/Login.cs" />
-    <Compile Include="Assets/Scripts/DBManager.cs" />
+    <Compile Include="Assets/Scripts/UpdateScore.cs" />
+    <Compile Include="Assets/Scripts/Leaderboard.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
