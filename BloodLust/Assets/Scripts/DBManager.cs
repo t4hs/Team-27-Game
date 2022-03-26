@@ -11,5 +11,6 @@ public static class DBManager
     public static void Logout()
     {
         username = null;
+        score = 0;
     }
 }

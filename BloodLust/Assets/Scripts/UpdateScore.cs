@@ -4,15 +4,24 @@ using UnityEngine;
 
 public class UpdateScore : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void callSaveData()
     {
-        
+        StartCoroutine(SavePlayerData());
     }
-
-    // Update is called once per frame
-    void Update()
+    IEnumerator SavePlayerData()
     {
-        
+        WWWForm form = new WWWForm();
+        form.AddField("name", DBManager.username);
+        form.AddField("score", DBManager.score);
+        WWW www = new WWW("thisiswhereiwillputtheurllol.com", form);
+        yield return www;
+        if(www.text == "0")
+        {
+            Debug.Log("Score updated");
+        }
+        else
+        {
+            Debug.Log("score update failed");
+        }
     }
 }
