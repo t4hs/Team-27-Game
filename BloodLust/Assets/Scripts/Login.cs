@@ -24,6 +24,7 @@ public class Login : MonoBehaviour
         yield return www;
         if (www.text[0] == '0')
         {
+            Debug.Log("logged in successfully");
             DBManager.username = nameField.text;
             DBManager.score = int.Parse(www.text.Split('\t')[1]);
             Debug.Log($"Successfully logged on {DBManager.score}");

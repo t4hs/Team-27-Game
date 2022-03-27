@@ -8,9 +8,10 @@ using TMPro;
 
 public class Card : MonoBehaviour, IPointerClickHandler
 {
+    [Header("Set At Runtime")]
     public string type;
     public int damage;
-
+    [SerializeField] private bool isSelected;
     public event Action<GameObject> setCardc;
 
     [Header("Text Fields")]
@@ -40,17 +41,24 @@ public class Card : MonoBehaviour, IPointerClickHandler
 
    public void disableCard()
    {
+       isSelected = false;
        selected.text = "I'm Not Selected";
+       Color32 temp = GetComponent<Image>().color;
+       temp.a = 150;
+       GetComponent<Image>().color = temp;
    }
 
    public void enableCard()
    {
+       isSelected = true;
        selected.text = "I'm Selected";
+       Color32 temp = GetComponent<Image>().color;
+       temp.a = 255;
+       GetComponent<Image>().color = temp;
    }
    
    public void OnPointerClick(PointerEventData eventData)
    {
-        setCardc?.Invoke(this.gameObject);
-        //Debug.Log("You clicked me");
+       if(!isSelected) setCardc?.Invoke(this.gameObject);
    }
 }

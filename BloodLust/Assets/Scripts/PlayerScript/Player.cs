@@ -7,8 +7,9 @@ using Photon.Realtime;
 public class Player: MonoBehaviourPunCallbacks{
     [Header("Set Before Runtime")] 
     public Transform[] characterSpawns;
+    public PlayerBars bars;
     private Hand hand;
-    
+
     [Header("Networking Information")]
     [SerializeField] private int playerId;
 
@@ -30,6 +31,7 @@ public class Player: MonoBehaviourPunCallbacks{
         hand = PlayerInfo.instance.hand;
         hand.baseCard = ChosenCharacter.CardPrefab;
         hand.generateCards(startCardAmount);
+        //Initialises Player Bars
         
         //instantiates Characters
         playerPref = PhotonNetwork.Instantiate(characterPref.name,characterSpawns[spawnIndex].position,
@@ -54,6 +56,17 @@ public class Player: MonoBehaviourPunCallbacks{
         IsLocal = isLocal;
     }
 
+    public void showWinScreen() {
+        PlayerInfo.instance.winScreen.SetActive(true);
+    }
+    
+    public void showLoseScreen() {
+        PlayerInfo.instance.LoseScreen.SetActive(true);
+    }
+    
+    
+    //----GETTERS AND SETTERS-------------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------------------------------------
     public bool HasSelected
     {
         set { this.hasSelected = value;  }

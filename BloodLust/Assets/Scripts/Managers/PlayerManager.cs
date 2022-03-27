@@ -60,7 +60,6 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     
     //--------------FUNCTIONS CALLED IN CHARACTER SELECTION ---------------------------------------------------------------
     //---------------------------------------------------------------------------------------------------------------------
-    
 
     // function called in the CharacterSelection script
     public void InitPlayers()

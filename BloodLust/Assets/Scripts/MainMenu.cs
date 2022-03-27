@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    public void goToRegister()
+    public void goToLeaderboard()
     {
-        SceneManager.LoadScene("Register");
+        SceneManager.LoadScene("LeaderboardScene");
     }
 
     public void quitGame()
