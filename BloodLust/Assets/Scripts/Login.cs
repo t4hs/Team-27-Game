@@ -9,6 +9,7 @@ public class Login : MonoBehaviour
     public TMP_InputField nameField;
     public TMP_InputField passwordField;
     public Button loginButton;
+    public ServerConnection con;
 
     public void callLogin()
     {
@@ -27,6 +28,7 @@ public class Login : MonoBehaviour
             Debug.Log("logged in successfully");
             DBManager.username = nameField.text;
             DBManager.score = int.Parse(www.text.Split('\t')[1]);
+            con.connectPhoton();
         }
         else
         {
