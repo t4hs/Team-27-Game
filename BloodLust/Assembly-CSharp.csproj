@@ -96,6 +96,10 @@
     <Compile Include="Assets/Scripts/UpdateScore.cs" />
     <Compile Include="Assets/Scripts/Leaderboard.cs" />
     <Compile Include="Assets/Scripts/PlayerBars.cs" />
+    <Compile Include="Assets/Scripts/SoundManager.cs" />
+    <Compile Include="Assets/Scripts/dontDestroy.cs" />
+    <Compile Include="Assets/Scripts/volumeSlider.cs" />
+    <Compile Include="Assets/Scripts/Logout.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
