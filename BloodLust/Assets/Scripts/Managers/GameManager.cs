@@ -86,29 +86,14 @@ public void HandleGameStart()
 
     private void HandlePlayer1Turn()
     {
-        
+        PlayerManager.instance.Player1Turn();
     }
 
     private void HandlePlayer2Turn()
     {
         Debug.Log("Handling player 2 Turn");
     }
-
     
-
-    private void HandleComparison()
-    {
-        //ToDo handle comparison
-    }
-    public void ShowWinScreen()
-    {
-        //ToDo implement this function
-    }
-
-    public void ShowLooseScreen()
-    {
-        //ToDo implement this function
-    }
 }
 
 public enum GameState

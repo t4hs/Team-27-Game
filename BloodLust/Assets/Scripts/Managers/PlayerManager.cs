@@ -14,9 +14,9 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     public Player player1, player2;
     private Photon.Realtime.Player player;
     public bool bothPlayersHaveSelected = false;
-    Dictionary<Player,Card> selectedCards;
     PhotonView PV;
     private ExitGames.Client.Photon.Hashtable customProps = new ExitGames.Client.Photon.Hashtable();
+    private Dictionary<int,String> selectedCardTypes;
     void Awake()
     {
         if(instance == null)
@@ -50,14 +50,66 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 
     private void Start()
     {
-        selectedCards = new Dictionary<Player,Card>();
+        selectedCardTypes = new Dictionary<int,String>();
     }    
     
     public void SendData(GameObject card)
     {
-        
+        Player targetPlayer = PhotonNetwork.IsMasterClient ? player1 : player2;
+        String type = card.GetComponent<Card>().type;
+        int damage = card.GetComponent<Card>().damage;
+        selectedCardTypes.Add(targetPlayer.PlayerId,type);
+        if(PhotonNetwork.IsMasterClient && PV.IsMine)
+        {
+            PV.RPC(nameof(RPC_Player2Turn), RpcTarget.Others, selectedCardTypes);
+            PV.RPC(nameof(RPC_Turn2State), RpcTarget.All);
+        }else
+        {
+            Debug.Log("RPC turn done attempt to send");
+            PV.RPC(nameof(RPC_Turn2Done), RpcTarget.MasterClient, selectedCardTypes);
+        }
     }
+
+    public void Player1Turn()
+    {
+        if(PV.IsMine && PhotonNetwork.IsMasterClient)
+        {
+            PV.RPC(nameof(RPC_DisablePlayer2Cards), RpcTarget.Others);
+        }
+    }    
+
+
+    [PunRPC]
+
+    void RPC_DisablePlayer2Cards()
+    {
+        player2.GetHand().Deactivate();
+    }
+
+    [PunRPC]
+
+    void RPC_Player2Turn(Dictionary<int,String> selectedCardTypes)
+    {
+        this.selectedCardTypes = selectedCardTypes;
+        player2.GetHand().Activate();
+        Debug.Log("Attemting to activate the cards");
+    }
+
+    [PunRPC]
+
+    void RPC_Turn2State()
+    {
+        GameManager.instance.ChangeState(GameState.Player2Turn);
+    }
+
+    [PunRPC]
     
+    void RPC_Turn2Done(Dictionary<int,String> selectedCardTypes)
+    {
+        this.selectedCardTypes = selectedCardTypes;
+        Debug.Log($"expected cards count 2 and the cards count is {selectedCardTypes.Count}");
+    }
+
     //--------------FUNCTIONS CALLED IN CHARACTER SELECTION ---------------------------------------------------------------
     //---------------------------------------------------------------------------------------------------------------------
 

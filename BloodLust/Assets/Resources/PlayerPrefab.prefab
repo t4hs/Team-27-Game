@@ -56,10 +56,10 @@ MonoBehaviour:
   characterSpawns:
   - {fileID: 0}
   - {fileID: 0}
-  playerId: 2
-  character: {fileID: 11400000, guid: d7a030305eab5454eba3db443f4170d9, type: 2}
-  playerName: dodo
-  characterName: Alkid
+  playerId: 1
+  character: {fileID: 11400000, guid: 7ab08071463b1bf4fbd4eaca8df372c7, type: 2}
+  playerName: dorian
+  characterName: Bane
 --- !u!222 &7067864158951475042
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -101,7 +101,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: dodo
+  m_Text: dorian
 --- !u!114 &2113054830476002865
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -20,7 +20,6 @@ public class Player: MonoBehaviourPunCallbacks{
     private bool hasSelected;
     private Card selectedCard;
     private bool isLocal;
-    private GameObject onlinePlayerPref;
     private GameObject playerPref;
 
     public void spawnCharacters(int spawnIndex, int startCardAmount)
@@ -35,9 +34,6 @@ public class Player: MonoBehaviourPunCallbacks{
         
         //instantiates Characters
         playerPref = PhotonNetwork.Instantiate(characterPref.name,characterSpawns[spawnIndex].position,
-                characterSpawns[spawnIndex].rotation,0);
-        onlinePlayerPref = PlayerInfo.instance.playerPrefab;
-        GameObject onlinePref = PhotonNetwork.Instantiate(onlinePlayerPref.name, characterSpawns[spawnIndex].position,
                 characterSpawns[spawnIndex].rotation,0);
     }
     
@@ -71,6 +67,11 @@ public class Player: MonoBehaviourPunCallbacks{
     {
         set { this.hasSelected = value;  }
         get { return this.hasSelected; }
+    }
+
+    public Hand GetHand()
+    {
+        return this.hand;
     }
 
     public Card SelectedCard

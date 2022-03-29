@@ -1296,6 +1296,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hand: []
   selectedCard: {fileID: 0}
+  hasSelected: 0
+  testCard: {fileID: 0}
 --- !u!1 &1054965671
 GameObject:
   m_ObjectHideFlags: 0
@@ -2190,7 +2192,12 @@ MonoBehaviour:
   - {fileID: 2065199269}
   - {fileID: 1520341794}
   hand: {fileID: 969651947}
-  playerPrefab: {fileID: 0}
+  healthBar1: {fileID: 0}
+  healthBar2: {fileID: 0}
+  energyBar1: {fileID: 0}
+  energyBar2: {fileID: 0}
+  winScreen: {fileID: 0}
+  LoseScreen: {fileID: 0}
 --- !u!4 &1931137857
 Transform:
   m_ObjectHideFlags: 0

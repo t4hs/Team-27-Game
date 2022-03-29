@@ -12,7 +12,7 @@ public class Hand : MonoBehaviour
     //information about current Cards
     public List<GameObject> hand;
     public GameObject selectedCard;
-    public bool hasSelected;
+    public bool hasSelected = false;
     
     //card prefabs taken from Character
     public GameObject baseCard { get; set; }
@@ -30,9 +30,9 @@ public class Hand : MonoBehaviour
         for (int i = 0; i < amount; i++)
         {
             baseCardInstance = Instantiate(baseCard, transform);
-            hand.Add(baseCardInstance);
             baseCardInstance.GetComponent<Card>().generateCard();
             baseCardInstance.GetComponent<Card>().setCardc += setCard;
+            hand.Add(baseCardInstance);
         }
     }
     
@@ -41,12 +41,30 @@ public class Hand : MonoBehaviour
         for (int i = 0; i < amount; i++)
         {
             baseCardInstance = Instantiate(testCard, transform);
-            hand.Add(baseCardInstance);
             baseCardInstance.GetComponent<Card>().generateCard();
             baseCardInstance.GetComponent<Card>().setCardc += setCard;
+            hand.Add(baseCardInstance);
         }
     }
 
+    public void Deactivate()
+    {
+        foreach(GameObject card in hand)
+        {
+            card.GetComponent<Card>().disableCard();
+            card.GetComponent<Card>().setCardc-=setCard;
+        }
+    }
+
+    public void Activate()
+    {
+        foreach(GameObject card in hand)
+        {
+            card.GetComponent<Card>().enableCard();
+            card.GetComponent<Card>().setCardc+=setCard;
+        }
+    }
+        
     //Use this to add a card to a Player's hand
     public void addCard() {
         baseCard = Instantiate(baseCard, transform);
@@ -54,6 +72,8 @@ public class Hand : MonoBehaviour
         baseCard.GetComponent<Card>().generateCard();
         baseCard.GetComponent<Card>().setCardc += setCard;
     }
+    
+
     
     //Use this to remove a certain card from the Player's Hand
     public void removeCard(GameObject card) {
@@ -69,12 +89,13 @@ public class Hand : MonoBehaviour
     //Event Function That Is Called When a Card is Clicked
     public void setCard(GameObject card) {
         selectedCard = card;
-        hasSelected = true;
         foreach (GameObject c in hand)
         {
+            c.GetComponent<Card>().setCardc-=setCard;
             c.GetComponent<Card>().disableCard();
         }
         selectedCard.GetComponent<Card>().enableCard();
+        PlayerManager.instance.SendData(selectedCard);
     }
     
     IEnumerator test() {

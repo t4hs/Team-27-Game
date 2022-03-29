@@ -9,7 +9,8 @@ public class PlayerInfo : MonoBehaviour
     public Hand hand;
     public GameObject healthBar1, healthBar2, energyBar1, energyBar2;
     public GameObject winScreen, LoseScreen;
-    
+    public Dictionary<int,Character> characterDatabase;
+
     public static PlayerInfo instance;
 
     public void Awake()
@@ -26,4 +27,16 @@ public class PlayerInfo : MonoBehaviour
             }
         }
     }
+
+
+
+    public GameObject GetCard(int id, string type, int damage)
+    {
+        /*GameObject card = characterDatabase[id].CardPrefab;
+        
+        return card;*/
+        return null;
+    }
+
+
 }
