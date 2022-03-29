@@ -8,26 +8,15 @@ using UnityEngine.UI;
 public class ServerConnection : MonoBehaviourPunCallbacks
 {
 
-    [SerializeField]
-    private InputField userNameField;
-    [SerializeField]
-    private Button connectButton;
-    [SerializeField]
-
-
-    // Start is called before the first frame update
-    void Start()
+    public void connectPhoton()
     {
-        connectButton.onClick.AddListener(()=>{
-            if(userNameField.text.Length >= 1 && !PhotonNetwork.IsConnected)
-            {
-                PhotonNetwork.NickName = userNameField.text;
-                Debug.Log("connecting to the server");
-                PhotonNetwork.AutomaticallySyncScene = true;
-                PhotonNetwork.ConnectUsingSettings();
-            }
-            });
-        //---------------------Custom class registration functions goes down below-------------
+        if (!PhotonNetwork.IsConnected)
+        {
+            PhotonNetwork.NickName = DBManager.username;
+            Debug.Log("connecting to the server");
+            PhotonNetwork.AutomaticallySyncScene = true;
+            PhotonNetwork.ConnectUsingSettings();
+        }
     }
 
 

@@ -12,5 +12,6 @@ public static class DBManager
     {
         username = null;
         score = 0;
+        Debug.Log("logged out successfully");
     }
 }
