@@ -4,6 +4,7 @@ using UnityEngine.UI;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using System;
+using DG.Tweening;
 using TMPro;
 
 public class Card : MonoBehaviour, IPointerClickHandler
@@ -43,18 +44,19 @@ public class Card : MonoBehaviour, IPointerClickHandler
    {
        isSelected = false;
        selected.text = "I'm Not Selected";
-       Color32 temp = GetComponent<Image>().color;
-       temp.a = 150;
-       GetComponent<Image>().color = temp;
+       GetComponent<CanvasGroup>().alpha = 0.4f;
    }
 
    public void enableCard()
    {
        isSelected = true;
        selected.text = "I'm Selected";
-       Color32 temp = GetComponent<Image>().color;
-       temp.a = 255;
-       GetComponent<Image>().color = temp;
+       GetComponent<CanvasGroup>().alpha = 1f;
+   }
+
+   public void setInvisibleCard() {
+       GetComponent<RectTransform>().localScale = Vector3.zero;
+       GetComponent<CanvasGroup>().alpha = 0;
    }
    
    public void OnPointerClick(PointerEventData eventData)

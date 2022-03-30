@@ -282,6 +282,8 @@ GameObject:
   - component: {fileID: 1854476657124778289}
   - component: {fileID: 1922048207899141390}
   - component: {fileID: 1991176507159452311}
+  - component: {fileID: -61598922090717922}
+  - component: {fileID: -8753414558044231169}
   m_Layer: 5
   m_Name: Character2Card
   m_TagString: Untagged
@@ -363,5 +365,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 
   damage: 0
+  isSelected: 0
   damageText: {fileID: 8584399176389443512}
   typeText: {fileID: 7868873904835185207}
+  selected: {fileID: 0}
+--- !u!114 &-61598922090717922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5113259253620155993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 248d3b35d6578c6468854893ba697800, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Rtransform: {fileID: 0}
+  startPosition: {x: 0, y: 0}
+  startRotation: {x: 0, y: 0, z: 0}
+  isHoverable: 0
+--- !u!225 &-8753414558044231169
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5113259253620155993}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 1
