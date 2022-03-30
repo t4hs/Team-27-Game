@@ -10,6 +10,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 {
 
     public GameObject playerPrefab;
+    public GameObject player2prefab;
     public static PlayerManager instance;
     public Player player1, player2;
     private Photon.Realtime.Player player;
@@ -17,6 +18,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     PhotonView PV;
     private ExitGames.Client.Photon.Hashtable customProps = new ExitGames.Client.Photon.Hashtable();
     private Dictionary<int,String> selectedCardTypes;
+    private Dictionary<int,int> damages;
     void Awake()
     {
         if(instance == null)
@@ -51,6 +53,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     private void Start()
     {
         selectedCardTypes = new Dictionary<int,String>();
+        damages = new Dictionary<int,int>();
     }    
     
     public void SendData(GameObject card)
@@ -59,25 +62,111 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         String type = card.GetComponent<Card>().type;
         int damage = card.GetComponent<Card>().damage;
         selectedCardTypes.Add(targetPlayer.PlayerId,type);
+        damages.Add(targetPlayer.PlayerId,damage);
         if(PhotonNetwork.IsMasterClient && PV.IsMine)
         {
-            PV.RPC(nameof(RPC_Player2Turn), RpcTarget.Others, selectedCardTypes);
+            PV.RPC(nameof(RPC_Player2Turn), RpcTarget.Others, selectedCardTypes, damages);
             PV.RPC(nameof(RPC_Turn2State), RpcTarget.All);
         }else
         {
             Debug.Log("RPC turn done attempt to send");
-            PV.RPC(nameof(RPC_Turn2Done), RpcTarget.MasterClient, selectedCardTypes);
+            PV.RPC(nameof(RPC_Turn2Done), RpcTarget.MasterClient, selectedCardTypes, damages);
         }
     }
 
     public void Player1Turn()
     {
+        if(selectedCardTypes.Count == 2 && damages.Count == 2)
+        {
+            selectedCardTypes.Clear();
+            damages.Clear();
+        }
+        player1.GetHand().Activate();
         if(PV.IsMine && PhotonNetwork.IsMasterClient)
         {
             PV.RPC(nameof(RPC_DisablePlayer2Cards), RpcTarget.Others);
         }
+    }
+
+    public void Comparison(DamageHandler damageHandler)
+    {
+        Player targetPlayer = PhotonNetwork.IsMasterClient ? player1 : player2;
+        int playerId = targetPlayer.PlayerId;
+        int damage1 = damages[playerId];
+        string type1 = selectedCardTypes[playerId];
+        int remotePlayerId = PhotonNetwork.PlayerList[1].ActorNumber;
+        int damage2 = damages[remotePlayerId];
+        string type2 = selectedCardTypes[remotePlayerId];
+        int [] damageArr = damageHandler.Compare(type1, type2, damage1, damage2);
+        switch(damageArr[1])
+        {
+            case 0:
+                //Display some text
+                if(PhotonNetwork.IsMasterClient && PV.IsMine)
+                {
+                    PV.RPC(nameof(RPC_RestartTurns), RpcTarget.All);
+                }
+                break;
+            case 1:
+                if(damageArr[0] == -1)
+                {
+                    player1.ChosenCharacter.Heal(100);
+                }else
+                {
+                    if(PV.IsMine)
+                    {
+                        PV.RPC(nameof(RPC_Player2TakeDamage), RpcTarget.Others, damageArr[0]);
+                    }
+                }
+                break;
+            case 2:
+                if(damageArr[0] == -1)
+                {
+                    if(PV.IsMine)
+                    {
+                        PV.RPC(nameof(RPC_Player2Heal), RpcTarget.Others, 100);
+                    }
+                }else
+                {
+                    bool isDead = player1.ChosenCharacter.TakeDamage(damageArr[0]);
+                    if(!isDead)
+                    {
+                        player1.GetHand().Activate();
+                        GameManager.instance.ChangeState(GameState.Player1Turn);
+                    }else
+                    {
+                        GameManager.instance.ChangeState(GameState.Player2Win);
+                    }
+                }
+                break;
+            case 3:
+                if(damageArr[0] == -1)
+                {
+                    player1.ChosenCharacter.Heal(100);
+                    if(PV.IsMine && PhotonNetwork.IsMasterClient)
+                    {
+                        PV.RPC(nameof(RPC_Player2Heal), RpcTarget.Others, 100);
+                    }
+                }
+                break;
+        }
     }    
 
+    public void LoseScreenPlayer2()
+    {
+        if(PhotonNetwork.IsMasterClient && PV.IsMine)
+        {
+            PV.RPC(nameof(RPC_Player2Lose), RpcTarget.Others);
+        }
+    }
+
+    public void WinScreenPlayer2()
+    {
+        if(PhotonNetwork.IsMasterClient && PV.IsMine)
+        {
+            PV.RPC(nameof(RPC_Player2Win), RpcTarget.Others);
+        }
+    }
 
     [PunRPC]
 
@@ -88,11 +177,11 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 
     [PunRPC]
 
-    void RPC_Player2Turn(Dictionary<int,String> selectedCardTypes)
+    void RPC_Player2Turn(Dictionary<int,String> selectedCardTypes, Dictionary<int,int> damages)
     {
         this.selectedCardTypes = selectedCardTypes;
+        this.damages = damages;
         player2.GetHand().Activate();
-        Debug.Log("Attemting to activate the cards");
     }
 
     [PunRPC]
@@ -104,10 +193,62 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 
     [PunRPC]
     
-    void RPC_Turn2Done(Dictionary<int,String> selectedCardTypes)
+    void RPC_Turn2Done(Dictionary<int,String> selectedCardTypes, Dictionary<int,int> damages)
     {
         this.selectedCardTypes = selectedCardTypes;
-        Debug.Log($"expected cards count 2 and the cards count is {selectedCardTypes.Count}");
+        this.damages = damages;
+        GameManager.instance.ChangeState(GameState.Player1Turn);
+    }
+
+    [PunRPC]
+
+    void RPC_Player2TakeDamage(int amount)
+    {
+       bool isDead = player2.ChosenCharacter.TakeDamage(amount);
+       PV.RPC(nameof(RPC_CheckDeath), RpcTarget.MasterClient, isDead);
+    }
+
+    [PunRPC]
+
+    void RPC_Player2Heal(int amount)
+    {
+        player2.ChosenCharacter.Heal(amount);
+    }
+
+    [PunRPC]
+
+    void RPC_CheckDeath(bool isDead)
+    {
+        if(!isDead)
+        {
+            player1.GetHand().Activate();
+            PV.RPC(nameof(RPC_RestartTurns), RpcTarget.All);
+        }else
+        {
+            GameManager.instance.ChangeState(GameState.Player1Win);
+        }
+    }
+
+    [PunRPC]
+
+    void RPC_RestartTurns()
+    {
+        //Display some text
+        GameManager.instance.ChangeState(GameState.Player1Turn);
+    }
+
+    [PunRPC]
+
+    void RPC_Player2Win()
+    {
+        player2.showWinScreen();
+    }
+
+    [PunRPC]
+
+    void RPC_Player2Lose()
+    {
+        player2.showLoseScreen();
     }
 
     //--------------FUNCTIONS CALLED IN CHARACTER SELECTION ---------------------------------------------------------------
@@ -125,7 +266,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         }
         else
         {
-            player2 = playerPrefab.GetComponent<Player>();
+            player2 = player2prefab.GetComponent<Player>();
             player2.AssignPlayers(player.NickName, player.ActorNumber, player.IsLocal);
             playerPrefab.GetComponent<Text>().text = player2.NickName;
         }

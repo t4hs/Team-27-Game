@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Photon.Pun;
 using Photon.Realtime;
-
+using TMPro;
 
 public class CharacterSelection : MonoBehaviourPunCallbacks
 {
@@ -16,6 +16,7 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
     private int currentCharacter;
     [SerializeField] private Button PlayerReadyButton;
     [SerializeField] private Button selectButton;
+    [SerializeField] private GameObject gridLayout;
     [SerializeField] CharacterUIManager characterUIManager;
     public event Action<Character> OnCharacterSelected;
     public void Awake()
@@ -81,7 +82,21 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
             }
             characterInstances[currentCharacter].SetActive(true);
             characterName.text = characters[currentCharacter].CharacterName;
+            foreach(Character character in characters)
+            {
+                SpawnCharacterCell(character);
+            }
         }
+
+    public void SpawnCharacterCell(Character character)
+    {
+        GameObject charCell = Instantiate(character.CharacterGridPrefab);
+        charCell.transform.SetParent(gridLayout.transform, false);
+        Image atwork = charCell.GetComponent<Image>();
+        atwork.sprite = character.CharacterSprite;
+        TextMeshProUGUI name = charCell.GetComponentInChildren<TextMeshProUGUI>();
+        name.text = character.CharacterName;
+    }
 
         public void Next()
         {

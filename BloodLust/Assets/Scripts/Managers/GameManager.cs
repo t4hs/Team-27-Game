@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public static GameManager instance;
     private event Action<GameState> GameStateChange;
     [SerializeField] private GameUIManager gameUIManager;
+    [SerializeField] private DamageHandler damageHandler;
     public void Awake()
     {
         if(instance == null)
@@ -38,12 +39,6 @@ public class GameManager : MonoBehaviourPunCallbacks
         ChangeState(GameState.GameStart);
     }
 
-    
-    public void TogglePlayerCards(bool value)
-    {
-        
-    }
-
 private void OnGameStateChange(GameState state)
     {
         switch(state)
@@ -58,8 +53,13 @@ private void OnGameStateChange(GameState state)
                 HandlePlayer2Turn();
                 break;
             case GameState.Comparison:
+                HandleComparison(damageHandler);
                 break;
-            case GameState.GameEnded:
+            case GameState.Player1Win:
+                Player1Win();
+                break;
+            case GameState.Player2Win:
+                Player2Win();
                 break;
             default:
                 throw new ArgumentOutOfRangeException(nameof(state), state, null);
@@ -67,22 +67,17 @@ private void OnGameStateChange(GameState state)
     }
 
 
-public void ChangeState(GameState state)
-{
-    GameStateChange(state);
-}
-
-public void OnSelectedCard(int index)
+    public void ChangeState(GameState state)
     {
-        TogglePlayerCards(false);
+        GameStateChange(state);
     }
 
-public void HandleGameStart()
-{
-    //set up relevant cards and spawn the player characters
-    PlayerManager.instance.SpawnPlayers();
-    ChangeState(GameState.Player1Turn); 
-}
+    public void HandleGameStart()
+    {
+        //set up relevant cards and spawn the player characters
+        PlayerManager.instance.SpawnPlayers();
+        ChangeState(GameState.Player1Turn); 
+    }
 
     private void HandlePlayer1Turn()
     {
@@ -93,6 +88,24 @@ public void HandleGameStart()
     {
         Debug.Log("Handling player 2 Turn");
     }
+
+    //Calls the comparison function of the PlayerManager
+    private void HandleComparison(DamageHandler damageHandler)
+    {
+        PlayerManager.instance.Comparison(damageHandler);
+    }
+
+    private void Player1Win()
+    {
+        PlayerManager.instance.player1.showWinScreen();
+        PlayerManager.instance.LoseScreenPlayer2();
+    }
+
+    private void Player2Win()
+    {
+        PlayerManager.instance.player1.showLoseScreen();
+        PlayerManager.instance.WinScreenPlayer2();
+    }
     
 }
 
@@ -102,5 +115,6 @@ public enum GameState
     Player1Turn,
     Player2Turn,
     Comparison,
-    GameEnded
+    Player1Win,
+    Player2Win
 }

@@ -27,7 +27,7 @@ public class Card : MonoBehaviour, IPointerClickHandler
     //create a card
    public void generateCard()
    {
-    damage = UnityEngine.Random.Range(500, 900);
+    damage = UnityEngine.Random.Range(50, 150);
     int rndType = UnityEngine.Random.Range(0, 5);
     if (rndType == 0) type = "attack";
     else if (rndType == 1) type = "counter";

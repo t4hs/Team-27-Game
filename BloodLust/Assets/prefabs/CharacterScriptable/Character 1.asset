@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Alkid
   characterPrefab: {fileID: 5448066499630675230, guid: 56d7b6fcf9bef6c479b85977a2d42019, type: 3}
-  health: 150
-  energy: 150
   cardPrefab: {fileID: 3134777629180120161, guid: 7da23efc616a4bd418eb4686e0e861de, type: 3}
+  characterGridPrefab: {fileID: 4323512470850351503, guid: 075496942820b8c4ba959b96ecb690ef, type: 3}
+  characterSprite: {fileID: -1777988501720997470, guid: fec4a37ddf842954da4debd7423e2ffb, type: 3}
+  health: 300
+  energy: 0

@@ -17,9 +17,9 @@ MonoBehaviour:
     AppIdFusion: 
     AppIdChat: 
     AppIdVoice: 
-    AppVersion: 
+    AppVersion: 1
     UseNameServer: 1
-    FixedRegion: 
+    FixedRegion: eu
     Server: 
     Port: 0
     ProxyServer: 
@@ -52,6 +52,13 @@ MonoBehaviour:
   - RPC_DisablePlayer2Cards
   - RPC_Turn2State
   - RPC_Turn2Done
+  - RPC_Comparison
+  - RPC_Player2Heal
+  - RPC_Player2TakeDamage
+  - RPC_CheckDeath
+  - RPC_Player2Lose
+  - RPC_Player2Win
+  - RPC_RestartTurns
   DisableAutoOpenWizard: 1
-  ShowSettings: 0
+  ShowSettings: 1
   DevRegionSetOnce: 1
