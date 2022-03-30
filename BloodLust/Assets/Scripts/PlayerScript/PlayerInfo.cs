@@ -9,6 +9,7 @@ public class PlayerInfo : MonoBehaviour
     public Hand hand;
     public GameObject healthBar1, healthBar2, energyBar1, energyBar2;
     public GameObject winScreen, LoseScreen;
+    public GameObject cardSpawn;
     
     public static PlayerInfo instance;
 
