@@ -6,6 +6,8 @@ using Photon.Pun;
 using Photon.Realtime;
 using System.IO;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 public class GameManager : MonoBehaviourPunCallbacks
 {
     public static GameManager instance;
@@ -106,7 +108,12 @@ private void OnGameStateChange(GameState state)
         PlayerManager.instance.player1.showLoseScreen();
         PlayerManager.instance.WinScreenPlayer2();
     }
-    
+
+    public void returnToMenu()
+    {
+        SceneManager.LoadScene("Menu");
+    }
+
 }
 
 public enum GameState
