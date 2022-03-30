@@ -1120,6 +1120,7 @@ GameObject:
   - component: {fileID: 320755904}
   - component: {fileID: 320755903}
   - component: {fileID: 320755902}
+  - component: {fileID: 320755905}
   m_Layer: 5
   m_Name: Confirm Password Input
   m_TagString: Untagged
@@ -1296,6 +1297,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 320755900}
   m_CullTransparentMesh: 1
+--- !u!114 &320755905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320755900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6978e912eba4ea19bed4a0acbf3f0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  button: {fileID: 536484450}
+  nextField: {fileID: 0}
 --- !u!1 &332556838
 GameObject:
   m_ObjectHideFlags: 0
@@ -4380,6 +4395,7 @@ GameObject:
   - component: {fileID: 1037350090}
   - component: {fileID: 1037350089}
   - component: {fileID: 1037350088}
+  - component: {fileID: 1037350091}
   m_Layer: 5
   m_Name: Password Input
   m_TagString: Untagged
@@ -4556,6 +4572,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1037350086}
   m_CullTransparentMesh: 1
+--- !u!114 &1037350091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1037350086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6978e912eba4ea19bed4a0acbf3f0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  button: {fileID: 1712914223}
+  nextField: {fileID: 0}
 --- !u!1 &1083542885
 GameObject:
   m_ObjectHideFlags: 0
@@ -7542,6 +7572,7 @@ GameObject:
   - component: {fileID: 1715024928}
   - component: {fileID: 1715024927}
   - component: {fileID: 1715024926}
+  - component: {fileID: 1715024929}
   m_Layer: 5
   m_Name: Password Input
   m_TagString: Untagged
@@ -7718,6 +7749,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1715024924}
   m_CullTransparentMesh: 1
+--- !u!114 &1715024929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1715024924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6978e912eba4ea19bed4a0acbf3f0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  button: {fileID: 536484450}
+  nextField: {fileID: 320755902}
 --- !u!1 &1744694847
 GameObject:
   m_ObjectHideFlags: 0
@@ -9115,6 +9160,7 @@ GameObject:
   - component: {fileID: 2026316812}
   - component: {fileID: 2026316811}
   - component: {fileID: 2026316810}
+  - component: {fileID: 2026316813}
   m_Layer: 5
   m_Name: Username Input
   m_TagString: Untagged
@@ -9291,6 +9337,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2026316808}
   m_CullTransparentMesh: 1
+--- !u!114 &2026316813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2026316808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6978e912eba4ea19bed4a0acbf3f0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  button: {fileID: 536484450}
+  nextField: {fileID: 1715024926}
 --- !u!1 &2074855877
 GameObject:
   m_ObjectHideFlags: 0
@@ -9303,6 +9363,7 @@ GameObject:
   - component: {fileID: 2074855881}
   - component: {fileID: 2074855880}
   - component: {fileID: 2074855879}
+  - component: {fileID: 2074855882}
   m_Layer: 5
   m_Name: Username Input
   m_TagString: Untagged
@@ -9479,6 +9540,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2074855877}
   m_CullTransparentMesh: 1
+--- !u!114 &2074855882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2074855877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6978e912eba4ea19bed4a0acbf3f0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  button: {fileID: 1712914223}
+  nextField: {fileID: 1037350088}
 --- !u!1 &2096747463
 GameObject:
   m_ObjectHideFlags: 0
