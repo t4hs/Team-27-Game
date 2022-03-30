@@ -2,9 +2,11 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using DG.Tweening;
 using UnityEngine;
 using Photon.Pun;
 using Photon.Realtime;
+using UnityEditor.IMGUI.Controls;
 using UnityEngine.UI;
 
 public class Hand : MonoBehaviour
@@ -19,12 +21,15 @@ public class Hand : MonoBehaviour
     public GameObject superCard { get; set; }
     private GameObject baseCardInstance;
 
+    [Header("Used For Testing")]
     [SerializeField] private GameObject testCard;
+
+    public event Action<List<GameObject>> updateCardPositions;
     private void Start() {
-        //generateCardsTest(6);
+        //generateCardsTest(7);
         //StartCoroutine(test());
     }
-
+    
     //Call this to add Amount cards the Player's hand
     public void generateCards(int amount) {
         for (int i = 0; i < amount; i++)
@@ -34,17 +39,7 @@ public class Hand : MonoBehaviour
             baseCardInstance.GetComponent<Card>().setCardc += setCard;
             hand.Add(baseCardInstance);
         }
-    }
-    
-    //For Testing
-    public void generateCardsTest(int amount) {
-        for (int i = 0; i < amount; i++)
-        {
-            baseCardInstance = Instantiate(testCard, transform);
-            baseCardInstance.GetComponent<Card>().generateCard();
-            baseCardInstance.GetComponent<Card>().setCardc += setCard;
-            hand.Add(baseCardInstance);
-        }
+        updateCardPositions?.Invoke(hand);
     }
 
     public void Deactivate()
@@ -69,21 +64,27 @@ public class Hand : MonoBehaviour
     public void addCard() {
         baseCard = Instantiate(baseCard, transform);
         hand.Add(baseCard);
+        baseCard.GetComponent<Card>().setInvisibleCard();
+        baseCard.GetComponent<cardPositioner>().setSpawn();
         baseCard.GetComponent<Card>().generateCard();
         baseCard.GetComponent<Card>().setCardc += setCard;
+        
+        updateCardPositions?.Invoke(hand);
     }
     
 
     
     //Use this to remove a certain card from the Player's Hand
     public void removeCard(GameObject card) {
-        foreach (GameObject c in hand) {
-            if (c == card) {
-                c.GetComponent<Card>().setCardc -= setCard;
-                hand.Remove(c);
-                Destroy(c);
-            }
+        GameObject ca;
+        hand.RemoveAll(c => c == card);//fix positioning after removing a Card
+        foreach (var c in hand.Where(c => c == card)) {
+            c.GetComponent<Card>().setCardc -= setCard;
+            DOTween.Kill(c.GetComponent<cardPositioner>());
+            Destroy(c);
         }
+        //hand.RemoveAll(c => c == card);
+        updateCardPositions?.Invoke(hand);
     }
 
     //Event Function That Is Called When a Card is Clicked
@@ -97,13 +98,27 @@ public class Hand : MonoBehaviour
         selectedCard.GetComponent<Card>().enableCard();
         PlayerManager.instance.SendData(selectedCard);
     }
+
+    //For Testing
+    public void generateCardsTest(int amount) {
+        for (int i = 0; i < amount; i++)
+        {
+            baseCardInstance = Instantiate(testCard, transform);
+            hand.Add(baseCardInstance);
+            baseCardInstance.GetComponent<Card>().generateCard();
+            baseCardInstance.GetComponent<Card>().setCardc += setCard;
+        }
+        updateCardPositions?.Invoke(hand);
+    }
     
     IEnumerator test() {
         yield return new WaitForSeconds(3f);
         Debug.Log("Fat Idiot 1");
-        addCard();
+        removeCard(hand.ElementAt(1));
+        //addCard();
         yield return new WaitForSeconds(3f);
-        Debug.Log("Fat Fingered 2");
+        removeCard(hand.ElementAt(2));
+        yield return new WaitForSeconds(2f);
         removeCard(hand.ElementAt(2));
     }
 }

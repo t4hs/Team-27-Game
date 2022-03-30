@@ -282,6 +282,8 @@ GameObject:
   - component: {fileID: 1854476657124778289}
   - component: {fileID: 1922048207899141390}
   - component: {fileID: 1991176507159452311}
+  - component: {fileID: -61598922090717922}
+  - component: {fileID: -8753414558044231169}
   m_Layer: 5
   m_Name: Character2Card
   m_TagString: Untagged

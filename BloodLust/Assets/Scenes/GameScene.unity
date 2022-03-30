@@ -1312,8 +1312,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 969651945}
-  - component: {fileID: 969651946}
   - component: {fileID: 969651947}
+  - component: {fileID: 969651948}
   m_Layer: 5
   m_Name: Hand
   m_TagString: Untagged
@@ -1341,32 +1341,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 50}
   m_SizeDelta: {x: 0, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &969651946
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 969651944}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Padding:
-    m_Left: 0
-    m_Right: 0
-    m_Top: 0
-    m_Bottom: 0
-  m_ChildAlignment: 7
-  m_Spacing: 40
-  m_ChildForceExpandWidth: 0
-  m_ChildForceExpandHeight: 1
-  m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
-  m_ChildScaleWidth: 0
-  m_ChildScaleHeight: 0
-  m_ReverseArrangement: 0
 --- !u!114 &969651947
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1382,7 +1356,25 @@ MonoBehaviour:
   hand: []
   selectedCard: {fileID: 0}
   hasSelected: 0
-  testCard: {fileID: 0}
+  testCard: {fileID: 3134777629180120161, guid: 7da23efc616a4bd418eb4686e0e861de, type: 3}
+--- !u!114 &969651948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 969651944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec9e78b690714b89b8accf98769b7805, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxAngle: 30
+  spacing: 220
+  xOffset: 0
+  yOffset: 150
+  Height: 5
+  animSpeed: 0.5
 --- !u!1 &1054965671
 GameObject:
   m_ObjectHideFlags: 0
@@ -1650,6 +1642,42 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1154914864}
   m_CullTransparentMesh: 1
+--- !u!1 &1185739149
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1185739150}
+  m_Layer: 5
+  m_Name: cardSpawn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1185739150
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1185739149}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1564943530}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -951, y: 262}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1195191679
 GameObject:
   m_ObjectHideFlags: 0
@@ -1927,6 +1955,7 @@ RectTransform:
   - {fileID: 1316133206}
   - {fileID: 1154914865}
   - {fileID: 1676829229}
+  - {fileID: 1185739150}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2277,12 +2306,13 @@ MonoBehaviour:
   - {fileID: 2065199269}
   - {fileID: 1520341794}
   hand: {fileID: 969651947}
-  healthBar1: {fileID: 0}
-  healthBar2: {fileID: 0}
-  energyBar1: {fileID: 0}
-  energyBar2: {fileID: 0}
-  winScreen: {fileID: 1154914864}
-  LoseScreen: {fileID: 1676829228}
+  healthBar1: {fileID: 1649900736}
+  healthBar2: {fileID: 409588730}
+  energyBar1: {fileID: 1195191679}
+  energyBar2: {fileID: 481141254}
+  winScreen: {fileID: 0}
+  LoseScreen: {fileID: 0}
+  cardSpawn: {fileID: 1185739149}
 --- !u!4 &1931137857
 Transform:
   m_ObjectHideFlags: 0

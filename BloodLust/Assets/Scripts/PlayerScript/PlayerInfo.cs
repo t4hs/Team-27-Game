@@ -9,8 +9,8 @@ public class PlayerInfo : MonoBehaviour
     public Hand hand;
     public GameObject healthBar1, healthBar2, energyBar1, energyBar2;
     public GameObject winScreen, LoseScreen;
-    public Dictionary<int,Character> characterDatabase;
-
+    public GameObject cardSpawn;
+    
     public static PlayerInfo instance;
 
     public void Awake()
