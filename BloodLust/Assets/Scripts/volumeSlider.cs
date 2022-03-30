@@ -16,6 +16,7 @@ public class volumeSlider : MonoBehaviour
     private void Awake()
     {
         slider.onValueChanged.AddListener(inputValue);
+
     }
 
     private void inputValue(float input)
