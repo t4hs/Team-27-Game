@@ -1,13 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
 {
     public ServerConnection con;
     public GameObject menu;
     public GameObject loginMenu;
+    [SerializeField] AudioMixer mixer;
+    public Slider volume;
+    public Slider music;
+    public Slider sfx;
+
     public void goToLeaderboard()
     {
         SceneManager.LoadScene("LeaderboardScene");
@@ -29,5 +36,11 @@ public class MainMenu : MonoBehaviour
             menu.SetActive(false);
             loginMenu.SetActive(true);
         }
+    }
+    public void Start()
+    {
+        mixer.SetFloat("MasterVolume", Mathf.Log10(volume.value) * 30);
+        mixer.SetFloat("MusicVolume", Mathf.Log10(music.value) * 30);
+        mixer.SetFloat("SFXVolume", Mathf.Log10(sfx.value) * 30);
     }
 }
