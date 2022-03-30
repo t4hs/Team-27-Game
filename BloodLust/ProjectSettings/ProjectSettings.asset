@@ -676,11 +676,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: b0dc6166-ec9a-4950-8d48-406bd93e66e0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: BloodLust
+  organizationId: dorivn
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 

@@ -1,0 +1,2460 @@
+fileFormatVersion: 2
+guid: fec4a37ddf842954da4debd7423e2ffb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1777988501720997470
+    second: alkid_Sprites_0
+  - first:
+      213: 1881991320707063671
+    second: alkid_Sprites_1
+  - first:
+      213: -6230330515037980421
+    second: alkid_Sprites_2
+  - first:
+      213: 7794778241980709676
+    second: alkid_Sprites_3
+  - first:
+      213: 4504461664333047102
+    second: alkid_Sprites_4
+  - first:
+      213: 406517829242144349
+    second: alkid_Sprites_5
+  - first:
+      213: 6856330091629239138
+    second: alkid_Sprites_6
+  - first:
+      213: -7819503817844970999
+    second: alkid_Sprites_7
+  - first:
+      213: -8107517790044879028
+    second: alkid_Sprites_8
+  - first:
+      213: -9084351416992416997
+    second: alkid_Sprites_9
+  - first:
+      213: -6790490122691757685
+    second: alkid_Sprites_10
+  - first:
+      213: -5834631308957014816
+    second: alkid_Sprites_11
+  - first:
+      213: 4637735144472385883
+    second: alkid_Sprites_12
+  - first:
+      213: -1846224068523413448
+    second: alkid_Sprites_13
+  - first:
+      213: -6255059398180675763
+    second: alkid_Sprites_14
+  - first:
+      213: -5535805767334919648
+    second: alkid_Sprites_15
+  - first:
+      213: -7872055472353278787
+    second: alkid_Sprites_16
+  - first:
+      213: -5936898902457707889
+    second: alkid_Sprites_17
+  - first:
+      213: -8736613419877564391
+    second: alkid_Sprites_18
+  - first:
+      213: -5143330530854494301
+    second: alkid_Sprites_19
+  - first:
+      213: 4524884569753728228
+    second: alkid_Sprites_20
+  - first:
+      213: 7790385368988222046
+    second: alkid_Sprites_21
+  - first:
+      213: -2454497906544943768
+    second: alkid_Sprites_22
+  - first:
+      213: -286891239096115268
+    second: alkid_Sprites_23
+  - first:
+      213: 6253633859873621563
+    second: alkid_Sprites_24
+  - first:
+      213: 3907485921447679789
+    second: alkid_Sprites_25
+  - first:
+      213: 3191313716739022744
+    second: alkid_Sprites_26
+  - first:
+      213: -4359185926101752572
+    second: alkid_Sprites_27
+  - first:
+      213: -6211315815798286100
+    second: alkid_Sprites_28
+  - first:
+      213: 3878558568432550662
+    second: alkid_Sprites_29
+  - first:
+      213: 7024686344300237094
+    second: alkid_Sprites_30
+  - first:
+      213: -6753765507194339941
+    second: alkid_Sprites_31
+  - first:
+      213: 1640345935922154237
+    second: alkid_Sprites_32
+  - first:
+      213: 3328876973540606507
+    second: alkid_Sprites_33
+  - first:
+      213: -8699498632576027839
+    second: alkid_Sprites_34
+  - first:
+      213: 5898955738800948046
+    second: alkid_Sprites_35
+  - first:
+      213: -2999939914302572658
+    second: alkid_Sprites_36
+  - first:
+      213: 934498090006452765
+    second: alkid_Sprites_37
+  - first:
+      213: -1695323023071020165
+    second: alkid_Sprites_38
+  - first:
+      213: -2135011456919180931
+    second: alkid_Sprites_39
+  - first:
+      213: 7172929940066845910
+    second: alkid_Sprites_40
+  - first:
+      213: 3742474605781099599
+    second: alkid_Sprites_41
+  - first:
+      213: -4078161046927804383
+    second: alkid_Sprites_42
+  - first:
+      213: -753469223536066083
+    second: alkid_Sprites_43
+  - first:
+      213: 5832935626990037525
+    second: alkid_Sprites_44
+  - first:
+      213: 7685036681280836760
+    second: alkid_Sprites_45
+  - first:
+      213: 5850118156463723334
+    second: alkid_Sprites_46
+  - first:
+      213: 1785803058924030297
+    second: alkid_Sprites_47
+  - first:
+      213: -7856610795193896626
+    second: alkid_Sprites_48
+  - first:
+      213: 8752801902924936131
+    second: alkid_Sprites_49
+  - first:
+      213: 6318688085410799298
+    second: alkid_Sprites_50
+  - first:
+      213: -846773816817228802
+    second: alkid_Sprites_51
+  - first:
+      213: -1524506423065719127
+    second: alkid_Sprites_52
+  - first:
+      213: 1517574379986173342
+    second: alkid_Sprites_53
+  - first:
+      213: -3797659002783830898
+    second: alkid_Sprites_54
+  - first:
+      213: -9019275336464664397
+    second: alkid_Sprites_55
+  - first:
+      213: 1354748980237723476
+    second: alkid_Sprites_56
+  - first:
+      213: 2774194999037673660
+    second: alkid_Sprites_57
+  - first:
+      213: 7080676735056528853
+    second: alkid_Sprites_58
+  - first:
+      213: -4718166316911931050
+    second: alkid_Sprites_59
+  - first:
+      213: 4185591964920987882
+    second: alkid_Sprites_60
+  - first:
+      213: -4424635219971190853
+    second: alkid_Sprites_61
+  - first:
+      213: 6121439204314871498
+    second: alkid_Sprites_62
+  - first:
+      213: -3193752284495449559
+    second: alkid_Sprites_63
+  - first:
+      213: 2774037414606812529
+    second: alkid_Sprites_64
+  - first:
+      213: 2982215900311435892
+    second: alkid_Sprites_65
+  - first:
+      213: 5632454598651549696
+    second: alkid_Sprites_66
+  - first:
+      213: -56014963893047762
+    second: alkid_Sprites_67
+  - first:
+      213: 4497088953375506285
+    second: alkid_Sprites_68
+  - first:
+      213: -7826414827814729059
+    second: alkid_Sprites_69
+  - first:
+      213: -5410788598139203086
+    second: alkid_Sprites_70
+  - first:
+      213: 5450555712491153866
+    second: alkid_Sprites_71
+  - first:
+      213: 41319110453025646
+    second: alkid_Sprites_72
+  - first:
+      213: 7477613812637303795
+    second: alkid_Sprites_73
+  - first:
+      213: 8294257219284044506
+    second: alkid_Sprites_74
+  - first:
+      213: 5554114823982505851
+    second: alkid_Sprites_75
+  - first:
+      213: 2513387554811263382
+    second: alkid_Sprites_76
+  - first:
+      213: -6698121313944110563
+    second: alkid_Sprites_77
+  - first:
+      213: -5614464379009263132
+    second: alkid_Sprites_78
+  - first:
+      213: 5127284785938845418
+    second: alkid_Sprites_79
+  - first:
+      213: 918163477023749597
+    second: alkid_Sprites_80
+  - first:
+      213: 4486477358915819285
+    second: alkid_Sprites_81
+  - first:
+      213: 1797207582080743375
+    second: alkid_Sprites_82
+  - first:
+      213: 5602240921220451083
+    second: alkid_Sprites_83
+  - first:
+      213: 1002991758017445863
+    second: alkid_Sprites_84
+  - first:
+      213: -7242209214935227629
+    second: alkid_Sprites_85
+  - first:
+      213: -584000738724981246
+    second: alkid_Sprites_86
+  - first:
+      213: 8052860471290414463
+    second: alkid_Sprites_87
+  - first:
+      213: 8544159304070608589
+    second: alkid_Sprites_88
+  - first:
+      213: -5956372213270743581
+    second: alkid_Sprites_89
+  - first:
+      213: -8683429712051300026
+    second: alkid_Sprites_90
+  - first:
+      213: 6034536365713749972
+    second: alkid_Sprites_91
+  - first:
+      213: 6782878084829281015
+    second: alkid_Sprites_92
+  - first:
+      213: 1441119228295151093
+    second: alkid_Sprites_93
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alkid_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2356
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e03cb0e05357e0800000000000000
+      internalID: -1777988501720997470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2354
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdc1d822d2e1a10800000000000000
+      internalID: 1881991320707063671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2358
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf872e1086b6989a0800000000000000
+      internalID: -6230330515037980421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2358
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b3438338d9c2c60800000000000000
+      internalID: 7794778241980709676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2359
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35afee9400138e30800000000000000
+      internalID: 4504461664333047102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2228
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5647d6dfcd34a500800000000000000
+      internalID: 406517829242144349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2221
+        width: 53
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd16654e3962f50800000000000000
+      internalID: 6856330091629239138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2221
+        width: 50
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a2a8905ba8b7390800000000000000
+      internalID: -7819503817844970999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2227
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c470732868f4c7f80800000000000000
+      internalID: -8107517790044879028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2244
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bb9576486ede180800000000000000
+      internalID: -9084351416992416997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2203
+        width: 45
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89b822063553c1a0800000000000000
+      internalID: -6790490122691757685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2242
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4ae3adcb9370fa0800000000000000
+      internalID: -5834631308957014816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2109
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591f98ca8b8c5040800000000000000
+      internalID: 4637735144472385883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2105
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830b2ebcdf4e066e0800000000000000
+      internalID: -1846224068523413448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2111
+        width: 109
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fd87a3e909139a0800000000000000
+      internalID: -6255059398180675763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2106
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022817c0cfddc23b0800000000000000
+      internalID: -5535805767334919648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1988
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4863e7147d0c290800000000000000
+      internalID: -7872055472353278787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1996
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f821a9b37e5eb9da0800000000000000
+      internalID: -5936898902457707889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1989
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9108948126051c680800000000000000
+      internalID: -8736613419877564391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1990
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af1ff9f1283f98b0800000000000000
+      internalID: -5143330530854494301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1992
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e431d5da8e9bce30800000000000000
+      internalID: 4524884569753728228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1993
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5281f5c7320d1c60800000000000000
+      internalID: 7790385368988222046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1866
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dd272982fdfedd0800000000000000
+      internalID: -2454497906544943768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1876
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf118420f1c40cf0800000000000000
+      internalID: -286891239096115268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1905
+        width: 123
+        height: 37
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b364f15ccde59c650800000000000000
+      internalID: 6253633859873621563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1867
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d279ab82ebd2a3630800000000000000
+      internalID: 3907485921447679789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1875
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f9f05cae2d94c20800000000000000
+      internalID: 3191313716739022744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1742
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405a2d40f7f0183c0800000000000000
+      internalID: -4359185926101752572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1737
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8d39bac29fcc9a0800000000000000
+      internalID: -6211315815798286100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1735
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60348ffe77863d530800000000000000
+      internalID: 3878558568432550662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1737
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6219d820303bc7160800000000000000
+      internalID: 7024686344300237094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1741
+        width: 94
+        height: 97
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d356fdd0ec542a0800000000000000
+      internalID: -6753765507194339941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1613
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa456310fda3c610800000000000000
+      internalID: 1640345935922154237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1615
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b228dd468fb823e20800000000000000
+      internalID: 3328876973540606507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1605
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433f49e51c254780800000000000000
+      internalID: -8699498632576027839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1606
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e438bfc8dfc4dd150800000000000000
+      internalID: 5898955738800948046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1606
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ba74da821e56d0800000000000000
+      internalID: -2999939914302572658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1488
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a9d1acf0108fc00800000000000000
+      internalID: 934498090006452765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1489
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b7f4651b00978e0800000000000000
+      internalID: -1695323023071020165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1482
+        width: 116
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7961f6446aee52e0800000000000000
+      internalID: -2135011456919180931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1484
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4c274d6cd5b8360800000000000000
+      internalID: 7172929940066845910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1464
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44a08253d0ffe330800000000000000
+      internalID: 3742474605781099599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1350
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128780582267767c0800000000000000
+      internalID: -4078161046927804383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1357
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd181f5bbb32b85f0800000000000000
+      internalID: -753469223536066083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1371
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a267c6c00c2f050800000000000000
+      internalID: 5832935626990037525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1368
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8945791052cb6aa60800000000000000
+      internalID: 7685036681280836760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1368
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6435512d77bcf2150800000000000000
+      internalID: 5850118156463723334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1256
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95909f5ab6278c810800000000000000
+      internalID: 1785803058924030297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1254
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41f7fd9b16b7f290800000000000000
+      internalID: -7856610795193896626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1253
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33435d4f2387970800000000000000
+      internalID: 8752801902924936131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1254
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5769f55d70b750800000000000000
+      internalID: 6318688085410799298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1250
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e18333b7af34f0800000000000000
+      internalID: -846773816817228802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1166
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aecd534c7dd7dae0800000000000000
+      internalID: -1524506423065719127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1142
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d3f4fabd18f0510800000000000000
+      internalID: 1517574379986173342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1148
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c610102410c4bc0800000000000000
+      internalID: -3797659002783830898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1150
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8f49e1ed815d280800000000000000
+      internalID: -9019275336464664397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1150
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45764ee05090dc210800000000000000
+      internalID: 1354748980237723476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1038
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb04e4f37abef7620800000000000000
+      internalID: 2774194999037673660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1033
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ca6ab9fd934260800000000000000
+      internalID: 7080676735056528853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1027
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65150419bb4b58eb0800000000000000
+      internalID: -4718166316911931050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1020
+        width: 58
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae048d347b5361a30800000000000000
+      internalID: 4185591964920987882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1021
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4fecc5b98892c0800000000000000
+      internalID: -4424635219971190853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1021
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac676570688b3f450800000000000000
+      internalID: 6121439204314871498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 901
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227e0ee7338da3d0800000000000000
+      internalID: -3193752284495449559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 896
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753843c45c5f7620800000000000000
+      internalID: 2774037414606812529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 884
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab5959f85f26920800000000000000
+      internalID: 2982215900311435892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 896
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008142e8d9f7a2e40800000000000000
+      internalID: 5632454598651549696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 896
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e6c07efaef83ff0800000000000000
+      internalID: -56014963893047762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 908
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fb745939ed86e30800000000000000
+      internalID: 4497088953375506285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 797
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac0432e2df26390800000000000000
+      internalID: -7826414827814729059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 764
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1dd25007409e4b0800000000000000
+      internalID: -5410788598139203086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 643
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9e28fca8344ab40800000000000000
+      internalID: 5450555712491153866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 640
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bdcf4138bc29000800000000000000
+      internalID: 41319110453025646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 645
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f30dcdf422d5c760800000000000000
+      internalID: 7477613812637303795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 651
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada052ffefe1b1370800000000000000
+      internalID: 8294257219284044506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 651
+        width: 77
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f5535610e241d40800000000000000
+      internalID: 5554114823982505851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 536
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699b9632aa851e220800000000000000
+      internalID: 2513387554811263382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 533
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a73e3372e7b03a0800000000000000
+      internalID: -6698121313944110563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 536
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9911dd46a6512b0800000000000000
+      internalID: -5614464379009263132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 543
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee4628e856c72740800000000000000
+      internalID: 5127284785938845418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 407
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5fcb551d8fdbc00800000000000000
+      internalID: 918163477023749597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 409
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5179207336b234e30800000000000000
+      internalID: 4486477358915819285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 411
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7bf8d16c6f0f810800000000000000
+      internalID: 1797207582080743375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 405
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b80879f682fbd40800000000000000
+      internalID: 5602240921220451083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 268
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef364990b75bed00800000000000000
+      internalID: 1002991758017445863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 265
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a9b207118e7b90800000000000000
+      internalID: -7242209214935227629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 259
+        width: 46
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2065bbb1c6635e7f0800000000000000
+      internalID: -584000738724981246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 268
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75cc09cee181cf60800000000000000
+      internalID: 8052860471290414463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 253
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63a7f3e93f29670800000000000000
+      internalID: 8544159304070608589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 351
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e57dfdb707b65da0800000000000000
+      internalID: -5956372213270743581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 350
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491c150fa24e7780800000000000000
+      internalID: -8683429712051300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 317
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d77b8e2adafeb350800000000000000
+      internalID: 6034536365713749972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 141
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf7015eaf912e50800000000000000
+      internalID: 6782878084829281015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alkid_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 139
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd74818d42eff310800000000000000
+      internalID: 1441119228295151093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      alkid_Sprites_48: -7856610795193896626
+      alkid_Sprites_17: -5936898902457707889
+      alkid_Sprites_28: -6211315815798286100
+      alkid_Sprites_16: -7872055472353278787
+      alkid_Sprites_21: 7790385368988222046
+      alkid_Sprites_86: -584000738724981246
+      alkid_Sprites_80: 918163477023749597
+      alkid_Sprites_27: -4359185926101752572
+      alkid_Sprites_49: 8752801902924936131
+      alkid_Sprites_82: 1797207582080743375
+      alkid_Sprites_54: -3797659002783830898
+      alkid_Sprites_0: -1777988501720997470
+      alkid_Sprites_83: 5602240921220451083
+      alkid_Sprites_89: -5956372213270743581
+      alkid_Sprites_77: -6698121313944110563
+      alkid_Sprites_41: 3742474605781099599
+      alkid_Sprites_76: 2513387554811263382
+      alkid_Sprites_64: 2774037414606812529
+      alkid_Sprites_63: -3193752284495449559
+      alkid_Sprites_1: 1881991320707063671
+      alkid_Sprites_58: 7080676735056528853
+      alkid_Sprites_66: 5632454598651549696
+      alkid_Sprites_23: -286891239096115268
+      alkid_Sprites_13: -1846224068523413448
+      alkid_Sprites_93: 1441119228295151093
+      alkid_Sprites_84: 1002991758017445863
+      alkid_Sprites_87: 8052860471290414463
+      alkid_Sprites_36: -2999939914302572658
+      alkid_Sprites_5: 406517829242144349
+      alkid_Sprites_35: 5898955738800948046
+      alkid_Sprites_55: -9019275336464664397
+      alkid_Sprites_6: 6856330091629239138
+      alkid_Sprites_72: 41319110453025646
+      alkid_Sprites_70: -5410788598139203086
+      alkid_Sprites_75: 5554114823982505851
+      alkid_Sprites_85: -7242209214935227629
+      alkid_Sprites_33: 3328876973540606507
+      alkid_Sprites_9: -9084351416992416997
+      alkid_Sprites_2: -6230330515037980421
+      alkid_Sprites_78: -5614464379009263132
+      alkid_Sprites_29: 3878558568432550662
+      alkid_Sprites_43: -753469223536066083
+      alkid_Sprites_62: 6121439204314871498
+      alkid_Sprites_79: 5127284785938845418
+      alkid_Sprites_12: 4637735144472385883
+      alkid_Sprites_39: -2135011456919180931
+      alkid_Sprites_81: 4486477358915819285
+      alkid_Sprites_10: -6790490122691757685
+      alkid_Sprites_92: 6782878084829281015
+      alkid_Sprites_14: -6255059398180675763
+      alkid_Sprites_53: 1517574379986173342
+      alkid_Sprites_34: -8699498632576027839
+      alkid_Sprites_40: 7172929940066845910
+      alkid_Sprites_73: 7477613812637303795
+      alkid_Sprites_57: 2774194999037673660
+      alkid_Sprites_25: 3907485921447679789
+      alkid_Sprites_26: 3191313716739022744
+      alkid_Sprites_74: 8294257219284044506
+      alkid_Sprites_22: -2454497906544943768
+      alkid_Sprites_30: 7024686344300237094
+      alkid_Sprites_44: 5832935626990037525
+      alkid_Sprites_50: 6318688085410799298
+      alkid_Sprites_24: 6253633859873621563
+      alkid_Sprites_15: -5535805767334919648
+      alkid_Sprites_90: -8683429712051300026
+      alkid_Sprites_38: -1695323023071020165
+      alkid_Sprites_20: 4524884569753728228
+      alkid_Sprites_65: 2982215900311435892
+      alkid_Sprites_46: 5850118156463723334
+      alkid_Sprites_4: 4504461664333047102
+      alkid_Sprites_31: -6753765507194339941
+      alkid_Sprites_3: 7794778241980709676
+      alkid_Sprites_8: -8107517790044879028
+      alkid_Sprites_67: -56014963893047762
+      alkid_Sprites_47: 1785803058924030297
+      alkid_Sprites_18: -8736613419877564391
+      alkid_Sprites_19: -5143330530854494301
+      alkid_Sprites_32: 1640345935922154237
+      alkid_Sprites_69: -7826414827814729059
+      alkid_Sprites_59: -4718166316911931050
+      alkid_Sprites_61: -4424635219971190853
+      alkid_Sprites_42: -4078161046927804383
+      alkid_Sprites_91: 6034536365713749972
+      alkid_Sprites_7: -7819503817844970999
+      alkid_Sprites_56: 1354748980237723476
+      alkid_Sprites_88: 8544159304070608589
+      alkid_Sprites_37: 934498090006452765
+      alkid_Sprites_60: 4185591964920987882
+      alkid_Sprites_68: 4497088953375506285
+      alkid_Sprites_45: 7685036681280836760
+      alkid_Sprites_11: -5834631308957014816
+      alkid_Sprites_52: -1524506423065719127
+      alkid_Sprites_51: -846773816817228802
+      alkid_Sprites_71: 5450555712491153866
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

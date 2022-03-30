@@ -28,29 +28,33 @@ public class Card : MonoBehaviour, IPointerClickHandler
     //create a card
    public void generateCard()
    {
-    damage = UnityEngine.Random.Range(500, 900);
-    int rndType = UnityEngine.Random.Range(0, 4);
+    damage = UnityEngine.Random.Range(50, 150);
+    int rndType = UnityEngine.Random.Range(0, 5);
     if (rndType == 0) type = "attack";
     else if (rndType == 1) type = "counter";
     else if (rndType == 2) type = "dodge";
     else if (rndType == 3) type = "grapple";
     else if (rndType == 4) type = "heal";
 
+    if(type.Equals("dodge") || type.Equals("heal"))
+    {
+        damage = 0;
+    }
     damageText.text = damage.ToString();
     typeText.text = type;
    }
 
    public void disableCard()
    {
-       isSelected = false;
-       selected.text = "I'm Not Selected";
+       //isSelected = false;
+       //selected.text = "I'm Not Selected";
        GetComponent<CanvasGroup>().alpha = 0.4f;
    }
 
    public void enableCard()
    {
-       isSelected = true;
-       selected.text = "I'm Selected";
+       //isSelected = true;
+       //selected.text = "I'm Selected";
        GetComponent<CanvasGroup>().alpha = 1f;
    }
 
@@ -61,6 +65,6 @@ public class Card : MonoBehaviour, IPointerClickHandler
    
    public void OnPointerClick(PointerEventData eventData)
    {
-       if(!isSelected) setCardc?.Invoke(this.gameObject);
+       setCardc?.Invoke(this.gameObject);
    }
 }

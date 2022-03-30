@@ -5,9 +5,6 @@ using Photon.Pun;
 using Photon.Realtime;
 
 public class Player: MonoBehaviourPunCallbacks{
-    
-    // Damage handler refactoring needed for public Hand hand;
-    
     [Header("Set Before Runtime")] 
     public Transform[] characterSpawns;
     public PlayerBars bars;
@@ -44,7 +41,9 @@ public class Player: MonoBehaviourPunCallbacks{
     public void AssignCharacters(Character character)
     {
         ChosenCharacter = character;
-        Debug.Log(ChosenCharacter.name + " " + ChosenCharacter.CardPrefab.GetComponent<Card>().damage.ToString());
+        CharacterInfo.instance.characterName = ChosenCharacter.CharacterName;
+        CharacterInfo.instance.characterEnergy = ChosenCharacter.energy;
+        CharacterInfo.instance.characterHealth = ChosenCharacter.health;
     }
 
     //Assign players attributes to players
@@ -70,6 +69,11 @@ public class Player: MonoBehaviourPunCallbacks{
     {
         set { this.hasSelected = value;  }
         get { return this.hasSelected; }
+    }
+
+    public Hand GetHand()
+    {
+        return this.hand;
     }
 
     public Card SelectedCard

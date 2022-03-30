@@ -1,4 +1,4 @@
-/*
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,19 +6,155 @@ using Photon.Pun;
 using Photon.Realtime;
 public class DamageHandler : MonoBehaviour
 {
-
-    // Start is called before the first frame update
-    void Start()
+    public int[] Compare(string type1, string type2, int damage1, int damage2)
     {
-        
+        int amount = 0;
+        int playernum = 0;
+        int[] returnArray;
+        if (type1.Equals(type2))
+        {
+            switch (type1)
+            {
+                case "attack":
+                    if (damage1 > damage2)
+                    {
+                        amount = damage1;
+                        playernum = 2;
+                    }
+                    else if (damage1 < damage2)
+                    {
+                        amount = damage2;
+                        playernum = 1;
+                    }
+                    break;
+                case "grapple":
+                    if (damage1 > damage2)
+                    {
+                        amount = damage1;
+                        playernum = 2;
+                    }
+                    else if (damage1 < damage2)
+                    {
+                        amount = damage2;
+                        playernum = 1;
+                    }
+                    break;
+                case "heal":
+                    amount = -1;
+                    playernum = 3;
+                    break;
+                default:
+                    amount = 0;
+                    playernum = 0;
+                    break;
+            }
+        }
+        else if (type1.Equals("attack") && type2.Equals("grapple"))
+        {
+            amount = damage1;
+            playernum = 2;
+        }
+        else if (type1.Equals("grapple") && type2.Equals("attack"))
+        {
+            amount = damage2;
+            playernum = 1;
+        }
+        else if (type1.Equals("attack") && type2.Equals("heal"))
+        {
+            amount = damage1;
+            playernum = 2;
+        }
+        else if (type1.Equals("heal") && type2.Equals("attack"))
+        {
+            amount = damage2;
+            playernum = 1;
+        }
+        else if (type1.Equals("attack") && type2.Equals("dodge")
+       || type2.Equals("attack") && type1.Equals("dodge"))
+        {
+            amount = 0;
+            playernum = 0;
+        }
+        else if (type1.Equals("attack") && type2.Equals("counter"))
+        {
+            amount = damage1;
+            playernum = 1;
+        }
+        else if(type1.Equals("counter") && type2.Equals("attack"))
+        {
+            amount = damage2;
+            playernum = 1;
+        }
+        else if (type1.Equals("grapple") && type2.Equals("heal"))
+        {
+            amount = damage1;
+            playernum = 2;
+        }
+        else if (type1.Equals("heal") && type2.Equals("grapple"))
+        {
+            amount = damage2;
+            playernum = 1;
+        }
+        else if (type1.Equals("grapple") && type2.Equals("dodge"))
+        {
+            amount = damage1;
+            playernum = 2;
+        }
+        else if (type1.Equals("dodge") && type2.Equals("grapple"))
+        {
+            amount = damage2;
+            playernum = 1;
+        }
+        else if (type1.Equals("grapple") && type2.Equals("counter"))
+        {
+            amount = damage1;
+            playernum = 2;
+        }
+       else if (type1.Equals("counter") && type2.Equals("grapple"))
+        {
+            amount = damage2;
+            playernum = 1;
+        }
+        else if (type1.Equals("counter") && type2.Equals("heal"))
+        {
+            amount = -1;
+            playernum = 1;
+        }
+       else if(type1.Equals("heal") && type2.Equals("counter"))
+        {
+            amount = -1;
+            playernum = 2;
+        }
+        else if (type1.Equals("counter") && type2.Equals("dodge"))
+        {
+            amount = 50;
+            playernum = 1;
+        }
+        else if(type1.Equals("dodge") && type2.Equals("counter"))
+        {
+            amount = 50;
+            playernum = 2;
+        }
+        else if (type1.Equals("heal") && type2.Equals("dodge"))
+        {
+            amount = -1;
+            playernum = 1;
+        }
+        else if(type1.Equals("dodge") && type2.Equals("heal"))
+        {
+            amount = -1;
+            playernum = 2;
+        }
+        returnArray = new int[2];
+        returnArray[0] = amount;
+        returnArray[1] = playernum;
+        return returnArray;
     }
+    
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    private void dealDamage(Character character, int dmg)
+    
+    
+    /*private void dealDamage(Character character, int dmg)
     {
         character.health -= dmg;
     }
@@ -278,6 +414,6 @@ public class DamageHandler : MonoBehaviour
         }
         int[] values= {totalDamage, combos};
         return values;
-    }
+    }*/
 }
-*/
+
