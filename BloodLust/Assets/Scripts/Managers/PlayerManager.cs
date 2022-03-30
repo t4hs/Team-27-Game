@@ -61,8 +61,11 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         Player targetPlayer = PhotonNetwork.IsMasterClient ? player1 : player2;
         String type = card.GetComponent<Card>().type;
         int damage = card.GetComponent<Card>().damage;
-        selectedCardTypes.Add(targetPlayer.PlayerId,type);
-        damages.Add(targetPlayer.PlayerId,damage);
+        if(!selectedCardTypes.ContainsKey(targetPlayer.PlayerId) && !damages.ContainsKey(targetPlayer.PlayerId))
+        {
+            selectedCardTypes.Add(targetPlayer.PlayerId,type);
+            damages.Add(targetPlayer.PlayerId,damage);
+        }
         if(PhotonNetwork.IsMasterClient && PV.IsMine)
         {
             PV.RPC(nameof(RPC_Player2Turn), RpcTarget.Others, selectedCardTypes, damages);
@@ -90,6 +93,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 
     public void Comparison(DamageHandler damageHandler)
     {
+        Debug.Log("function call?");
         Player targetPlayer = PhotonNetwork.IsMasterClient ? player1 : player2;
         int playerId = targetPlayer.PlayerId;
         int damage1 = damages[playerId];
@@ -102,6 +106,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
         {
             case 0:
                 //Display some text
+                Debug.Log("nothing happens");
                 if(PhotonNetwork.IsMasterClient && PV.IsMine)
                 {
                     PV.RPC(nameof(RPC_RestartTurns), RpcTarget.All);
@@ -110,12 +115,20 @@ public class PlayerManager : MonoBehaviourPunCallbacks
             case 1:
                 if(damageArr[0] == -1)
                 {
+                    Debug.Log("player heal");
                     player1.ChosenCharacter.Heal(100);
                 }else
                 {
-                    if(PV.IsMine)
+                    Debug.Log($"Health before damage taken {player1.ChosenCharacter.health}");
+                    bool isDead = player1.ChosenCharacter.TakeDamage(damageArr[0]);
+                    Debug.Log($"health after taking damage {player1.ChosenCharacter.health}");
+                    if(!isDead)
                     {
-                        PV.RPC(nameof(RPC_Player2TakeDamage), RpcTarget.Others, damageArr[0]);
+                        player1.GetHand().Activate();
+                        GameManager.instance.ChangeState(GameState.Player1Turn);
+                    }else
+                    {
+                        GameManager.instance.ChangeState(GameState.Player2Win);
                     }
                 }
                 break;
@@ -128,20 +141,17 @@ public class PlayerManager : MonoBehaviourPunCallbacks
                     }
                 }else
                 {
-                    bool isDead = player1.ChosenCharacter.TakeDamage(damageArr[0]);
-                    if(!isDead)
+                    if(PV.IsMine)
                     {
-                        player1.GetHand().Activate();
-                        GameManager.instance.ChangeState(GameState.Player1Turn);
-                    }else
-                    {
-                        GameManager.instance.ChangeState(GameState.Player2Win);
+                        Debug.Log("Player 2 taking damage");
+                        PV.RPC(nameof(RPC_Player2TakeDamage), RpcTarget.Others, damageArr[0]);
                     }
                 }
                 break;
             case 3:
                 if(damageArr[0] == -1)
                 {
+                    Debug.Log("both player heals");
                     player1.ChosenCharacter.Heal(100);
                     if(PV.IsMine && PhotonNetwork.IsMasterClient)
                     {
@@ -197,7 +207,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     {
         this.selectedCardTypes = selectedCardTypes;
         this.damages = damages;
-        GameManager.instance.ChangeState(GameState.Player1Turn);
+        GameManager.instance.ChangeState(GameState.Comparison);
     }
 
     [PunRPC]
@@ -219,6 +229,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 
     void RPC_CheckDeath(bool isDead)
     {
+        Debug.Log("checking for death");
         if(!isDead)
         {
             player1.GetHand().Activate();
@@ -234,6 +245,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     void RPC_RestartTurns()
     {
         //Display some text
+        Debug.Log("restaring turns");
         GameManager.instance.ChangeState(GameState.Player1Turn);
     }
 

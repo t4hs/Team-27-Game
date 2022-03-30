@@ -2310,8 +2310,8 @@ MonoBehaviour:
   healthBar2: {fileID: 409588730}
   energyBar1: {fileID: 1195191679}
   energyBar2: {fileID: 481141254}
-  winScreen: {fileID: 0}
-  LoseScreen: {fileID: 0}
+  winScreen: {fileID: 1154914864}
+  LoseScreen: {fileID: 1676829228}
   cardSpawn: {fileID: 1185739149}
 --- !u!4 &1931137857
 Transform:
