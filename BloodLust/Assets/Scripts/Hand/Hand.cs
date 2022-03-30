@@ -26,6 +26,7 @@ public class Hand : MonoBehaviour
 
     public event Action<List<GameObject>> updateCardPositions;
     private void Start() {
+        //Comment This
         //generateCardsTest(7);
         //StartCoroutine(test());
     }
