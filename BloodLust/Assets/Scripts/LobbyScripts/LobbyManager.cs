@@ -66,6 +66,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
 
     public void UpdateRoomList(List<RoomInfo> roomList)
     {
+        Debug.Log("room update run");
         foreach(RoomItem item in roomItems)
         {
             Destroy(item.gameObject);
@@ -93,6 +94,7 @@ public class LobbyManager : MonoBehaviourPunCallbacks
         RoomOptions options = new RoomOptions();
         options.MaxPlayers = this.maxPlayers;
         options.BroadcastPropsChangeToAll = true;
+        options.IsVisible = true;
         PhotonNetwork.CreateRoom(roomName, options);
     }
 

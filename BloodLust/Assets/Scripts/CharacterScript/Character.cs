@@ -10,42 +10,29 @@ public class Character : ScriptableObject
     [SerializeField] private string characterName = default;
     [SerializeField] private GameObject characterPrefab = default;
     [SerializeField] private GameObject cardPrefab = default;
+    [SerializeField] private GameObject characterGridPrefab = default;
+    [SerializeField] private Sprite characterSprite = default;
     [SerializeField] private const int MAX_HEALTH = default;
     [SerializeField] private const int MAX_ENERGY = default;
     public string CharacterName => characterName;
     public int health;
     public int energy;
     public GameObject CharacterPrefab => characterPrefab;
+    public GameObject CharacterGridPrefab => characterGridPrefab;
     public GameObject CardPrefab => cardPrefab;
-
-    public void Attack()
-    {
-
-    }
-
-    public void Grapple()
-    {
-
-    }
+    public Sprite CharacterSprite => characterSprite;
 
     public void Heal(int amount)
     {
-
-    }
-
-    public void Dodge()
-    {
-
-    }
-
-    public void Counter()
-    {
-
+        health+=amount;
+        CharacterInfo.instance.UpdateHealthInfo(health);
     }
 
     public bool TakeDamage(int amount)
     {
-        return false; // ToDo implement this function after During the Damage Handler refactoring
+        health-=amount;
+        CharacterInfo.instance.UpdateHealthInfo(health);
+        return health <= 0; 
     }
 
     public int getMaxEnergy()

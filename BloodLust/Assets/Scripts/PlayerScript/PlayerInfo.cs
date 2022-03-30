@@ -27,4 +27,16 @@ public class PlayerInfo : MonoBehaviour
             }
         }
     }
+
+
+
+    public GameObject GetCard(int id, string type, int damage)
+    {
+        /*GameObject card = characterDatabase[id].CardPrefab;
+        
+        return card;*/
+        return null;
+    }
+
+
 }

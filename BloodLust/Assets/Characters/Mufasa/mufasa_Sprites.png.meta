@@ -1,0 +1,3735 @@
+fileFormatVersion: 2
+guid: 5ce1bcfc00734b04e9e9a8c09c66bec4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4244363073507417858
+    second: mufasa_Sprites_0
+  - first:
+      213: -2623356651815065409
+    second: mufasa_Sprites_1
+  - first:
+      213: -4375371853898867763
+    second: mufasa_Sprites_2
+  - first:
+      213: 1753359514737988013
+    second: mufasa_Sprites_3
+  - first:
+      213: 544081313990811749
+    second: mufasa_Sprites_4
+  - first:
+      213: -434894384844900131
+    second: mufasa_Sprites_5
+  - first:
+      213: -1195700759445251004
+    second: mufasa_Sprites_6
+  - first:
+      213: 5463130298844600515
+    second: mufasa_Sprites_7
+  - first:
+      213: -4818205359253008651
+    second: mufasa_Sprites_8
+  - first:
+      213: 6060774360117938981
+    second: mufasa_Sprites_9
+  - first:
+      213: -1876757587088720636
+    second: mufasa_Sprites_10
+  - first:
+      213: 5656915532109821154
+    second: mufasa_Sprites_11
+  - first:
+      213: 3712517493013821708
+    second: mufasa_Sprites_12
+  - first:
+      213: 7742443087697794501
+    second: mufasa_Sprites_13
+  - first:
+      213: 4243430744419213243
+    second: mufasa_Sprites_14
+  - first:
+      213: -9094035613345515560
+    second: mufasa_Sprites_15
+  - first:
+      213: -3124904270475011073
+    second: mufasa_Sprites_16
+  - first:
+      213: 688678255096620059
+    second: mufasa_Sprites_17
+  - first:
+      213: -3093448400062567763
+    second: mufasa_Sprites_18
+  - first:
+      213: -8396756016803317027
+    second: mufasa_Sprites_19
+  - first:
+      213: 8816768790802109727
+    second: mufasa_Sprites_20
+  - first:
+      213: -1836919273736114954
+    second: mufasa_Sprites_21
+  - first:
+      213: 8773252617716532823
+    second: mufasa_Sprites_22
+  - first:
+      213: -4836983035899175384
+    second: mufasa_Sprites_23
+  - first:
+      213: -60009526577382154
+    second: mufasa_Sprites_24
+  - first:
+      213: -5371394959310769754
+    second: mufasa_Sprites_25
+  - first:
+      213: 8999636370717963305
+    second: mufasa_Sprites_26
+  - first:
+      213: 737678518611919842
+    second: mufasa_Sprites_27
+  - first:
+      213: -5397175268472091980
+    second: mufasa_Sprites_28
+  - first:
+      213: 8036088951090689704
+    second: mufasa_Sprites_29
+  - first:
+      213: -6121955526912599954
+    second: mufasa_Sprites_30
+  - first:
+      213: 1553047870672709219
+    second: mufasa_Sprites_31
+  - first:
+      213: -4135524204769768692
+    second: mufasa_Sprites_32
+  - first:
+      213: 8060817166546304171
+    second: mufasa_Sprites_33
+  - first:
+      213: -1267533953264305662
+    second: mufasa_Sprites_34
+  - first:
+      213: -5667748812793792422
+    second: mufasa_Sprites_35
+  - first:
+      213: 3534981576839031203
+    second: mufasa_Sprites_36
+  - first:
+      213: -4251830089364536773
+    second: mufasa_Sprites_37
+  - first:
+      213: -5335612830666587270
+    second: mufasa_Sprites_38
+  - first:
+      213: 4739929787339402630
+    second: mufasa_Sprites_39
+  - first:
+      213: -8988012778217721456
+    second: mufasa_Sprites_40
+  - first:
+      213: -5182210752870230559
+    second: mufasa_Sprites_41
+  - first:
+      213: 5838779219786735164
+    second: mufasa_Sprites_42
+  - first:
+      213: 71068962018493982
+    second: mufasa_Sprites_43
+  - first:
+      213: -3833000837604147227
+    second: mufasa_Sprites_44
+  - first:
+      213: 8906325676229714377
+    second: mufasa_Sprites_45
+  - first:
+      213: -1723110578469323937
+    second: mufasa_Sprites_46
+  - first:
+      213: 7373799299982381821
+    second: mufasa_Sprites_47
+  - first:
+      213: -6215892919719230013
+    second: mufasa_Sprites_48
+  - first:
+      213: 2706933355039104270
+    second: mufasa_Sprites_49
+  - first:
+      213: -7337624433192969654
+    second: mufasa_Sprites_50
+  - first:
+      213: 1117951945826020417
+    second: mufasa_Sprites_51
+  - first:
+      213: -4232284524440685649
+    second: mufasa_Sprites_52
+  - first:
+      213: 7944882501391980982
+    second: mufasa_Sprites_53
+  - first:
+      213: 5585295803467750016
+    second: mufasa_Sprites_54
+  - first:
+      213: 6599748498881314368
+    second: mufasa_Sprites_55
+  - first:
+      213: -942495300501880253
+    second: mufasa_Sprites_56
+  - first:
+      213: -9196369662893769179
+    second: mufasa_Sprites_57
+  - first:
+      213: -8929589022600710784
+    second: mufasa_Sprites_58
+  - first:
+      213: 425364623211682291
+    second: mufasa_Sprites_59
+  - first:
+      213: 15851992543468151
+    second: mufasa_Sprites_60
+  - first:
+      213: 1499315337579226131
+    second: mufasa_Sprites_61
+  - first:
+      213: -4185820894690402529
+    second: mufasa_Sprites_62
+  - first:
+      213: 6404494326680933194
+    second: mufasa_Sprites_63
+  - first:
+      213: -5550527513929209021
+    second: mufasa_Sprites_64
+  - first:
+      213: -8588967631800044724
+    second: mufasa_Sprites_65
+  - first:
+      213: 5533390776036745985
+    second: mufasa_Sprites_66
+  - first:
+      213: 8054187037441731936
+    second: mufasa_Sprites_67
+  - first:
+      213: -1210613415786707368
+    second: mufasa_Sprites_68
+  - first:
+      213: -2691862984906570850
+    second: mufasa_Sprites_69
+  - first:
+      213: -2451113900660520924
+    second: mufasa_Sprites_70
+  - first:
+      213: -4739291229835655299
+    second: mufasa_Sprites_71
+  - first:
+      213: 5500584210962148289
+    second: mufasa_Sprites_72
+  - first:
+      213: 337900721569173931
+    second: mufasa_Sprites_73
+  - first:
+      213: -2802058400492494156
+    second: mufasa_Sprites_74
+  - first:
+      213: -2092481910262516794
+    second: mufasa_Sprites_75
+  - first:
+      213: -5560266578971231278
+    second: mufasa_Sprites_76
+  - first:
+      213: -3846700018906038279
+    second: mufasa_Sprites_77
+  - first:
+      213: -8025150251463620563
+    second: mufasa_Sprites_78
+  - first:
+      213: 3269247727746284617
+    second: mufasa_Sprites_79
+  - first:
+      213: -2686816092552247311
+    second: mufasa_Sprites_80
+  - first:
+      213: 7438489068655263677
+    second: mufasa_Sprites_81
+  - first:
+      213: -3174904105933501624
+    second: mufasa_Sprites_82
+  - first:
+      213: 8402812148758422733
+    second: mufasa_Sprites_83
+  - first:
+      213: -3616943000776614018
+    second: mufasa_Sprites_84
+  - first:
+      213: -1188692700142976244
+    second: mufasa_Sprites_85
+  - first:
+      213: 9141377650322035738
+    second: mufasa_Sprites_86
+  - first:
+      213: -6723490518001973422
+    second: mufasa_Sprites_87
+  - first:
+      213: 2181402226903041884
+    second: mufasa_Sprites_88
+  - first:
+      213: 930426552724153331
+    second: mufasa_Sprites_89
+  - first:
+      213: 9127251530725794737
+    second: mufasa_Sprites_90
+  - first:
+      213: -8799847282497713887
+    second: mufasa_Sprites_91
+  - first:
+      213: 3354015804580768439
+    second: mufasa_Sprites_92
+  - first:
+      213: -1150858096396622073
+    second: mufasa_Sprites_93
+  - first:
+      213: -8632532837921062635
+    second: mufasa_Sprites_94
+  - first:
+      213: 3190367934374988249
+    second: mufasa_Sprites_95
+  - first:
+      213: -5761433600028896240
+    second: mufasa_Sprites_96
+  - first:
+      213: -1551597061475597285
+    second: mufasa_Sprites_97
+  - first:
+      213: 3348997501854940566
+    second: mufasa_Sprites_98
+  - first:
+      213: -3201588478047700036
+    second: mufasa_Sprites_99
+  - first:
+      213: -6446493919687522335
+    second: mufasa_Sprites_100
+  - first:
+      213: -7247573678675301404
+    second: mufasa_Sprites_101
+  - first:
+      213: 692653820657794798
+    second: mufasa_Sprites_102
+  - first:
+      213: -2748779683377941795
+    second: mufasa_Sprites_103
+  - first:
+      213: 852189590100856197
+    second: mufasa_Sprites_104
+  - first:
+      213: -2082644681799497619
+    second: mufasa_Sprites_105
+  - first:
+      213: 8410627590285161327
+    second: mufasa_Sprites_106
+  - first:
+      213: -5782121876882535419
+    second: mufasa_Sprites_107
+  - first:
+      213: -7607512782198700726
+    second: mufasa_Sprites_108
+  - first:
+      213: -4388951675270243965
+    second: mufasa_Sprites_109
+  - first:
+      213: 5742120307472411148
+    second: mufasa_Sprites_110
+  - first:
+      213: 1448025282049857884
+    second: mufasa_Sprites_111
+  - first:
+      213: -108617176021330044
+    second: mufasa_Sprites_112
+  - first:
+      213: 1381074393543726812
+    second: mufasa_Sprites_113
+  - first:
+      213: 5231198394952536159
+    second: mufasa_Sprites_114
+  - first:
+      213: 4280269822452424447
+    second: mufasa_Sprites_115
+  - first:
+      213: -5103606481346226914
+    second: mufasa_Sprites_116
+  - first:
+      213: -8717262252482095236
+    second: mufasa_Sprites_117
+  - first:
+      213: -4863808508449407844
+    second: mufasa_Sprites_118
+  - first:
+      213: 3341339852724387428
+    second: mufasa_Sprites_119
+  - first:
+      213: 8429305519209902091
+    second: mufasa_Sprites_120
+  - first:
+      213: 5438185610686805792
+    second: mufasa_Sprites_121
+  - first:
+      213: -960394926827073407
+    second: mufasa_Sprites_122
+  - first:
+      213: 8865526171852616533
+    second: mufasa_Sprites_123
+  - first:
+      213: -8407797231270023100
+    second: mufasa_Sprites_124
+  - first:
+      213: -6448548482618680737
+    second: mufasa_Sprites_125
+  - first:
+      213: -5955617280577598995
+    second: mufasa_Sprites_126
+  - first:
+      213: -3294753701143496435
+    second: mufasa_Sprites_127
+  - first:
+      213: -4202959091260791571
+    second: mufasa_Sprites_128
+  - first:
+      213: 5984512140493331633
+    second: mufasa_Sprites_129
+  - first:
+      213: 5728394347738965400
+    second: mufasa_Sprites_130
+  - first:
+      213: 5685964438018580456
+    second: mufasa_Sprites_131
+  - first:
+      213: 8094418469031552421
+    second: mufasa_Sprites_132
+  - first:
+      213: 8805845935190055452
+    second: mufasa_Sprites_133
+  - first:
+      213: -451118170605270547
+    second: mufasa_Sprites_134
+  - first:
+      213: -5475857173875935959
+    second: mufasa_Sprites_135
+  - first:
+      213: 3085462019166140906
+    second: mufasa_Sprites_136
+  - first:
+      213: 25276447521052312
+    second: mufasa_Sprites_137
+  - first:
+      213: 5792944944493431566
+    second: mufasa_Sprites_138
+  - first:
+      213: -2900099505496313260
+    second: mufasa_Sprites_139
+  - first:
+      213: 4856114531911897884
+    second: mufasa_Sprites_140
+  - first:
+      213: 4330225622095359217
+    second: mufasa_Sprites_141
+  - first:
+      213: 7343916500618711338
+    second: mufasa_Sprites_142
+  - first:
+      213: 4173649875592262948
+    second: mufasa_Sprites_143
+  - first:
+      213: -6767245140045942686
+    second: mufasa_Sprites_144
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mufasa_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4975
+        width: 59
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef02ec1b54ef815c0800000000000000
+      internalID: -4244363073507417858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4970
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a7693607f79bd0800000000000000
+      internalID: -2623356651815065409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 4970
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb9d180b7e8743c0800000000000000
+      internalID: -4375371853898867763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4973
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1528f503f255810800000000000000
+      internalID: 1753359514737988013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4975
+        width: 59
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560a9598217fc8700800000000000000
+      internalID: 544081313990811749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5051
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8f1847cd1f6f9f0800000000000000
+      internalID: -434894384844900131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5030
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd99f8e74086fe0800000000000000
+      internalID: -1195700759445251004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5008
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c85e48df00f0db40800000000000000
+      internalID: 5463130298844600515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4989
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe47d2f0cb422db0800000000000000
+      internalID: -4818205359253008651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4966
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b00ae4b223c1450800000000000000
+      internalID: 6060774360117938981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4944
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dbe040bea64f5e0800000000000000
+      internalID: -1876757587088720636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4864
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4bbcf64b6618e40800000000000000
+      internalID: 5656915532109821154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4825
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0933897df2858330800000000000000
+      internalID: 3712517493013821708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4826
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d7ef87fea27b60800000000000000
+      internalID: 7742443087697794501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4818
+        width: 46
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf141687c1b3ea30800000000000000
+      internalID: 4243430744419213243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 4813
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7f9cbbace7bc180800000000000000
+      internalID: -9094035613345515560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4923
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb5c395f1c12a4d0800000000000000
+      internalID: -3124904270475011073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4900
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e197693dae8900800000000000000
+      internalID: 688678255096620059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4870
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa2547e11dd115d0800000000000000
+      internalID: -3093448400062567763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4683
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda70d004eab87b80800000000000000
+      internalID: -8396756016803317027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4680
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15928280847b5a70800000000000000
+      internalID: 8816768790802109727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 4682
+        width: 47
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce3e727a3f186e0800000000000000
+      internalID: -1836919273736114954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4676
+        width: 54
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75682cbe5cad0c970800000000000000
+      internalID: 8773252617716532823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 4674
+        width: 55
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e93a86e859fdcb0800000000000000
+      internalID: -4836983035899175384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4542
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc373d47adca2ff0800000000000000
+      internalID: -60009526577382154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4557
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a135fd4eb8f475b0800000000000000
+      internalID: -5371394959310769754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4541
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247458d89125ec70800000000000000
+      internalID: 8999636370717963305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4575
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3cc4c44b2cc3a00800000000000000
+      internalID: 737678518611919842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4559
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba823450b16915b0800000000000000
+      internalID: -5397175268472091980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4424
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b331f25ce58f60800000000000000
+      internalID: 8036088951090689704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4424
+        width: 120
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6892af32e17a0ba0800000000000000
+      internalID: -6121955526912599954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 4407
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366af9a5fc88d8510800000000000000
+      internalID: 1553047870672709219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4408
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b0bae85aaab96c0800000000000000
+      internalID: -4135524204769768692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4274
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacfc534186cddf60800000000000000
+      internalID: 8060817166546304171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4273
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a3feec590d86ee0800000000000000
+      internalID: -1267533953264305662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4270
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58b849db7c1851b0800000000000000
+      internalID: -5667748812793792422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 4271
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96a07d307ce0130800000000000000
+      internalID: 3534981576839031203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4144
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b320c169f077ef4c0800000000000000
+      internalID: -4251830089364536773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4132
+        width: 74
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a730a19566814f5b0800000000000000
+      internalID: -5335612830666587270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4135
+        width: 68
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d68a2470d97c140800000000000000
+      internalID: 4739929787339402630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 4136
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09139adaff9244380800000000000000
+      internalID: -8988012778217721456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4005
+        width: 132
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d5fbd6c61518b0800000000000000
+      internalID: -5182210752870230559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4001
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e1255e3c2870150800000000000000
+      internalID: 5838779219786735164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3999
+        width: 63
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e160bab28dc7cf000800000000000000
+      internalID: 71068962018493982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3873
+        width: 50
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef74dadb027ecac0800000000000000
+      internalID: -3833000837604147227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3874
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1ec99c300a99b70800000000000000
+      internalID: 8906325676229714377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3874
+        width: 66
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b3e9dee084618e0800000000000000
+      internalID: -1723110578469323937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3879
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df25970356ff45660800000000000000
+      internalID: 7373799299982381821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3766
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5054e9256bcb9a0800000000000000
+      internalID: -6215892919719230013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3768
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d13c16b85f09520800000000000000
+      internalID: 2706933355039104270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3759
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5e4454758b2a90800000000000000
+      internalID: -7337624433192969654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3748
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14caaee1f53c38f00800000000000000
+      internalID: 1117951945826020417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3726
+        width: 71
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3745c06a7e345c0800000000000000
+      internalID: -4232284524440685649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3651
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99fad8a84e14e60800000000000000
+      internalID: 7944882501391980982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3656
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08adc2be0f4f28d40800000000000000
+      internalID: 5585295803467750016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3646
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04efcb2fa44079b50800000000000000
+      internalID: 6599748498881314368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3630
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3424c1b84859be2f0800000000000000
+      internalID: -942495300501880253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3637
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eb90c148eef5080800000000000000
+      internalID: -9196369662893769179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3548
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08538ad481ab31480800000000000000
+      internalID: -8929589022600710784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3544
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9dc820fd237e500800000000000000
+      internalID: 425364623211682291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3523
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a1980ad41583000800000000000000
+      internalID: 15851992543468151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3524
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31464b61b53aec410800000000000000
+      internalID: 1499315337579226131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3412
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f129ed21af8e5c0800000000000000
+      internalID: -4185820894690402529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3418
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4352db58a551e850800000000000000
+      internalID: 6404494326680933194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3412
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba73052a098f2b0800000000000000
+      internalID: -5550527513929209021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3411
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43fa37f17bddc880800000000000000
+      internalID: -8588967631800044724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3305
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103e719f79d8acc40800000000000000
+      internalID: 5533390776036745985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3287
+        width: 134
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2549007836cf60800000000000000
+      internalID: 8054187037441731936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3270
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85606bf2389033fe0800000000000000
+      internalID: -1210613415786707368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3273
+        width: 66
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e930f9890e494aad0800000000000000
+      internalID: -2691862984906570850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3146
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4288b17d4e4ebfdd0800000000000000
+      internalID: -2451113900660520924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3142
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77858e7cb7aa3eb0800000000000000
+      internalID: -4739291229835655299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3130
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb658f4230065c40800000000000000
+      internalID: 5500584210962148289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3129
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba19a7e7ae670b400800000000000000
+      internalID: 337900721569173931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2965
+        width: 72
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2eebe0bb61d19d0800000000000000
+      internalID: -2802058400492494156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2964
+        width: 81
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c33fdff9c206f2e0800000000000000
+      internalID: -2092481910262516794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2992
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db71f78107f5d2b0800000000000000
+      internalID: -5560266578971231278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2987
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fffd97a6b6cd9ac0800000000000000
+      internalID: -3846700018906038279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3069
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28cf588d50f0a090800000000000000
+      internalID: -8025150251463620563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3017
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf117bc73be5d20800000000000000
+      internalID: 3269247727746284617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2845
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ce9acff286bad0800000000000000
+      internalID: -2686816092552247311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2841
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfb2daa562da3760800000000000000
+      internalID: 7438489068655263677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2837
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b87e9798970f3d0800000000000000
+      internalID: -3174904105933501624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2835
+        width: 71
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc425191129cc9470800000000000000
+      internalID: 8402812148758422733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2846
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fdfd111890ecdc0800000000000000
+      internalID: -3616943000776614018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2684
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c0e4894ae08fe0800000000000000
+      internalID: -1188692700142976244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2761
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14d3253a82bcde70800000000000000
+      internalID: 9141377650322035738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2696
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25709c71ffc51b2a0800000000000000
+      internalID: -6723490518001973422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2537
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574dce84c5e54e10800000000000000
+      internalID: 2181402226903041884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2533
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3e6b4250a89ec00800000000000000
+      internalID: 930426552724153331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2536
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32d80b8e28aae70800000000000000
+      internalID: 9127251530725794737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2400
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12989092589a0e580800000000000000
+      internalID: -8799847282497713887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2409
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba251b9a9bdb8e20800000000000000
+      internalID: 3354015804580768439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2408
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707a569a8a45700f0800000000000000
+      internalID: -1150858096396622073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2422
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51102dbfe15133880800000000000000
+      internalID: -8632532837921062635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2288
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9c737abb6764c20800000000000000
+      internalID: 3190367934374988249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2336
+        width: 114
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01417498aa64b00b0800000000000000
+      internalID: -5761433600028896240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2351
+        width: 120
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14053c71be977ae0800000000000000
+      internalID: -1551597061475597285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2137
+        width: 71
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dfbb3fb770a7e20800000000000000
+      internalID: 3348997501854940566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2142
+        width: 71
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbbbf0fd3ca193d0800000000000000
+      internalID: -3201588478047700036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2153
+        width: 68
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74f4e5fe37986a0800000000000000
+      internalID: -6446493919687522335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2156
+        width: 68
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb661773227b6b90800000000000000
+      internalID: -7247573678675301404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1980
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeff94eafccc9900800000000000000
+      internalID: 692653820657794798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1983
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2727e017f5ad9d0800000000000000
+      internalID: -2748779683377941795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1980
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4f37cae593db00800000000000000
+      internalID: 852189590100856197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2050
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d680cfb32b5f813e0800000000000000
+      internalID: -2082644681799497619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1904
+        width: 192
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63fb016b3d88b470800000000000000
+      internalID: 8410627590285161327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1904
+        width: 192
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc668b9c6c1cfa0800000000000000
+      internalID: -5782121876882535419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1772
+        width: 192
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a458dc05e6fac6690800000000000000
+      internalID: -7607512782198700726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1766
+        width: 192
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389592b74bf4713c0800000000000000
+      internalID: -4388951675270243965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1602
+        width: 192
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a23702ffb10bf40800000000000000
+      internalID: 5742120307472411148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1602
+        width: 192
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59dd52725b681410800000000000000
+      internalID: 1448025282049857884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1464
+        width: 192
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4871ebef04d1e7ef0800000000000000
+      internalID: -108617176021330044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1464
+        width: 192
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6df8bf7df8a2310800000000000000
+      internalID: 1381074393543726812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1325
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f505db06933f89840800000000000000
+      internalID: 5231198394952536159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1318
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffed916c9b2966b30800000000000000
+      internalID: 4280269822452424447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1321
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e151afdf1f85c29b0800000000000000
+      internalID: -5103606481346226914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1193
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7712eada20160780800000000000000
+      internalID: -8717262252482095236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1192
+        width: 120
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cb95e5ee7408cb0800000000000000
+      internalID: -4863808508449407844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1193
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e3e7394e2de5e20800000000000000
+      internalID: 3341339852724387428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1215
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00feb795b8eaf470800000000000000
+      internalID: 8429305519209902091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1192
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b0ab0001587b40800000000000000
+      internalID: 5438185610686805792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1212
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180926607edfba2f0800000000000000
+      internalID: -960394926827073407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1087
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553343ce41da80b70800000000000000
+      internalID: 8865526171852616533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1079
+        width: 91
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44033aee6f0815b80800000000000000
+      internalID: -8407797231270023100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1079
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a11a822572286a0800000000000000
+      internalID: -6448548482618680737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1080
+        width: 135
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de98ef433a5695da0800000000000000
+      internalID: -5955617280577598995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 966
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0930f417fea642d0800000000000000
+      internalID: -3294753701143496435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 924
+        width: 83
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4e6e789f61ca5c0800000000000000
+      internalID: -4202959091260791571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 911
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc1e10a5124d0350800000000000000
+      internalID: 5984512140493331633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 914
+        width: 83
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89526561f485f7f40800000000000000
+      internalID: 5728394347738965400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 996
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd995e78a98ee40800000000000000
+      internalID: 5685964438018580456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 918
+        width: 83
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5acf526b6255070800000000000000
+      internalID: 8094418469031552421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 808
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a12d10936a43a70800000000000000
+      internalID: 8805845935190055452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 808
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94959f96e4db9f0800000000000000
+      internalID: -451118170605270547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 808
+        width: 145
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b956a9e8d104b0800000000000000
+      internalID: -5475857173875935959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 810
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae97b54eb53c1da20800000000000000
+      internalID: 3085462019166140906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 622
+        width: 219
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8961dab8bccc95000800000000000000
+      internalID: 25276447521052312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 622
+        width: 214
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b0de31cbca46050800000000000000
+      internalID: 5792944944493431566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_139
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 465
+        width: 214
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4523b997dd6c0c7d0800000000000000
+      internalID: -2900099505496313260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 434
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13983f1072646340800000000000000
+      internalID: 4856114531911897884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 411
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fce942c24d081c30800000000000000
+      internalID: 4330225622095359217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 216
+        width: 219
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211287c525dae560800000000000000
+      internalID: 7343916500618711338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 216
+        width: 214
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425b78be278cbe930800000000000000
+      internalID: 4173649875592262948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mufasa_Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 59
+        width: 214
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260b297466ae512a0800000000000000
+      internalID: -6767245140045942686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mufasa_Sprites_90: 9127251530725794737
+      mufasa_Sprites_102: 692653820657794798
+      mufasa_Sprites_15: -9094035613345515560
+      mufasa_Sprites_1: -2623356651815065409
+      mufasa_Sprites_60: 15851992543468151
+      mufasa_Sprites_100: -6446493919687522335
+      mufasa_Sprites_39: 4739929787339402630
+      mufasa_Sprites_26: 8999636370717963305
+      mufasa_Sprites_34: -1267533953264305662
+      mufasa_Sprites_32: -4135524204769768692
+      mufasa_Sprites_51: 1117951945826020417
+      mufasa_Sprites_142: 7343916500618711338
+      mufasa_Sprites_140: 4856114531911897884
+      mufasa_Sprites_119: 3341339852724387428
+      mufasa_Sprites_21: -1836919273736114954
+      mufasa_Sprites_54: 5585295803467750016
+      mufasa_Sprites_18: -3093448400062567763
+      mufasa_Sprites_75: -2092481910262516794
+      mufasa_Sprites_104: 852189590100856197
+      mufasa_Sprites_135: -5475857173875935959
+      mufasa_Sprites_6: -1195700759445251004
+      mufasa_Sprites_41: -5182210752870230559
+      mufasa_Sprites_61: 1499315337579226131
+      mufasa_Sprites_74: -2802058400492494156
+      mufasa_Sprites_128: -4202959091260791571
+      mufasa_Sprites_59: 425364623211682291
+      mufasa_Sprites_105: -2082644681799497619
+      mufasa_Sprites_68: -1210613415786707368
+      mufasa_Sprites_4: 544081313990811749
+      mufasa_Sprites_81: 7438489068655263677
+      mufasa_Sprites_70: -2451113900660520924
+      mufasa_Sprites_42: 5838779219786735164
+      mufasa_Sprites_47: 7373799299982381821
+      mufasa_Sprites_95: 3190367934374988249
+      mufasa_Sprites_111: 1448025282049857884
+      mufasa_Sprites_69: -2691862984906570850
+      mufasa_Sprites_0: -4244363073507417858
+      mufasa_Sprites_9: 6060774360117938981
+      mufasa_Sprites_94: -8632532837921062635
+      mufasa_Sprites_53: 7944882501391980982
+      mufasa_Sprites_118: -4863808508449407844
+      mufasa_Sprites_62: -4185820894690402529
+      mufasa_Sprites_108: -7607512782198700726
+      mufasa_Sprites_10: -1876757587088720636
+      mufasa_Sprites_31: 1553047870672709219
+      mufasa_Sprites_65: -8588967631800044724
+      mufasa_Sprites_78: -8025150251463620563
+      mufasa_Sprites_133: 8805845935190055452
+      mufasa_Sprites_136: 3085462019166140906
+      mufasa_Sprites_20: 8816768790802109727
+      mufasa_Sprites_92: 3354015804580768439
+      mufasa_Sprites_97: -1551597061475597285
+      mufasa_Sprites_72: 5500584210962148289
+      mufasa_Sprites_116: -5103606481346226914
+      mufasa_Sprites_141: 4330225622095359217
+      mufasa_Sprites_109: -4388951675270243965
+      mufasa_Sprites_107: -5782121876882535419
+      mufasa_Sprites_101: -7247573678675301404
+      mufasa_Sprites_55: 6599748498881314368
+      mufasa_Sprites_2: -4375371853898867763
+      mufasa_Sprites_14: 4243430744419213243
+      mufasa_Sprites_24: -60009526577382154
+      mufasa_Sprites_85: -1188692700142976244
+      mufasa_Sprites_17: 688678255096620059
+      mufasa_Sprites_129: 5984512140493331633
+      mufasa_Sprites_117: -8717262252482095236
+      mufasa_Sprites_57: -9196369662893769179
+      mufasa_Sprites_67: 8054187037441731936
+      mufasa_Sprites_82: -3174904105933501624
+      mufasa_Sprites_12: 3712517493013821708
+      mufasa_Sprites_46: -1723110578469323937
+      mufasa_Sprites_64: -5550527513929209021
+      mufasa_Sprites_124: -8407797231270023100
+      mufasa_Sprites_43: 71068962018493982
+      mufasa_Sprites_48: -6215892919719230013
+      mufasa_Sprites_93: -1150858096396622073
+      mufasa_Sprites_71: -4739291229835655299
+      mufasa_Sprites_143: 4173649875592262948
+      mufasa_Sprites_29: 8036088951090689704
+      mufasa_Sprites_35: -5667748812793792422
+      mufasa_Sprites_123: 8865526171852616533
+      mufasa_Sprites_28: -5397175268472091980
+      mufasa_Sprites_106: 8410627590285161327
+      mufasa_Sprites_50: -7337624433192969654
+      mufasa_Sprites_73: 337900721569173931
+      mufasa_Sprites_5: -434894384844900131
+      mufasa_Sprites_84: -3616943000776614018
+      mufasa_Sprites_56: -942495300501880253
+      mufasa_Sprites_19: -8396756016803317027
+      mufasa_Sprites_37: -4251830089364536773
+      mufasa_Sprites_3: 1753359514737988013
+      mufasa_Sprites_76: -5560266578971231278
+      mufasa_Sprites_79: 3269247727746284617
+      mufasa_Sprites_52: -4232284524440685649
+      mufasa_Sprites_23: -4836983035899175384
+      mufasa_Sprites_137: 25276447521052312
+      mufasa_Sprites_8: -4818205359253008651
+      mufasa_Sprites_99: -3201588478047700036
+      mufasa_Sprites_120: 8429305519209902091
+      mufasa_Sprites_88: 2181402226903041884
+      mufasa_Sprites_87: -6723490518001973422
+      mufasa_Sprites_22: 8773252617716532823
+      mufasa_Sprites_130: 5728394347738965400
+      mufasa_Sprites_134: -451118170605270547
+      mufasa_Sprites_114: 5231198394952536159
+      mufasa_Sprites_113: 1381074393543726812
+      mufasa_Sprites_7: 5463130298844600515
+      mufasa_Sprites_25: -5371394959310769754
+      mufasa_Sprites_144: -6767245140045942686
+      mufasa_Sprites_83: 8402812148758422733
+      mufasa_Sprites_112: -108617176021330044
+      mufasa_Sprites_98: 3348997501854940566
+      mufasa_Sprites_91: -8799847282497713887
+      mufasa_Sprites_125: -6448548482618680737
+      mufasa_Sprites_77: -3846700018906038279
+      mufasa_Sprites_80: -2686816092552247311
+      mufasa_Sprites_89: 930426552724153331
+      mufasa_Sprites_66: 5533390776036745985
+      mufasa_Sprites_139: -2900099505496313260
+      mufasa_Sprites_103: -2748779683377941795
+      mufasa_Sprites_132: 8094418469031552421
+      mufasa_Sprites_11: 5656915532109821154
+      mufasa_Sprites_122: -960394926827073407
+      mufasa_Sprites_63: 6404494326680933194
+      mufasa_Sprites_131: 5685964438018580456
+      mufasa_Sprites_36: 3534981576839031203
+      mufasa_Sprites_38: -5335612830666587270
+      mufasa_Sprites_96: -5761433600028896240
+      mufasa_Sprites_45: 8906325676229714377
+      mufasa_Sprites_58: -8929589022600710784
+      mufasa_Sprites_127: -3294753701143496435
+      mufasa_Sprites_115: 4280269822452424447
+      mufasa_Sprites_44: -3833000837604147227
+      mufasa_Sprites_49: 2706933355039104270
+      mufasa_Sprites_121: 5438185610686805792
+      mufasa_Sprites_126: -5955617280577598995
+      mufasa_Sprites_16: -3124904270475011073
+      mufasa_Sprites_27: 737678518611919842
+      mufasa_Sprites_30: -6121955526912599954
+      mufasa_Sprites_13: 7742443087697794501
+      mufasa_Sprites_33: 8060817166546304171
+      mufasa_Sprites_40: -8988012778217721456
+      mufasa_Sprites_86: 9141377650322035738
+      mufasa_Sprites_110: 5742120307472411148
+      mufasa_Sprites_138: 5792944944493431566
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

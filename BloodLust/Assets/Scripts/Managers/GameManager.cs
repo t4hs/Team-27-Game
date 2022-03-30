@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public static GameManager instance;
     private event Action<GameState> GameStateChange;
     [SerializeField] private GameUIManager gameUIManager;
-    PhotonView PV;
+    [SerializeField] private DamageHandler damageHandler;
     public void Awake()
     {
         if(instance == null)
@@ -27,7 +27,6 @@ public class GameManager : MonoBehaviourPunCallbacks
         }
         GameStateChange+=OnGameStateChange;
         DontDestroyOnLoad(transform.gameObject);
-        PV = GetComponent<PhotonView>();
     }
 
     void OnDestroy()
@@ -38,20 +37,6 @@ public class GameManager : MonoBehaviourPunCallbacks
     void Start()
     {
         ChangeState(GameState.GameStart);
-    }
-
-    void Update()
-    {
-        //if(PlayerManager.instance.bothPlayersHaveSelected)
-        {
-            ChangeState(GameState.Comparison);
-        }
-    }
-
-    
-    public void TogglePlayerCards(bool value)
-    {
-        
     }
 
 private void OnGameStateChange(GameState state)
@@ -68,8 +53,13 @@ private void OnGameStateChange(GameState state)
                 HandlePlayer2Turn();
                 break;
             case GameState.Comparison:
+                HandleComparison(damageHandler);
                 break;
-            case GameState.GameEnded:
+            case GameState.Player1Win:
+                Player1Win();
+                break;
+            case GameState.Player2Win:
+                Player2Win();
                 break;
             default:
                 throw new ArgumentOutOfRangeException(nameof(state), state, null);
@@ -77,30 +67,21 @@ private void OnGameStateChange(GameState state)
     }
 
 
-public void ChangeState(GameState state)
-{
-    GameStateChange(state);
-}
-
-public void OnSelectedCard(int index)
+    public void ChangeState(GameState state)
     {
-        TogglePlayerCards(false);
+        GameStateChange(state);
     }
 
-public void HandleGameStart()
-{
-    //set up relevant cards and spawn the player characters
-    PlayerManager.instance.SpawnPlayers();
-    ChangeState(GameState.Player1Turn); 
-}
+    public void HandleGameStart()
+    {
+        //set up relevant cards and spawn the player characters
+        PlayerManager.instance.SpawnPlayers();
+        ChangeState(GameState.Player1Turn); 
+    }
 
     private void HandlePlayer1Turn()
     {
-        Debug.Log("Handling player 1 turn");
-        if(PhotonNetwork.IsMasterClient && PV.IsMine)
-        {
-            PV.RPC(nameof(RPC_DisableCards), RpcTarget.Others);
-        }
+        PlayerManager.instance.Player1Turn();
     }
 
     private void HandlePlayer2Turn()
@@ -108,45 +89,24 @@ public void HandleGameStart()
         Debug.Log("Handling player 2 Turn");
     }
 
-    [PunRPC]
-    void RPC_DisableCards()
+    //Calls the comparison function of the PlayerManager
+    private void HandleComparison(DamageHandler damageHandler)
     {
-        TogglePlayerCards(false);
+        PlayerManager.instance.Comparison(damageHandler);
     }
 
-    [PunRPC]
-
-    void RPC_Player2Turn(bool value)
+    private void Player1Win()
     {
-        TogglePlayerCards(value);
+        PlayerManager.instance.player1.showWinScreen();
+        PlayerManager.instance.LoseScreenPlayer2();
+    }
+
+    private void Player2Win()
+    {
+        PlayerManager.instance.player1.showLoseScreen();
+        PlayerManager.instance.WinScreenPlayer2();
     }
     
-    [PunRPC]
-
-    void RPC_TurnDone(Player targetPlayer)
-    {
-    }
-
-    [PunRPC]
-
-    void RPC_ComparisonState()
-    {
-        ChangeState(GameState.Comparison);
-    }
-
-    private void HandleComparison()
-    {
-        //ToDo handle comparison
-    }
-    public void ShowWinScreen()
-    {
-        //ToDo implement this function
-    }
-
-    public void ShowLooseScreen()
-    {
-        //ToDo implement this function
-    }
 }
 
 public enum GameState
@@ -155,5 +115,6 @@ public enum GameState
     Player1Turn,
     Player2Turn,
     Comparison,
-    GameEnded
+    Player1Win,
+    Player2Win
 }

@@ -47,6 +47,18 @@ MonoBehaviour:
   - RPC_DisableCards
   - RPC_ComparisonState
   - RPC_TurnDone
+  - RPC_ChangeState
+  - RPC_Player2TurnDone
+  - RPC_DisablePlayer2Cards
+  - RPC_Turn2State
+  - RPC_Turn2Done
+  - RPC_Comparison
+  - RPC_Player2Heal
+  - RPC_Player2TakeDamage
+  - RPC_CheckDeath
+  - RPC_Player2Lose
+  - RPC_Player2Win
+  - RPC_RestartTurns
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1

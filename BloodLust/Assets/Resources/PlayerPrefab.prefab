@@ -54,12 +54,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterSpawns:
-  - {fileID: 3043803995435382, guid: a01b29d98018c71429e9f6af83f48a51, type: 3}
-  - {fileID: 4770443386104335017, guid: d59248fd35b9da440ab38903932f8b85, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  bars: {fileID: 0}
   playerId: 1
-  character: {fileID: 11400000, guid: d7a030305eab5454eba3db443f4170d9, type: 2}
-  playerName: a
-  characterName: Alkid
+  character: {fileID: 11400000, guid: 7ab08071463b1bf4fbd4eaca8df372c7, type: 2}
+  playerName: dorian
+  characterName: Bane
 --- !u!222 &7067864158951475042
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -101,7 +102,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: a
+  m_Text: dorian
 --- !u!114 &2113054830476002865
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137,3 +138,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hand: []
+  selectedCard: {fileID: 0}
+  hasSelected: 0
+  testCard: {fileID: 0}
