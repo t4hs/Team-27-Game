@@ -101,16 +101,22 @@ private void OnGameStateChange(GameState state)
     {
         PlayerManager.instance.player1.showWinScreen();
         PlayerManager.instance.LoseScreenPlayer2();
+        DBManager.score = 3;
+        Debug.Log(DBManager.score);
+
     }
 
     private void Player2Win()
     {
         PlayerManager.instance.player1.showLoseScreen();
         PlayerManager.instance.WinScreenPlayer2();
+        DBManager.score = -3;
+        Debug.Log(DBManager.score);
     }
 
     public void returnToMenu()
     {
+        PhotonNetwork.Disconnect();
         SceneManager.LoadScene("Menu");
     }
 
