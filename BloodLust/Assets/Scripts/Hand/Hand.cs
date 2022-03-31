@@ -27,8 +27,8 @@ public class Hand : MonoBehaviour
     public event Action<List<GameObject>> updateCardPositions;
     private void Start() {
         //Comment This
-        generateCardsTest(7);
-        StartCoroutine(test());
+        //generateCardsTest(7);
+        //StartCoroutine(test());
     }
     
     //Call this to add Amount cards the Player's hand
@@ -63,8 +63,8 @@ public class Hand : MonoBehaviour
         
     //Use this to add a card to a Player's hand
     public void addCard() {
-        baseCard = Instantiate(testCard, transform);
-        hand.Add(testCard);
+        baseCard = Instantiate(baseCard, transform);
+        hand.Add(baseCard);
         baseCard.GetComponent<Card>().setInvisibleCard();
         baseCard.GetComponent<cardPositioner>().setSpawn();
         baseCard.GetComponent<Card>().generateCard();

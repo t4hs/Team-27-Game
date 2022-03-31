@@ -173,7 +173,6 @@ MonoBehaviour:
   type: 
   damage: 0
   isSelected: 0
-  damageText: {fileID: 0}
   typeText: {fileID: 3134777630727364325}
   icon: {fileID: 3180454196454501272}
   iconsList: []
@@ -201,7 +200,7 @@ CanvasGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3134777629180120161}
   m_Enabled: 1
-  m_Alpha: 1
+  m_Alpha: 0.4
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 1

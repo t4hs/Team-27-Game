@@ -12,8 +12,8 @@ public class Character : ScriptableObject
     [SerializeField] private GameObject cardPrefab = default;
     [SerializeField] private GameObject characterGridPrefab = default;
     [SerializeField] private Sprite characterSprite = default;
-    [SerializeField] private const int MAX_HEALTH = default;
-    [SerializeField] private const int MAX_ENERGY = default;
+    [SerializeField] private int MAX_HEALTH = default;
+    [SerializeField] private int MAX_ENERGY = default;
     public string CharacterName => characterName;
     public int health;
     public int energy;
@@ -33,6 +33,11 @@ public class Character : ScriptableObject
         health-=amount;
         CharacterInfo.instance.UpdateHealthInfo(health);
         return health <= 0; 
+    }
+
+    public void InitHealth()
+    {
+        health = MAX_HEALTH;
     }
 
     public int getMaxEnergy()
