@@ -34,7 +34,10 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
     // Instantiate all the characters prefabs
         void Start()
         {
-
+        foreach(Character character in characters)
+        {
+            character.InitHealth();
+        }
         characterUIManager.ToggleButtons(PlayerReadyButton, false);
 
             if(PhotonNetwork.IsConnected)

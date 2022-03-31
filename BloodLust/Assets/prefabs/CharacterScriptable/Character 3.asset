@@ -17,5 +17,7 @@ MonoBehaviour:
   cardPrefab: {fileID: 3836387650433599947, guid: c5daaf32cd3ad3843b72e0397d26c92f, type: 3}
   characterGridPrefab: {fileID: 4794273996493828022, guid: bd0f70e8a54ee1040a8ce8448a4ca210, type: 3}
   characterSprite: {fileID: 6886898786043189831, guid: f2a073d8a0dfa4a9096c2a575bfb00e1, type: 3}
+  MAX_HEALTH: 1000
+  MAX_ENERGY: 0
   health: 510
   energy: 0
