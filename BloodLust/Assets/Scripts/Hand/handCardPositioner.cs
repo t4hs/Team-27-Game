@@ -8,11 +8,11 @@ public class handCardPositioner : MonoBehaviour
 {
     [Header("Variables For Adjusting Cards Positioning")]
     //Fields for postitioning Cards
-    public float maxAngle;
-    public float spacing;
+    public float maxAngle = 30;
+    public float spacing = 220;
     public float xOffset;
-    public float yOffset;
-    public float Height;
+    public float yOffset = 150;
+    public float Height = 5;
 
     [Header("Variables For Adjusting Speeds")]
     public float animSpeed;
