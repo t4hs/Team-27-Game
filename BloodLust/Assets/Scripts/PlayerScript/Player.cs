@@ -7,7 +7,10 @@ using Photon.Realtime;
 public class Player: MonoBehaviourPunCallbacks{
     [Header("Set Before Runtime")] 
     public Transform[] characterSpawns;
-    public PlayerBars bars;
+    //public PlayerBars bars;
+    public GameObject player1Hp;
+    public GameObject player2Hp;
+    
     private Hand hand;
 
     [Header("Networking Information")]
@@ -31,10 +34,15 @@ public class Player: MonoBehaviourPunCallbacks{
         hand.baseCard = ChosenCharacter.CardPrefab;
         hand.generateCards(startCardAmount);
         //Initialises Player Bars
-        
+        player1Hp = PlayerInfo.instance.healthBar1;
+        player2Hp = PlayerInfo.instance.healthBar2;
         //instantiates Characters
         playerPref = PhotonNetwork.Instantiate(characterPref.name,characterSpawns[spawnIndex].position,
                 characterSpawns[spawnIndex].rotation,0);
+    }
+
+    public void dealDamage(int amount, int player) {
+        
     }
     
     //Assign character to players

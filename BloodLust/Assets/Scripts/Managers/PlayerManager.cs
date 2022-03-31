@@ -84,7 +84,10 @@ public class PlayerManager : MonoBehaviourPunCallbacks
             selectedCardTypes.Clear();
             damages.Clear();
         }
-        player1.GetHand().Activate();
+        if(player1!=null)
+        {
+            player1.GetHand().Activate();
+        }
         if(PV.IsMine && PhotonNetwork.IsMasterClient)
         {
             PV.RPC(nameof(RPC_DisablePlayer2Cards), RpcTarget.Others);
@@ -214,6 +217,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
 
     void RPC_Player2TakeDamage(int amount)
     {
+    
        bool isDead = player2.ChosenCharacter.TakeDamage(amount);
        PV.RPC(nameof(RPC_CheckDeath), RpcTarget.MasterClient, isDead);
     }
@@ -223,6 +227,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     void RPC_Player2Heal(int amount)
     {
         player2.ChosenCharacter.Heal(amount);
+        PV.RPC(nameof(RPC_CheckDeath), RpcTarget.MasterClient, false);
     }
 
     [PunRPC]

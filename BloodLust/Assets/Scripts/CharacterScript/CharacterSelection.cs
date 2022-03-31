@@ -85,10 +85,6 @@ public class CharacterSelection : MonoBehaviourPunCallbacks
             }
             characterInstances[currentCharacter].SetActive(true);
             characterName.text = characters[currentCharacter].CharacterName;
-            foreach(Character character in characters)
-            {
-                SpawnCharacterCell(character);
-            }
         }
 
     public void SpawnCharacterCell(Character character)

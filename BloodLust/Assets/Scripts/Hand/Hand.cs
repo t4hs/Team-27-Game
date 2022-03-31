@@ -48,7 +48,7 @@ public class Hand : MonoBehaviour
         foreach(GameObject card in hand)
         {
             card.GetComponent<Card>().disableCard();
-            card.GetComponent<Card>().setCardc-=setCard;
+            //card.GetComponent<Card>().setCardc-=setCard;
         }
     }
 
@@ -57,7 +57,7 @@ public class Hand : MonoBehaviour
         foreach(GameObject card in hand)
         {
             card.GetComponent<Card>().enableCard();
-            card.GetComponent<Card>().setCardc+=setCard;
+            //card.GetComponent<Card>().setCardc+=setCard;
         }
     }
         
@@ -91,11 +91,11 @@ public class Hand : MonoBehaviour
         selectedCard = card;
         foreach (GameObject c in hand)
         {
-            c.GetComponent<Card>().setCardc-=setCard;
             c.GetComponent<Card>().disableCard();
         }
         selectedCard.GetComponent<Card>().enableCard();
         PlayerManager.instance.SendData(selectedCard);
+        selectedCard.GetComponent<Card>().generateCard();
     }
 
     //For Testing

@@ -33,7 +33,7 @@ public class Card : MonoBehaviour, IPointerClickHandler
    public void generateCard()
    {
     damage = UnityEngine.Random.Range(50, 150);
-    int rndType = UnityEngine.Random.Range(0, 4);
+    int rndType = UnityEngine.Random.Range(0, 5);
 
     switch (rndType) {
         case 0:
@@ -69,6 +69,7 @@ public class Card : MonoBehaviour, IPointerClickHandler
        isSelected = false;
        //selected.text = "I'm Not Selected";
        GetComponent<CanvasGroup>().alpha = 0.4f;
+       GetComponent<CanvasGroup>().blocksRaycasts = false;
    }
 //Allows the Card To be Usable Again
    public void enableCard()
@@ -76,6 +77,7 @@ public class Card : MonoBehaviour, IPointerClickHandler
        isSelected = true;
        //selected.text = "I'm Selected";
        GetComponent<CanvasGroup>().alpha = 1f;
+       GetComponent<CanvasGroup>().blocksRaycasts = true;
    }
    //Used When Drawing a Card
    public void setInvisibleCard() {

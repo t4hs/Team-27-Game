@@ -123,12 +123,12 @@ public class DamageHandler : MonoBehaviour
        else if(type1.Equals("heal") && type2.Equals("counter"))
         {
             amount = -1;
-            playernum = 2;
+            playernum = 1;
         }
         else if (type1.Equals("counter") && type2.Equals("dodge"))
         {
             amount = 50;
-            playernum = 1;
+            playernum = 2;
         }
         else if(type1.Equals("dodge") && type2.Equals("counter"))
         {
@@ -148,6 +148,7 @@ public class DamageHandler : MonoBehaviour
         returnArray = new int[2];
         returnArray[0] = amount;
         returnArray[1] = playernum;
+        Debug.Log(returnArray[0]);
         return returnArray;
     }
     
