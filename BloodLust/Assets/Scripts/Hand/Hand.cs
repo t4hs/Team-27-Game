@@ -26,8 +26,9 @@ public class Hand : MonoBehaviour
 
     public event Action<List<GameObject>> updateCardPositions;
     private void Start() {
-        //generateCardsTest(7);
-        //StartCoroutine(test());
+        //Comment This
+        generateCardsTest(7);
+        StartCoroutine(test());
     }
     
     //Call this to add Amount cards the Player's hand
@@ -62,8 +63,8 @@ public class Hand : MonoBehaviour
         
     //Use this to add a card to a Player's hand
     public void addCard() {
-        baseCard = Instantiate(baseCard, transform);
-        hand.Add(baseCard);
+        baseCard = Instantiate(testCard, transform);
+        hand.Add(testCard);
         baseCard.GetComponent<Card>().setInvisibleCard();
         baseCard.GetComponent<cardPositioner>().setSpawn();
         baseCard.GetComponent<Card>().generateCard();
@@ -71,8 +72,6 @@ public class Hand : MonoBehaviour
         
         updateCardPositions?.Invoke(hand);
     }
-    
-
     
     //Use this to remove a certain card from the Player's Hand
     public void removeCard(GameObject card) {
@@ -114,11 +113,11 @@ public class Hand : MonoBehaviour
     IEnumerator test() {
         yield return new WaitForSeconds(3f);
         Debug.Log("Fat Idiot 1");
-        removeCard(hand.ElementAt(1));
+        addCard();
         //addCard();
         yield return new WaitForSeconds(3f);
-        removeCard(hand.ElementAt(2));
+        addCard();
         yield return new WaitForSeconds(2f);
-        removeCard(hand.ElementAt(2));
+        //removeCard(hand.ElementAt(2));
     }
 }
