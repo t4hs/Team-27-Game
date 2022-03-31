@@ -9,7 +9,7 @@ public class PlayerBars : MonoBehaviour
     public GameObject healthBar2;
     public GameObject energyBar2;
     
-    public void innit(bool isLocal) {
+    public void innit() {
         healthBar1 = PlayerInfo.instance.healthBar1;
         energyBar1 = PlayerInfo.instance.energyBar1;
         healthBar1 = PlayerInfo.instance.healthBar2;
