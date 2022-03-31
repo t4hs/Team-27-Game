@@ -227,6 +227,7 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     void RPC_Player2Heal(int amount)
     {
         player2.ChosenCharacter.Heal(amount);
+        PV.RPC(nameof(RPC_CheckDeath), RpcTarget.MasterClient, false);
     }
 
     [PunRPC]
