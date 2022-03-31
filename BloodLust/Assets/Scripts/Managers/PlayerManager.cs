@@ -259,6 +259,8 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     void RPC_Player2Win()
     {
         player2.showWinScreen();
+        DBManager.score = 3;
+        Debug.Log(DBManager.score);
     }
 
     [PunRPC]
@@ -266,6 +268,8 @@ public class PlayerManager : MonoBehaviourPunCallbacks
     void RPC_Player2Lose()
     {
         player2.showLoseScreen();
+        DBManager.score = -3;
+        Debug.Log(DBManager.score);
     }
 
     //--------------FUNCTIONS CALLED IN CHARACTER SELECTION ---------------------------------------------------------------
