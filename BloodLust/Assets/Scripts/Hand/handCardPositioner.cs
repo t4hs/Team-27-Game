@@ -16,8 +16,12 @@ public class handCardPositioner : MonoBehaviour
 
     [Header("Variables For Adjusting Speeds")]
     public float animSpeed;
-    private void Start() {
+
+    private void Awake() {
         GetComponent<Hand>().updateCardPositions += bendCards;
+    }
+
+    private void Start() {
         Debug.Log("I Started");
     }
 
