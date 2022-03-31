@@ -33,7 +33,7 @@ public class Card : MonoBehaviour, IPointerClickHandler
    public void generateCard()
    {
     damage = UnityEngine.Random.Range(50, 150);
-    int rndType = UnityEngine.Random.Range(0, 5);
+    int rndType = UnityEngine.Random.Range(0, 4);
 
     switch (rndType) {
         case 0:
