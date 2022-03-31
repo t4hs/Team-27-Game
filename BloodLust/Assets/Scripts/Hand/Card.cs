@@ -93,7 +93,7 @@ public class Card : MonoBehaviour, IPointerClickHandler
    
    public void OnPointerClick(PointerEventData eventData)
    {
-       if(!isSelected) setCardc?.Invoke(this.gameObject);
+       setCardc?.Invoke(this.gameObject);
    }
 }
 
